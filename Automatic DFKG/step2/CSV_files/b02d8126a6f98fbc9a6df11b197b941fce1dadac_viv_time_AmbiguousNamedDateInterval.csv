@@ -1,0 +1,32 @@
+RecordId,formal,alias
+1,ForEver,forever
+2,Q1,1st qtr
+3,Q1,1st quarter
+4,Q1,first qtr
+5,Q1,first quarter
+6,Q1,q1
+7,Q2,2nd qtr
+8,Q2,2nd quarter
+9,Q2,q2
+10,Q2,second qtr
+11,Q2,second quarter
+12,Q3,3rd qtr
+13,Q3,3rd quarter
+14,Q3,q3
+15,Q3,third qtr
+16,Q3,third quarter
+17,Q4,4th qtr
+18,Q4,4th quarter
+19,Q4,fourth qtr
+20,Q4,fourth quarter
+21,Q4,q4
+22,H1,first half
+23,H1,1st half
+24,H2,second half
+25,H2,2nd half
+26,SinceEver,all time
+27,SinceEver,ever
+28,SinceEver,ever felt
+29,SinceEver,ever recorded
+30,ThisTimeOfYear,these days
+31,ThisTimeOfYear,this time of year

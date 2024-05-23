@@ -1,0 +1,4 @@
+_id,contact_id,lookup_key,icon_uri,display_name,given_names,times_contacted,score,emails,nickname,note,organization,phone_numbers,postal_address,phonetic_name
+1,1,298i1,,411 & More,411 & More,,1,,,,,411,,
+2,2,298i2,,Customer Care,Customer Care,,1,,,,,611,,
+3,3,298i3,,Voice Mail,Voice Mail,,1,,,,,+18056377243,,

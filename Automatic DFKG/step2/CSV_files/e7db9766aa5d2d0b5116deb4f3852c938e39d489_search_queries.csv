@@ -1,0 +1,6 @@
+_id,type,name,query,query_id,time,latitude,longitude,radius,location,pc,priority,user_search_suggestion,topic_search_suggestion,score
+1,2,Heather Mahalik,HeatherMahalik,475222380,1623285646831,,,,,,3,b'J\x02\x1c\x1cSQlj\x0eHeatherMahalikj\x0fHeather MahalikjLhttps://pbs.twimg.com/profile_images/1219016351714627586/Zg1Q4_IV_normal.jpg0\x110X',,2.9984408333552963
+2,0,marsha mellos,marsha mellos,2006423246,1617501323714,,,,,,3,,,0.0
+3,2,Ronen Engler,TheNewMyself,1246522656016359424,1617501343812,,,,,,3,b'J\x02\x1d\x11L\x89\xc0TT\xe0\x00j\x0cTheNewMyselfj\x0cRonen EnglerjLhttps://pbs.twimg.com/profile_images/1247353476025368576/-Giw04Ut_normal.jpg0\x110X',,8.264434319016848e-12
+4,2,Paul Scurvy,PaulScurvy,522777613,1617501354974,,,,,,3,b'J\x02\x1c\x1f(\xf4\rj\nPaulScurvyj\x0bPaul ScurvyjKhttps://pbs.twimg.com/profile_images/750499920117919744/XvuxzbFB_normal.jpg0\x110X',,8.265926242556669e-12
+5,2,Matt Goeckel,mattforensic,992125797241643008,1617501373671,,,,,,3,"b""J\x02\x1d\r\xc4\xbd'\xf5\x16\xe0\x00j\x0cmattforensicj\x0cMatt GoeckeljLhttps://pbs.twimg.com/profile_images/1350809200381861889/X3-V2wxw_normal.jpg0\x110X""",,8.267750070418584e-12

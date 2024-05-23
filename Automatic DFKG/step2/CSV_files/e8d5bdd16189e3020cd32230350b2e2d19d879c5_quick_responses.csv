@@ -1,0 +1,10 @@
+_id,body,checked
+0,Where's the meeting?,8
+1,I'll talk to you soon.,7
+2,When can we meet?,6
+3,Please call me when you get this message.,5
+4,Where are you?,4
+5,What's up?,3
+6,How's it going?,2
+7,"I'm running late, but I'll be there soon.",1
+8,"Sorry, I missed your call.",0

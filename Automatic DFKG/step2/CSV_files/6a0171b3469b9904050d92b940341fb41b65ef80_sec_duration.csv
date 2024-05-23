@@ -1,0 +1,13 @@
+_id,sec_typegroup,sec_last,sec_dial,sec_receive,sec_all,sec_simnum
+1,calldur,0,0,0,0,0
+2,calldur,0,0,0,0,1
+3,videodur,0,0,0,0,0
+4,videodur,0,0,0,0,1
+5,voipdur,0,0,0,0,0
+6,voipdur,0,0,0,0,1
+7,imscontentshareddur,0,0,0,0,0
+8,imscontentshareddur,0,0,0,0,1
+9,voltedur,248,377,263,640,0
+10,voltedur,0,0,0,0,1
+11,vowifidur,0,0,0,0,0
+12,vowifidur,0,0,0,0,1

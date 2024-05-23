@@ -1,0 +1,3 @@
+_id,sectionId,loggingKey,sectionKeyName,isLocal,useLargeTiles,verticalSectionLayout,horizontalSectionlayout,source
+66,3,for_you,StringName~Discover,0,0,1,-1,1
+67,240,SPOTLIGHT_5TH_TAB,StringResId~-1,0,0,-1,-1,5

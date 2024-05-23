@@ -1,0 +1,119 @@
+RecordId,formal,alias
+1,true,예
+2,true,응
+3,true,네
+4,true,엉
+5,true,그 래
+6,true,어
+7,true,예 껏 다 켜 주 세 요
+8,true,예 재 부 팅 해 주 세 요
+9,true,예 재 부 팅 해 줘
+10,true,예 재 부 팅
+11,true,예 예
+12,true,예 해 주 세 요
+13,true,네 껏 다 켜 주 세 요
+14,true,네 재 부 팅 해 주 세 요
+15,true,네 재 부 팅 해 줘
+16,true,네 재 부 팅
+17,true,네 네
+18,true,네 해 주 세 요
+19,true,응 껏 다 켜 줘
+20,true,응 재 부 팅 해 줘
+21,true,응 재 부 팅
+22,true,응 그 래
+23,true,응 껏 다 켜 주 세 요
+24,true,응 재 부 팅 해 줘
+25,true,응 응
+26,true,응 해 줘
+27,true,그 러 렴
+28,true,그 러 려 무 나
+29,true,그 래 껏 다 켜 주 세 요
+30,true,그 래 껏 다 켜 줘
+31,true,그 래 껏 다 켜
+32,true,그 래 재 부 팅
+33,true,그 래 그 래
+34,true,그 래 해 줘
+35,true,재 부 팅
+36,true,재 부 팅 시 켜
+37,true,재 부 팅 해 줘
+38,true,재 부 팅 해 봐
+39,true,재 부 팅 해 주 렴
+40,true,재 부 팅
+41,true,리 부 트
+42,true,리 부 팅
+43,true,리 부 팅 시 켜
+44,true,리 부 팅 해 줘
+45,true,리 부 팅 해 봐
+46,true,리 부 팅 해 주 렴
+47,true,리 스 타 트
+48,true,예 스
+49,true,오 케 이
+50,true,전 원 껏 다 켜
+51,true,전 원 껐 다 켜 줘
+52,true,전 원 껏 다 키 기
+53,true,다 시 시 작
+54,true,응 다 시 시 작
+55,true,어 다 시 시 작
+56,true,다 시 시 작 해
+57,true,어 그 래
+58,true,어 그 러 렴
+59,true,어 그 러 려 무 나
+60,true,어 그 래 줄 래
+61,true,어 껏 다 켜 줘
+62,true,어 어
+63,true,어 해 줘
+64,true,어 재 부 팅
+65,true,어 재 부 팅 해 줘
+66,true,어 재 부 팅 시 켜
+67,true,어 리 부 트
+68,true,어 리 부 트 해 줘
+69,true,어 리 부 팅
+70,true,어 리 부 팅 해 줘
+71,true,어 전 원 껏 다 켜
+72,true,어 전 원 껏 다 켜 줘
+73,true,어 리 스 타 트
+74,true,어 리 스 타 트 해 줘
+75,true,어 다 시 시 작
+76,true,어 다 시 시 작 해 줘
+77,true,다 시 시 작 해 줘
+78,false,아 니
+79,false,아 냐
+80,false,취 소
+81,false,취 소
+82,false,취 소 해
+83,false,취 소 할 래
+84,false,취 소 해 줘
+85,false,취 소 할 게
+86,false,하 지 마
+87,false,아 니
+88,false,아 니 오
+89,false,아 니 요
+90,false,아 니 오
+91,false,아 니 야
+92,false,아 니 다
+93,false,아 니 야 됐 어
+94,false,아 니 에 요
+95,false,아 니 요 괜 찮 아 요
+96,false,아 니 아 니
+97,false,아 니 아 니 야
+98,false,아 니 야 아 니 야
+99,false,아 니 야 하 지 마
+100,false,아 니 취 소
+101,false,아 니 야 취 소
+102,false,아 니 취 소 해 줘
+103,false,아 니 요 끄 지 마 세 요
+104,false,아 니 요 재 부 팅 하 지 마 세 요
+105,false,아 니 끄 지 마
+106,false,아 니 재 부 팅 하 지 마
+107,false,아 니 재 부 팅 하 지 마 세 요
+108,false,안 해
+109,false,안 돼
+110,false,안 할 래
+111,false,노
+112,false,끄 지 마
+113,false,재 부 팅 하 지 마
+114,false,캔 슬
+115,false,중 단
+116,false,중 지
+117,false,싫 어
+118,false,싫 다 고

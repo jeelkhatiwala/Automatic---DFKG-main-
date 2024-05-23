@@ -1,0 +1,56 @@
+RecordId,formal,alias
+1,QuickCommands,quick commands
+2,QuickCommands,quick command
+3,QuickCommands,my commands
+4,QuickCommands,saved commands
+5,QuickCommands,voice commands
+6,QuickCommands,shortcut commands
+7,QuickCommands,shortcuts
+8,QuickCommandRecommendations,quick command recommendations
+9,QuickCommandRecommendations,quick command recommendation
+10,QuickCommandRecommendations,recommended quick commands
+11,BixbySettings,bixby settings
+12,BixbySettings,settings for bixby
+13,BixbySettings,settings of bixby
+14,BixbySettings,bixby voice settings
+15,BixbySettings,settings of bixby voice
+16,BixbySettings,settings for bixby voice
+17,BixbySettings,bixby options
+18,BixbySettings,your settings
+19,BixbySettings,your options
+20,BixbySettings,bixby's settings
+21,BixbySettings,bixby's options
+22,BixbySettings,your setting
+23,BixbySettings,bixby setting
+24,BixbySettings,setting of bixby
+25,BixbySettings,setting for bixby
+26,BixbyAnnouncements,bixby announcements
+27,BixbyAnnouncements,bixby announcement
+28,BixbyAnnouncements,bixby voice announcements
+29,BixbyAnnouncements,bixby notice
+30,BixbyAnnouncements,bixby notices
+31,BixbyAnnouncements,bixby mitteilungen
+32,VoiceWakeUpOption,voice call
+33,VoiceWakeUpOption,voice call setup
+34,VoiceWakeUpOption,voice wake-up settings
+35,VoiceWakeUpOption,voice wake up settings
+36,VoiceUnlock,voice unlock
+37,VoiceUnlock,unlock with voice
+38,VoiceUnlock,unlock with voice
+39,VoiceUnlock,unlock voice
+40,VoiceUnlock,unlock voice recognition
+41,VoiceUnlock,unlock settings
+42,VoiceUnlock,voice unlock settings
+43,MyPage,my page
+44,MyPage,my profile
+45,BixbyKey,bixby key
+46,DictationSettings,dictation
+47,DictationSettings,dictationsettings
+48,DictationSettings,bixby dictation
+49,DictationSettings,dictation settings
+50,DiscoveryPanel,discoverypanel
+51,DiscoveryPanel,discovery panel
+52,DiscoveryPanel,capsule list
+53,DiscoveryPanel,capsule list page
+54,DiscoveryPanel,voice-enabled apps and capsules
+55,TutorialPage,bixby tutorial list page

@@ -1,0 +1,40 @@
+RecordId,formal,alias
+1,DayAfterDayAfterTomorrow,day after the day after tomorrow
+2,DayAfterDayAfterTomorrow,the day after the day after tomorrow
+3,DayAfterTomorrow,day after next
+4,DayAfterTomorrow,day after tomorrow
+5,DayAfterTomorrow,the day after next
+6,DayBeforeDayBeforeYesterday,day before the day before yesterday
+7,DayBeforeDayBeforeYesterday,the day before the day before yesterday
+8,DayBeforeYesterday,day before last
+9,DayBeforeYesterday,day before yesterday
+10,DayBeforeYesterday,the day before last
+11,MidMonth,mid month
+12,MidMonth,mid-month
+13,MidMonth,midmonth
+14,MidWeek,mid week
+15,MidWeek,mid-week
+16,MidWeek,midweek
+17,MidYear,mid year
+18,MidYear,mid-year
+19,MidYear,midyear
+20,ThisDay,this date
+21,ThisDay,this day
+22,ThisDay,this time
+23,ThisDay,this time period
+24,Today,the day
+25,Today,today
+26,Today,todays
+27,Today,today's
+28,Today,present day
+29,Today,same day
+30,Tomorrow,manana
+31,Tomorrow,mañana
+32,Tomorrow,on the morrow
+33,Tomorrow,tomorrow
+34,Tomorrow,tomorrows
+35,Tomorrow,tomorrow's
+36,Tomorrow,next day
+37,Yesterday,yesterday
+38,Yesterday,yesterdays
+39,Yesterday,yesterday's

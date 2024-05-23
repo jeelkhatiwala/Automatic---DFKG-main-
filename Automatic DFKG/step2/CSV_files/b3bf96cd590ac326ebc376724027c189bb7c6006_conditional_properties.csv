@@ -1,0 +1,3 @@
+app_id,origin,name,value,creation_timestamp,active,trigger_event_name,trigger_timeout,timed_out_event,triggered_event,triggered_timestamp,time_to_live,expired_event
+com.app.tgtg,frc,_exp_84,1,1624603949673,1,Screen_Discover,15552000000,,,1624653881698,15552000000,
+com.beenverified.android,frc,_exp_15,1,1625113863718,1,,15552000000,,,1625113863718,15552000000,

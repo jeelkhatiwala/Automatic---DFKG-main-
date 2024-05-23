@@ -1,0 +1,28 @@
+RecordId,formal,alias
+1,Home,home
+2,Home,house
+3,Mobile,mobile
+4,Mobile,cell
+5,Mobile,cellphone
+6,Work,work
+7,Work,office
+8,Work,company
+9,Work,workplace
+10,Work,work place
+11,WorkFax,workfax
+12,WorkFax,work fax
+13,WorkFax,company fax
+14,WorkFax,office fax
+15,HomeFax,homefax
+16,HomeFax,home fax
+17,HomeFax,fax
+18,Pager,pager
+19,Other,other
+20,Other,others
+21,Other,etc
+22,Other,and so on
+23,Callback,callback
+24,Callback,call back
+25,Custom,customtype
+26,Custom,custom type
+27,Custom,custom

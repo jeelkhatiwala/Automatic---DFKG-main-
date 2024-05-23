@@ -1,0 +1,9 @@
+_id,promo_id,promo_type,is_recurring,is_eligible,last_shown_time_ms,dismissed_time_ms,ignore_period_count,last_ignore_period_start_time_ms
+1,tooltip_print_entry_top_left_corner_promo,0,0,1,0,0,0,0
+2,half_sheet_promo_face_gaia_opt_in,0,0,1,0,0,0,0
+3,all_photos_promo_3p_premium_upload,0,0,1,0,0,0,0
+4,all_photos_promo_sec_face_gaia_opt_in,0,0,1,0,0,0,0
+5,tooltip_editor3,1,0,2,1622774431532,1622774433008,1,1622774431532
+6,half_sheet_googleone_promos,0,0,1,0,0,0,0
+7,all_photos_promo_ads_transparency_notice,3,0,0,1624481468451,1624603602435,3,1624481468451
+8,dialog_add_home_screen_shortcut_promo,0,0,1,0,0,0,0

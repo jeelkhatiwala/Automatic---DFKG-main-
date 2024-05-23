@@ -1,0 +1,43 @@
+RecordId,formal,alias
+1,Bedtime,취 침 시 간
+2,BreakfastTime,아 침 식 사 시 간
+3,BreakfastTime,아 침 식 사 시 간
+4,DinnerTime,저 녁 식 사 시 간
+5,DinnerTime,저 녁 식 사 시 간
+6,Noon,정 오
+7,Midnight,자 정
+8,Midnight,24 시
+9,Midnight,한 밤 중
+10,HappyHour,해 피 아 워
+11,HappyHour,해 피 아 워
+12,HappyHour,해 피 아 우 어
+13,HappyHour,해 피 아 우 어
+14,LunchTime,점 심 식 사 시 간
+15,LunchTime,점 심 식 사 시 간
+16,LunchTime,점 심 때
+17,LunchTime,점 심 때
+18,LunchTime,점 심
+19,MidAfternoon,오 후 중 반
+20,MidDay,한 낮
+21,MidDay,정 오
+22,MidMorning,오 전 중 반
+23,Now,지 금
+24,Now,지 금 즉 시
+25,Now,당 장
+26,Now,지 금 당 장
+27,Now,즉 시
+28,Now,가 능 한 빨 리
+29,Now,바 로
+30,Now,지 금 바 로
+31,Now,현 재
+32,Now,방 금
+33,Now,금 방
+34,TeaTime,티 타 임
+35,ThisTime,이 시 간
+36,ThisTime,이 시 간
+37,ThisTime,지 금 이 시 간
+38,ThisTime,지 금 이 시 간
+39,ThisTime,지 금 시 간
+40,ThisTime,지 금 시 간
+41,Twilight,황 혼
+42,Twilight,황 혼 무 렵

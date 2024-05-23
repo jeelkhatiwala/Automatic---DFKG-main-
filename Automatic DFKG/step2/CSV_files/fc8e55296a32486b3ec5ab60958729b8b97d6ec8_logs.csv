@@ -1,0 +1,84 @@
+timestamp,account_name,page_id,process_id,thread_id,log_tag,message
+1625859985783,heisenbergcarro@gmail.com,,25435,7040,PeopleSync,***Sync start***: feed=null cannotHavePeople=true mode=0 contactOnly=false pageOnly=false skipMain=false
+1625859987389,heisenbergcarro@gmail.com,,25435,7040,PeopleSync,Stats=args@5cef1ef
+1625859987416,heisenbergcarro@gmail.com,,25435,7040,PeopleSync,"***Sync finished***, duration: 1841"
+1626055138360,heisenbergcarro@gmail.com,,23252,30766,PeopleSync,***Sync start***: feed=null cannotHavePeople=true mode=0 contactOnly=false pageOnly=false skipMain=false x2
+1626055128590,,,23252,30766,PeopleSync,"Cancelled in volley
+tpi: Thread interrupted
+	at toi.D(:com.google.android.gms@212116046@21.21.16 (150400-378233385):8)
+	at toi.C(:com.google.android.gms@212116046@21.21.16 (150400-378233385):1)
+	at toi.B(:com.google.android.gms@212116046@21.21.16 (150400-378233385):0)
+	at aryf.c(:com.google.android.gms@212116046@21.21.16 (150400-378233385):49)
+	at arya.c(:com.google.android.gms@212116046@21.21.16 (150400-378233385):70)
+	at arya.b(:com.google.android.gms@212116046@21.21.16 (150400-378233385):11)
+	at ttf.onPerformSync(:com.google.android.gms@212116046@21.21.16 (150400-378233385):4)
+	at android.content.AbstractThreadedSyncAdapter$SyncThread.run(AbstractThreadedSyncAdapter.java:334)
+"
+1626055128619,heisenbergcarro@gmail.com,,23252,30766,PeopleSync,Stats=args@3bd4674
+1626055129279,heisenbergcarro@gmail.com,,23252,30766,PeopleSync,"***Sync canceled***, duration: 3322"
+1626055138940,heisenbergcarro@gmail.com,,23252,32332,PeopleSync,Stats=args@3225202
+1626055138957,heisenbergcarro@gmail.com,,23252,32332,PeopleSync,"***Sync finished***, duration: 599"
+1626230110896,heisenbergcarro@gmail.com,,14661,21955,PeopleSync,***Sync start***: feed=null cannotHavePeople=true mode=0 contactOnly=false pageOnly=false skipMain=false
+1626230111923,heisenbergcarro@gmail.com,,14661,21955,PeopleSync,Stats=args@902c539
+1626230111943,heisenbergcarro@gmail.com,,14661,21955,PeopleSync,"***Sync finished***, duration: 1425"
+1626406914151,heisenbergcarro@gmail.com,,24551,9127,PeopleSync,***Sync start***: feed=null cannotHavePeople=true mode=0 contactOnly=false pageOnly=false skipMain=false
+1626406916598,heisenbergcarro@gmail.com,,24551,9127,PeopleSync,Stats=args@ccb90ba
+1626406916750,heisenbergcarro@gmail.com,,24551,9127,PeopleSync,"***Sync finished***, duration: 2715"
+1626595776442,heisenbergcarro@gmail.com,,30888,20148,PeopleSync,***Sync start***: feed=null cannotHavePeople=true mode=0 contactOnly=false pageOnly=false skipMain=false
+1626595777525,,,30888,20148,PeopleSync,"Cancelled in volley
+twc: Thread interrupted
+	at tvc.D(:com.google.android.gms@212418046@21.24.18 (150400-383468479):8)
+	at tvc.C(:com.google.android.gms@212418046@21.24.18 (150400-383468479):1)
+	at tvc.B(:com.google.android.gms@212418046@21.24.18 (150400-383468479):0)
+	at asve.c(:com.google.android.gms@212418046@21.24.18 (150400-383468479):49)
+	at asuz.c(:com.google.android.gms@212418046@21.24.18 (150400-383468479):70)
+	at asuz.b(:com.google.android.gms@212418046@21.24.18 (150400-383468479):11)
+	at tzz.onPerformSync(:com.google.android.gms@212418046@21.24.18 (150400-383468479):4)
+	at android.content.AbstractThreadedSyncAdapter$SyncThread.run(AbstractThreadedSyncAdapter.java:334)
+"
+1626595777528,heisenbergcarro@gmail.com,,30888,20148,PeopleSync,Stats=asbt@7d33661
+1626595777683,heisenbergcarro@gmail.com,,30888,20148,PeopleSync,"***Sync canceled***, duration: 1672"
+1626595777714,,,30888,20180,FSA2_ContactsSyncAdapter,"Sync has been terminated.
+atmc: CANCELED_EXCEPTION
+	at athx.a(:com.google.android.gms@212418046@21.24.18 (150400-383468479):4)
+	at athy.onSyncCanceled(:com.google.android.gms@212418046@21.24.18 (150400-383468479):2)
+	at android.content.AbstractThreadedSyncAdapter$ISyncAdapterImpl.cancelSync(AbstractThreadedSyncAdapter.java:264)
+	at android.content.ISyncAdapter$Stub.onTransact(ISyncAdapter.java:152)
+	at android.os.Binder.transact(Binder.java:1079)
+	at acyy.onTransact(:com.google.android.gms@212418046@21.24.18 (150400-383468479):17)
+	at android.os.Binder.execTransactInternal(Binder.java:1195)
+	at android.os.Binder.execTransact(Binder.java:1159)
+"
+1626616703282,heisenbergcarro@gmail.com,,22132,23903,PeopleSync,***Sync start***: feed=null cannotHavePeople=true mode=0 contactOnly=false pageOnly=false skipMain=false
+1626616704974,heisenbergcarro@gmail.com,,22132,23903,PeopleSync,Stats=asbt@c45ec22
+1626616704993,heisenbergcarro@gmail.com,,22132,23903,PeopleSync,"***Sync finished***, duration: 2410"
+1626616705226,,,22132,23904,FSA2_ContactsSyncAdapter,"Sync has been terminated.
+atmc: CANCELED_EXCEPTION
+	at athx.a(:com.google.android.gms@212418046@21.24.18 (150400-383468479):4)
+	at athy.onSyncCanceled(:com.google.android.gms@212418046@21.24.18 (150400-383468479):2)
+	at android.content.AbstractThreadedSyncAdapter$ISyncAdapterImpl.cancelSync(AbstractThreadedSyncAdapter.java:264)
+	at android.content.ISyncAdapter$Stub.onTransact(ISyncAdapter.java:152)
+	at android.os.Binder.transact(Binder.java:1079)
+	at acyy.onTransact(:com.google.android.gms@212418046@21.24.18 (150400-383468479):17)
+	at android.os.Binder.execTransactInternal(Binder.java:1195)
+	at android.os.Binder.execTransact(Binder.java:1159)
+"
+1626637562883,,,22132,25754,FSA2_ContactsSyncAdapter,"Sync has been terminated.
+atmc: CANCELED_EXCEPTION
+	at athx.a(:com.google.android.gms@212418046@21.24.18 (150400-383468479):4)
+	at athy.onSyncCanceled(:com.google.android.gms@212418046@21.24.18 (150400-383468479):2)
+	at android.content.AbstractThreadedSyncAdapter$ISyncAdapterImpl.cancelSync(AbstractThreadedSyncAdapter.java:264)
+	at android.content.ISyncAdapter$Stub.onTransact(ISyncAdapter.java:152)
+	at android.os.Binder.transact(Binder.java:1079)
+	at acyy.onTransact(:com.google.android.gms@212418046@21.24.18 (150400-383468479):17)
+	at android.os.Binder.execTransactInternal(Binder.java:1195)
+	at android.os.Binder.execTransact(Binder.java:1159)
+ x2"
+1626795329557,heisenbergcarro@gmail.com,,7441,18531,PeopleSync,***Sync start***: feed=null cannotHavePeople=true mode=0 contactOnly=false pageOnly=false skipMain=false x2
+1626795327958,heisenbergcarro@gmail.com,,7441,18531,PeopleSync,Stats=asbt@328dae3
+1626795328066,heisenbergcarro@gmail.com,,7441,18531,PeopleSync,"***Sync canceled***, duration: 2765"
+1626795330326,heisenbergcarro@gmail.com,,7441,19130,PeopleSync,Stats=asbt@c4c4092
+1626795330440,heisenbergcarro@gmail.com,,7441,19130,PeopleSync,"***Sync finished***, duration: 883"
+1626977231922,heisenbergcarro@gmail.com,,16613,24429,PeopleSync,***Sync start***: feed=null cannotHavePeople=true mode=0 contactOnly=false pageOnly=false skipMain=false
+1626977233720,heisenbergcarro@gmail.com,,16613,24429,PeopleSync,Stats=asbt@55296cb
+1626977233747,heisenbergcarro@gmail.com,,16613,24429,PeopleSync,"***Sync finished***, duration: 2075"

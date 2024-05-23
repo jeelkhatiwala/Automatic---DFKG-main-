@@ -1,0 +1,2416 @@
+_id,mccmnc,gid1,gid2,plmn,imsi_prefix_xpattern,spn,apn,iccid_prefix,privilege_access_rule,carrier_name,carrier_id,parent_carrier_id
+1,310026,,,,,,,,,T-Mobile - US,1,-1
+2,310160,,,,,,,,,T-Mobile - US,1,-1
+3,310200,,,,,,,,,T-Mobile - US,1,-1
+4,310210,,,,,,,,,T-Mobile - US,1,-1
+5,310220,,,,,,,,,T-Mobile - US,1,-1
+6,310230,,,,,,,,,T-Mobile - US,1,-1
+7,310240,,,,,,,,,T-Mobile - US,1,-1
+8,310250,,,,,,,,,T-Mobile - US,1,-1
+9,310260,,,,,,,,,T-Mobile - US,1,-1
+10,31026,,,,,,,,,T-Mobile - US,1,-1
+11,310270,,,,,,,,,T-Mobile - US,1,-1
+12,310300,,,,,,,,,T-Mobile - US,1,-1
+13,310310,,,,,,,,,T-Mobile - US,1,-1
+14,310490,,,,,,,,,T-Mobile - US,1,-1
+15,310530,,,,,,,,,T-Mobile - US,1,-1
+16,310590,,,,,,,,,T-Mobile - US,1,-1
+17,310640,,,,,,,,,T-Mobile - US,1,-1
+18,310660,,,,,,,,,T-Mobile - US,1,-1
+19,310800,,,,,,,,,T-Mobile - US,1,-1
+20,23430,,,,2343041,,,,,EE,2,-1
+21,23430,ee,,,,,,,,EE,2,-1
+22,23430,eeff,,,,,,,,EE,2,-1
+23,26201,01,,,,,,,,Telekom,3,-1
+24,26201,02,,,,,,,,Telekom,3,-1
+25,26201,03,,,,,,,,Telekom,3,-1
+26,26201,04,,,,,,,,Telekom,3,-1
+27,26201,99,,,,,,,,Telekom,3,-1
+28,26201,4b,,,,,,,,Telekom,3,-1
+29,26206,01,,,,,,,,Telekom,3,-1
+30,26206,02,,,,,,,,Telekom,3,-1
+31,26206,03,,,,,,,,Telekom,3,-1
+32,26206,04,,,,,,,,Telekom,3,-1
+33,26206,99,,,,,,,,Telekom,3,-1
+34,26206,4b,,,,,,,,Telekom,3,-1
+35,26201,,,,,telekom.de,,,,Telekom,3,-1
+36,26201,,,,,t-mobile d,,,,Telekom,3,-1
+37,26201,,,,,business,,,,Telekom,3,-1
+38,26201,,,,,privat,,,,Telekom,3,-1
+39,26206,,,,,telekom.de,,,,Telekom,3,-1
+40,26206,,,,,t-mobile d,,,,Telekom,3,-1
+41,26206,,,,,business,,,,Telekom,3,-1
+42,26206,,,,,privat,,,,Telekom,3,-1
+43,23203,01,,,,,,,,T-Mobile/tele.ring,4,-1
+44,23203,31,,,,,,,,T-Mobile/tele.ring,4,-1
+45,23203,32,,,,,,,,T-Mobile/tele.ring,4,-1
+46,23207,,,,999999,,,,,T-Mobile/tele.ring,4,-1
+47,20416,ff,,,,,,,,T-Mobile,5,-1
+48,20420,ff,,,,,,,,T-Mobile,5,-1
+49,20416,,,,,t-mobile  nl,,,,T-Mobile,5,-1
+50,20420,,,,,t-mobile  nl,,,,T-Mobile,5,-1
+51,23001,,,,,t-mobile cz,,,,T-Mobile,6,-1
+52,23001,,,,,kaktus,,,,T-Mobile,6,-1
+53,23001,,,,,mobil cz,,,,T-Mobile,6,-1
+54,23001,,,,,rwe mobil,,,,T-Mobile,6,-1
+55,23001,,,,,innogy,,,,T-Mobile,6,-1
+56,23001,,,,,premobil,,,,T-Mobile,6,-1
+57,26002,11,,,,,,,,T-Mobile,7,-1
+58,26002,12,,,,,,,,T-Mobile,7,-1
+59,26002,16,,,,,,,,T-Mobile,7,-1
+60,26002,17,,,,,,,,T-Mobile,7,-1
+61,26002,21,,,,,,,,T-Mobile,7,-1
+62,26002,22,,,,,,,,T-Mobile,7,-1
+63,26002,23,,,,,,,,T-Mobile,7,-1
+64,26002,24,,,,,,,,T-Mobile,7,-1
+65,26002,26,,,,,,,,T-Mobile,7,-1
+66,26002,,,,,t-mobile.pl,,,,T-Mobile,7,-1
+67,26002,,,,,t-mobile.pl q,,,,T-Mobile,7,-1
+68,26002,,,,,heyah,,,,T-Mobile,7,-1
+69,21630,,,,,telekom hu,,,,Magyar Telekom,8,-1
+70,21630,,,,,t-mobile h,,,,Magyar Telekom,8,-1
+71,21901,,,,,t-mobile hr,,,,Hrvatski Telekom,9,-1
+72,21901,,,,,ht hr,,,,Hrvatski Telekom,9,-1
+73,21901,01,,,,,,,,Hrvatski Telekom,9,-1
+74,21901,02,,,,,,,,Hrvatski Telekom,9,-1
+75,21901,03,,,,,,,,Hrvatski Telekom,9,-1
+76,21901,99,,,,,,,,Hrvatski Telekom,9,-1
+77,22004,,,,,,,,,T-Mobile - ME,10,-1
+78,23102,,,,,telekom sk,,,,Slovak Telekom,11,-1
+79,23102,,,,,juro.sk,,,,Slovak Telekom,11,-1
+80,25502,,,,,,,,,T-Mobile - UA,12,-1
+81,29401,,,,,telekom.mk,,,,Mkedonski Telecom AD Skopje,13,-1
+82,29401,ff,,,,,,,,Mkedonski Telecom AD Skopje,13,-1
+83,23201,,,,,,,,,A1,14,-1
+84,23211,,,,,,,,,A1,14,-1
+85,23212,,,,,,,,,A1,14,-1
+86,50503,,,,,,,,,Vodafone,15,-1
+87,22801,,,,,swisscom,,,,Swisscom,16,-1
+88,20205,,,,,vodafone gr,,,,Vodafone,18,-1
+89,20205,,,,,cu,,,,Vodafone,18,-1
+90,20205,,,,,cu-x,,,,Vodafone,18,-1
+91,27201,,,,,vodafone ie,,,,Vodafone,19,-1
+92,20404,,,,204040,,,,,Vodafone,20,-1
+93,20404,,,,204040,vodafone nl,,,,Vodafone,20,-1
+94,20404,,,,204041,,,,,Vodafone,20,-1
+95,20404,,,,204041,vodafone nl,,,,Vodafone,20,-1
+96,20404,,,,204042,,,,,Vodafone,20,-1
+97,20404,,,,204042,vodafone nl,,,,Vodafone,20,-1
+98,20404,,,,204044,,,,,Vodafone,20,-1
+99,20404,,,,204044,vodafone nl,,,,Vodafone,20,-1
+100,20404,,,,204045,,,,,Vodafone,20,-1
+101,20404,,,,204045,vodafone nl,,,,Vodafone,20,-1
+102,20404,,,,204047,,,,,Vodafone,20,-1
+103,20404,,,,204047,vodafone nl,,,,Vodafone,20,-1
+104,20404,,,,204048,,,,,Vodafone,20,-1
+105,20404,,,,204048,vodafone nl,,,,Vodafone,20,-1
+106,20404,,,,204049,,,,,Vodafone,20,-1
+107,20404,,,,204049,vodafone nl,,,,Vodafone,20,-1
+108,53001,,,,,vodafone nz,,,,Vodafone,21,-1
+109,26801,,,,,,,,,Vodafone,22,-1
+110,26801,,,,,vodafone p,,,,Vodafone,22,-1
+111,26801,,,,,vodafone,,,,Vodafone,22,-1
+112,22601,,,,,vodafone ro,,,,Vodafone,23,-1
+113,65501,,,,,,,,,Vodacom,24,-1
+114,26202,,,,262020,,,,,Vodafone,25,-1
+115,26202,,,,262020,vodafone,,,,Vodafone,25,-1
+116,26202,,,,262020,vodafone.de,,,,Vodafone,25,-1
+117,26202,,,,2620211,,,,,Vodafone,25,-1
+118,26202,,,,2620211,vodafone,,,,Vodafone,25,-1
+119,26202,,,,2620211,vodafone.de,,,,Vodafone,25,-1
+120,26202,,,,2620212,,,,,Vodafone,25,-1
+121,26202,,,,2620212,vodafone,,,,Vodafone,25,-1
+122,26202,,,,2620212,vodafone.de,,,,Vodafone,25,-1
+123,26202,,,,2620213,,,,,Vodafone,25,-1
+124,26202,,,,2620213,vodafone,,,,Vodafone,25,-1
+125,26202,,,,2620213,vodafone.de,,,,Vodafone,25,-1
+126,26202,,,,2620214,,,,,Vodafone,25,-1
+127,26202,,,,2620214,vodafone,,,,Vodafone,25,-1
+128,26202,,,,2620214,vodafone.de,,,,Vodafone,25,-1
+129,26202,,,,2620215,,,,,Vodafone,25,-1
+130,26202,,,,2620215,vodafone,,,,Vodafone,25,-1
+131,26202,,,,2620215,vodafone.de,,,,Vodafone,25,-1
+132,26202,,,,2620216,,,,,Vodafone,25,-1
+133,26202,,,,2620216,vodafone,,,,Vodafone,25,-1
+134,26202,,,,2620216,vodafone.de,,,,Vodafone,25,-1
+135,26202,,,,2620217,,,,,Vodafone,25,-1
+136,26202,,,,2620217,vodafone,,,,Vodafone,25,-1
+137,26202,,,,2620217,vodafone.de,,,,Vodafone,25,-1
+138,26202,,,,2620218,,,,,Vodafone,25,-1
+139,26202,,,,2620218,vodafone,,,,Vodafone,25,-1
+140,26202,,,,2620218,vodafone.de,,,,Vodafone,25,-1
+141,26202,,,,26202190,,,,,Vodafone,25,-1
+142,26202,,,,26202190,vodafone,,,,Vodafone,25,-1
+143,26202,,,,26202190,vodafone.de,,,,Vodafone,25,-1
+144,26202,,,,262021910,,,,,Vodafone,25,-1
+145,26202,,,,262021910,vodafone,,,,Vodafone,25,-1
+146,26202,,,,262021910,vodafone.de,,,,Vodafone,25,-1
+147,26202,,,,262021911,,,,,Vodafone,25,-1
+148,26202,,,,262021911,vodafone,,,,Vodafone,25,-1
+149,26202,,,,262021911,vodafone.de,,,,Vodafone,25,-1
+150,26202,,,,262021912,,,,,Vodafone,25,-1
+151,26202,,,,262021912,vodafone,,,,Vodafone,25,-1
+152,26202,,,,262021912,vodafone.de,,,,Vodafone,25,-1
+153,26202,,,,2620219130,,,,,Vodafone,25,-1
+154,26202,,,,2620219130,vodafone,,,,Vodafone,25,-1
+155,26202,,,,2620219130,vodafone.de,,,,Vodafone,25,-1
+156,26202,,,,2620219131,,,,,Vodafone,25,-1
+157,26202,,,,2620219131,vodafone,,,,Vodafone,25,-1
+158,26202,,,,2620219131,vodafone.de,,,,Vodafone,25,-1
+159,26202,,,,2620219132,,,,,Vodafone,25,-1
+160,26202,,,,2620219132,vodafone,,,,Vodafone,25,-1
+161,26202,,,,2620219132,vodafone.de,,,,Vodafone,25,-1
+162,26202,,,,2620219133,,,,,Vodafone,25,-1
+163,26202,,,,2620219133,vodafone,,,,Vodafone,25,-1
+164,26202,,,,2620219133,vodafone.de,,,,Vodafone,25,-1
+165,26202,,,,2620219134,,,,,Vodafone,25,-1
+166,26202,,,,2620219134,vodafone,,,,Vodafone,25,-1
+167,26202,,,,2620219134,vodafone.de,,,,Vodafone,25,-1
+168,26202,,,,2620219141,,,,,Vodafone,25,-1
+169,26202,,,,2620219141,vodafone,,,,Vodafone,25,-1
+170,26202,,,,2620219141,vodafone.de,,,,Vodafone,25,-1
+171,26202,,,,2620219142,,,,,Vodafone,25,-1
+172,26202,,,,2620219142,vodafone,,,,Vodafone,25,-1
+173,26202,,,,2620219142,vodafone.de,,,,Vodafone,25,-1
+174,26202,,,,2620219143,,,,,Vodafone,25,-1
+175,26202,,,,2620219143,vodafone,,,,Vodafone,25,-1
+176,26202,,,,2620219143,vodafone.de,,,,Vodafone,25,-1
+177,26202,,,,2620219144,,,,,Vodafone,25,-1
+178,26202,,,,2620219144,vodafone,,,,Vodafone,25,-1
+179,26202,,,,2620219144,vodafone.de,,,,Vodafone,25,-1
+180,26202,,,,2620219149,,,,,Vodafone,25,-1
+181,26202,,,,2620219149,vodafone,,,,Vodafone,25,-1
+182,26202,,,,2620219149,vodafone.de,,,,Vodafone,25,-1
+183,26202,,,,262021915,,,,,Vodafone,25,-1
+184,26202,,,,262021915,vodafone,,,,Vodafone,25,-1
+185,26202,,,,262021915,vodafone.de,,,,Vodafone,25,-1
+186,26202,,,,262021916,,,,,Vodafone,25,-1
+187,26202,,,,262021916,vodafone,,,,Vodafone,25,-1
+188,26202,,,,262021916,vodafone.de,,,,Vodafone,25,-1
+189,26202,,,,262021917,,,,,Vodafone,25,-1
+190,26202,,,,262021917,vodafone,,,,Vodafone,25,-1
+191,26202,,,,262021917,vodafone.de,,,,Vodafone,25,-1
+192,26202,,,,262021918,,,,,Vodafone,25,-1
+193,26202,,,,262021918,vodafone,,,,Vodafone,25,-1
+194,26202,,,,262021918,vodafone.de,,,,Vodafone,25,-1
+195,26202,,,,262021919,,,,,Vodafone,25,-1
+196,26202,,,,262021919,vodafone,,,,Vodafone,25,-1
+197,26202,,,,262021919,vodafone.de,,,,Vodafone,25,-1
+198,26202,,,,26202192,,,,,Vodafone,25,-1
+199,26202,,,,26202192,vodafone,,,,Vodafone,25,-1
+200,26202,,,,26202192,vodafone.de,,,,Vodafone,25,-1
+201,26202,,,,26202193,,,,,Vodafone,25,-1
+202,26202,,,,26202193,vodafone,,,,Vodafone,25,-1
+203,26202,,,,26202193,vodafone.de,,,,Vodafone,25,-1
+204,26202,,,,26202194,,,,,Vodafone,25,-1
+205,26202,,,,26202194,vodafone,,,,Vodafone,25,-1
+206,26202,,,,26202194,vodafone.de,,,,Vodafone,25,-1
+207,26202,,,,26202195,,,,,Vodafone,25,-1
+208,26202,,,,26202195,vodafone,,,,Vodafone,25,-1
+209,26202,,,,26202195,vodafone.de,,,,Vodafone,25,-1
+210,26202,,,,26202196,,,,,Vodafone,25,-1
+211,26202,,,,26202196,vodafone,,,,Vodafone,25,-1
+212,26202,,,,26202196,vodafone.de,,,,Vodafone,25,-1
+213,26202,,,,26202197,,,,,Vodafone,25,-1
+214,26202,,,,26202197,vodafone,,,,Vodafone,25,-1
+215,26202,,,,26202197,vodafone.de,,,,Vodafone,25,-1
+216,26202,,,,26202198,,,,,Vodafone,25,-1
+217,26202,,,,26202198,vodafone,,,,Vodafone,25,-1
+218,26202,,,,26202198,vodafone.de,,,,Vodafone,25,-1
+219,26202,,,,26202199,,,,,Vodafone,25,-1
+220,26202,,,,26202199,vodafone,,,,Vodafone,25,-1
+221,26202,,,,26202199,vodafone.de,,,,Vodafone,25,-1
+222,26202,,,,262022,,,,,Vodafone,25,-1
+223,26202,,,,262022,vodafone,,,,Vodafone,25,-1
+224,26202,,,,262022,vodafone.de,,,,Vodafone,25,-1
+225,26202,,,,262023,,,,,Vodafone,25,-1
+226,26202,,,,262023,vodafone,,,,Vodafone,25,-1
+227,26202,,,,262023,vodafone.de,,,,Vodafone,25,-1
+228,26202,,,,262024,,,,,Vodafone,25,-1
+229,26202,,,,262024,vodafone,,,,Vodafone,25,-1
+230,26202,,,,262024,vodafone.de,,,,Vodafone,25,-1
+231,26202,,,,262025,,,,,Vodafone,25,-1
+232,26202,,,,262025,vodafone,,,,Vodafone,25,-1
+233,26202,,,,262025,vodafone.de,,,,Vodafone,25,-1
+234,26202,,,,262026,,,,,Vodafone,25,-1
+235,26202,,,,262026,vodafone,,,,Vodafone,25,-1
+236,26202,,,,262026,vodafone.de,,,,Vodafone,25,-1
+237,26202,,,,262027,,,,,Vodafone,25,-1
+238,26202,,,,262027,vodafone,,,,Vodafone,25,-1
+239,26202,,,,262027,vodafone.de,,,,Vodafone,25,-1
+240,26202,,,,262028,,,,,Vodafone,25,-1
+241,26202,,,,262028,vodafone,,,,Vodafone,25,-1
+242,26202,,,,262028,vodafone.de,,,,Vodafone,25,-1
+243,26202,,,,262029,,,,,Vodafone,25,-1
+244,26202,,,,262029,vodafone,,,,Vodafone,25,-1
+245,26202,,,,262029,vodafone.de,,,,Vodafone,25,-1
+246,21401,,,,,,,,,Vodafone,26,-1
+247,21401,,,,,vodafone,,,,Vodafone,26,-1
+248,21401,,,,,vodafone es,,,,Vodafone,26,-1
+249,21401,,,,,personal,,,,Vodafone,26,-1
+250,21401,,,,,profesional,,,,Vodafone,26,-1
+251,20810,,,,,,,,,SFR,27,-1
+252,20809,,,,,,,,,SFR,27,-1
+253,23415,,,,,,,,,Vodafone,28,-1
+254,23415,,,,,vodafone,,,,Vodafone,28,-1
+255,23415,,,,,vodafone uk,,,,Vodafone,28,-1
+256,23491,,,,,,,,,Vodafone,28,-1
+257,23491,,,,,vodafone,,,,Vodafone,28,-1
+258,23491,,,,,vodafone uk,,,,Vodafone,28,-1
+259,22210,,,,,,,,,Vodafone,29,-1
+260,22210,,,,,vodafone it,,,,Vodafone,29,-1
+261,22210,,,,,vodafone,,,,Vodafone,29,-1
+262,50502,,,,,,,,,Optus,30,-1
+263,50590,,,,,,,,,Optus,30,-1
+264,52501,,,,,,,,,Singtel,31,-1
+265,52502,,,,,,,,,Singtel,31,-1
+266,20800,,,,,orange f,,,,Orange,32,-1
+267,20801,,,,,orange f,,,,Orange,32,-1
+268,20802,,,,,orange f,,,,Orange,32,-1
+269,22201,,,,,,,,,TIM,33,-1
+270,21405,,,,,,,,,Movistar,34,-1
+271,21407,,,,,,,,,Movistar,34,-1
+272,21303,,,,,,,,,Mobiland,450,-1
+273,42402,,,,,,,,,Etisalat,451,-1
+274,41201,,,,,,,,,AWCC,452,-1
+275,41220,,,,,,,,,Roshan,453,-1
+276,41230,,,,,,,,,New1,454,-1
+277,41240,,,,,,,,,Areeba Afghanistan,455,-1
+278,41288,,,,,,,,,Afghan Telecom,456,-1
+279,344030,,,,,,,,,APUA PCS,457,-1
+280,50524,,,,,,,,,Advanced Communications Technologies Pty. Ltd.,491,-1
+281,50588,,,,,,,,,Localstar Holding Pty. Ltd.,492,-1
+282,36301,,,,,,,,,Setar GSM,493,-1
+283,40002,,,,,,,,,Bakcell Limited Liabil ity Company,495,-1
+284,72405,,,,,,,,,Claro BR,529,-1
+285,72438,,,,,,,,,Claro BR,529,-1
+286,72406,,,,,,,,,Vivo,530,-1
+287,72410,,,,,,,,,Vivo,530,-1
+288,72411,,,,,,,,,Vivo,530,-1
+289,72423,,,,,,,,,Vivo,530,-1
+290,72408,,,,,,,,,Maxitel MG,532,-1
+291,72409,,,,,,,,,Telepar Cel,533,-1
+292,72412,,,,,,,,,Americel,536,-1
+293,72413,,,,,,,,,Telesp Cel,537,-1
+294,72414,,,,,,,,,Maxitel BA,538,-1
+295,72415,,,,,,,,,Sercomtel,539,-1
+296,72416,,,,,,,,,Brasil Telecom GSM,540,-1
+297,72417,,,,,,,,,Ceterp Cel,541,-1
+298,72418,,,,,,,,,Datora,542,-1
+299,72419,,,,,,,,,Telemig Cel,543,-1
+300,72421,,,,,,,,,Telerj Cel,544,-1
+301,72425,,,,,,,,,Telebrasilia Cel,546,-1
+302,72427,,,,,,,,,Telegoias Cel,547,-1
+303,72429,,,,,,,,,Telemat Cel,548,-1
+304,72457,,,,,,,,,Teleamapa Cel,562,-1
+305,72459,,,,,,,,,Telaima Cel,563,-1
+306,40211,,,,,,,,,Bhutan Telecom Ltd,564,-1
+307,65201,,,,,,,,,Mascom Wireless (Pty) Ltd.,566,-1
+308,65202,,,,,,,,,Orange Botswana (Pty) Ltd.,567,-1
+309,25701,,,,,,,,,Velcom,568,-1
+310,25702,,,,,,,,,MTS,569,-1
+311,70267,,,,,,,,,Belize Telecommunications Ltd.,570,-1
+312,70268,,,,,,,,,International Telecommunications Ltd. (INTELCO),571,-1
+313,30236,,,,,,,,,Clearnet,572,-1
+314,30262,,,,,,,,,Ice Wireless,574,-1
+315,30263,,,,,,,,,Aliant Mobility,575,-1
+316,30264,,,,,,,,,Bell Mobility,576,-1
+317,302610,,,,,,,,,Bell Mobility,576,-1
+318,302630,,,,,,,,,Bell Mobility,576,-1
+319,302640,,,,,,,,,Bell Mobility,576,-1
+320,302656,,,,,,,,,Tbay Mobility,577,-1
+321,302660,2c,,,,,,,,MTS Mobility,578,-1
+322,302660,4d,,,,,,,,MTS Mobility,578,-1
+323,302370,2c,,,,,,,,MTS Mobility,578,-1
+324,302370,4d,,,,,,,,MTS Mobility,578,-1
+325,302660,,,,,mts,,,,MTS Mobility,578,-1
+326,30267,,,,,,,,,CityTel Mobility,579,-1
+327,30268,,,,,,,,,Sask Tel Mobility,580,-1
+328,302654,,,,,,,,,Sask Tel Mobility,580,-1
+329,302680,,,,,,,,,Sask Tel Mobility,580,-1
+330,302780,,,,,,,,,Sask Tel Mobility,580,-1
+331,20404,5a,,,,,,,,Sask Tel Mobility,580,-1
+332,30271,,,,,,,,,Globalstar,581,-1
+333,732103,,,,,,,,,Colombia Móvil S.A.,624,-1
+334,732111,,,,,,,,,Colombia Móvil S.A.,624,-1
+335,732123,,,,,,,,,Movistar,625,-1
+336,732130,,,,,,,,,Avantel,626,-1
+337,71201,,,,,,,,,KOLBI ICE,627,-1
+338,71202,,,,,,,,,KOLBI ICE,627,-1
+339,23807,,,,,,,,,Barablu Mobile Ltd.,655,-1
+340,23820,,,,,,,,,Telia,656,-1
+341,23830,,,,,,,,,Telia,656,-1
+342,23877,,,,,,,,,Tele2,657,-1
+343,37001,,,,,,,,,Altice Dominicana,658,-1
+344,24801,,,,,,,,,Telia,667,-1
+345,24802,,,,,,,,,Elisa,668,-1
+346,24803,,,,,,,,,Tele2,669,-1
+347,24804,,,,,,,,,OY Top Connect,670,-1
+348,24805,,,,,,,,,AS Bravocom Mobiil,671,-1
+349,24806,,,,,,,,,OY ViaTel,672,-1
+350,24807,,,,,,,,,Televõrgu AS,673,-1
+351,24871,,,,,,,,,Siseministeerium (Ministry of Interior),674,-1
+352,60201,,,,,,,,,Orange Egypt,675,-1
+353,60202,,,,,vodafone,,,,Vodafone Egypt,676,-1
+354,21403,,,,,orange,,,,Orange,678,-1
+355,21404,,,,,,,,,Yoigo,679,-1
+356,63601,,,,,,,,,ETH MTN,681,-1
+357,24404,,,,,,,,,Finnet Networks Ltd.,682,-1
+358,23430,2800000000000000,,,,,,,,Virgin,717,-1
+359,23433,2800000000000000,,,,,,,,Virgin,717,-1
+360,23438,2800000000000000,,,,,,,,Virgin,717,-1
+361,20601,28,,,,,,,,Virgin,717,-1
+362,20620,2800000000000000,,,,,,,,Virgin,717,-1
+363,23430,,,,,,,,,EE,718,-1
+364,23433,,,,,,,,,EE,718,-1
+365,23486,,,,,,,,,EE,718,-1
+366,23455,,,,,,,,,Cable and Wireless Guensey Ltd,720,-1
+367,26601,,,,,,,,,Gibtelecom GSM,733,-1
+368,26609,,,,,,,,,Cloud9 Mobile Communications,734,-1
+369,29001,,,,,,,,,Tele Greenland,735,-1
+370,60701,,,,,,,,,Gamcel,736,-1
+371,60702,,,,,,,,,Africell,737,-1
+372,60703,,,,,,,,,Comium Services Ltd,738,-1
+373,61101,,,,,,,,,Orange,739,-1
+374,61102,,,,,,,,,Sotelgui,740,-1
+375,61105,,,,,,,,,Cellcom Guinée SA,741,-1
+376,34001,,,,,,,,,Orange Caraïbe Mobiles,742,-1
+377,34002,,,,,,,,,Outremer Telecom,743,-1
+378,34003,,,,,,,,,Saint Martin et Saint Barthelemy Telcell Sarl,744,-1
+379,34020,,,,,,,,,Bouygues Telecom Caraïbe,745,-1
+380,62701,,,,,,,,,Orange,746,-1
+381,20201,ff,,,,,,,,COSMOTE,747,-1
+382,20209,,,,,,,,,Info Quest S.A.,749,-1
+383,45402,,,,,,,,,3G Radio System/HKCSL3G,759,-1
+384,45403,,,,,,,,,3HK,760,-1
+385,45406,,,,,,,,,SmarTone HK,761,-1
+386,45417,,,,,,,,,SmarTone HK,761,-1
+387,45415,,,,,,,,,SmarTone HK,761,-1
+388,45407,,,,,,,,,MVNO/China Unicom International Ltd.,762,-1
+389,45408,,,,,,,,,MVNO/Trident,763,-1
+390,45409,,,,,,,,,MVNO/China Motion Telecom (HK) Ltd.,764,-1
+391,45410,,,,,,,,,GSM1800New World PCS Ltd.,765,-1
+392,45411,,,,,,,,,MVNO/CHKTL,766,-1
+393,45412,,,,,,,,,中國移動香港 China Mobile HK,767,-1
+394,45413,,,,,,,,,中國移動香港 China Mobile HK,767,-1
+395,45416,,,,,,,,,PCCW,769,-1
+396,45418,,,,,,,,,GSM7800/Hong Kong CSL Ltd.,770,-1
+397,45420,,,,,,,,,Public Mobile Networks/Reserved,772,-1
+398,45421,,,,,,,,,Public Mobile Networks/Reserved,772,-1
+399,45422,,,,,,,,,Public Mobile Networks/Reserved,772,-1
+400,45423,,,,,,,,,Public Mobile Networks/Reserved,772,-1
+401,45424,,,,,,,,,Public Mobile Networks/Reserved,772,-1
+402,45425,,,,,,,,,Public Mobile Networks/Reserved,772,-1
+403,45426,,,,,,,,,Public Mobile Networks/Reserved,772,-1
+404,45427,,,,,,,,,Public Mobile Networks/Reserved,772,-1
+405,45428,,,,,,,,,Public Mobile Networks/Reserved,772,-1
+406,45429,,,,,,,,,Public Mobile Networks/Reserved,772,-1
+407,45430,,,,,,,,,Public Mobile Networks/Reserved,772,-1
+408,45431,,,,,,,,,Public Mobile Networks/Reserved,772,-1
+409,45432,,,,,,,,,Public Mobile Networks/Reserved,772,-1
+410,45433,,,,,,,,,Public Mobile Networks/Reserved,772,-1
+411,45434,,,,,,,,,Public Mobile Networks/Reserved,772,-1
+412,45435,,,,,,,,,Public Mobile Networks/Reserved,772,-1
+413,45436,,,,,,,,,Public Mobile Networks/Reserved,772,-1
+414,45437,,,,,,,,,Public Mobile Networks/Reserved,772,-1
+415,45438,,,,,,,,,Public Mobile Networks/Reserved,772,-1
+416,45439,,,,,,,,,Public Mobile Networks/Reserved,772,-1
+417,708001,,,,,,,,,Claro HN,773,-1
+418,70801,,,,,,,,,Claro HN,773,-1
+419,51010,,,,,,,,,Telkomsel,787,-1
+420,51008,,,,,,,,,XL/AXIS,788,-1
+421,51011,,,,,,,,,XL/AXIS,788,-1
+422,51021,,,,,,,,,Indosat - M3,789,-1
+423,27202,,,,,,,,,3,792,-1
+424,27211,,,,272110200677368,,,,,3,792,-1
+425,27203,,,,,,,,,Meteor Mobile Communications Ltd.,793,-1
+426,27207,,,,,,,,,Eircom,794,-1
+427,27209,,,,,,,,,Clever Communications Ltd.,795,-1
+428,42501,,,,,,,,,Partner Communications Co. Ltd.,796,-1
+429,42510,,,,,,,,,Partner Communications Co. Ltd.,796,-1
+430,42502,,,,,,,,,Cellcom Israel Ltd.,797,-1
+431,42503,,,,,,,,,Pelephone Communications Ltd.,798,-1
+432,40404,,,,,,,,,Idea,802,-1
+433,40407,,,,,,,,,Idea,802,-1
+434,40412,,,,,,,,,Idea,802,-1
+435,40414,,,,,,,,,Idea,802,-1
+436,40419,,,,,,,,,Idea,802,-1
+437,40422,,,,,,,,,Idea,802,-1
+438,40424,,,,,,,,,Idea,802,-1
+439,40444,,,,,,,,,Idea,802,-1
+440,40456,,,,,,,,,Idea,802,-1
+441,40478,,,,,,,,,Idea,802,-1
+442,40482,,,,,,,,,Idea,802,-1
+443,40487,,,,,,,,,Idea,802,-1
+444,40489,,,,,,,,,Idea,802,-1
+445,40570,,,,,,,,,Idea,802,-1
+446,40545,,,,,,,,,Idea,802,-1
+447,405799,,,,,,,,,Idea,802,-1
+448,405845,,,,,,,,,Idea,802,-1
+449,405846,,,,,,,,,Idea,802,-1
+450,405847,,,,,,,,,Idea,802,-1
+451,405848,,,,,,,,,Idea,802,-1
+452,405849,,,,,,,,,Idea,802,-1
+453,405850,,,,,,,,,Idea,802,-1
+454,405851,,,,,,,,,Idea,802,-1
+455,405852,,,,,,,,,Idea,802,-1
+456,405853,,,,,,,,,Idea,802,-1
+457,405908,,,,,,,,,Idea,802,-1
+458,405909,,,,,,,,,Idea,802,-1
+459,405910,,,,,,,,,Idea,802,-1
+460,405911,,,,,,,,,Idea,802,-1
+461,41677,,,,,,,,,Orange Jordan,849,-1
+462,416770,,,,,,,,,Orange Jordan,849,-1
+463,44010,00ffff,,,,,,,,NTT DOCOMO,850,-1
+464,44010,,,,,,spmode.ne.jp,,,NTT DOCOMO,850,-1
+465,44010,,,,,,mopera.net,,,NTT DOCOMO,850,-1
+466,63902,,,,,,,,,Safaricom,865,-1
+467,63902,,,,,safaricom,,,,Safaricom,865,-1
+468,63903,,,,,,,,,Airtel Kenya,866,-1
+469,43701,,,,,,,,,Beeline,867,-1
+470,45601,,,,,,,,,Mobitel (Cam GSM),868,-1
+471,45602,,,,,,,,,Smart,869,-1
+472,45605,,,,,,,,,Smart,869,-1
+473,45606,,,,,,,,,Smart,869,-1
+474,45603,,,,,,,,,S Telecom (CDMA) (reserved),870,-1
+475,45618,,,,,,,,,Camshin (Shinawatra),871,-1
+476,65401,,,,,,,,,HURI - SNPT,872,-1
+477,24601,,,,,,,,,Telia,892,-1
+478,24602,,,,,,,,,BITĖ,893,-1
+479,24603,,,,,,,,,Tele2,894,-1
+480,27001,,,,,,,,,P&T Luxembourg,895,-1
+481,27077,,,,,,,,,Tango,896,-1
+482,27099,,,,,,,,,Orange,897,-1
+483,24701,,,,,,,,,LMT,898,-1
+484,24702,,,,,,,,,Tele2/ZZ,899,-1
+485,24703,,,,,,,,,Telekom Baltija,900,-1
+486,24704,,,,,,,,,Beta Telecom,901,-1
+487,60400,,,,,,,,,Méditélécom,902,-1
+488,60401,,,,,,,,,Maroc,903,-1
+489,25901,,,,,,,,,Orange Moldova GSM,904,-1
+490,25902,,,,,,,,,Moldcell GSM,905,-1
+491,25904,,,,,,,,,Eventis Mobile GSM,906,-1
+492,64901,,,,,,,,,Mobile Telecommunications Ltd.,941,-1
+493,64903,,,,,,,,,Powercom Pty Ltd,942,-1
+494,54601,,,,,,,,,OPT Mobilis,943,-1
+495,61402,,,,,,,,,Airtel Niger,945,-1
+496,24201,,,,,,,,,Telenor,958,-1
+497,24202,,,,,,,,,Telia,959,-1
+498,24203,,,,,,,,,Teletopia Mobile Communications AS,960,-1
+499,24204,,,,,,,,,Tele2 Norge AS,961,-1
+500,42901,,,,,,,,,Nepal Telecommunications,962,-1
+501,42903,,,,,,,,,Nepal Telecommunications,962,-1
+502,53000,,,,,,,,,Reserved for AMPS MIN based IMSI's,963,-1
+503,53002,,,,,,,,,Teleom New Zealand CDMA Network,965,-1
+504,53003,,,,,,,,,Woosh Wireless - CDMA Network,966,-1
+505,53004,,,,,,,,,TelstraClear - GSM Network,967,-1
+506,53005,,,,,,,,,Spark,968,-1
+507,53024,,,,,,,,,2degrees,969,-1
+508,42202,,,,,,,,,Omantel,970,-1
+509,42204,,,,,,,,,Omantel,970,-1
+510,42203,,,,,,,,,Ooredoo,971,-1
+511,71401,,,,,,,,,Cable & Wireless Panama S.A.,973,-1
+512,71402,,,,,,,,,Movistar,974,-1
+513,714020,,,,,,,,,Movistar,974,-1
+514,64710,,,,,,,,,Société Réunionnaise du Radiotéléphone,1008,-1
+515,22603,,,,,telekom.ro,,,,Telekom Romania,1010,-1
+516,22603,,,,,cosmote,,,,Telekom Romania,1010,-1
+517,22603,,,,,frog,,,,Telekom Romania,1010,-1
+518,22603,,,,,mtv mobile,,,,Telekom Romania,1010,-1
+519,22606,,,,,telekom.ro,,,,Telekom Romania,1010,-1
+520,22606,,,,,cosmote,,,,Telekom Romania,1010,-1
+521,22606,,,,,frog,,,,Telekom Romania,1010,-1
+522,22606,,,,,mtv mobile,,,,Telekom Romania,1010,-1
+523,22610,,,,,,,,,Orange,1011,-1
+524,22001,,,,,,,,,Telenor d.o.o.,1012,-1
+525,22002,,,,,,,,,Telenor d.o.o.,1012,-1
+526,22003,,,,,,,,,Telekom Srbija a.d.,1013,-1
+527,22005,,,,,,,,,Vip mobile d.o.o.,1014,-1
+528,25002,,,,,,,,,MegaFon,1016,-1
+529,25004,,,,,,,,,Sibchallenge,1018,-1
+530,25007,,,,,,,,,BM Telecom,1020,-1
+531,25010,,,,,,,,,Don Telecom,1021,-1
+532,25011,,,,,,,,,Orensot,1022,-1
+533,25013,,,,,,,,,Kuban GSM,1024,-1
+534,25016,,,,,,,,,New Telephone Company,1025,-1
+535,25019,,,,,,,,,Volgograd Mobile,1027,-1
+536,25003,,,,,,,,,Tele2,1028,-1
+537,25005,,,,,,,,,Tele2,1028,-1
+538,25012,,,,,,,,,Tele2,1028,-1
+539,25017,,,,,,,,,Tele2,1028,-1
+540,25020,,,,,,,,,Tele2,1028,-1
+541,25039,,,,,,,,,Tele2,1028,-1
+542,25028,,,,,,,,,Extel,1029,-1
+543,25044,,,,,,,,,Stuvtelesot,1031,-1
+544,61904,,,,,,,,,Comium (Sierra Leone) Ltd.,1074,-1
+545,61905,,,,,,,,,Lintel (Sierra Leone) Ltd.,1075,-1
+546,61925,,,,,,,,,Mobitel,1076,-1
+547,61940,,,,,,,,,Datatel (SL) Ltd GSM,1077,-1
+548,63730,,,,,,,,,Golis Telecommunications Company,1082,-1
+549,74602,,,,,,,,,Telesur,1083,-1
+550,74603,,,,,,,,,Digicel,1084,-1
+551,74604,,,,,,,,,Intelsur,1085,-1
+552,62601,,,,,,,,,Companhia Santomese de Telecomunicaçôes,1086,-1
+553,70602,,,,,,,,,"Digicel, S.A. de C.V.",1087,-1
+554,41701,,,,,,,,,Syriatel,1088,-1
+555,41702,,,,,,,,,Spacetel Syria,1089,-1
+556,41709,,,,,,,,,Syrian Telecom,1090,-1
+557,65310,,,,,,,,,Swazi MTN,1091,-1
+558,376352,,,,,,,,,IslandCom Communications Ltd.,1092,-1
+559,62201,,,,,,,,,Airtel Chad,1093,-1
+560,62202,,,,,,,,,Tchad Mobile,1094,-1
+561,61501,,,,,,,,,Togo Telecom,1095,-1
+562,52000,,,,,,,,,CAT CDMA,1096,-1
+563,52002,,,,,,,,,CAT CDMA,1096,-1
+564,52001,,,,,,,,,AIS GSM,1097,-1
+565,52003,,,,,,,,,AIS,1098,-1
+566,90103,,,,,,,,,"Iridium Satellite, LLC (GMSS)",1136,-1
+567,90104,,,,,,,,,Globalstar,1137,-1
+568,90105,,,,,,,,,Thuraya RMSS Network,1138,-1
+569,90106,,,,,,,,,Thuraya Satellite Telecommunications Company,1139,-1
+570,310060,,,,,,,,,Consolidated Telcom,1166,-1
+571,310080,,,,,,,,,Corr Wireless Communications LLC,1168,-1
+572,310100,,,,,,,,,New Mexico RSA 4 East Ltd. Partnership,1170,-1
+573,310340,,,,,,,,,"High Plains Midwest LLC, dba Wetlink Communications",1183,-1
+574,310350,,,,,,,,,Mohave Cellular L.P.,1184,-1
+575,310360,,,,,,,,,Cellular Network Partnership dba Pioneer Cellular,1185,-1
+576,310370,,,,,,,,,Guamcell Cellular and Paging,1186,-1
+577,310030,,,,,,,,,AT&T,1187,-1
+578,310070,,,,,,,,,AT&T,1187,-1
+579,310170,,,,,,,,,AT&T,1187,-1
+580,310280,,,,,,,,,AT&T,1187,-1
+581,310380,,,,,,,,,AT&T,1187,-1
+582,310410,,,,,,,,,AT&T,1187,-1
+583,310560,,,,,,,,,AT&T,1187,-1
+584,310680,,,,,,,,,AT&T,1187,-1
+585,310950,,,,,,,,,AT&T,1187,-1
+586,311180,,,,,,,,,AT&T,1187,-1
+587,310390,,,,,,,,,TX-11 Acquistion LLC,1188,-1
+588,310400,,,,,,,,,Wave Runner LLC,1189,-1
+589,311250,,,,,,,,,Wave Runner LLC,1189,-1
+590,310420,,,,,,,,,Cincinnati Bell Wireless LLC,1190,-1
+591,310430,,,,,,,,,Alaska Digitel LLC,1191,-1
+592,310440,,,,,,,,,Numerex Corp.,1192,-1
+593,310450,,,,,,,,,North East Cellular Inc.,1193,-1
+594,310460,,,,,,,,,TMP Corporation,1194,-1
+595,310480,,,,,,,,,Choice Phone LLC,1195,-1
+596,311120,,,,,,,,,Choice Phone LLC,1195,-1
+597,310500,,,,,,,,,"Public Service Cellular, Inc.",1196,-1
+598,310510,,,,,,,,,Airtel Wireless LLC,1197,-1
+599,310520,,,,,,,,,VeriSign,1198,-1
+600,310540,,,,,,,,,Oklahoma Western Telephone Company,1199,-1
+601,310960,,,,,,,,,UBET Wireless,1234,-1
+602,310970,,,,,,,,,Globalstar USA,1235,-1
+603,311000,,,,,,,,,Mid-Tex Cellular Ltd.,1236,-1
+604,311010,,,,,,,,,"Chariton Valley Communications Corp., Inc.",1237,-1
+605,311020,,,,,,,,,Missouri RSA No. 5 Partnership,1238,-1
+606,311030,,,,,,,,,"Indigo Wireless, Inc.",1239,-1
+607,311040,,,,,,,,,"Commet Wireless, LLC",1240,-1
+608,311050,,,,,,,,,Thumb Cellular Limited Partnership,1241,-1
+609,311060,,,,,,,,,Space Data Corporation,1242,-1
+610,311070,,,,,,,,,Easterbrooke Cellular Corporation,1243,-1
+611,311080,,,,,,,,,Pine Telephone Company dba Pine Cellular,1244,-1
+612,311090,,,,,,,,,Siouxland PCS,1245,-1
+613,311110,,,,,,,,,Alltel Communications Inc.,1246,-1
+614,311270,,,,,,,,,Alltel Communications Inc.,1246,-1
+615,311271,,,,,,,,,Alltel Communications Inc.,1246,-1
+616,311272,,,,,,,,,Alltel Communications Inc.,1246,-1
+617,311273,,,,,,,,,Alltel Communications Inc.,1246,-1
+618,311274,,,,,,,,,Alltel Communications Inc.,1246,-1
+619,311275,,,,,,,,,Alltel Communications Inc.,1246,-1
+620,311276,,,,,,,,,Alltel Communications Inc.,1246,-1
+621,311277,,,,,,,,,Alltel Communications Inc.,1246,-1
+622,311278,,,,,,,,,Alltel Communications Inc.,1246,-1
+623,311279,,,,,,,,,Alltel Communications Inc.,1246,-1
+624,311140,,,,,,,,,MBO Wireless Inc./Cross Telephone Company,1247,-1
+625,311150,,,,,,,,,Wilkes Cellular Inc.,1248,-1
+626,311320,,,,,,,,,Commnet Wireless LLC,1261,-1
+627,311330,,,,,,,,,Bag Tussel Wireless LLC,1262,-1
+628,311340,,,,,,,,,Illinois Valley Cellular,1263,-1
+629,311350,,,,,,,,,Torrestar Networks Inc,1264,-1
+630,311360,,,,,,,,,Stelera Wireless LLC,1265,-1
+631,45201,,,,,,,,,Mobifone,1299,-1
+632,45202,,,,,,,,,Vinaphone,1300,-1
+633,54101,,,,,,,,,SMILE,1301,-1
+634,54901,,,,,,,,,Telecom Samoa Cellular Ltd.,1302,-1
+635,65506,,,,,,,,,Sentech (Pty) Ltd.,1307,-1
+636,65507,,,,,,,,,Cell C (Pty) Ltd.,1308,-1
+637,65510,,,,,,,,,MTN,1309,-1
+638,65512,,,,,,,,,MTN,1309,-1
+639,65511,,,,,,,,,SAPS Gauteng,1310,-1
+640,65521,,,,,,,,,Cape Town Metropolitan Council,1311,-1
+641,65530,,,,,,,,,Bokamoso Consortium,1312,-1
+642,65531,,,,,,,,,Karabo Telecoms (Pty) Ltd.,1313,-1
+643,65532,,,,,,,,,Ilizwi Telecommunications,1314,-1
+644,65533,,,,,,,,,Thinta Thinta Telecommunications,1315,-1
+645,65534,,,,,,,,,Bokone Telecoms,1316,-1
+646,65535,,,,,,,,,Kingdom Communications,1317,-1
+647,65536,,,,,,,,,Amatole Telecommunication Services,1318,-1
+648,64501,,,,,,,,,Airtel Zambia,1319,-1
+649,64502,,,,,,,,,Telecel Zambia Ltd.,1320,-1
+650,64503,,,,,,,,,Zamtel,1321,-1
+651,64801,,,,,,,,,Net One,1322,-1
+652,344920,,,,,,,,,Cable & Wireless (Antigua),1325,-1
+653,344930,,,,,,,,,AT&T Wireless (Antigua),1326,-1
+654,365010,,,,,,,,,Weblinks Limited,1327,-1
+655,27601,01,,,,,,,,Telekom Albania,1328,-1
+656,27602,,,,,vodafone al,,,,Vodafone,1329,-1
+657,27603,,,,,,,,,Eagle Mobile,1330,-1
+658,36251,,,,,,,,,TELCELL GSM,1331,-1
+659,36269,,,,,,,,,CT GSM,1332,-1
+660,36291,,,,,,,,,SETEL GSM,1333,-1
+661,63102,,,,,,,,,Unitel,1334,-1
+662,722010,,,,,,,,,Compañía de Radiocomunicaciones Moviles S.A.,1335,-1
+663,722020,,,,,,,,,Nextel Argentina srl,1336,-1
+664,722070,,,,,,,,,Movistar,1337,-1
+665,72207,,,,,,,,,Movistar,1337,-1
+666,722310,,,,,,,,,Claro AR,1338,-1
+667,72231,,,,,,,,,Claro AR,1338,-1
+668,722320,,,,,,,,,Compañía de Telefonos del Interior Norte S.A.,1339,-1
+669,722330,,,,,,,,,Compañía de Telefonos del Interior S.A.,1340,-1
+670,722340,,,,,,,,,Telecom Personal S.A.,1341,-1
+671,72234,,,,,,,,,Telecom Personal S.A.,1341,-1
+672,722341,,,,,,,,,Telecom Personal S.A.,1341,-1
+673,23208,,,,,,,,,Telefonica Austria,1343,-1
+674,23205,,,,,,,,,Drei,1344,-1
+675,23210,,,,,,,,,Drei,1344,-1
+676,50501,,,,,,,,,Telstra,1345,-1
+677,50511,,,,,,,,,Telstra,1345,-1
+678,50571,,,,,,,,,Telstra,1345,-1
+679,50572,,,,,,,,,Telstra,1345,-1
+680,50504,,,,,,,,,Department of Defence,1346,-1
+681,50505,,,,,,,,,The Ozitel Network Pty. Ltd.,1347,-1
+682,50506,,,,,,,,,Hutchison 3G Australia Pty. Ltd.,1348,-1
+683,50508,,,,,,,,,One.Tel GSM 1800 Pty. Ltd.,1349,-1
+684,50599,,,,,,,,,One.Tel GSM 1800 Pty. Ltd.,1349,-1
+685,50509,,,,,,,,,Airnet Commercial Australia Ltd.,1350,-1
+686,50512,,,,,,,,,Hutchison Telecommunications (Australia) Pty. Ltd.,1351,-1
+687,50514,,,,,,,,,AAPT Ltd.,1352,-1
+688,50515,,,,,,,,,3GIS Pty Ltd. (Telstra & Hutchison 3G),1353,-1
+689,40001,,,,,,,,,Azercell Limited Liability Joint Venture,1354,-1
+690,40003,,,,,,,,,Catel JV,1355,-1
+691,40004,,,,,,,,,Azerphone LLC,1356,-1
+692,21803,,,,,,,,,Eronet Mobile Communications Ltd.,1357,-1
+693,21805,,,,,,,,,MOBI'S (Mobilina Srpske),1358,-1
+694,21890,,,,,,,,,GSMBIH,1359,-1
+695,342600,,,,,,,,,Cable & Wireless (Barbados) Ltd.,1360,-1
+696,342820,,,,,,,,,Sunbeach Communications,1361,-1
+697,47001,,,,,,,,,GramenPhone,1362,-1
+698,47002,,,,,,,,,Aktel,1363,-1
+699,47003,,,,,,,,,Mobile 2000,1364,-1
+700,20601,,,,,,,,,Proximus,1365,-1
+701,20610,,,,,,,,,Orange,1366,-1
+702,20620,,,,,,,,,BASE,1367,-1
+703,61302,,,,,,,,,Orange,1368,-1
+704,61303,,,,,,,,,Telecel,1369,-1
+705,28401,,,,,,,,,A1,1370,-1
+706,28405,,,,,,,,,Telenor,1371,-1
+707,42601,,,,,,,,,Batelco,1372,-1
+708,42605,,,,,,,,,Batelco,1372,-1
+709,64201,,,,,,,,,Spacetel Burundi,1373,-1
+710,64202,,,,,,,,,Safaris,1374,-1
+711,64203,,,,,,,,,Telecel Burundi Company,1375,-1
+712,61601,,,,,,,,,Libercom,1376,-1
+713,61602,,,,,,,,,Telecel,1377,-1
+714,61603,,,,,,,,,Spacetel Benin,1378,-1
+715,52811,,,,,,,,,DST Com,1379,-1
+716,73601,,,,,,,,,Nuevatel S.A.,1380,-1
+717,73602,,,,,,,,,ENTEL S.A.,1381,-1
+718,73603,,,,,,,,,Telecel S.A.,1382,-1
+719,72400,,,,,,,,,Nextel,1383,-1
+720,72439,,,,,,,,,Nextel,1383,-1
+721,72401,,,,,,,,,CRT Cellular,1384,-1
+722,72402,,,,,,,,,TIM,1385,-1
+723,72403,,,,,,,,,TIM,1385,-1
+724,72404,,,,,,,,,TIM,1385,-1
+725,72407,,,,,,,,,Sercontel Cel,1388,-1
+726,72430,,,,,,,,,Oi,1389,-1
+727,72431,,,,,,,,,Oi,1389,-1
+728,72424,,,,,,,,,Oi,1389,-1
+729,72432,,,,,,,,,CTBC Celular,1390,-1
+730,72433,,,,,,,,,CTBC Celular,1390,-1
+731,72434,,,,,,,,,CTBC Celular,1390,-1
+732,72435,,,,,,,,,Telebahia Cel,1391,-1
+733,72437,,,,,,,,,Telergipe Cel,1392,-1
+734,72441,,,,,,,,,Telpe Cel,1394,-1
+735,72443,,,,,,,,,Telepisa Cel,1395,-1
+736,72445,,,,,,,,,Telpa Cel,1396,-1
+737,72447,,,,,,,,,Telern Cel,1397,-1
+738,72448,,,,,,,,,Teleceara Cel,1398,-1
+739,72451,,,,,,,,,Telma Cel,1399,-1
+740,72453,,,,,,,,,Telepara Cel,1400,-1
+741,72455,,,,,,,,,Teleamazon Cel,1401,-1
+742,40217,,,,,,,,,B-Mobile of Bhutan Telecom,1402,-1
+743,302720,,,,,,,,,Rogers,1403,-1
+744,30272,,,,,,,,,Rogers,1403,-1
+745,302220,5455,,,,,,,,TELUS Mobility,1404,-1
+746,302221,5455,,,,,,,,TELUS Mobility,1404,-1
+747,30222,5455,,,,,,,,TELUS Mobility,1404,-1
+748,30286,5455,,,,,,,,TELUS Mobility,1404,-1
+749,63001,,,,,,,,,Vodacom Congo RDC sprl,1405,-1
+750,63005,,,,,,,,,Supercell Sprl,1406,-1
+751,63086,,,,,,,,,Orange RDC,1407,-1
+752,62301,,,,,,,,,Centrafrique Telecom Plus (CTP),1408,-1
+753,62302,,,,,,,,,Telecel Centrafrique (TC),1409,-1
+754,62303,,,,,,,,,Orange Centrafricaine,1410,-1
+755,62901,,,,,,,,,Airtel Congo,1411,-1
+756,62910,,,,,,,,,Libertis Telecom,1412,-1
+757,22802,,,,,,,,,Sunrise,1413,-1
+758,22812,,,,,,,,,Sunrise,1413,-1
+759,22803,,,,,,,,,Salt,1414,-1
+760,22805,,,,,,,,,Comfone AG,1415,-1
+761,22806,,,,,,,,,SBB AG,1416,-1
+762,22807,,,,,,,,,IN&Phone SA,1417,-1
+763,22808,,,,,,,,,Tele2 Telecommunications AG,1418,-1
+764,22851,,,,,,,,,Bebbicell AG,1419,-1
+765,61202,,,,,,,,,Atlantique Cellulaire,1420,-1
+766,61203,,,,,,,,,Orange Côte d'Ivoire,1421,-1
+767,61204,,,,,,,,,Comium Côte d'Ivoire,1422,-1
+768,61205,,,,,,,,,Loteny Telecom,1423,-1
+769,61206,,,,,,,,,Oricel Côte d'Ivoire,1424,-1
+770,61207,,,,,,,,,Aircomm Côte d'Ivoire,1425,-1
+771,54801,,,,,,,,,Telecom Cook,1426,-1
+772,73001,,,,,,,,,Entel,1427,-1
+773,73010,,,,,,,,,Entel,1427,-1
+774,73002,,,,,,,,,Movistar,1428,-1
+775,73007,,,,,,,,,Movistar,1428,-1
+776,73003,,,,,,,,,Claro CL,1429,-1
+777,73004,,,,,,,,,WOM,1430,-1
+778,73009,,,,,,,,,WOM,1430,-1
+779,73005,,,,,,,,,Multikom S.A.,1431,-1
+780,62401,,,,,,,,,Mobile Telephone Networks Cameroon,1433,-1
+781,62402,,,,,,,,,Orange Cameroun,1434,-1
+782,46000,,,,,,,,,China Mobile,1435,-1
+783,46002,,,,,,,,,China Mobile,1435,-1
+784,46004,,,,,,,,,China Mobile,1435,-1
+785,46007,,,,,,,,,China Mobile,1435,-1
+786,46008,,,,,,,,,China Mobile,1435,-1
+787,46001,,,,,,,,,China Unicom,1436,-1
+788,46006,,,,,,,,,China Unicom,1436,-1
+789,46009,,,,,,,,,China Unicom,1436,-1
+790,732001,,,,,,,,,Colombia Telecomunicaciones S.A. - Telecom,1438,-1
+791,732002,,,,,,,,,Edatel S.A.,1439,-1
+792,732020,,,,,,,,,Emtelsa,1440,-1
+793,732099,,,,,,,,,Emcali,1441,-1
+794,732101,,,,,,,,,Claro CO,1442,-1
+795,732102,,,,,,,,,Bellsouth Colombia S.A.,1443,-1
+796,36801,,,,,,,,,ETECSA,1444,-1
+797,62501,,,,,,,,,Cabo Verde Telecom,1445,-1
+798,62502,,,,,,,,,T+Telecomunicaçôes,1446,-1
+799,28001,,,,,,,,,CYTA,1447,-1
+800,28010,,,,,,,,,epic,1448,-1
+801,23002,,,,,,,,,O2,1449,-1
+802,23004,,,,,,,,,Mobilkom a.s.,1450,-1
+803,23098,,,,,,,,,Sprava Zeleznicni Dopravni Cesty,1451,-1
+804,23003,,,,,vodafone cz,,,,Vodafone,1452,-1
+805,23099,,,,x,,,,,Vodafone,1452,-1
+806,26203,,,,,,,,,Telefonica,1453,-1
+807,26205,,,,,,,,,Telefonica,1453,-1
+808,26277,,,,,,,,,Telefonica,1453,-1
+809,26207,,,,,,,,,o2,1454,-1
+810,26208,,,,,,,,,o2,1454,-1
+811,26210,,,,,,,,,Arcor AG & Co.,1455,-1
+812,26211,,,,,,,,,O2 (Germany) GmbH & Co. OHG,1456,-1
+813,26212,,,,,,,,,Dolphin Telecom (Deutschland) GmbH,1457,-1
+814,26213,,,,,,,,,Mobilcom Multimedia GmbH,1458,-1
+815,26214,,,,,,,,,Group 3G UMTS GmbH (Quam),1459,-1
+816,26215,,,,,,,,,Airdata AG,1460,-1
+817,26276,,,,,,,,,"Siemens AG, ICMNPGUSTA",1461,-1
+818,63801,,,,,,,,,Evatis,1462,-1
+819,23801,,,,,,,,,TDC Mobil,1463,-1
+820,23810,,,,,,,,,TDC Mobil,1463,-1
+821,23802,,,,,,,,,Telenor,1464,-1
+822,23866,,,,,,,,,Telenor,1464,-1
+823,23803,,,,,,,,,MIGway A/S,1465,-1
+824,23806,,,,,,,,,3,1466,-1
+825,37002,,,,,,,,,Claro RD,1467,-1
+826,370020,,,,,,,,,Claro RD,1467,-1
+827,37003,,,,,,,,,Tricom S.A.,1468,-1
+828,37004,,,,,,,,,CentennialDominicana,1469,-1
+829,60301,,,,,,,,,Algérie Telecom,1470,-1
+830,60302,,,,,,,,,Orascom Telecom Algérie,1471,-1
+831,74000,,,,,,,,,Movistar,1472,-1
+832,74001,,,,,,,,,Claro EC,1473,-1
+833,740010,,,,,,,,,Claro EC,1473,-1
+834,74002,,,,,,,,,Telecsa S.A.,1474,-1
+835,24405,,,,,,,,,Elisa,1475,-1
+836,24421,,,,,,,,,Elisa,1475,-1
+837,24409,,,,,,,,,Finnet Group,1476,-1
+838,24414,,,,,,,,,Alands Mobiltelefon AB,1477,-1
+839,24416,,,,,,,,,Oy Finland Tele2 AB,1478,-1
+840,24491,,,,,,,,,Telia,1480,-1
+841,54201,,,,,,,,,Vodafone,1481,-1
+842,55001,,,,,,,,,FSM Telecom,1482,-1
+843,28801,,,,,,,,,Faroese Telecom - GSM,1483,-1
+844,28802,,,,,,,,,Kall GSM,1484,-1
+845,20805,,,,,,,,,Globalstar Europe,1486,-1
+846,20806,,,,,,,,,Globalstar Europe,1486,-1
+847,20807,,,,,,,,,Globalstar Europe,1486,-1
+848,20820,,,,,,,,,Bouygues Telecom,1487,-1
+849,20821,,,,,,,,,Bouygues Telecom,1487,-1
+850,20888,,,,,,,,,Bouygues Telecom,1487,-1
+851,62801,,,,,,,,,Libertis S.A.,1488,-1
+852,62802,,,,,,,,,Telecel Gabon S.A.,1489,-1
+853,62803,,,,,,,,,Airtel Gabon,1490,-1
+854,23401,,,,,,,,,Mapesbury Communications Ltd.,1491,-1
+855,23402,,,,,,,,,O2,1492,-1
+856,23410,,,,,,,,,O2,1492,-1
+857,23411,,,,,,,,,O2,1492,-1
+858,23403,,,,,,,,,Jersey Telenet Ltd,1493,-1
+859,23404,,,,,,,,,FMS Solutions Ltd,1494,-1
+860,23405,,,,,,,,,Colt Mobile Telecommunications Ltd,1495,-1
+861,23406,,,,,,,,,Internet One Ltd,1496,-1
+862,23407,,,,,,,,,Cable and Wireless plc,1497,-1
+863,23409,,,,,,,,,Wire9 Telecom plc,1498,-1
+864,23418,,,,,,,,,Wire9 Telecom plc,1498,-1
+865,23412,,,,,,,,,Ntework Rail Infrastructure Ltd,1500,-1
+866,23413,,,,,,,,,Ntework Rail Infrastructure Ltd,1500,-1
+867,23414,,,,,,,,,Hay Systems Ltd,1501,-1
+868,23416,,,,,,,,,Opal Telecom Ltd,1502,-1
+869,23417,,,,,,,,,Flextel Ltd,1503,-1
+870,23419,,,,,,,,,Teleware plc,1504,-1
+871,23420,,,,,,,,,Three Mobile,1505,-1
+872,23494,,,,,,,,,Three Mobile,1505,-1
+873,23594,,,,,,,,,Three Mobile,1505,-1
+874,23450,,,,,,,,,Jersey Telecom,1506,-1
+875,23458,,,,,,,,,Manx Telecom,1507,-1
+876,23410,519,,,,,,,,Manx Telecom,1507,-1
+877,23475,,,,,,,,,Inquam Telecom (Holdings) Ltd.,1508,-1
+878,23400,,,,,,,,,British Telecom,1509,-1
+879,23476,,,,,,,,,British Telecom,1509,-1
+880,23478,,,,,,,,,Airwave mmO2 Ltd,1510,-1
+881,28201,,,,,,,,,Geocell Ltd.,1511,-1
+882,28202,,,,,,,,,Magti GSM Ltd.,1512,-1
+883,28203,,,,,,,,,Iberiatel Ltd.,1513,-1
+884,28204,,,,,,,,,Mobitel Ltd.,1514,-1
+885,62001,,,,,,,,,MTN,1515,-1
+886,62002,,,,,vodafone gh,,,,Vodafone,1516,-1
+887,62004,,,,,,,,,Kasapa Telecom Ltd.,1518,-1
+888,20210,,,,,,,,,Telestet,1519,-1
+889,70401,,,,,,,,,Claro GT,1520,-1
+890,70402,,,,,,,,,Comunicaciones Celulares S.A.,1521,-1
+891,70403,,,,,,,,,Movistar,1522,-1
+892,704030,,,,,,,,,Movistar,1522,-1
+893,63201,,,,,,,,,Guinétel S.A.,1523,-1
+894,63202,,,,,,,,,Spacetel Guiné-Bissau S.A.,1524,-1
+895,73801,,,,,,,,,Cel*Star (Guyana) Inc.,1525,-1
+896,45400,,,,,,,,,1O1O / csl / Club Sim,1526,-1
+897,45419,,,,,,,,,1O1O / csl / Club Sim,1526,-1
+898,45401,,,,,,,,,MVNO/CITIC,1527,-1
+899,708002,,,,,,,,,Celtel,1528,-1
+900,70802,,,,,,,,,Celtel,1528,-1
+901,708020,,,,,,,,,Celtel,1528,-1
+902,21902,,,,,,,,,Tele2,1529,-1
+903,21910,,,,,,,,,A1/Tomato,1530,-1
+904,37201,,,,,,,,,Comcel,1531,-1
+905,37202,,,,,,,,,Digicel,1532,-1
+906,37203,,,,,,,,,Rectel,1533,-1
+907,21601,,,,,,,,,Telenor,1534,-1
+908,21670,,,,,,,,,Vodafone,1535,-1
+909,21670,,,,,vodafone hu,,,,Vodafone,1535,-1
+910,21670,,,,21670xx2,,,,,Vodafone,1535,-1
+911,51000,,,,,,,,,PSN,1536,-1
+912,51001,,,,,,,,,Indosat,1537,-1
+913,40409,,,,,,,,,Reliance,1543,-1
+914,40418,,,,,,,,,Reliance,1543,-1
+915,40436,,,,,,,,,Reliance,1543,-1
+916,40450,,,,,,,,,Reliance,1543,-1
+917,40452,,,,,,,,,Reliance,1543,-1
+918,40467,,,,,,,,,Reliance,1543,-1
+919,40485,,,,,,,,,Reliance,1543,-1
+920,40501,,,,,,,,,Reliance,1543,-1
+921,40503,,,,,,,,,Reliance,1543,-1
+922,40504,,,,,,,,,Reliance,1543,-1
+923,40505,,,,,,,,,Reliance,1543,-1
+924,40506,,,,,,,,,Reliance,1543,-1
+925,40507,,,,,,,,,Reliance,1543,-1
+926,40508,,,,,,,,,Reliance,1543,-1
+927,40509,,,,,,,,,Reliance,1543,-1
+928,40510,,,,,,,,,Reliance,1543,-1
+929,40511,,,,,,,,,Reliance,1543,-1
+930,40512,,,,,,,,,Reliance,1543,-1
+931,40513,,,,,,,,,Reliance,1543,-1
+932,40514,,,,,,,,,Reliance,1543,-1
+933,40515,,,,,,,,,Reliance,1543,-1
+934,40517,,,,,,,,,Reliance,1543,-1
+935,40518,,,,,,,,,Reliance,1543,-1
+936,40519,,,,,,,,,Reliance,1543,-1
+937,40520,,,,,,,,,Reliance,1543,-1
+938,40521,,,,,,,,,Reliance,1543,-1
+939,40522,,,,,,,,,Reliance,1543,-1
+940,40523,,,,,,,,,Reliance,1543,-1
+941,40421,,,,,,,,,BPL Mobile Communications Ltd.,1545,-1
+942,40434,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+943,40438,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+944,40451,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+945,40453,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+946,40454,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+947,40455,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+948,40457,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+949,40458,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+950,40459,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+951,40462,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+952,40464,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+953,40466,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+954,40471,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+955,40472,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+956,40473,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+957,40474,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+958,40475,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+959,40476,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+960,40477,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+961,40479,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+962,40480,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+963,40481,,,,,,,,,Bharat Sanchar Nigam Ltd. (BSNL),1549,-1
+964,40441,,,,,,,,,RPG Cellular,1550,-1
+965,40442,,,,,,,,,Aircel Ltd.,1551,-1
+966,40425,,,,,,,,,Aircel Ltd.,1551,-1
+967,40428,,,,,,,,,Aircel Ltd.,1551,-1
+968,40429,,,,,,,,,Aircel Ltd.,1551,-1
+969,40437,,,,,,,,,Aircel Ltd.,1551,-1
+970,40491,,,,,,,,,Aircel Ltd.,1551,-1
+971,405800,,,,,,,,,Aircel Ltd.,1551,-1
+972,405801,,,,,,,,,Aircel Ltd.,1551,-1
+973,405802,,,,,,,,,Aircel Ltd.,1551,-1
+974,405803,,,,,,,,,Aircel Ltd.,1551,-1
+975,405804,,,,,,,,,Aircel Ltd.,1551,-1
+976,405805,,,,,,,,,Aircel Ltd.,1551,-1
+977,405806,,,,,,,,,Aircel Ltd.,1551,-1
+978,405807,,,,,,,,,Aircel Ltd.,1551,-1
+979,405808,,,,,,,,,Aircel Ltd.,1551,-1
+980,405809,,,,,,,,,Aircel Ltd.,1551,-1
+981,405810,,,,,,,,,Aircel Ltd.,1551,-1
+982,405811,,,,,,,,,Aircel Ltd.,1551,-1
+983,405812,,,,,,,,,Aircel Ltd.,1551,-1
+984,40468,,,,,,,,,Mahanagar Telephone Nigam Ltd.,1556,-1
+985,40469,,,,,,,,,Mahanagar Telephone Nigam Ltd.,1556,-1
+986,40483,,,,,,,,,Reliable Internet Services Ltd.,1559,-1
+987,43211,,,,,,,,,IR-MCI (Hamrahe Avval),1562,-1
+988,43214,,,,,,,,,Telecommunication Kish Co. (KIFZO),1563,-1
+989,43219,,,,,,,,,MTCE (Espadan),1564,-1
+990,27401,,,,,,,,,Iceland Telecom Ltd.,1565,-1
+991,27402,,,,,,,,,Tal hf,1566,-1
+992,27403,,,,,,,,,Islandssimi GSM ehf,1567,-1
+993,27404,,,,,,,,,IMC Islande ehf,1568,-1
+994,27407,,,,,,,,,IceCell ehf,1569,-1
+995,22202,,,,,,,,,Elsacom,1571,-1
+996,22277,,,,,,,,,IPSE 2000,1572,-1
+997,22288,,,,,,,,,WINDTRE,1573,-1
+998,22298,,,,,,,,,Blu,1574,-1
+999,22299,,,,,,,,,WINDTRE,1575,-1
+1000,338020,,,,,,,,,Cable & Wireless Jamaica Ltd.,1576,-1
+1001,338050,,,,,,,,,Mossel (Jamaica) Ltd.,1577,-1
+1002,33805,,,,,,,,,Mossel (Jamaica) Ltd.,1577,-1
+1003,41601,,,,,,,,,Fastlink,1578,-1
+1004,41602,,,,,,,,,Xpress,1579,-1
+1005,41603,,,,,,,,,Umniah,1580,-1
+1006,44050,10,,,,,,,,au,1581,-1
+1007,44051,10,,,,,,,,au,1581,-1
+1008,44052,10,,,,,,,,au,1581,-1
+1009,41902,,,,,,,,,Zain,1585,-1
+1010,41903,,,,,,,,,Ooredoo,1586,-1
+1011,346140,,,,,,,,,Cable & Wireless (Cayman),1587,-1
+1012,40101,,,,,,,,,Beeline,1588,-1
+1013,40102,,,,,,,,,TSC Kazak Telecom,1589,-1
+1014,45701,,,,,,,,,Lao Telecommunications,1590,-1
+1015,45702,,,,,,,,,ETL Mobile,1591,-1
+1016,45708,,,,,,,,,Millicom,1592,-1
+1017,41532,,,,,,,,,Cellis,1593,-1
+1018,41533,,,,,,,,,Cellis,1593,-1
+1019,41534,,,,,,,,,Cellis,1593,-1
+1020,41535,,,,,,,,,Cellis,1593,-1
+1021,41536,,,,,,,,,Libancell,1594,-1
+1022,41537,,,,,,,,,Libancell,1594,-1
+1023,41538,,,,,,,,,Libancell,1594,-1
+1024,41539,,,,,,,,,Libancell,1594,-1
+1025,29501,,,,,,,,,Telecom FL AG,1595,-1
+1026,29502,,,,,,,,,Viag Europlatform AG,1596,-1
+1027,29505,,,,,,,,,Mobilkom (Liechstein) AG,1597,-1
+1028,29577,,,,,,,,,Tele2 AG,1598,-1
+1029,41302,,,,,,,,,Dialog Sri Lanka,1599,-1
+1030,41303,,,,,,,,,Celtel Lanka Ltd.,1600,-1
+1031,61804,,,,,,,,,Comium Liberia,1601,-1
+1032,65101,,,,,vodacom,,,,Vodacom Lesotho (pty) Ltd.,1602,-1
+1033,65102,,,,,,,,,Econet Ezin-cel,1603,-1
+1034,29703,,,,,,,,,MTEL d.o.o. Podgorica,1604,-1
+1035,64601,,,,,,,,,Airtel Madagascar,1605,-1
+1036,64602,,,,,,,,,Orange Madagascar,1606,-1
+1037,64604,,,,,,,,,Telecom Malagasy Mobile,1607,-1
+1038,29402,,,,,,,,,Cosmofon,1608,-1
+1039,29403,,,,,,,,,Nov Operator,1609,-1
+1040,61001,,,,,,,,,Malitel,1610,-1
+1041,41401,,,,,,,,,Myanmar Post and Telecommunication,1611,-1
+1042,42899,,,,,,,,,Mobicom,1612,-1
+1043,45500,,,,,,,,,Smartone Mobile Communications (Macao) Ltd.,1613,-1
+1044,45501,,,,,,,,,CTM GSM,1614,-1
+1045,45504,,,,,,,,,CTM GSM,1614,-1
+1046,45503,,,,,,,,,Hutchison Telecom,1615,-1
+1047,60901,,,,,,,,,Mattel S.A.,1616,-1
+1048,60902,,,,,,,,,Chinguitel S.A.,1617,-1
+1049,60910,,,,,,,,,Mauritel Mobiles,1618,-1
+1050,27801,,,,,vodafone mt,,,,Vodafone,1619,-1
+1051,27821,,,,,,,,,go mobile,1620,-1
+1052,61701,,,,,,,,,Orange Mauritius,1621,-1
+1053,61702,,,,,,,,,Mahanagar Telephone (Mauritius) Ltd.,1622,-1
+1054,61710,,,,,,,,,Emtel,1623,-1
+1055,47201,,,,,,,,,DhiMobile,1624,-1
+1056,65001,,,,,,,,,Telekom Network Ltd.,1625,-1
+1057,65010,,,,,,,,,Airtel Malawi,1626,-1
+1058,50200,,,,,,,,,Art900,1627,-1
+1059,50212,,,,,,,,,Maxis/Hotlink,1628,-1
+1060,50210,,,,,,,,,Digi,1630,-1
+1061,502143,,,,,,,,,Digi,1630,-1
+1062,502146,,,,,,,,,Digi,1630,-1
+1063,50216,,,,,,,,,Digi,1630,-1
+1064,50217,,,,,,,,,TimeCel,1631,-1
+1065,50218,,,,,,,,,U Mobile,1632,-1
+1066,50213,,,,,,,,,Celcom,1633,-1
+1067,50219,,,,,,,,,Celcom,1633,-1
+1068,64301,,,,,,,,,T.D.M. GSM,1634,-1
+1069,64304,,,,,vodacom,,,,Vodacom,1635,-1
+1070,61401,,,,,,,,,Sahel.Com,1636,-1
+1071,61403,,,,,,,,,Telecel,1637,-1
+1072,62120,,,,,,,,,Airtel Nigeria,1638,-1
+1073,62130,,,,,,,,,MTN Nigeria Communications,1639,-1
+1074,62140,,,,,,,,,Nigeria Telecommunications Ltd.,1640,-1
+1075,71021,,,,,,,,,Claro NI,1641,-1
+1076,71073,,,,,,,,,"Servicios de Comunicaciones, S.A. (SERCOM)",1642,-1
+1077,710730,,,,,,,,,"Servicios de Comunicaciones, S.A. (SERCOM)",1642,-1
+1078,20402,4e4c,,,,,,,,Tele2,1643,-1
+1079,20402,,,,,tele2 nl,,,,Tele2,1643,-1
+1080,20408,,,,,,,,,KPN/Telfort,1644,-1
+1081,20412,,,,,,,,,KPN/Telfort,1644,-1
+1082,20421,,,,,,,,,NS Railinfrabeheer B.V.,1646,-1
+1083,71610,,,,,,,,,Claro PE,1647,-1
+1084,54720,,,,,,,,,Tikiphone,1648,-1
+1085,53701,,,,,,,,,Vodafone,1649,-1
+1086,53702,,,,,,,,,Vodafone,1649,-1
+1087,53703,,,,,,,,,Digicel Ltd,1651,-1
+1088,51501,,,,,,,,,Islacom,1652,-1
+1089,51502,,,,,,,,,Globe Telecom,1653,-1
+1090,51503,,,,,,,,,Smart Communications,1654,-1
+1091,51503,,,,5150363,,,,,Sun,1655,-1
+1092,51505,,,,,,,,,Sun,1655,-1
+1093,41001,,,,,,,,,Jazz,1656,-1
+1094,41007,,,,,,,,,Jazz,1656,-1
+1095,41003,,,,,,,,,PAK Telecom Mobile Ltd. (UFONE),1657,-1
+1096,26001,,,,,,,,,Plus,1658,-1
+1097,26003,,,,,,,,,Orange,1659,-1
+1098,26004,,,,,,,,,Tele2 Polska (Tele2 Polska Sp. Z.o.o.),1660,-1
+1099,26005,,,,,,,,,IDEA (UMTS)/PTK Centertel sp. Z.o.o.,1661,-1
+1100,26006,,,,,,,,,PLAY,1662,-1
+1101,26007,,,,,,,,,Premium internet,1663,-1
+1102,26008,,,,,,,,,E-Telko,1664,-1
+1103,26009,,,,,,,,,Telekomunikacja Kolejowa (GSM-R),1665,-1
+1104,26010,,,,,,,,,Telefony Opalenickie,1666,-1
+1105,30801,,,,,,,,,St. Pierre-et-Miquelon Télécom,1667,-1
+1106,26803,,,,,,,,,NOS,1668,-1
+1107,26805,,,,,,,,,"Oniway - Inforcomunicaçôes, S.A.",1669,-1
+1108,26802,,,,,,,,,MEO,1670,-1
+1109,26806,,,,,,,,,MEO,1670,-1
+1110,26880,,,,,,,,,MEO,1670,-1
+1111,55201,,,,,,,,,Palau National Communications Corp. (a.k.a. PNCC),1671,-1
+1112,74401,,,,,,,,,Hola Paraguay S.A.,1672,-1
+1113,74406,,,,,,,,,Hola Paraguay S.A.,1672,-1
+1114,74402,,,,,,,,,Claro PY,1673,-1
+1115,74403,,,,,,,,,Compañia Privada de Comunicaciones S.A.,1674,-1
+1116,42701,,,,,,,,,Ooredoo,1675,-1
+1117,64700,,,,,,,,,Orange La Réunion,1676,-1
+1118,64702,,,,,,,,,Telco OI,1677,-1
+1119,25001,,,,,,,,,МТС,1678,-1
+1120,25092,,,,,,,,,Printelefone,1679,-1
+1121,25093,,,,,,,,,Telecom XXI,1680,-1
+1122,25099,,,,,,,,,Билайн,1681,-1
+1123,63510,,,,,,,,,MTN Rwandacell,1682,-1
+1124,42001,,,,,,,,,STC,1683,-1
+1125,42003,,,,,,,,,Mobily,1684,-1
+1126,63301,,,,,,,,,Cable & Wireless (Seychelles) Ltd.,1685,-1
+1127,63302,,,,,,,,,Mediatech International Ltd.,1686,-1
+1128,63310,,,,,,,,,Airtel Seychelles,1687,-1
+1129,63401,,,,,,,,,SD Mobitel,1688,-1
+1130,63402,,,,,,,,,Areeba-Sudan,1689,-1
+1131,24001,,,,,,,,,Telia Sonera AB,1690,-1
+1132,24005,,,,,telia,,,,Telia Sonera AB,1690,-1
+1133,24002,,,,,,,,,3 (Hi3G Access AB),1691,-1
+1134,24003,,,,,,,,,Nordisk Mobiltelefon AS,1692,-1
+1135,24004,,,,,,,,,3G Infrastructure Services AB,1693,-1
+1136,24005,,,,,,,,,Svenska UMTS-Nät AB,1694,-1
+1137,24006,,,,,,,,,Telenor Sverige AB,1695,-1
+1138,24008,,,,,,,,,Telenor Sverige AB,1695,-1
+1139,24007,,,,,,,,,Tele2/Comviq Sverige/Com Hem,1696,-1
+1140,24024,,,,,tele2,,,,Tele2/Comviq Sverige/Com Hem,1696,-1
+1141,24010,,,,,,,,,Spring Mobil AB,1697,-1
+1142,24011,,,,,,,,,Linholmen Science Park AB,1698,-1
+1143,24012,,,,,,,,,Barablu Mobile Scandinavia Ltd,1699,-1
+1144,24013,,,,,,,,,Ventelo Sverige AB,1700,-1
+1145,24014,,,,,,,,,TDC Mobil A/S,1701,-1
+1146,24015,,,,,,,,,Wireless Maingate Nordic AB,1702,-1
+1147,24016,,,,,,,,,42IT AB,1703,-1
+1148,24020,,,,,,,,,Wireless Maingate Message Services AB,1704,-1
+1149,24021,,,,,,,,,Banverket,1705,-1
+1150,52503,,,,,,,,,M1,1706,-1
+1151,52505,,,,,,,,,StarHub,1707,-1
+1152,52512,,,,,,,,,Digital Trunked Radio Network,1708,-1
+1153,29340,,,,,,,,,SI Mobil,1709,-1
+1154,29341,,,,,,,,,Telekom Slovenije,1710,-1
+1155,29364,,,,,,,,,T-2 d.o.o.,1711,-1
+1156,29370,,,,,,,,,Tusmobil d.o.o.,1712,-1
+1157,23101,,,,,,,,,Orange,1713,-1
+1158,23104,,,,,,,,,"Eurotel, UMTS",1714,-1
+1159,23105,,,,,,,,,"Orange, UMTS",1715,-1
+1160,61901,,,,,,,,,Orange,1716,-1
+1161,61902,,,,,,,,,Millicom,1717,-1
+1162,61903,,,,,,,,,Africell,1718,-1
+1163,61950,,,,,,,,,Dtatel (SL) Ltd CDMA,1719,-1
+1164,29201,,,,,,,,,SMT - San  Marino Telecom,1720,-1
+1165,60801,,,,,,,,,Orange Senegal,1721,-1
+1166,60802,,,,,,,,,Sentel GSM,1722,-1
+1167,52015,,,,,,,,,ACT Mobile,1723,-1
+1168,43601,,,,,,,,,JC Somoncom,1724,-1
+1169,43602,,,,,,,,,CJSC Indigo Tajikistan,1725,-1
+1170,43603,,,,,,,,,TT mobile,1726,-1
+1171,43604,,,,,,,,,Josa Babilon-T,1727,-1
+1172,43605,,,,,,,,,CTJTHSC Tajik-tel,1728,-1
+1173,43801,,,,,,,,,Barash Communication Technologies (BCTI),1729,-1
+1174,43802,,,,,,,,,TM-Cell,1730,-1
+1175,60502,,,,,,,,,Tunisie Telecom,1731,-1
+1176,60503,,,,,,,,,Ooredoo Tunisia,1732,-1
+1177,53901,,,,,,,,,Tonga Communications Corporation,1733,-1
+1178,53943,,,,,,,,,Shoreline Communication,1734,-1
+1179,28601,,,,,,,,,Paycell | Turkcell,1735,-1
+1180,28602,,,,,,,,,Vodafone,1736,-1
+1181,28603,,,,,,,,,Türk Telekom,1737,-1
+1182,28604,,,,,,,,,Türk Telekom,1737,-1
+1183,37412,,,,,,,,,TSTT Mobile,1739,-1
+1184,374122,,,,,,,,,TSTT Mobile,1739,-1
+1185,374123,,,,,,,,,TSTT Mobile,1739,-1
+1186,374124,,,,,,,,,TSTT Mobile,1739,-1
+1187,374125,,,,,,,,,TSTT Mobile,1739,-1
+1188,374126,,,,,,,,,TSTT Mobile,1739,-1
+1189,374127,,,,,,,,,TSTT Mobile,1739,-1
+1190,374128,,,,,,,,,TSTT Mobile,1739,-1
+1191,374129,,,,,,,,,TSTT Mobile,1739,-1
+1192,374130,,,,,,,,,Digicel Trinidad and Tobago Ltd.,1740,-1
+1193,37413,,,,,,,,,Digicel Trinidad and Tobago Ltd.,1740,-1
+1194,374140,,,,,,,,,LaqTel Ltd.,1741,-1
+1195,64002,,,,,,,,,TIGO,1742,-1
+1196,64003,,,,,,,,,Zantel,1743,-1
+1197,64004,,,,,vodacom tanzania,,,,Vodacom (T) Ltd.,1744,-1
+1198,64005,,,,,,,,,Airtel,1745,-1
+1199,25501,,,,,,,,,"Ukrainian Mobile Communication, UMC",1746,-1
+1200,25503,,,,,,,,,Kyivstar GSM,1747,-1
+1201,25504,,,,,,,,,International Telecommunications Ltd.,1748,-1
+1202,25505,,,,,,,,,Golden Telecom,1749,-1
+1203,25506,,,,,,,,,Astelit,1750,-1
+1204,25507,,,,,,,,,Ukrtelecom,1751,-1
+1205,25521,,,,,,,,,CJSC - Telesystems of Ukraine,1752,-1
+1206,64101,,,,,,,,,Airtel Uganda,1753,-1
+1207,64122,,,,,,,,,Airtel Uganda,1753,-1
+1208,64110,,,,,,,,,MTN Uganda Ltd.,1754,-1
+1209,64111,,,,,,,,,Uganda Telecom Ltd.,1755,-1
+1210,64114,,,,,,,,,House of Integrated Technology and Systems Uganda Ltd,1756,-1
+1211,90101,,,,,,,,,ICO Global Communications,1758,-1
+1212,90102,,,,,,,,,Sense Communications International AS,1759,-1
+1213,90107,,,,,,,,,Ellipso,1760,-1
+1214,90109,,,,,,,,,Tele1 Europe,1761,-1
+1215,90110,,,,,,,,,Asia Cellular Satellite (AceS),1762,-1
+1216,90111,,,,,,,,,Inmarsat Ltd.,1763,-1
+1217,90112,,,,,,,,,Maritime Communications Partner AS (MCP network),1764,-1
+1218,90113,,,,,,,,,"Global Networks, Inc.",1765,-1
+1219,90114,,,,,,,,,Telenor GSM - services in aircraft,1766,-1
+1220,90115,,,,,,,,,SITA GSM services in aircraft (On Air),1767,-1
+1221,90116,,,,,,,,,"Jasper Systems, Inc.",1768,-1
+1222,90117,,,,,,,,,Jersey Telecom,1769,-1
+1223,90118,,,,,,,,,AT&T Mobility (Wireless Maritime Services),1770,-1
+1224,90119,,,,,,,,,Vodafone,1771,-1
+1225,90120,,,,,,,,,Intermatica,1772,-1
+1226,90121,,,,,,,,,Seanet Maritime Communications,1773,-1
+1227,90122,,,,,,,,,Denver Consultants Ltd,1774,-1
+1228,90188,,,,,,,,,Telecommunications for Disaster Relief (TDR) (OCHA),1775,-1
+1229,310010,,,,,,,,,MCI,1776,-1
+1230,310013,,,,,,,,,Mobile Tel Inc.,1778,-1
+1231,310150,,,,,,,,,Cricket Wireless,1779,-1
+1232,310017,,,,,,,,,North Sight Communications Inc.,1780,-1
+1233,310020,,,,,,,,,Union Telephone Company,1781,-1
+1234,310034,,,,,,,,,Nevada Wireless LLC,1783,-1
+1235,310040,,,,,,,,,MTA Communications dba MTA Wireless,1784,-1
+1236,310050,,,,,,,,,ACS Wireless Inc.,1785,-1
+1237,310110,,,,,,,,,Pacific Telecom Inc,1787,-1
+1238,310120,,,,,,,,,Sprint,1788,-1
+1239,312530,,,,,,,,,Sprint,1788,-1
+1240,310130,,,,,,,,,Carolina West Wireless,1789,-1
+1241,310140,,,,,,,,,GTA Wireless LLC,1790,-1
+1242,310180,,,,,,,,,West Central Wireless,1792,-1
+1243,310190,,,,,,,,,Alaska Wireless Communications LLC,1793,-1
+1244,310290,,,,,,,,,Nep Cellcorp Inc.,1795,-1
+1245,310320,,,,,,,,,"Smith Bagley Inc, dba Cellular One",1796,-1
+1246,310330,,,,,,,,,AN Subsidiary LLC,1797,-1
+1247,310550,,,,,,,,,Wireless Solutions International,1798,-1
+1248,310570,,,,,,,,,MTPCS LLC,1800,-1
+1249,310600,,,,,,,,,cellcom,1802,-1
+1250,311480,ba00040000000000,,,,,,,,cellcom,1802,-1
+1251,311840,c1000000,,,,,,,,cellcom,1802,-1
+1252,310610,,,,,,,,,Elkhart Telephone Co. Inc. dba Epic Touch Co.,1803,-1
+1253,310620,,,,,,,,,Coleman County Telecommunications Inc. (Trans Texas PCS),1804,-1
+1254,310650,,,,,,,,,Jasper Wireless Inc.,1806,-1
+1255,310670,,,,,,,,,AT&T Mobility Vanguard Services,1807,-1
+1256,310690,,,,,,,,,Limitless Mobile,1808,-1
+1257,310700,,,,,,,,,Cross Valiant Cellular Partnership,1809,-1
+1258,310710,,,,,,,,,Arctic Slopo Telephone Association Cooperative,1810,-1
+1259,310720,,,,,,,,,Wireless Solutions International Inc.,1811,-1
+1260,310730,,,,,,,,,Sea Mobile,1812,-1
+1261,310750,,,,,,,,,East Kentucky Network LLC dba Appalachian Wireless,1813,-1
+1262,310760,,,,,,,,,Panhandle Telecommunications Systems Inc.,1814,-1
+1263,310770,,,,,,,,,Iowa Wireless Services LLC dba I Wireless,1815,-1
+1264,310780,,,,,,,,,Connect Net Inc,1816,-1
+1265,310790,,,,,,,,,PinPoint Communications Inc.,1817,-1
+1266,310810,,,,,,,,,Brazos Cellular Communications Ltd.,1818,-1
+1267,310820,,,,,,,,,South Canaan Cellular Communications Co. LP,1819,-1
+1268,310830,,,,,,,,,Caprock Cellular Ltd. Partnership,1820,-1
+1269,310840,,,,,,,,,Edge Mobile LLC,1821,-1
+1270,310850,,,,,,,,,"Aeris Communications, Inc.",1822,-1
+1271,310860,,,,,,,,,"TX RSA 15B2, LP dba Five Star Wireless",1823,-1
+1272,310870,,,,,,,,,Kaplan Telephone Company Inc.,1824,-1
+1273,310880,,,,,,,,,"Advantage Cellular Systems, Inc.",1825,-1
+1274,310890,,,,,,,,,Rural Cellular Corporation,1826,-1
+1275,310900,,,,,,,,,Mid-Rivers,1827,-1
+1276,310910,,,,,,,,,Southern IL RSA Partnership dba First Cellular of Southern Illinois,1828,-1
+1277,310920,,,,,,,,,James Valley,1829,-1
+1278,310930,,,,,,,,,Copper Valley Wireless,1830,-1
+1279,311170,,,,,,,,,PetroCom LLC,1831,-1
+1280,311190,,,,,,,,,Cellular Properties Inc.,1833,-1
+1281,311200,,,,,,,,,ARINC,1834,-1
+1282,311210,,,,,,,,,Farmers Cellular Telephone,1835,-1
+1283,311230,,,,,,,,,C Spire,1836,-1
+1284,310023,,,,,,,,,C Spire,1836,-1
+1285,20404,,,,,c spire,,,,C Spire,1836,-1
+1286,20404,,,,,c spire,,,,C Spire,1836,-1
+1287,311240,,,,,,,,,Cordova Wireless Communications Inc,1837,-1
+1288,311260,,,,,,,,,SLO Cellular Inc. dba CellularOne of San Luis Obispo,1838,-1
+1289,20404,bae0000000000000,,,,,,,,Verizon Wireless,1839,-1
+1290,310012,,,,,,,,,Verizon Wireless,1839,-1
+1291,311280,,,,,,,,,Verizon Wireless,1839,-1
+1292,311281,,,,,,,,,Verizon Wireless,1839,-1
+1293,311282,,,,,,,,,Verizon Wireless,1839,-1
+1294,311283,,,,,,,,,Verizon Wireless,1839,-1
+1295,311284,,,,,,,,,Verizon Wireless,1839,-1
+1296,311285,,,,,,,,,Verizon Wireless,1839,-1
+1297,311286,,,,,,,,,Verizon Wireless,1839,-1
+1298,311287,,,,,,,,,Verizon Wireless,1839,-1
+1299,311288,,,,,,,,,Verizon Wireless,1839,-1
+1300,311289,,,,,,,,,Verizon Wireless,1839,-1
+1301,311480,,,,,,,,,Verizon Wireless,1839,-1
+1302,311481,,,,,,,,,Verizon Wireless,1839,-1
+1303,311482,,,,,,,,,Verizon Wireless,1839,-1
+1304,311483,,,,,,,,,Verizon Wireless,1839,-1
+1305,311484,,,,,,,,,Verizon Wireless,1839,-1
+1306,311485,,,,,,,,,Verizon Wireless,1839,-1
+1307,311486,,,,,,,,,Verizon Wireless,1839,-1
+1308,311487,,,,,,,,,Verizon Wireless,1839,-1
+1309,311488,,,,,,,,,Verizon Wireless,1839,-1
+1310,311489,,,,,,,,,Verizon Wireless,1839,-1
+1311,311290,,,,,,,,,Pinpoint Wireless Inc.,1840,-1
+1312,311300,,,,,,,,,Rutal Cellular Corporation,1841,-1
+1313,311310,,,,,,,,,Leaco Rural Telephone Company Inc,1842,-1
+1314,311370,,,,,,,,,GCI Communications Corp.,1843,-1
+1315,311380,,,,,,,,,GreenFly LLC,1844,-1
+1316,311390,,,,,,,,,Midwest Wireless Holdings LLC,1845,-1
+1317,311410,,,,,,,,,Iowa RSA No.2 Ltd Partnership,1846,-1
+1318,311420,,,,,,,,,northwestcell,1847,-1
+1319,311430,,,,,,,,,Chat Mobility,1848,-1
+1320,312160,,,,,,,,,Chat Mobility,1848,-1
+1321,311440,,,,,,,,,Bluegrass Cellular LLC,1849,-1
+1322,311480,ba00010000000000,,,,,,,,Bluegrass Cellular LLC,1849,-1
+1323,311450,,,,,,,,,PTCI,1850,-1
+1324,311460,,,,,,,,,Fisher Wireless Services Inc,1851,-1
+1325,311470,,,,,,,,,Vitelcom Cellular Inc dba Innovative Wireless,1852,-1
+1326,311490,,,,,,,,,Virgin Mobile,1853,-1
+1327,310120,000003,,,,,,,,Virgin Mobile,1853,-1
+1328,312530,000003,,,,,,,,Virgin Mobile,1853,-1
+1329,311500,,,,,,,,,CTC Telecom Inc,1854,-1
+1330,311510,,,,,,,,,Benton-Lian Wireless,1855,-1
+1331,311520,,,,,,,,,Crossroads Wireless Inc,1856,-1
+1332,311530,,,,,,,,,Wireless Communications Venture,1857,-1
+1333,311540,,,,,,,,,Keystone Wireless Inc,1858,-1
+1334,311550,,,,,,,,,Commnet Midwest LLC,1859,-1
+1335,316010,,,,,,,,,Nextel Communications Inc.,1860,-1
+1336,316011,,,,,,,,,Southern Communications Services Inc.,1861,-1
+1337,74800,,,,,,,,,Ancel,1862,-1
+1338,74801,,,,,,,,,Ancel,1862,-1
+1339,74803,,,,,,,,,Ancel,1862,-1
+1340,74807,,,,,,,,,Movistar,1863,-1
+1341,74810,,,,,,,,,Claro UY,1864,-1
+1342,43401,,,,,,,,,Buztel,1865,-1
+1343,43402,,,,,,,,,Uzmacom,1866,-1
+1344,43404,,,,,,,,,Daewoo Unitel,1867,-1
+1345,43405,,,,,,,,,Coscom,1868,-1
+1346,43407,,,,,,,,,Uzdunrobita,1869,-1
+1347,73401,,,,,,,,,Infonet,1870,-1
+1348,73402,,,,,,,,,Corporación Digitel,1871,-1
+1349,73403,,,,,,,,,Digicel,1872,-1
+1350,73404,,,,,,,,,Movistar,1873,-1
+1351,73406,,,,,,,,,"Telecomunicaciones Movilnet, C.A.",1874,-1
+1352,348570,,,,,,,,,"Caribbean Cellular Telephone, Boatphone Ltd.",1875,-1
+1353,54927,,,,,,,,,GoMobile SamoaTel Ltd,1876,-1
+1354,42101,,,,,,,,,SabaFon,1877,-1
+1355,42102,,,,,,,,,Spacetel Yemen,1878,-1
+1356,64803,,,,,,,,,Telecel,1879,-1
+1357,64804,,,,,,,,,Econet,1880,-1
+1358,46601,,,,,,,,,遠傳電信 Far EasTone Telecom,1881,-1
+1359,46602,,,,,,,,,遠傳電信 Far EasTone Telecom,1881,-1
+1360,46603,,,,,,,,,遠傳電信 Far EasTone Telecom,1881,-1
+1361,46605,,,,,,,,,亞太電信 Asia Pacific Telecom,1882,-1
+1362,46697,,,,4669750,,,,,亞太電信 Asia Pacific Telecom,1882,-1
+1363,46606,,,,,,,,,Tuntex Telecom,1883,-1
+1364,46611,,,,,,,,,中華電信_Chunghwa Telecom,1884,-1
+1365,46692,,,,,,,,,中華電信_Chunghwa Telecom,1884,-1
+1366,46689,,,,,,,,,台灣之星 T Star,1886,-1
+1367,46693,,,,,,,,,MobiTai Communications,1887,-1
+1368,46697,,,,,,,,,台灣大哥大 Taiwan Mobile Telecom,1888,-1
+1369,46699,,,,,,,,,TransAsia Telecoms,1889,-1
+1370,45002,,,,,,,,,KT,1890,-1
+1371,45004,,,,,,,,,KT,1890,-1
+1372,45008,,,,,,,,,KT,1890,-1
+1373,45005,,,,,,,,,SK Telecom,1891,-1
+1374,45006,,,,,,,,,LG U+,1892,-1
+1375,450006,,,,,,,,,LG U+,1892,-1
+1376,310470,,,,,,,,,nTelos,1893,-1
+1377,44020,,,,,,,,,SoftBank,1894,-1
+1378,302490,,,,,,,,,Freedom Mobile,1895,-1
+1379,22201,ffffff00,,,,,,,,Freedom Mobile,1895,-1
+1380,22288,ffffff00,,,,,,,,Freedom Mobile,1895,-1
+1381,52018,,,,,,,,,dtac,1896,-1
+1382,52005,,,,,,,,,dtac ,1897,-1
+1383,52099,,,,,,,,,True Move,1898,-1
+1384,45204,,,,,,,,,Viettel Telecom,1899,-1
+1385,24205,,,,,,,,,OneCall,1900,-1
+1386,310995,,,,,,,,,Android Emulator,1901,-1
+1387,27204,,,,,,,,,Access Telecom,1902,-1
+1388,27205,,,,,,,,,3,1903,-1
+1389,24403,,,,,,,,,DNA,1904,-1
+1390,24412,,,,,,,,,DNA,1904,-1
+1391,24413,,,,,,,,,DNA,1904,-1
+1392,24407,,,,,,,,,Nokia Test Network,1905,-1
+1393,24408,,,,,,,,,Unknown,1906,-1
+1394,24410,,,,,,,,,TDC,1907,-1
+1395,24429,,,,,,,,,Scnl Truphone,1908,-1
+1396,21406,,,,,,,,,Euskaltel,1909,-1
+1397,21408,,,,,,,,,Euskaltel,1909,-1
+1398,21403,,,,2140359,,,,,Euskaltel,1909,-1
+1399,311600,,,,,,,,,COX,1910,-1
+1400,00101,,,,,,,,,"Test Network, Used by GSM test equipment",1911,-1
+1401,33401,,,,,,,,,AT&T MX,1912,-1
+1402,334090,,,,,,,,,AT&T MX,1912,-1
+1403,33409,,,,,,,,,AT&T MX,1912,-1
+1404,22201,,,,,iusacell,,,,AT&T MX,1912,-1
+1405,22201,,,,,unefon,,,,AT&T MX,1912,-1
+1406,334020,,,,,,,,,Telcel,1913,-1
+1407,33402,,,,,,,,,Telcel,1913,-1
+1408,334030,,,,,,,,,Movistar,1914,-1
+1409,33403,,,,,,,,,Movistar,1914,-1
+1410,334050,,,,,,,,,AT&T MX,1915,-1
+1411,34080,,,,,,,,,Dauphin Telecom,1916,-1
+1412,44000,,,,,,,,,eMobile,1917,-1
+1413,70830,,,,,,,,,Hondutel,1918,-1
+1414,70840,,,,,,,,,Digicel,1919,-1
+1415,41501,,,,,,,,,Alfa,1920,-1
+1416,41503,,,,,,,,,MTC Touch,1921,-1
+1417,41505,,,,,,,,,Ogero Mobile,1922,-1
+1418,42902,,,,,,,,,Ncell,1923,-1
+1419,42904,,,,,,,,,Smart Telecom,1924,-1
+1420,71403,,,,,,,,,Claro PA,1925,-1
+1421,71404,,,,,,,,,Digicel,1926,-1
+1422,714040,,,,,,,,,Digicel,1926,-1
+1423,74404,,,,,,,,,Telecel,1927,-1
+1424,74405,,,,,,,,,Personal,1928,-1
+1425,71606,,,,,,,,,Movistar,1929,-1
+1426,71617,,,,,,,,,Entel,1930,-1
+1427,41301,,,,,,,,,Sri Lanka Telecom Mobitel,1931,-1
+1428,41305,,,,,,,,,Airtel Lanka,1932,-1
+1429,41308,,,,,,,,,Hutchison Telecommunications Lanka,1933,-1
+1430,64006,,,,,,,,,Sasatel Tanzania,1934,-1
+1431,64007,,,,,,,,,Life Tanzania,1935,-1
+1432,60501,,,,,,,,,Orange Tunisie,1936,-1
+1433,28301,,,,,,,,,ArmenTel,1937,-1
+1434,28304,,,,,,,,,Karabakh Telecom,1938,-1
+1435,28305,,,,,,,,,K Telecom CJSC,1939,-1
+1436,28310,,,,,,,,,Orange,1940,-1
+1437,364390,,,,,,,,,Bahamas Telecommunications,1941,-1
+1438,33000,,,,,,,,,Open Mobile,1942,-1
+1439,61404,,,,,,,,,Orange Niger,1943,-1
+1440,61604,,,,,,,,,Bell Benin Communications,1944,-1
+1441,61605,,,,,,,,,Glo Communications Benin,1945,-1
+1442,61301,,,,,,,,,Onatal (Telmob),1946,-1
+1443,61503,,,,,,,,,Moov Togo,1947,-1
+1444,63203,,,,,,,,,Orange,1948,-1
+1445,310260,6d38,,,,,,,,MetroPCS,1949,-1
+1446,310800,6d38,,,,,,,,MetroPCS,1949,-1
+1447,310660,6d38,,,,,,,,MetroPCS,1949,-1
+1448,310640,6d38,,,,,,,,MetroPCS,1949,-1
+1449,310590,6d38,,,,,,,,MetroPCS,1949,-1
+1450,310530,6d38,,,,,,,,MetroPCS,1949,-1
+1451,310490,6d38,,,,,,,,MetroPCS,1949,-1
+1452,310310,6d38,,,,,,,,MetroPCS,1949,-1
+1453,310300,6d38,,,,,,,,MetroPCS,1949,-1
+1454,310270,6d38,,,,,,,,MetroPCS,1949,-1
+1455,310250,6d38,,,,,,,,MetroPCS,1949,-1
+1456,310240,6d38,,,,,,,,MetroPCS,1949,-1
+1457,310230,6d38,,,,,,,,MetroPCS,1949,-1
+1458,310220,6d38,,,,,,,,MetroPCS,1949,-1
+1459,310210,6d38,,,,,,,,MetroPCS,1949,-1
+1460,310200,6d38,,,,,,,,MetroPCS,1949,-1
+1461,310160,6d38,,,,,,,,MetroPCS,1949,-1
+1462,25704,,,,,,,,,life:),1950,-1
+1463,311870,,,,,,,,,Boost Mobile,1951,-1
+1464,310120,000002,,,,,,,,Boost Mobile,1951,-1
+1465,312530,000002,,,,,,,,Boost Mobile,1951,-1
+1466,310240,0000b0,,,,,,,,Boost Mobile,1951,-1
+1467,310240,6230,,,,,,,,Boost Mobile,1951,-1
+1468,311580,,,,,,,,,U.S. Cellular,1952,-1
+1469,311581,,,,,,,,,U.S. Cellular,1952,-1
+1470,311582,,,,,,,,,U.S. Cellular,1952,-1
+1471,311583,,,,,,,,,U.S. Cellular,1952,-1
+1472,311584,,,,,,,,,U.S. Cellular,1952,-1
+1473,311585,,,,,,,,,U.S. Cellular,1952,-1
+1474,311586,,,,,,,,,U.S. Cellular,1952,-1
+1475,311587,,,,,,,,,U.S. Cellular,1952,-1
+1476,311588,,,,,,,,,U.S. Cellular,1952,-1
+1477,311589,,,,,,,,,U.S. Cellular,1952,-1
+1478,311220,,,,,,,,,U.S. Cellular,1952,-1
+1479,311221,,,,,,,,,U.S. Cellular,1952,-1
+1480,311222,,,,,,,,,U.S. Cellular,1952,-1
+1481,311223,,,,,,,,,U.S. Cellular,1952,-1
+1482,311224,,,,,,,,,U.S. Cellular,1952,-1
+1483,311225,,,,,,,,,U.S. Cellular,1952,-1
+1484,311226,,,,,,,,,U.S. Cellular,1952,-1
+1485,311227,,,,,,,,,U.S. Cellular,1952,-1
+1486,311228,,,,,,,,,U.S. Cellular,1952,-1
+1487,311229,,,,,,,,,U.S. Cellular,1952,-1
+1488,20404,,,,,u.s. cellular,,,,U.S. Cellular,1952,-1
+1489,71203,,,,,,,,,Claro CR,1953,-1
+1490,70601,,,,,,,,,Claro SV,1954,-1
+1491,330110,,,,,,,,,Claro PR,1955,-1
+1492,33011,,,,,,,,,Claro PR,1955,-1
+1493,24009,,,,,,,,,Telenor Sweden (not used),1956,-1
+1494,54411,,,,,,,,,Bluesky,1957,-1
+1495,20815,,,,,,,,,Free,1958,-1
+1496,22605,,,,,,,,,Digi.Mobil,1959,-1
+1497,45404,,,,,,,,,Hutchison 2G,1960,-1
+1498,45405,,,,,,,,,Hutchison 2G,1960,-1
+1499,40402,,,,,,,,,Airtel,1961,-1
+1500,40403,,,,,,,,,Airtel,1961,-1
+1501,40410,,,,,,,,,Airtel,1961,-1
+1502,40416,,,,,,,,,Airtel,1961,-1
+1503,40431,,,,,,,,,Airtel,1961,-1
+1504,40440,,,,,,,,,Airtel,1961,-1
+1505,40445,,,,,,,,,Airtel,1961,-1
+1506,40449,,,,,,,,,Airtel,1961,-1
+1507,40470,,,,,,,,,Airtel,1961,-1
+1508,40490,,,,,,,,,Airtel,1961,-1
+1509,40492,,,,,,,,,Airtel,1961,-1
+1510,40493,,,,,,,,,Airtel,1961,-1
+1511,40494,,,,,,,,,Airtel,1961,-1
+1512,40495,,,,,,,,,Airtel,1961,-1
+1513,40496,,,,,,,,,Airtel,1961,-1
+1514,40497,,,,,,,,,Airtel,1961,-1
+1515,40498,,,,,,,,,Airtel,1961,-1
+1516,40551,,,,,,,,,Airtel,1961,-1
+1517,40552,,,,,,,,,Airtel,1961,-1
+1518,40553,,,,,,,,,Airtel,1961,-1
+1519,40554,,,,,,,,,Airtel,1961,-1
+1520,40555,,,,,,,,,Airtel,1961,-1
+1521,40556,,,,,,,,,Airtel,1961,-1
+1522,302370,dd,,,,,,,,Fido,1962,-1
+1523,302370,,,,,,,,,Fido,1962,-1
+1524,30237,,,,,,,,,Fido,1962,-1
+1525,40401,,,,,vodafone in,,,,Vodafone,1963,-1
+1526,40405,,,,,vodafone in,,,,Vodafone,1963,-1
+1527,40411,,,,,vodafone in,,,,Vodafone,1963,-1
+1528,40413,,,,,vodafone in,,,,Vodafone,1963,-1
+1529,40415,,,,,vodafone in,,,,Vodafone,1963,-1
+1530,40420,,,,,vodafone in,,,,Vodafone,1963,-1
+1531,40427,,,,,vodafone in,,,,Vodafone,1963,-1
+1532,40430,,,,,vodafone in,,,,Vodafone,1963,-1
+1533,40443,,,,,vodafone in,,,,Vodafone,1963,-1
+1534,40446,,,,,vodafone in,,,,Vodafone,1963,-1
+1535,40460,,,,,vodafone in,,,,Vodafone,1963,-1
+1536,40484,,,,,vodafone in,,,,Vodafone,1963,-1
+1537,40486,,,,,vodafone in,,,,Vodafone,1963,-1
+1538,40488,,,,,vodafone in,,,,Vodafone,1963,-1
+1539,40566,,,,,vodafone in,,,,Vodafone,1963,-1
+1540,40567,,,,,vodafone in,,,,Vodafone,1963,-1
+1541,405750,,,,,vodafone in,,,,Vodafone,1963,-1
+1542,405751,,,,,vodafone in,,,,Vodafone,1963,-1
+1543,405752,,,,,vodafone in,,,,Vodafone,1963,-1
+1544,405753,,,,,vodafone in,,,,Vodafone,1963,-1
+1545,405754,,,,,vodafone in,,,,Vodafone,1963,-1
+1546,405755,,,,,vodafone in,,,,Vodafone,1963,-1
+1547,405756,,,,,vodafone in,,,,Vodafone,1963,-1
+1548,65502,,,,,,,,,Telkom,1965,-1
+1549,51089,,,,,,,,,3,1966,-1
+1550,43235,,,,,,,,,Irancell,1967,-1
+1551,60203,,,,,,,,,Etisalat,1968,-1
+1552,41805,,,,,,,,,Asia Cell,1969,-1
+1553,42403,,,,,,,,,du,1970,-1
+1554,41820,,,,,,,,,Zain Iraq,1971,-1
+1555,41830,,,,,,,,,Zain Iraq,1971,-1
+1556,42004,,,,,,,,,Zain Saudi Arabia,1972,-1
+1557,60600,,,,,,,,,Libyana,1973,-1
+1558,21421,,,,,,,,,Jazztel,1974,-1
+1559,21403,,,,,jazztel,,,,Jazztel,1974,-1
+1560,21407,,,,,jazztel,,,,Jazztel,1974,-1
+1561,41006,,,,,,,,,Telenor,1975,-1
+1562,21418,,,,,,,,,ONO,1976,-1
+1563,60303,,,,,,,,,Ooredoo,1977,-1
+1564,51009,,,,,,,,,Smartfren,1978,-1
+1565,51028,,,,,,,,,Smartfren,1978,-1
+1566,62160,,,,,,,,,9Pay,1979,-1
+1567,41004,,,,,,,,,Zong,1980,-1
+1568,405025,,,,,,,,,TATA DOCOMO,1982,-1
+1569,405026,,,,,,,,,TATA DOCOMO,1982,-1
+1570,405027,,,,,,,,,TATA DOCOMO,1982,-1
+1571,405028,,,,,,,,,TATA DOCOMO,1982,-1
+1572,405029,,,,,,,,,TATA DOCOMO,1982,-1
+1573,405030,,,,,,,,,TATA DOCOMO,1982,-1
+1574,405031,,,,,,,,,TATA DOCOMO,1982,-1
+1575,405032,,,,,,,,,TATA DOCOMO,1982,-1
+1576,405033,,,,,,,,,TATA DOCOMO,1982,-1
+1577,405034,,,,,,,,,TATA DOCOMO,1982,-1
+1578,405035,,,,,,,,,TATA DOCOMO,1982,-1
+1579,405036,,,,,,,,,TATA DOCOMO,1982,-1
+1580,405037,,,,,,,,,TATA DOCOMO,1982,-1
+1581,405038,,,,,,,,,TATA DOCOMO,1982,-1
+1582,405039,,,,,,,,,TATA DOCOMO,1982,-1
+1583,405040,,,,,,,,,TATA DOCOMO,1982,-1
+1584,405041,,,,,,,,,TATA DOCOMO,1982,-1
+1585,405042,,,,,,,,,TATA DOCOMO,1982,-1
+1586,405043,,,,,,,,,TATA DOCOMO,1982,-1
+1587,405044,,,,,,,,,TATA DOCOMO,1982,-1
+1588,405045,,,,,,,,,TATA DOCOMO,1982,-1
+1589,405046,,,,,,,,,TATA DOCOMO,1982,-1
+1590,405047,,,,,,,,,TATA DOCOMO,1982,-1
+1591,41840,,,,,,,,,Korek,1983,-1
+1592,20823,,,,,,,,,Virgin,1984,-1
+1593,60402,,,,,,,,,inwi,1985,-1
+1594,40177,,,,,,,,,Tele2,1986,-1
+1595,43220,,,,,,,,,Rightel,1987,-1
+1596,23106,,,,,,,,,O2,1988,-1
+1597,23420,0306,,,,,,,,Google Fi,1989,-1
+1598,45403,0206,,,,,,,,Google Fi,1989,-1
+1599,23210,0306,,,,,,,,Google Fi,1989,-1
+1600,310120,,,,,fi network,,,,Google Fi,1989,-1
+1601,310120,,,,,nova,,,,Google Fi,1989,-1
+1602,310120,,,,,google fi,,,,Google Fi,1989,-1
+1603,310120,a00184,,,,,,,,Google Fi,1989,-1
+1604,310120,a00184ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Google Fi,1989,-1
+1605,310120,,,,,,,,4C36AF4A5BDAD97C1F3D8B283416D244496C2AC5EAFE8226079EF6F676FD1859,Google Fi,1989,-1
+1606,312530,a00184,,,,,,,,Google Fi,1989,-1
+1607,312530,a00184ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Google Fi,1989,-1
+1608,310260,,,,31026097,,,,,Google Fi,1989,-1
+1609,311580,,,,3115801,,,,,Google Fi,1989,-1
+1610,312580,0001,,,,,,,,Google Fi,1989,-1
+1611,42508,,,,,,,,,Golan Telecom,1990,-1
+1612,42507,,,,,,,,,Hot Mobile,1991,-1
+1613,42577,,,,,,,,,Hot Mobile,1991,-1
+1614,20404,,,,,hot mobile,,,,Hot Mobile,1991,-1
+1615,41904,,,,,,,,,STC,1992,-1
+1616,45205,,,,,,,,,Vietnamobile,1994,-1
+1617,41405,,,,,,,,,Ooredoo Myanmar,1996,-1
+1618,52004,,,,,,,,,TrueMove H 4G LTE,1997,-1
+1619,52000,01,,,,,,,,TrueMove H 4G LTE,1997,-1
+1620,52000,01ff,,,,,,,,TrueMove H 4G LTE,1997,-1
+1621,70603,,,,,,,,,Tigo,1998,-1
+1622,28403,,,,,,,,,VIVACOM,1999,-1
+1623,42702,,,,,vodafone qatar,,,,Vodafone,2001,-1
+1624,405813,,,,,,,,,Uninor,2002,-1
+1625,405814,,,,,,,,,Uninor,2002,-1
+1626,405815,,,,,,,,,Uninor,2002,-1
+1627,405816,,,,,,,,,Uninor,2002,-1
+1628,405817,,,,,,,,,Uninor,2002,-1
+1629,405818,,,,,,,,,Uninor,2002,-1
+1630,405819,,,,,,,,,Uninor,2002,-1
+1631,405820,,,,,,,,,Uninor,2002,-1
+1632,405821,,,,,,,,,Uninor,2002,-1
+1633,405822,,,,,,,,,Uninor,2002,-1
+1634,405844,,,,,,,,,Uninor,2002,-1
+1635,405875,,,,,,,,,Uninor,2002,-1
+1636,405876,,,,,,,,,Uninor,2002,-1
+1637,405877,,,,,,,,,Uninor,2002,-1
+1638,405878,,,,,,,,,Uninor,2002,-1
+1639,405879,,,,,,,,,Uninor,2002,-1
+1640,405880,,,,,,,,,Uninor,2002,-1
+1641,405925,,,,,,,,,Uninor,2002,-1
+1642,405926,,,,,,,,,Uninor,2002,-1
+1643,405927,,,,,,,,,Uninor,2002,-1
+1644,405928,,,,,,,,,Uninor,2002,-1
+1645,405929,,,,,,,,,Uninor,2002,-1
+1646,71204,,,,,,,,,Movistar,2003,-1
+1647,47007,,,,,,,,,Airtel BD,2004,-1
+1648,20826,,,,,,,,,NRJ Mobile,2005,-1
+1649,20801,4e,,,,,,,,NRJ Mobile,2005,-1
+1650,20810,4e,,,,,,,,NRJ Mobile,2005,-1
+1651,60601,,,,,,,,,Madar,2006,-1
+1652,41406,,,,,,,,,Telenor Myanmar,2007,-1
+1653,302500,,,,,,,,,Videotron,2008,-1
+1654,302510,,,,,,,,,Videotron,2008,-1
+1655,302520,,,,,,,,,Videotron,2008,-1
+1656,70604,,,,,,,,,Movistar,2009,-1
+1657,706040,,,,,,,,,Movistar,2009,-1
+1658,71030,,,,,,,,,Movistar (Telefonía Celular de Nicaragua),2010,-1
+1659,710300,,,,,,,,,Movistar (Telefonía Celular de Nicaragua),2010,-1
+1660,310580,,,,,,,,,Inland Cellular,2011,-1
+1661,42602,,,,,,,,,Zain Bahrain,2014,-1
+1662,42604,,,,,,,,,stc BH,2015,-1
+1663,502152,,,,,,,,,Yes 4G,2017,-1
+1664,405840,,,,,,,,,Reliance Jio,2018,-1
+1665,405854,,,,,,,,,Reliance Jio,2018,-1
+1666,405855,,,,,,,,,Reliance Jio,2018,-1
+1667,405856,,,,,,,,,Reliance Jio,2018,-1
+1668,405857,,,,,,,,,Reliance Jio,2018,-1
+1669,405858,,,,,,,,,Reliance Jio,2018,-1
+1670,405859,,,,,,,,,Reliance Jio,2018,-1
+1671,405860,,,,,,,,,Reliance Jio,2018,-1
+1672,405861,,,,,,,,,Reliance Jio,2018,-1
+1673,405862,,,,,,,,,Reliance Jio,2018,-1
+1674,405863,,,,,,,,,Reliance Jio,2018,-1
+1675,405864,,,,,,,,,Reliance Jio,2018,-1
+1676,405865,,,,,,,,,Reliance Jio,2018,-1
+1677,405866,,,,,,,,,Reliance Jio,2018,-1
+1678,405867,,,,,,,,,Reliance Jio,2018,-1
+1679,405868,,,,,,,,,Reliance Jio,2018,-1
+1680,405869,,,,,,,,,Reliance Jio,2018,-1
+1681,405870,,,,,,,,,Reliance Jio,2018,-1
+1682,405871,,,,,,,,,Reliance Jio,2018,-1
+1683,405872,,,,,,,,,Reliance Jio,2018,-1
+1684,405873,,,,,,,,,Reliance Jio,2018,-1
+1685,405874,,,,,,,,,Reliance Jio,2018,-1
+1686,302220,4b4f,,,,,,,,Koodo Mobile,2020,-1
+1687,302221,4b4f,,,,,,,,Koodo Mobile,2020,-1
+1688,30222,4b4f,,,,,,,,Koodo Mobile,2020,-1
+1689,30286,4b4f,,,,,,,,Koodo Mobile,2020,-1
+1690,30264,3e,,,,,,,,Virgin Mobile Canada,2021,-1
+1691,302610,3e,,,,,,,,Virgin Mobile Canada,2021,-1
+1692,302630,3e,,,,,,,,Virgin Mobile Canada,2021,-1
+1693,302640,3e,,,,,,,,Virgin Mobile Canada,2021,-1
+1694,310410,ddff,,,,,,,,TracFone,2022,-1
+1695,310410,deff,,,,,,,,TracFone,2022,-1
+1696,310260,ddff,,,,,,,,TracFone,2022,-1
+1697,310260,deff,,,,,,,,TracFone,2022,-1
+1698,310280,ddff,,,,,,,,TracFone,2022,-1
+1699,310280,deff,,,,,,,,TracFone,2022,-1
+1700,311480,ba01270000000000,,,,,,,,TracFone,2022,-1
+1701,310240,deff,,,,,,,,TracFone,2022,-1
+1702,310410,2ac9,,,,,,,,Consumer Cellular,2023,-1
+1703,310260,2ac9,,,,,,,,Consumer Cellular,2023,-1
+1704,310280,2ac9,,,,,,,,Consumer Cellular,2023,-1
+1705,310280,49ff,,,,,,,,Locus Telecom,2024,-1
+1706,310410,49ff,,,,,,,,Locus Telecom,2024,-1
+1707,310280,62ff,,,,,,,,Telrite/Pure Talk,2025,-1
+1708,310410,62ff,,,,,,,,Telrite/Pure Talk,2025,-1
+1709,310410,4201,,,,,,,,Red Pocket,2026,-1
+1710,310260,4201,,,,,,,,Red Pocket,2026,-1
+1711,310280,4201,,,,,,,,Red Pocket,2026,-1
+1712,310280,44ff,,,,,,,,Airvoice,2027,-1
+1713,310410,44ff,,,,,,,,Airvoice,2027,-1
+1714,310280,4102,,,,,,,,Ztar,2028,-1
+1715,310410,4102,,,,,,,,Ztar,2028,-1
+1716,310410,60ff,,,,,,,,Defense Mobile,2029,-1
+1717,310380,50ff,,,,,,,,AGMS,2030,-1
+1718,310280,69ff,,,,,,,,Kore,2031,-1
+1719,310410,69ff,,,,,,,,Kore,2031,-1
+1720,310260,4b4f,,,,,,,,Kore,2031,-1
+1721,311480,ba01450000000000,,,,,,,,Xfinity Mobile,2032,-1
+1722,47202,,,,,,,,,Ooredoo,2033,-1
+1723,61002,,,,,,,,,Orange Mali,2034,-1
+1724,61807,,,,,,,,,Celcom,2035,-1
+1725,63089,,,,,,,,,Tigo,2036,-1
+1726,24705,,,,,,,,,Bite,2037,-1
+1727,50211,,,,,,,,,unifi mobile,2038,-1
+1728,502153,,,,,,,,,unifi mobile,2038,-1
+1729,42005,,,,,,,,,Virgin,2052,-1
+1730,30264,40,,,,,,,,PC mobile,2053,-1
+1731,302610,40,,,,,,,,PC mobile,2053,-1
+1732,302630,40,,,,,,,,PC mobile,2053,-1
+1733,302640,40,,,,,,,,PC mobile,2053,-1
+1734,302220,5043,,,,,,,,PC mobile,2053,-1
+1735,302221,5043,,,,,,,,PC mobile,2053,-1
+1736,30264,3f,,,,,,,,Solo Mobile,2054,-1
+1737,302610,3f,,,,,,,,Solo Mobile,2054,-1
+1738,302630,3f,,,,,,,,Solo Mobile,2054,-1
+1739,302640,3f,,,,,,,,Solo Mobile,2054,-1
+1740,302320,,,,,,,,,Chatr Mobile,2055,-1
+1741,302720,,,,302720x94,,,,,Chatr Mobile,2055,-1
+1742,302720,,,,302720x84,,,,,Chatr Mobile,2055,-1
+1743,302720,d2,,,,,,,,Chatr Mobile,2055,-1
+1744,302720,,,,302720x98,,,,,Ztar Mobile,2056,-1
+1745,302720,d4,,,,,,,,Ztar Mobile,2056,-1
+1746,302720,cc,,,302720x97,,,,,Cityfone,2057,-1
+1747,302720,,,,,cityfone,,,,Cityfone,2057,-1
+1748,310260,6133,,,,,,,,Amaysim (MVNE2),2060,-1
+1749,310260,4c45,,,,,,,,Bright Spot (Leto),2062,-1
+1750,310260,4d4b,,,,,,,,Family Mobile (Walmart),2063,-1
+1751,310260,4753,,,,,,,,GoSmart,2064,-1
+1752,310260,ab,,,,,,,,IDT,2065,-1
+1753,310260,6136,,,,,,,,Kajeet (Arterra),2066,-1
+1754,310260,6c79,,,,,,,,Lyca Mobile,2067,-1
+1755,310260,3201,,,,,,,,M2M,2068,-1
+1756,310260,6132,,,,,,,,MVNE2/AMDOCS,2069,-1
+1757,310260,4e45,,,,,,,,Nest,2070,-1
+1758,310260,7031,,,,,,,,Plintron,2071,-1
+1759,310260,4358,,,,,,,,PWG/Cintex,2073,-1
+1760,310260,8234,,,,,,,,Ready Wireless,2074,-1
+1761,310260,6134,,,,,,,,Republic Wireless (MVNE2),2075,-1
+1762,310260,726d,,,,,,,,Roam Mobility,2076,-1
+1763,310260,524d,,,,,,,,Roam Mobility,2076,-1
+1764,310260,6137,,,,,,,,Rock Island,2077,-1
+1765,310260,534d,,,,,,,,Simple Mobile,2078,-1
+1766,310260,7376,,,,,,,,Solavei,2079,-1
+1767,310260,6135,,,,,,,,Ting,2080,-1
+1768,310260,7477,,,,,,,,Twilio M2M,2081,-1
+1769,310260,354d,,,,,,,,Ultra/Univision,2083,-1
+1770,310260,364d,,,,,,,,Ultra/Univision,2083,-1
+1771,310260,4153,,,,,,,,Ultra/Univision,2083,-1
+1772,310260,554d,,,,,,,,Ultra/Univision,2083,-1
+1773,310260,2801,,,,,,,,Vodafone US,2086,-1
+1774,310260,574d,,,,,,,,Wyless,2087,-1
+1775,29702,,,,,telekom.me,,,,Crnogorski Telekom,2088,-1
+1776,302220,4d4f,,,,,,,,Public Mobile,2089,-1
+1777,302221,4d4f,,,,,,,,Public Mobile,2089,-1
+1778,302720,ba,,,302720x92,,,,,Tbaytel,2090,-1
+1779,21901,,,,,bonbon,,,,Bonbon,2091,-1
+1780,21901,10,,,,,,,,Bonbon,2091,-1
+1781,21901,11,,,,,,,,Bonbon,2091,-1
+1782,21901,12,,,,,,,,Bonbon,2091,-1
+1783,26201,44,,,,,,,,congstar,2092,-1
+1784,26201,,,,,congstar,,,,congstar,2092,-1
+1785,26201,,,,,congstar.de,,,,congstar,2092,-1
+1786,23410,0a,,,,,,,,Tesco,2093,-1
+1787,23410,0affff,,,,,,,,Tesco,2093,-1
+1788,23410,0affffffffff544553434f202020202020202020,,,,,,,,Tesco,2093,-1
+1789,23207,,,,,,,,,tele.ring,2094,-1
+1790,23207,07,,,,,,,,tele.ring,2094,-1
+1791,23207,ff,,,,,,,,tele.ring,2094,-1
+1792,23207,30,,,,,,,,tele.ring,2094,-1
+1793,20416,5f,,,,,,,,Ben,2095,-1
+1794,20416,,,,,ben nl,,,,Ben,2095,-1
+1795,44020,16ffff,,,4402086,,,,,Y!mobile,2100,-1
+1796,44020,16ffff,,,4402091,,,,,Y!mobile,2100,-1
+1797,44020,16ffff,,,4402095,,,,,Y!mobile,2100,-1
+1798,23430,c3,,,,,,,,BT,2101,-1
+1799,23430,c3ff,,,,,,,,BT,2101,-1
+1800,23430,b3,,,,,,,,BT Business,2102,-1
+1801,23430,b3ff,,,,,,,,BT Business,2102,-1
+1802,23430,b2,,,,,,,,BT One Phone,2103,-1
+1803,23430,b2ff,,,,,,,,BT One Phone,2103,-1
+1804,23408,b2,,,,,,,,BT One Phone,2103,-1
+1805,23408,b2ff,,,,,,,,BT One Phone,2103,-1
+1806,53005,,,,,skinny,,,,Skinny,2105,-1
+1807,44010,,,,,,iijmio.jp,,,IIJmio,2106,-1
+1808,44051,,,,,,iijmio.jp,,,IIJmio,2106,-1
+1809,20601,,,,,iij,,,,IIJmio,2106,-1
+1810,44003,,,,,,,,,IIJmio,2106,-1
+1811,29701,,,,,,,,,Telenor,2107,-1
+1812,62003,,,,,,,,,AirtelTigo,2108,-1
+1813,62006,,,,,,,,,AirtelTigo,2108,-1
+1814,44010,,,,,,rmobile.co,,,Rakuten Mobile,2109,-1
+1815,44010,,,,,,rmobile.jp,,,Rakuten Mobile,2109,-1
+1816,44051,,,,,,a.rmobile.jp,,,Rakuten Mobile,2109,-1
+1817,44050,20,,,,,,,,UQ mobile,2110,-1
+1818,44051,20,,,,,,,,UQ mobile,2110,-1
+1819,21403,,,,,euskaltel,,,,Euskaltel,2111,-1
+1820,21408,,,,,euskaltel,,,,Euskaltel,2111,-1
+1821,21416,,,,,telecable,,,,Telecable,2112,-1
+1822,21405,,,,214050111,telecable,,,,Telecable,2112,-1
+1823,21406,,,,2140613,telecable,,,,Telecable,2112,-1
+1824,21403,,,,,mobilr,,,,mobilR,2113,-1
+1825,21403,,,,,mobil r,,,,mobilR,2113,-1
+1826,21408,,,,,mobilr,,,,mobilR,2113,-1
+1827,21408,,,,,mobil r,,,,mobilR,2113,-1
+1828,21417,,,,,mobilr,,,,mobilR,2113,-1
+1829,21417,,,,,mobil r,,,,mobilR,2113,-1
+1830,26202,,,,,ewe.de,,,,EWE,2114,-1
+1831,62150,,,,,,,,,Glo,2115,-1
+1832,44010,,,,,,ratel.com,,,Ratel,2116,-1
+1833,23410,537,,,,,,,,TalkTalk,2117,-1
+1834,23410,508,,,,,,,,giffgaff,2118,-1
+1835,23410,,,,,giffgaff,,,,giffgaff,2118,-1
+1836,313100,,,,,,,,,FirstNet,2119,-1
+1837,313110,,,,,,,,,FirstNet,2119,-1
+1838,313120,,,,,,,,,FirstNet,2119,-1
+1839,313130,,,,,,,,,FirstNet,2119,-1
+1840,313140,,,,,,,,,FirstNet,2119,-1
+1841,312670,,,,,,,,,FirstNet (Lab),2120,-1
+1842,44010,,,,,,mineo-d.jp,,,mineo,2121,-1
+1843,44051,,,,,,mineo.jp,,,mineo,2121,-1
+1844,44020,,,,,,mineo-s.jp,,,mineo,2121,-1
+1845,30264,42,,,,,,,,Lucky Mobile,2122,-1
+1846,302610,42,,,,,,,,Lucky Mobile,2122,-1
+1847,302630,42,,,,,,,,Lucky Mobile,2122,-1
+1848,302640,42,,,,,,,,Lucky Mobile,2122,-1
+1849,54002,,,,,,,,,Vodafone,2123,-1
+1850,22250,,,,,,,,,Iliad,2124,-1
+1851,20815,f003,,,,,,,,Iliad,2124,-1
+1852,21419,,,,,,,,,Simyo,2125,-1
+1853,21403,,,,,simyo,,,,Simyo,2125,-1
+1854,311480,ba01490000000000,,,,,,,,Spectrum Mobile,2126,-1
+1855,64703,,,,,,,,,Free RE,2127,-1
+1856,20815,f2330002,,,,,,,,Free RE,2127,-1
+1857,310120,a00022ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1858,310120,a00305ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1859,310120,a00209ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1860,310120,a00250ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1861,310120,a00207ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1862,310120,a00105ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1863,310120,a00181ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1864,310120,a00263ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1865,310120,a00271ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1866,310120,a00006ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1867,310120,a00151ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1868,310120,a00058ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1869,310120,a00301ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1870,310120,a00143ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1871,310120,a00247ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1872,310120,a00274ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1873,310120,a00042ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1874,310120,a00092ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1875,310120,a00312ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1876,310120,a00050ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1877,310120,a00034ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Sprint Wholesale,2128,-1
+1878,50501,,,,,aldimobile,,,,ALDI mobile,2129,-1
+1879,20809,,,,208090021,,,,,ALIV BS,2130,-1
+1880,36449,,,,,,,,,ALIV BS,2130,-1
+1881,21402,,,,,,,,,Altecom,2131,-1
+1882,20628,,,,,,,,,Bics,2132,-1
+1883,90158,,,,,,,,,Bics,2132,-1
+1884,21403,,,,2140352,,,,,Carrefour,2133,-1
+1885,20801,33,,,,,,,,Carrefour,2133,-1
+1886,24209,,,,,,,,,com4,2134,-1
+1887,20801,,,,208011511,,,,,Coriolis,2135,-1
+1888,20809,,,,208090036,,,,,Coriolis,2135,-1
+1889,20827,,,,,coriolis,,,,Coriolis,2135,-1
+1890,20810,12,,,,,,,,Coriolis,2135,-1
+1891,64710,12,,,,,,,,Coriolis,2135,-1
+1892,21402,,,,,fibracat,,,,Fibracat,2136,-1
+1893,23439,,,,,,,,,Gamma,2137,-1
+1894,24007,,,,240075610,,,,,Gamma,2137,-1
+1895,23410,,,,,jump,,,,Jump,2138,-1
+1896,23439,,,,,jump,,,,Jump,2138,-1
+1897,24007,,,,,jump,,,,Jump,2138,-1
+1898,20404,,,,,jump,,,,Jump,2138,-1
+1899,23457,,,,,,,,,Sky,2139,-1
+1900,24007,0c,,,,,,,,Sky,2139,-1
+1901,23420,0309,,,,,,,,Smarty,2140,-1
+1902,23420,0310,,,,,,,,Superdrug,2141,-1
+1903,25062,,,,,,,,,Tinkoff,2142,-1
+1904,20433,,,,,,,,,Truphone,2143,-1
+1905,21427,,,,,,,,,Truphone,2143,-1
+1906,23425,,,,,,,,,Truphone,2143,-1
+1907,26033,,,,,,,,,Truphone,2143,-1
+1908,26242,,,,,,,,,Truphone,2143,-1
+1909,31030,,,,,,,,,Truphone,2143,-1
+1910,50538,,,,,,,,,Truphone,2143,-1
+1911,20404,,,,204043914,,,,,Truphone,2143,-1
+1912,23450,,,,234500008,,,,,Truphone,2143,-1
+1913,50502,,,,50502100,,,,,Truphone,2143,-1
+1914,20630,,,,,,,,,Unleashed,2144,-1
+1915,50502,,,,505029,,,,,Virgin,2145,-1
+1916,311480,bae1000000000000,,,,,,,,Visible,2146,-1
+1917,26209,,,,,,,,,Vodafone Lab,2147,-1
+1918,44010,,,,,,biglobe.jp,,,BIGLOBE,2148,-1
+1919,44051,24,,,,,,,,BIGLOBE,2148,-1
+1920,20403,,,,,,,,,Voiceworks NL,2149,-1
+1921,20408,,,,204080950,,,,,Voiceworks NL,2149,-1
+1922,20605,,,,,,,,,Telenet,2150,-1
+1923,20817,,,,,,,,,Legos,2151,-1
+1924,23426,,,,,lycamobile,,,,Lycamobile,2152,-1
+1925,25905,,,,,,,,,Unité,2153,-1
+1926,27211,0a,,,,,,,,Tesco,2154,-1
+1927,27411,,,,,,,,,Nova,2155,-1
+1928,28020,,,,,,,,,PrimeTel,2156,-1
+1929,310032,,,,,cdmanai,,,,IT&E OverSeas,2157,-1
+1930,311610,,,,,srtcomm,,,,North Dakota Network Company,2158,-1
+1931,311650,,,,,unitedwireless,,,,United Wireless,2159,-1
+1932,311670,,,,,pinebelt,,,,Pine Belt,2160,-1
+1933,311920,,,,,cdmanai,,,,Missouri RSA No 5 Partnership,2161,-1
+1934,312040,,,,,custer,,,,Custer,2162,-1
+1935,36302,,,,,,,,,Digicel,2163,-1
+1936,363020,,,,,,,,,Digicel,2163,-1
+1937,40107,,,,,,,,,ALTEL,2164,-1
+1938,40277,,,,,,,,,TashiCell,2165,-1
+1939,41808,,,,,,,,,SanaTel,2166,-1
+1940,41892,,,,,,,,,Omnnea,2167,-1
+1941,42104,,,,,,,,,HiTS-UNITEL,2168,-1
+1942,42514,,,,,,,,,Alon Cellular Ltd,2169,-1
+1943,42515,,,,,,,,,Home Cellular,2170,-1
+1944,42516,,,,,,,,,Rami Levy,2171,-1
+1945,42891,,,,,,,,,Skytel,2172,-1
+1946,42898,,,,,,,,,G.Mobile,2173,-1
+1947,43612,,,,,,,,,Tcell,2174,-1
+1948,43703,,,,,,,,,AkTel LLC,2175,-1
+1949,43705,,,,,,,,,MegaCom,2176,-1
+1950,43709,,,,,,,,,O!,2177,-1
+1951,45207,,,,,,,,,Gmobile,2178,-1
+1952,45208,,,,,,,,,Viettel Mobile,2179,-1
+1953,45604,,,,,,,,,qb,2180,-1
+1954,45608,,,,,,,,,Metfone,2181,-1
+1955,51401,,,,,,,,,Telkomcel,2182,-1
+1956,51402,,,,,,,,,Timor Telecom,2183,-1
+1957,51518,,,,,,,,,Redinternet,2184,-1
+1958,54001,,,,,,,,,BREEZE,2185,-1
+1959,54202,,,,,,,,,Digicel,2186,-1
+1960,54509,,,,,,,,,Kiribati Frigate,2187,-1
+1961,55280,,,,,,,,,Palau Mobile,2188,-1
+1962,60602,,,,,,,,,Al-Jeel,2189,-1
+1963,60606,,,,,,,,,Hatef,2190,-1
+1964,60704,,,,,,,,,QCell,2191,-1
+1965,60803,,,,,,,,,Expresso,2192,-1
+1966,61103,,,,,,,,,Intercel,2193,-1
+1967,61801,,,,,,,,,Lonestar,2194,-1
+1968,61802,,,,,,,,,Libercell,2195,-1
+1969,61820,,,,,,,,,LIBTELCO,2196,-1
+1970,62204,,,,,,,,,Salam,2197,-1
+1971,62304,,,,,,,,,Nationlink,2198,-1
+1972,62703,,,,,,,,,Hits-GE,2199,-1
+1973,62804,,,,,,,,,Azur,2200,-1
+1974,63104,,,,,,,,,MOVICEL,2201,-1
+1975,63407,,,,,,,,,Sudani,2202,-1
+1976,63513,,,,,,,,,Airtel Rwanda,2203,-1
+1977,63514,,,,,,,,,Airtel Rwanda,2203,-1
+1978,63701,,,,,,,,,Telesom,2205,-1
+1979,63710,,,,,,,,,Nationlink,2206,-1
+1980,63771,,,,,,,,,Somtel,2207,-1
+1981,63782,,,,,,,,,Telcom,2208,-1
+1982,63905,,,,,,,,,Yu,2209,-1
+1983,63907,,,,,,,,,Telkom,2210,-1
+1984,64208,,,,,,,,,Lumitel/Viettel,2211,-1
+1985,64282,,,,,,,,,Leo,2212,-1
+1986,64303,,,,,,,,,Movitel,2213,-1
+1987,64902,,,,,,,,,switch,2214,-1
+1988,72454,,,,,,,,,Porto Seguro TeleComumicacoes,2215,-1
+1989,73008,,,,,,,,,VTR Banda Ancha SA,2216,-1
+1990,73802,,,,,,,,,GT&T Cellink Plus,2217,-1
+1991,738002,,,,,,,,,GT&T Cellink Plus,2217,-1
+1992,732187,,,,,,,,,ETB 4G,2218,-1
+1993,732103,,,,,etb movi,,,,ETB 4G,2218,-1
+1994,732111,,,,,etb movil,,,,ETB 4G,2218,-1
+1995,54105,,,,,,,,,Digicel,2219,-1
+1996,53988,,,,,,,,,Digicel,2220,-1
+1997,41250,,,,,,,,,Etisalat,2221,-1
+1998,62007,,,,,,,,,Globacom,2222,-1
+1999,352110,,,,,,,,,Grenada:Lime,2223,-1
+2000,33818,,,,,,,,,Cable & Wireless,2224,-1
+2001,338180,,,,,,,,,Cable & Wireless,2224,-1
+2002,61104,,,,,,,,,MTN/Areeba,2225,-1
+2003,62203,,,,,,,,,Tigo/Milicom/Tchad Mobile,2227,-1
+2004,26044,,,,,,,,,Rebtel,2229,-1
+2005,28411,,,,,,,,,bulsatcom,2230,-1
+2006,28413,,,,,,,,,MAX TELECOM,2231,-1
+2007,29509,,,,,bics,,,,BICS,2232,-1
+2008,29509,,,,,,,,,EMnify,2233,-1
+2009,41862,,,,,,,,,Itisaluna,2234,-1
+2010,43406,,,,,,,,,Perfectum Mobile,2235,-1
+2011,45611,,,,,,,,,SEATEL,2236,-1
+2012,46003,,,,,,,,,China Telecom,2237,-1
+2013,46011,,,,,,,,,China Telecom,2237,-1
+2014,20404,,,,,中国电信,,,,China Telecom,2237,-1
+2015,52504,,,,,,,,,Sunsurf,2238,-1
+2016,54100,,,,,,,,,AIL,2239,-1
+2017,54501,,,,,,,,,Kiribati - TSKL,2240,-1
+2018,63207,,,,,,,,,Guinetel,2241,-1
+2019,63409,,,,,,,,,Privet,2242,-1
+2020,63512,,,,,,,,,Rwandatel,2243,-1
+2021,63704,,,,,,,,,Somafone,2244,-1
+2022,63725,,,,,,,,,Hormuud,2245,-1
+2023,63757,,,,,,,,,Unitel,2246,-1
+2024,65701,,,,,,,,,Eritel,2247,-1
+2025,70804,,,,,,,,,Digicel,2248,-1
+2026,708040,,,,,,,,,Digicel,2248,-1
+2027,72201,,,,,quam,,,,Quam_WEB,2249,-1
+2028,72201,,,,,celular,,,,Quam_WEB,2249,-1
+2029,72236,,,,,,,,,Argentina:Nuestro,2250,-1
+2030,250050,,,,,,,,,Sberbank-Telecom,2251,-1
+2031,302270,,,,,,,,,EastLink,2252,-1
+2032,310028,,,,,,,,,ALU Test-SIM,2253,-1
+2033,310035,,,,,etex,,,,etex,2254,-1
+2034,311100,,,,,,,,,NexTech Wireless,2255,-1
+2035,311740,,,,,,,,,TelAlaska Cellular,2256,-1
+2036,311750,,,,,,,,,Cleartalk,2257,-1
+2037,311910,,,,,,,,,MobileNation,2258,-1
+2038,311930,,,,,,,,,Syringa,2259,-1
+2039,312420,,,,,,,,,NexTech Ota,2260,-1
+2040,312570,,,,,,,,,Blue Wireless,2261,-1
+2041,330000,,,,,openmobile,,,,Open Mobile,2262,-1
+2042,338070,,,,,,,,,Claro,2263,-1
+2043,405823,,,,,,,,,Videocon,2264,-1
+2044,405824,,,,,,,,,Videocon,2264,-1
+2045,405825,,,,,,,,,Videocon,2264,-1
+2046,405826,,,,,,,,,Videocon,2264,-1
+2047,405827,,,,,,,,,Videocon,2264,-1
+2048,405828,,,,,,,,,Videocon,2264,-1
+2049,405829,,,,,,,,,Videocon,2264,-1
+2050,405830,,,,,,,,,Videocon,2264,-1
+2051,405832,,,,,,,,,Videocon,2264,-1
+2052,405833,,,,,,,,,Videocon,2264,-1
+2053,405834,,,,,,,,,Videocon,2264,-1
+2054,405835,,,,,,,,,Videocon,2264,-1
+2055,405836,,,,,,,,,Videocon,2264,-1
+2056,405837,,,,,,,,,Videocon,2264,-1
+2057,405838,,,,,,,,,Videocon,2264,-1
+2058,405841,,,,,,,,,Videocon,2264,-1
+2059,405842,,,,,,,,,Videocon,2264,-1
+2060,405843,,,,,,,,,Videocon,2264,-1
+2061,405932,,,,,,,,,Videocon,2264,-1
+2062,405881,,,,,,,,,STEL,2265,-1
+2063,405882,,,,,,,,,STEL,2265,-1
+2064,405883,,,,,,,,,STEL,2265,-1
+2065,405884,,,,,,,,,STEL,2265,-1
+2066,405885,,,,,,,,,STEL,2265,-1
+2067,405886,,,,,,,,,STEL,2265,-1
+2068,405912,,,,,,,,,Cheers,2266,-1
+2069,405913,,,,,,,,,Cheers,2266,-1
+2070,405914,,,,,,,,,Cheers,2266,-1
+2071,405915,,,,,,,,,Cheers,2266,-1
+2072,405916,,,,,,,,,Cheers,2266,-1
+2073,405917,,,,,,,,,Cheers,2266,-1
+2074,405918,,,,,,,,,Cheers,2266,-1
+2075,405919,,,,,,,,,Cheers,2266,-1
+2076,405920,,,,,,,,,Cheers,2266,-1
+2077,405921,,,,,,,,,Cheers,2266,-1
+2078,405922,,,,,,,,,Cheers,2266,-1
+2079,405923,,,,,,,,,Cheers,2266,-1
+2080,405930,,,,,,,,,Cheers,2266,-1
+2081,712019,,,,,,,,,Tuyo,2267,-1
+2082,712190,,,,,,,,,Tuyo,2267,-1
+2083,51403,,,,,,,,,Viettel,2268,-1
+2084,20601,,,,20601889,,,,,Telenet,2270,-1
+2085,20610,,,,,be-transatel,,,,Transatel,2271,-1
+2086,20610,bb00,,,,,,,,Transatel,2271,-1
+2087,22803,,,,,ch-transatel,,,,Transatel,2271,-1
+2088,22803,bb00,,,,,,,,Transatel,2271,-1
+2089,27077,bb00,,,,,,,,Transatel,2271,-1
+2090,27077,,,,,lu-transatel,,,,Transatel,2271,-1
+2091,20810,,,,,a mobile,,,,Auchan,2272,-1
+2092,20810,,,,,leclercmobile,,,,Reglo,2273,-1
+2093,20810,,,,,reglomobile,,,,Reglo,2273,-1
+2094,20810,4c,,,,,,,,La Poste,2274,-1
+2095,20810,44,,,,,,,,Darty,2275,-1
+2096,20810,,,,,keyyo mobile,,,,Keyyo,2276,-1
+2097,20810,,,,,zero forfait,,,,Zero forfait,2277,-1
+2098,21406,,,,2140612,,,,,R,2278,-1
+2099,21406,,,,2140606,,,,,eroskimovil,2279,-1
+2100,21406,,,,,pepephone,,,,pepephone,2280,-1
+2101,21407,,,,2140759577,,,,,T-2,2281,-1
+2102,21407,,,,2140796692,,,,,T-2,2281,-1
+2103,22201,,,,,noverca,,,,Noverca,2282,-1
+2104,23433,,,,,life,,,,LIFE,2283,-1
+2105,23801,,,,,telmore,,,,Telmore,2284,-1
+2106,23820,,,,,call me,,,,Call Me,2285,-1
+2107,23820,,,,,dlg tele,,,,DLG Tele,2286,-1
+2108,24001,,,,240017,,,,,Halebop,2287,-1
+2109,24005,,,,,halebop,,,,Halebop,2287,-1
+2110,311590,,,,,gsc,,,,GSC,2288,-1
+2111,348170,,,,,,,,,Cable & Wireless,2289,-1
+2112,366110,,,,,,,,,Cable & Wireless,2290,-1
+2113,376350,,,,,,,,,Cable & Wireless West Indies Ltd (Turks & Caicos),2291,-1
+2114,354860,,,,,,,,,Cable & Wireless,2292,-1
+2115,358110,,,,,,,,,Cable & Wireless,2293,-1
+2116,360110,,,,,,,,,Cable & Wireless (St. Vincent & the Grenadines) Ltd,2294,-1
+2117,365840,,,,,,,,,Cable & Wireless,2295,-1
+2118,21403,,,,,happy,,,,Happy,2297,-1
+2119,21403,,,,,racc,,,,RACC,2298,-1
+2120,21403,,,,,cable movil,,,,CABLE movil,2299,-1
+2121,21403,,,,,masmovil,,,,MASMovil,2300,-1
+2122,21403,,,,,ibercom,,,,Ibercom,2301,-1
+2123,22210,,,,,postemobile,,,,PosteMobile,2303,-1
+2124,22210,,,,,erg,,,,ERG,2304,-1
+2125,23415,,,,,sainsbury's,,,,Sainsbury's,2308,-1
+2126,23415,,,,,lebara,,,,Lebara,2309,-1
+2127,26201,,,,,debitel,,,,Debitel,2310,-1
+2128,311500,,,,,norvado wireless,,,,Norvado,2315,-1
+2129,311500,,,,,norvado wireless rpa,,,,Norvado,2315,-1
+2130,311500,,,,,norvado wireless rpt,,,,Norvado,2315,-1
+2131,311500,,,,,norvado wireless rpo,,,,Norvado,2315,-1
+2132,311500,,,,,mosaic rpa,,,,Mosaic Mobile,2316,-1
+2133,311500,,,,,mosaic mobile,,,,Mosaic Mobile,2316,-1
+2134,311500,,,,,mosaic rpt,,,,Mosaic Mobile,2316,-1
+2135,311500,,,,,mosaic rpo,,,,Mosaic Mobile,2316,-1
+2136,311350,,,,,nemont,,,,Nemont,2317,-1
+2137,311140,,,,,sprocket,,,,Bravado wireless,2318,-1
+2138,311070,,,,,elementmobile,,,,Element Mobile,2319,-1
+2139,310960,,,,,strata,,,,strata,2320,-1
+2140,310960,,,,,southcentral,,,,southcentral,2321,-1
+2141,310960,,,,,snakeriver,,,,snakeriver,2322,-1
+2142,310960,,,,,silverstar,,,,silverstar,2323,-1
+2143,310960,,,,,nntcwire,,,,NNTC Wireless,2324,-1
+2144,310820,,,,,nepa,,,,Clear Sky Wireless,2325,-1
+2145,53703,,,,,emnify,,,,EMnify,2326,-1
+2146,29505,,,,,emnify,,,,EMnify,2326,-1
+2147,29370,,,,29370029,,,,,Telemach,2327,-1
+2148,26207,,,,26207515,,,,,Fonic Prepaid,2328,-1
+2149,26207,,,,26207520,,,,,Lidl Mobile,2329,-1
+2150,26207,,,,26207500,,,,,Tchibo,2330,-1
+2151,25503,,,,,djuice,,,,Djuice,2331,-1
+2152,24801,,,,248010x2,,,,,Send,2332,-1
+2153,24801,,,,248010x3,,,,,Send,2332,-1
+2154,24201,,,,24201700,,,,,Ventelo,2333,-1
+2155,24202,,,,2420256,,,,,Chess,2334,-1
+2156,65507,,,,6550710,,,,,Virgin,2335,-1
+2157,732103,,,,,movil exito,,,,Movil exito,2337,-1
+2158,732111,,,,,movil exito,,,,Movil exito,2337,-1
+2159,732103,,,,,une,,,,UNE,2338,-1
+2160,732111,,,,,une,,,,UNE,2338,-1
+2161,732123,,,,,virgin mobile,,,,Virgin Mobile,2339,-1
+2162,312580,,,,,,,,,Google CBRS,2340,-1
+2163,315010,,,,,,,,,Google CBRS,2340,-1
+2164,41845,,,,,,,,,Mobitel,2345,-1
+2165,45703,,,,,,,,,Unitel,2346,-1
+2166,42888,,,,,,,,,Unitel,2347,-1
+2167,60603,,,,,,,,,Libya Phone,2348,-1
+2168,42103,,,,,,,,,YemenMobile,2349,-1
+2169,52802,,,,,,,,,B-Mobile,2350,-1
+2170,20465,,,,,,,,,AGMS,2351,-1
+2171,43270,,,,,,,,,MTCE,2352,-1
+2172,45011,,,,,,,,,SK Telink,2353,-1
+2173,70299,,,,,,,,,Smart,2354,-1
+2174,64207,,,,,,,,,Smart Mobile,2355,-1
+2175,34877,,,,,,,,,Digicel,2356,-1
+2176,348770,,,,,,,,,Digicel,2356,-1
+2177,21432,,,,,tuenti,,,,Tuenti,2357,-1
+2178,43293,,,,,,,,,Farzanegan Pars,2358,-1
+2179,71615,,,,,,,,,Bitel,2359,-1
+2180,26203,000000ffffffffffffffffffffffffffffffffff,,,,,,,,Telefonica,2360,-1
+2181,26203,000500ffffffffffffffffffffffffffffffffff,,,,,,,,Telefonica,2360,-1
+2182,26203,010301ffffffffffffffffffffffffffffffffff,,,,,,,,Telefonica,2360,-1
+2183,26203,010901ffffffffffffffffffffffffffffffffff,,,,,,,,Telefonica,2360,-1
+2184,26203,010251ffffffffffffffffffffffffffffffffff,,,,,,,,Telefonica,2360,-1
+2185,26203,020302ffffffffffffffffffffffffffffffffff,,,,,,,,Telefonica,2360,-1
+2186,26203,020902ffffffffffffffffffffffffffffffffff,,,,,,,,Telefonica,2360,-1
+2187,26207,000000ffffffffffffffffffffffffffffffffff,,,,,,,,o2,2361,-1
+2188,26207,000500ffffffffffffffffffffffffffffffffff,,,,,,,,o2,2361,-1
+2189,26207,010301ffffffffffffffffffffffffffffffffff,,,,,,,,o2,2361,-1
+2190,26207,010901ffffffffffffffffffffffffffffffffff,,,,,,,,o2,2361,-1
+2191,26207,010251ffffffffffffffffffffffffffffffffff,,,,,,,,o2,2361,-1
+2192,26207,020302ffffffffffffffffffffffffffffffffff,,,,,,,,o2,2361,-1
+2193,26207,020902ffffffffffffffffffffffffffffffffff,,,,,,,,o2,2361,-1
+2194,64004,,,,,,,,,Vodacom,2362,-1
+2195,29702,,,,,,,,,Crnogorski Telekom,2363,-1
+2196,53001,,,,,,,,,Vodafone,2364,-1
+2197,21901,,,,,,,,,Hrvatski Telekom,2365,-1
+2198,22801,,,,,,,,,Swisscom,2366,-1
+2199,26002,,,,,,,,,T-Mobile,2367,-1
+2200,27801,,,,,,,,,Vodafone,2368,-1
+2201,21403,,,,,,,,,Orange,2369,-1
+2202,40401,,,,,,,,,Vodafone,2378,-1
+2203,40405,,,,,,,,,Vodafone,2378,-1
+2204,40411,,,,,,,,,Vodafone,2378,-1
+2205,40413,,,,,,,,,Vodafone,2378,-1
+2206,40415,,,,,,,,,Vodafone,2378,-1
+2207,40420,,,,,,,,,Vodafone,2378,-1
+2208,40427,,,,,,,,,Vodafone,2378,-1
+2209,40430,,,,,,,,,Vodafone,2378,-1
+2210,40443,,,,,,,,,Vodafone,2378,-1
+2211,40446,,,,,,,,,Vodafone,2378,-1
+2212,40460,,,,,,,,,Vodafone,2378,-1
+2213,40484,,,,,,,,,Vodafone,2378,-1
+2214,40486,,,,,,,,,Vodafone,2378,-1
+2215,40488,,,,,,,,,Vodafone,2378,-1
+2216,40566,,,,,,,,,Vodafone,2378,-1
+2217,40567,,,,,,,,,Vodafone,2378,-1
+2218,405750,,,,,,,,,Vodafone,2378,-1
+2219,405751,,,,,,,,,Vodafone,2378,-1
+2220,405752,,,,,,,,,Vodafone,2378,-1
+2221,405753,,,,,,,,,Vodafone,2378,-1
+2222,405754,,,,,,,,,Vodafone,2378,-1
+2223,405755,,,,,,,,,Vodafone,2378,-1
+2224,405756,,,,,,,,,Vodafone,2378,-1
+2225,60202,,,,,,,,,Vodafone,2380,-1
+2226,64304,,,,,,,,,Vodacom,2381,-1
+2227,62002,,,,,,,,,Vodafone,2383,-1
+2228,23102,,,,,,,,,Slovak Telekom,2385,-1
+2229,20416,,,,,,,,,T-Mobile,2386,-1
+2230,20420,,,,,,,,,T-Mobile,2386,-1
+2231,27201,,,,,,,,,Vodafone,2387,-1
+2232,22601,,,,,,,,,Vodafone,2391,-1
+2233,65101,,,,,,,,,VCL,2392,-1
+2234,42702,,,,,,,,,Vodafone,2393,-1
+2235,23001,,,,,,,,,T-Mobile,2394,-1
+2236,26201,,,,,,,,,Telekom,2395,-1
+2237,29401,,,,,,,,,Mkedonski Telecom AD Skopje,2396,-1
+2238,26202,,,,,,,,,Vodafone,2397,-1
+2239,23003,,,,,,,,,Vodafone,2398,-1
+2240,20205,,,,,,,,,Vodafone,2399,-1
+2241,21630,,,,,,,,,Magyar Telekom,2401,-1
+2242,26009,,,,,lycamobile,,,,Lycamobile,2403,-1
+2243,23208,,,,,lycamobile,,,,Lycamobile,2404,-1
+2244,24012,,,,,lycamobile,,,,Lycamobile,2405,-1
+2245,20408,,,,,rabo mobiel,,,,Rabo Mobiel Int.,2406,-1
+2246,44010,,,,,,lte-d.ocn.ne.jp,,,OCN MOBILE ONE,2407,-1
+2247,44010,,,,,,lte.ocn.ne.jp,,,OCN MOBILE ONE,2407,-1
+2248,46609,,,,,,,,,Vmax Telecom,2408,-1
+2249,40448,,,,,,,,,Dishnet Wireless,2409,-1
+2250,44100,,,,,,,,,Wireless City Planning,2411,-1
+2251,52020,,,,,,,,,ACeS,2412,-1
+2252,52047,,,,,,,,,TOT,2413,-1
+2253,302290,,,,,,,,,Airtel Wireless,2414,-1
+2254,21420,,,,,,,,,Fonyou Telecom,2415,-1
+2255,22208,,,,,,,,,Fastweb SpA,2416,-1
+2256,302500,55,,,,,,,,FIZZ,2417,-1
+2257,23415,,,,,talkmobile,,,,TalkMobile,2418,-1
+2258,23433,ec,,,,,,,,EE Business,2419,-1
+2259,23433,ecff,,,,,,,,EE Business,2419,-1
+2260,21434,,,,,,,,,ION Mobile,2420,-1
+2261,21405,,,,214050104,,,,,ION Mobile,2420,-1
+2262,310014,,,,,,,,,Testing US,2421,-1
+2263,311400,,,,,,,,,Testing US,2421,-1
+2264,27002,,,,,,,,,MTX,2422,-1
+2265,22254,,,,,plintron,,,,Plintron IT,2423,-1
+2266,23222,,,,,plintron,,,,Plintron AT,2424,-1
+2267,23420,0305,,,,,,,,iD Mobile,2425,-1
+2268,46000,,,,,京东通信,,,,京东通信,2427,-1
+2269,45400,,,,454006081,,,,,Telin,2428,-1
+2270,44011,,,,,,,,,Rakuten Mobile(MNO),2429,-1
+2271,20801,,,,,syma,,,,Syma Mobile,2430,-1
+2272,44010,,,,,,so-net.jp,,,nuromobile,2432,-1
+2273,44051,,,,,,so-net.jp,,,nuromobile,2432,-1
+2274,44020,,,,,,so-net.jp,,,nuromobile,2432,-1
+2275,310120,000006,,,,,,,,Assurance Wireless,2433,-1
+2276,311490,000006,,,,,,,,Assurance Wireless,2433,-1
+2277,312530,000006,,,,,,,,Assurance Wireless,2433,-1
+2278,52505,,,,,giga,,,,giga_sg,2434,-1
+2279,302130,,,,,,,,,Xplornet,2435,-1
+2280,302131,,,,,,,,,Xplornet,2435,-1
+2281,40101,,,,40101568,,,,,izi,2436,-1
+2282,37005,,,,,,,,,Wind Telecom,2437,-1
+2283,22210,,,,,daily telecom,,,,Daily Telecom Mobile,2438,-1
+2284,22288,0000000099,,,,,,,,3 Digital,2439,-1
+2285,21422,,,,,,,,,Digi Spain,2442,-1
+2286,21405,44474553,,,,,,,,Digi Spain,2442,-1
+2287,22605,44474553,,,,,,,,Digi Spain,2442,-1
+2288,22236,,,,,,,,,Digi Italy,2443,-1
+2289,21405,44474954,,,,,,,,Digi Italy,2443,-1
+2290,22605,44474954,,,,,,,,Digi Italy,2443,-1
+2291,25047,,,,,,,,,Next Mobile,2444,-1
+2292,65538,,,,,,,,,rain,2445,-1
+2293,65519,,,,,,,,,rain,2445,-1
+2294,65573,,,,,,,,,rain,2445,-1
+2295,65574,,,,,,,,,rain,2445,-1
+2296,25050,,,,,,,,,Sberbank,2446,-1
+2297,25915,,,,,idc,,,,IDC,2447,-1
+2298,25026,,,,,,,,,VTB Mobile,2448,-1
+2299,314020,,,,,,,,,Spectrum CBRS,2449,-1
+2300,45400,01030000ffffffff,,,,,,,,SUN Mobile,2450,-1
+2301,50219,,,,5021955,,,,,Tune Talk,2451,-1
+2302,22253,,,,,,,,,WEB CoopVoce,2452,-1
+2303,41515,,,,,,,,,Connect,2453,-1
+2304,42526,,,,,,,,,Annatel,2454,-1
+2305,22210,,,,,ho.,,,,homobile_it,2455,-1
+2306,23004,,,,230040,,,,,Nordic Telecom,2457,-1
+2307,71070,,,,,,,,,Yota Nicaragua,2458,-1
+2308,312870,,,,,,,,,GigSky,2459,-1
+2309,310380,6f,,,3103805,gigsky,,,,GigSky,2459,-1
+2310,310380,6e,,,3103805,gigsky,,,,GigSky,2459,-1
+2311,23801,6f,,,23801395,gigsky,,,,GigSky,2459,-1
+2312,23801,6e,,,23801395,gigsky,,,,GigSky,2459,-1
+2313,24007,6f,,,240075614,gigsky,,,,GigSky,2459,-1
+2314,24007,6e,,,240075614,gigsky,,,,GigSky,2459,-1
+2315,302490,53,,,302490400,,,,,Shaw Mobile,2460,-1
+2316,302490,53,,,302490500,,,,,Shaw Mobile,2460,-1
+2317,26220,,,,,,,,,Voiceworks DE,2461,-1
+2318,26203,,,,26203483,,,,,Voiceworks DE,2461,-1
+2319,41877,,,,,,,,,SevenNet Layers,2463,-1
+2320,313460,,,,,,,,,Mobi,2464,-1
+2321,313450,,,,,,,,,Spectrum Data,2465,-1
+2322,23471,,,,,,,,,Emergency Services Network,2467,-1
+2323,20416,8f,,,,,,,,Tele2,2468,-1
+2324,20416,4e4c,,,,,,,,Tele2,2468,-1
+2325,20416,,,,,tele2 nl,,,,Tele2,2468,-1
+2326,334140,,,,,altan,,,,ALTAN - Internal Use,2469,-1
+2327,334140,,,,,ientc,,,,ALTAN - IENTC,2470,-1
+2328,334140,,,,,newww,,,,ALTAN - NeWWW,2471,-1
+2329,52505,,,,5250530996,,,,,Travelfy,2472,-1
+2330,23410,,,,2341040991,,,,,Travelfy,2472,-1
+2331,732123,,,,7321232010,,,,,Travelfy,2472,-1
+2332,334140,,,,,mega4.5 g,,,,MEGACABLE,2473,-1
+2333,334140,,,,,netwey,,,,NETWEY,2474,-1
+2334,334140,,,,,retemex,,,,RETEMEX,2475,-1
+2335,334140,,,,,bait,,,,WALMART,2476,-1
+2336,334140,,,,,iusatel,,,,IUSACOMM,2477,-1
+2337,334140,,,,,cfe teipt,,,,CFE,2478,-1
+2338,334140,,,,,inten,,,,INTEN,2479,-1
+2339,334140,,,,,nemi,,,,DIVERACY,2480,-1
+2340,334140,,,,,diri,,,,DIRI,2481,-1
+2341,334140,,,,,turbored,,,,TOPOS,2482,-1
+2342,334140,,,,,gurucomm,,,,GURUWEB,2483,-1
+2343,334140,,,,,ubix,,,,UBIX,2484,-1
+2344,334140,,,,,pagaphone,,,,ROCKETEL,2485,-1
+2345,334140,,,,,redpotencia,,,,Redpotencia,2486,-1
+2346,334140,,,,,chamo-movil,,,,ADDINTELI,2487,-1
+2347,334140,,,,,byplus,,,,ADDINTELI,2487,-1
+2348,334140,,,,,izzi,,,,IZZI,2488,-1
+2349,334140,,,,,mistral,,,,ADM,2489,-1
+2350,334140,,,,,mexfon,,,,ADS,2490,-1
+2351,334140,,,,,yo,,,,YONDER,2491,-1
+2352,334140,,,,,arlonet,,,,Arlonet,2492,-1
+2353,334140,,,,,valor,,,,TRIDEX,2493,-1
+2354,334140,,,,,wimo,,,,WiMO,2494,-1
+2355,334140,,,,,oui,,,,OUI,2495,-1
+2356,334140,,,,,freedompop,,,,FREEDOMPOP,2496,-1
+2357,90128,,,,,,,,,Vodafone GDSP,2497,-1
+2358,313390,,,,,,,,,Altice USA,2498,-1
+2359,50501,,,,,belong,,,,Belong,2499,-1
+2360,50501,,,,,telechoice,,,,Telechoice,2500,-1
+2361,50501,,,,,woolworths,,,,Woolworths,2501,-1
+2362,50501,,,,,numobile,,,,NuMobile,2502,-1
+2363,50501,,,,,boost,,,,Boost,2503,-1
+2364,310280,ddff,,,,,,,,Tracfone-ATT,10000,2022
+2365,310280,deff,,,,,,,,Tracfone-ATT,10000,2022
+2366,310410,ddff,,,,,,,,Tracfone-ATT,10000,2022
+2367,310410,deff,,,,,,,,Tracfone-ATT,10000,2022
+2368,310260,ddff,,,,,,,,Tracfone-TMO,10001,2022
+2369,310260,deff,,,,,,,,Tracfone-TMO,10001,2022
+2370,23410,61,,,,,,,,o2prepaid_gb,10002,1492
+2371,23410,67,,,,,,,,o2prepaid_gb,10002,1492
+2372,23410,85,,,,,,,,o2prepaid_gb,10002,1492
+2373,23410,99,,,,,,,,o2prepaid_gb,10002,1492
+2374,26207,,,,2620749,,,,,o2prepaid_de,10003,1454
+2375,310120,000004,,,,,,,,sprintprepaid_us,10004,1788
+2376,30264,40,,,,,,,,pcmobile_prepaid_bell,10005,2053
+2377,302610,40,,,,,,,,pcmobile_prepaid_bell,10005,2053
+2378,302630,40,,,,,,,,pcmobile_prepaid_bell,10005,2053
+2379,302640,40,,,,,,,,pcmobile_prepaid_bell,10005,2053
+2380,302220,5043,,,,,,,,pcmobile_postpaid_telus,10006,2053
+2381,302221,5043,,,,,,,,pcmobile_postpaid_telus,10006,2053
+2382,44010,,,,,,,,,docomo_mvno,10007,850
+2383,311480,ba01270000000000,,,,,,,,Tracfone-VZW,10008,2022
+2384,311230,,,,,,,,,C Spire-US,10009,1836
+2385,310023,,,,,,,,,C Spire-US,10009,1836
+2386,20404,,,,,c spire,,,,C Spire-NL,10010,1836
+2387,20404,,,,,c spire,,,,C Spire-NL,10010,1836
+2388,310260,4201,,,,,,,,Red Pocket-TMO,10011,2026
+2389,310410,4201,,,,,,,,Red Pocket-ATT,10012,2026
+2390,313110,,,,,,,,,FirstNet Pacific,10013,2119
+2391,313120,,,,,,,,,FirstNet Pacific,10013,2119
+2392,310260,,,,31026097,,,,,Google Fi-TMO,10014,1989
+2393,310120,,,,,fi network,,,,Google Fi-Sprint,10015,1989
+2394,310120,,,,,nova,,,,Google Fi-Sprint,10015,1989
+2395,310120,,,,,google fi,,,,Google Fi-Sprint,10015,1989
+2396,310120,a00184,,,,,,,,Google Fi-Sprint,10015,1989
+2397,310120,a00184ffffffffffffffffffffffffffffffffffffffffffffffffffffff,,,,,,,,Google Fi-Sprint,10015,1989
+2398,310120,,,,,,,,4C36AF4A5BDAD97C1F3D8B283416D244496C2AC5EAFE8226079EF6F676FD1859,Google Fi-Sprint,10015,1989
+2399,311580,,,,3115801,,,,,Google Fi-USCellular,10016,1989
+2400,23420,0306,,,,,,,,Google Fi-3UK,10017,1989
+2401,45403,0206,,,,,,,,Google Fi-3HK,10018,1989
+2402,23210,0306,,,,,,,,Google Fi-3AT,10019,1989
+2403,20404,,,,,,,898603,,CTC Telecom Inc,10020,1854
+2404,20404,,,,,,,898611,,CTC Telecom Inc,10020,1854
+2405,45403,,,,,,,898603,,CTC Telecom Inc,10020,1854
+2406,45403,,,,,,,898611,,CTC Telecom Inc,10020,1854
+2407,45431,,,,,,,898603,,CTC Telecom Inc,10020,1854
+2408,45431,,,,,,,898611,,CTC Telecom Inc,10020,1854
+2409,310280,53ff,,,,,,,,AT&T 5G,10021,1187
+2410,310410,53ff,,,,,,,,AT&T 5G,10021,1187
+2411,310950,53ff,,,,,,,,AT&T 5G,10021,1187
+2412,311180,53ff,,,,,,,,AT&T 5G,10021,1187
+2413,310410,2ac9,,,,,,,,Consumer Cellular ATT,10022,2023
+2414,310280,2ac9,,,,,,,,Consumer Cellular ATT,10022,2023
+2415,310260,2ac9,,,,,,,,Consumer Cellular TMO,10023,2023

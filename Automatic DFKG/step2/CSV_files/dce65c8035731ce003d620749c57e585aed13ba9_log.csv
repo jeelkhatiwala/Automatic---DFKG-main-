@@ -1,0 +1,501 @@
+_id,time,tag,msg
+1860,1623993401239,SET_PKG,  [com.samsung.android.game.gamehome] 
+1861,1623993401241,SET_PKG,  [com.sec.android.app.samsungapps] 
+1862,1623993401242,SET_PKG,  [com.sec.android.app.popupcalculator] 
+1863,1624180194806,INI_GMS,  com.sec.android.app.myfiles=10
+1864,1624180194811,INI_GMS,  com.ea.game.nfs14_row=1
+1865,1624180194812,INI_GMS,  com.sec.android.app.clockpackage=10
+1866,1624180194813,INI_GMS,  com.android.vending=10
+1867,1624180194815,INI_GMS,  com.samsung.android.game.gametools=3
+1868,1624180194816,INI_GMS,  com.samsung.android.game.gamehome=3
+1869,1624180194818,INI_GMS,  com.sec.android.app.samsungapps=3
+1870,1624180194819,INI_GMS,  com.sec.android.app.popupcalculator=10
+1871,1624180194824,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+1872,1624180194827,SET_PKG,setPackageConfigurations()
+1873,1624180194829,SET_PKG,  [com.sec.android.app.myfiles] 
+1874,1624180194831,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+1875,1624180194834,SET_PKG,  [com.sec.android.app.clockpackage] 
+1876,1624180194836,SET_PKG,  [com.android.vending] 
+1877,1624180194838,SET_PKG,  [com.samsung.android.game.gametools] 
+1878,1624180194843,SET_PKG,  [com.samsung.android.game.gamehome] 
+1879,1624180194844,SET_PKG,  [com.sec.android.app.samsungapps] 
+1880,1624180194846,SET_PKG,  [com.sec.android.app.popupcalculator] 
+1881,1624340111291,SET_DFS,"FPS: 60, successful: true"
+1882,1624340140210,INI_GMS,  com.sec.android.app.myfiles=10
+1883,1624340140215,INI_GMS,  com.ea.game.nfs14_row=1
+1884,1624340140216,INI_GMS,  com.sec.android.app.clockpackage=10
+1885,1624340140217,INI_GMS,  com.android.vending=10
+1886,1624340140220,INI_GMS,  com.samsung.android.game.gametools=3
+1887,1624340140221,INI_GMS,  com.samsung.android.game.gamehome=3
+1888,1624340140222,INI_GMS,  com.sec.android.app.samsungapps=3
+1889,1624340140224,INI_GMS,  com.sec.android.app.popupcalculator=10
+1890,1624340140226,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+1891,1624340140229,SET_PKG,setPackageConfigurations()
+1892,1624340140231,SET_PKG,  [com.sec.android.app.myfiles] 
+1893,1624340140234,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+1894,1624340140236,SET_PKG,  [com.sec.android.app.clockpackage] 
+1895,1624340140237,SET_PKG,  [com.android.vending] 
+1896,1624340140239,SET_PKG,  [com.samsung.android.game.gametools] 
+1897,1624340140240,SET_PKG,  [com.samsung.android.game.gamehome] 
+1898,1624340140242,SET_PKG,  [com.sec.android.app.samsungapps] 
+1899,1624340140244,SET_PKG,  [com.sec.android.app.popupcalculator] 
+1900,1624340142412,INI_GMS,  com.sec.android.app.myfiles=10
+1901,1624340142414,INI_GMS,  com.ea.game.nfs14_row=1
+1902,1624340142416,INI_GMS,  com.sec.android.app.clockpackage=10
+1903,1624340142417,INI_GMS,  com.android.vending=10
+1904,1624340142418,INI_GMS,  com.samsung.android.game.gametools=3
+1905,1624340142420,INI_GMS,  com.samsung.android.game.gamehome=3
+1906,1624340142424,INI_GMS,  com.sec.android.app.samsungapps=3
+1907,1624340142431,INI_GMS,  com.sec.android.app.popupcalculator=10
+1908,1624340142434,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+1909,1624340142443,SET_PKG,setPackageConfigurations()
+1910,1624340142452,SET_PKG,  [com.sec.android.app.myfiles] 
+1911,1624340142455,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+1912,1624340142457,SET_PKG,  [com.sec.android.app.clockpackage] 
+1913,1624340142459,SET_PKG,  [com.android.vending] 
+1914,1624340142461,SET_PKG,  [com.samsung.android.game.gametools] 
+1915,1624340142462,SET_PKG,  [com.samsung.android.game.gamehome] 
+1916,1624340142463,SET_PKG,  [com.sec.android.app.samsungapps] 
+1917,1624340142464,SET_PKG,  [com.sec.android.app.popupcalculator] 
+1918,1624345586502,INI_GMS,  com.sec.android.app.myfiles=10
+1919,1624345586508,INI_GMS,  com.ea.game.nfs14_row=1
+1920,1624345586512,INI_GMS,  com.sec.android.app.clockpackage=10
+1921,1624345586515,INI_GMS,  com.android.vending=10
+1922,1624345586518,INI_GMS,  com.samsung.android.game.gametools=3
+1923,1624345586520,INI_GMS,  com.samsung.android.game.gamehome=3
+1924,1624345586523,INI_GMS,  com.sec.android.app.samsungapps=3
+1925,1624345586525,INI_GMS,  com.sec.android.app.popupcalculator=10
+1926,1624345586528,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+1927,1624345586532,SET_PKG,setPackageConfigurations()
+1928,1624345586535,SET_PKG,  [com.sec.android.app.myfiles] 
+1929,1624345586539,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+1930,1624345586542,SET_PKG,  [com.sec.android.app.clockpackage] 
+1931,1624345586552,SET_PKG,  [com.android.vending] 
+1932,1624345586555,SET_PKG,  [com.samsung.android.game.gametools] 
+1933,1624345586558,SET_PKG,  [com.samsung.android.game.gamehome] 
+1934,1624345586562,SET_PKG,  [com.sec.android.app.samsungapps] 
+1935,1624345586563,SET_PKG,  [com.sec.android.app.popupcalculator] 
+1936,1624345587714,INI_GMS,  com.sec.android.app.myfiles=10
+1937,1624345587717,INI_GMS,  com.ea.game.nfs14_row=1
+1938,1624345587722,INI_GMS,  com.sec.android.app.clockpackage=10
+1939,1624345587725,INI_GMS,  com.android.vending=10
+1940,1624345587727,INI_GMS,  com.samsung.android.game.gametools=3
+1941,1624345587729,INI_GMS,  com.samsung.android.game.gamehome=3
+1942,1624345587730,INI_GMS,  com.sec.android.app.samsungapps=3
+1943,1624345587732,INI_GMS,  com.sec.android.app.popupcalculator=10
+1944,1624345587736,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+1945,1624345587739,SET_PKG,setPackageConfigurations()
+1946,1624345587742,SET_PKG,  [com.sec.android.app.myfiles] 
+1947,1624345587753,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+1948,1624345587754,SET_PKG,  [com.sec.android.app.clockpackage] 
+1949,1624345587756,SET_PKG,  [com.android.vending] 
+1950,1624345587757,SET_PKG,  [com.samsung.android.game.gametools] 
+1951,1624345587759,SET_PKG,  [com.samsung.android.game.gamehome] 
+1952,1624345587760,SET_PKG,  [com.sec.android.app.samsungapps] 
+1953,1624345587762,SET_PKG,  [com.sec.android.app.popupcalculator] 
+1954,1624345588684,INI_GMS,  com.sec.android.app.myfiles=10
+1955,1624345588689,INI_GMS,  com.ea.game.nfs14_row=1
+1956,1624345588693,INI_GMS,  com.sec.android.app.clockpackage=10
+1957,1624345588697,INI_GMS,  com.android.vending=10
+1958,1624345588702,INI_GMS,  com.samsung.android.game.gametools=3
+1959,1624345588704,INI_GMS,  com.samsung.android.game.gamehome=3
+1960,1624345588706,INI_GMS,  com.sec.android.app.samsungapps=3
+1961,1624345588709,INI_GMS,  com.sec.android.app.popupcalculator=10
+1962,1624345588713,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+1963,1624345588718,SET_PKG,setPackageConfigurations()
+1964,1624345588719,SET_PKG,  [com.sec.android.app.myfiles] 
+1965,1624345588733,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+1966,1624345588736,SET_PKG,  [com.sec.android.app.clockpackage] 
+1967,1624345588738,SET_PKG,  [com.android.vending] 
+1968,1624345588742,SET_PKG,  [com.samsung.android.game.gametools] 
+1969,1624345588744,SET_PKG,  [com.samsung.android.game.gamehome] 
+1970,1624345588747,SET_PKG,  [com.sec.android.app.samsungapps] 
+1971,1624345588751,SET_PKG,  [com.sec.android.app.popupcalculator] 
+1972,1624345621752,INI_GMS,  com.sec.android.app.myfiles=10
+1973,1624345621758,INI_GMS,  com.ea.game.nfs14_row=1
+1974,1624345621760,INI_GMS,  com.sec.android.app.clockpackage=10
+1975,1624345621762,INI_GMS,  com.android.vending=10
+1976,1624345621764,INI_GMS,  com.samsung.android.game.gametools=3
+1977,1624345621766,INI_GMS,  com.samsung.android.game.gamehome=3
+1978,1624345621768,INI_GMS,  com.sec.android.app.samsungapps=3
+1979,1624345621770,INI_GMS,  com.sec.android.app.popupcalculator=10
+1980,1624345621774,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+1981,1624345621776,SET_PKG,setPackageConfigurations()
+1982,1624345621779,SET_PKG,  [com.sec.android.app.myfiles] 
+1983,1624345621782,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+1984,1624345621784,SET_PKG,  [com.sec.android.app.clockpackage] 
+1985,1624345621787,SET_PKG,  [com.android.vending] 
+1986,1624345621789,SET_PKG,  [com.samsung.android.game.gametools] 
+1987,1624345621791,SET_PKG,  [com.samsung.android.game.gamehome] 
+1988,1624345621793,SET_PKG,  [com.sec.android.app.samsungapps] 
+1989,1624345621796,SET_PKG,  [com.sec.android.app.popupcalculator] 
+1990,1624385809003,SET_DFS,"FPS: 60, successful: true"
+1991,1624385875668,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+1992,1624385875680,SET_PKG,setPackageConfigurations()
+1993,1624385875684,SET_PKG,  [com.sec.android.app.myfiles] 
+1994,1624385875689,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+1995,1624385875713,SET_PKG,  [com.sec.android.app.clockpackage] 
+1996,1624385875728,SET_PKG,  [com.android.vending] 
+1997,1624385875738,SET_PKG,  [com.samsung.android.game.gametools] 
+1998,1624385875741,SET_PKG,  [com.samsung.android.game.gamehome] 
+1999,1624385875744,SET_PKG,  [com.sec.android.app.samsungapps] 
+2000,1624385875747,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2001,1624385878260,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2002,1624385878264,SET_PKG,setPackageConfigurations()
+2003,1624385878267,SET_PKG,  [com.sec.android.app.myfiles] 
+2004,1624385878269,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2005,1624385878271,SET_PKG,  [com.sec.android.app.clockpackage] 
+2006,1624385878272,SET_PKG,  [com.android.vending] 
+2007,1624385878274,SET_PKG,  [com.samsung.android.game.gametools] 
+2008,1624385878276,SET_PKG,  [com.samsung.android.game.gamehome] 
+2009,1624385878278,SET_PKG,  [com.sec.android.app.samsungapps] 
+2010,1624385878280,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2011,1624481468260,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2012,1624481468269,SET_PKG,setPackageConfigurations()
+2013,1624481468271,SET_PKG,  [com.android.vending] 
+2014,1624492134679,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2015,1624492134722,SET_PKG,setPackageConfigurations()
+2016,1624492134726,SET_PKG,  [com.sec.android.app.myfiles] 
+2017,1624492134730,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2018,1624492134736,SET_PKG,  [com.sec.android.app.clockpackage] 
+2019,1624492134739,SET_PKG,  [com.android.vending] 
+2020,1624492134742,SET_PKG,  [com.samsung.android.game.gametools] 
+2021,1624492134745,SET_PKG,  [com.samsung.android.game.gamehome] 
+2022,1624492134748,SET_PKG,  [com.sec.android.app.samsungapps] 
+2023,1624492134751,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2024,1624505432299,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2025,1624505432306,SET_PKG,setPackageConfigurations()
+2026,1624505432311,SET_PKG,  [com.sec.android.app.myfiles] 
+2027,1624505432314,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2028,1624505432319,SET_PKG,  [com.sec.android.app.clockpackage] 
+2029,1624505432323,SET_PKG,  [com.android.vending] 
+2030,1624505432326,SET_PKG,  [com.samsung.android.game.gametools] 
+2031,1624505432328,SET_PKG,  [com.samsung.android.game.gamehome] 
+2032,1624505432331,SET_PKG,  [com.sec.android.app.samsungapps] 
+2033,1624505432334,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2034,1624595538254,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2035,1624595538262,SET_PKG,setPackageConfigurations()
+2036,1624595538264,SET_PKG,  [com.sec.android.app.myfiles] 
+2037,1624595538266,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2038,1624595538269,SET_PKG,  [com.sec.android.app.clockpackage] 
+2039,1624595538271,SET_PKG,  [com.android.vending] 
+2040,1624595538273,SET_PKG,  [com.samsung.android.game.gametools] 
+2041,1624595538280,SET_PKG,  [com.samsung.android.game.gamehome] 
+2042,1624595538282,SET_PKG,  [com.sec.android.app.samsungapps] 
+2043,1624595538286,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2044,1624781845695,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2045,1624781845705,SET_PKG,setPackageConfigurations()
+2046,1624781845714,SET_PKG,  [com.sec.android.app.myfiles] 
+2047,1624781845718,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2048,1624781845725,SET_PKG,  [com.sec.android.app.clockpackage] 
+2049,1624781845729,SET_PKG,  [com.android.vending] 
+2050,1624781845732,SET_PKG,  [com.samsung.android.game.gametools] 
+2051,1624781845737,SET_PKG,  [com.samsung.android.game.gamehome] 
+2052,1624781845740,SET_PKG,  [com.sec.android.app.samsungapps] 
+2053,1624781845745,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2054,1624936704227,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2055,1624936704239,SET_PKG,setPackageConfigurations()
+2056,1624936704248,SET_PKG,  [com.sec.android.app.myfiles] 
+2057,1624936704250,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2058,1624936704253,SET_PKG,  [com.sec.android.app.clockpackage] 
+2059,1624936704254,SET_PKG,  [com.android.vending] 
+2060,1624936704256,SET_PKG,  [com.samsung.android.game.gametools] 
+2061,1624936704257,SET_PKG,  [com.samsung.android.game.gamehome] 
+2062,1624936704259,SET_PKG,  [com.sec.android.app.samsungapps] 
+2063,1624936704262,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2064,1624936983765,SET_DFS,"FPS: 60, successful: true"
+2065,1624937076365,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2066,1624937076376,SET_PKG,setPackageConfigurations()
+2067,1624937076381,SET_PKG,  [com.sec.android.app.myfiles] 
+2068,1624937076384,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2069,1624937076389,SET_PKG,  [com.sec.android.app.clockpackage] 
+2070,1624937076392,SET_PKG,  [com.android.vending] 
+2071,1624937076394,SET_PKG,  [com.samsung.android.game.gametools] 
+2072,1624937076397,SET_PKG,  [com.samsung.android.game.gamehome] 
+2073,1624937076399,SET_PKG,  [com.sec.android.app.samsungapps] 
+2074,1624937076404,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2075,1624937078185,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2076,1624937078191,SET_PKG,setPackageConfigurations()
+2077,1624937078195,SET_PKG,  [com.sec.android.app.myfiles] 
+2078,1624937078197,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2079,1624937078202,SET_PKG,  [com.sec.android.app.clockpackage] 
+2080,1624937078206,SET_PKG,  [com.android.vending] 
+2081,1624937078208,SET_PKG,  [com.samsung.android.game.gametools] 
+2082,1624937078211,SET_PKG,  [com.samsung.android.game.gamehome] 
+2083,1624937078214,SET_PKG,  [com.sec.android.app.samsungapps] 
+2084,1624937078216,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2085,1624984811194,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2086,1624984811201,SET_PKG,setPackageConfigurations()
+2087,1624984811204,SET_PKG,  [com.sec.android.app.myfiles] 
+2088,1624984811208,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2089,1624984811211,SET_PKG,  [com.sec.android.app.clockpackage] 
+2090,1624984811214,SET_PKG,  [com.android.vending] 
+2091,1624984811216,SET_PKG,  [com.samsung.android.game.gametools] 
+2092,1624984811219,SET_PKG,  [com.samsung.android.game.gamehome] 
+2093,1624984811222,SET_PKG,  [com.sec.android.app.samsungapps] 
+2094,1624984811224,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2095,1625006253184,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2096,1625006253194,SET_PKG,setPackageConfigurations()
+2097,1625006253200,SET_PKG,  [com.sec.android.app.myfiles] 
+2098,1625006253204,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2099,1625006253206,SET_PKG,  [com.sec.android.app.clockpackage] 
+2100,1625006253208,SET_PKG,  [com.android.vending] 
+2101,1625006253217,SET_PKG,  [com.samsung.android.game.gametools] 
+2102,1625006253220,SET_PKG,  [com.samsung.android.game.gamehome] 
+2103,1625006253222,SET_PKG,  [com.sec.android.app.samsungapps] 
+2104,1625006253224,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2105,1625006333435,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2106,1625006333446,SET_PKG,setPackageConfigurations()
+2107,1625006333449,SET_PKG,  [com.sec.android.app.myfiles] 
+2108,1625006333452,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2109,1625006333454,SET_PKG,  [com.sec.android.app.clockpackage] 
+2110,1625006333457,SET_PKG,  [com.android.vending] 
+2111,1625006333459,SET_PKG,  [com.samsung.android.game.gametools] 
+2112,1625006333461,SET_PKG,  [com.samsung.android.game.gamehome] 
+2113,1625006333464,SET_PKG,  [com.sec.android.app.samsungapps] 
+2114,1625006333466,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2115,1625048498799,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2116,1625048498826,SET_PKG,setPackageConfigurations()
+2117,1625048498831,SET_PKG,  [com.android.vending] 
+2118,1625113822697,SET_DFS,"FPS: 60, successful: true"
+2119,1625113856440,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2120,1625113856455,SET_PKG,setPackageConfigurations()
+2121,1625113856467,SET_PKG,  [com.sec.android.app.myfiles] 
+2122,1625113856476,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2123,1625113856478,SET_PKG,  [com.sec.android.app.clockpackage] 
+2124,1625113856482,SET_PKG,  [com.android.vending] 
+2125,1625113856483,SET_PKG,  [com.samsung.android.game.gametools] 
+2126,1625113856485,SET_PKG,  [com.samsung.android.game.gamehome] 
+2127,1625113856486,SET_PKG,  [com.sec.android.app.samsungapps] 
+2128,1625113856488,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2129,1625113859216,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2130,1625113859230,SET_PKG,setPackageConfigurations()
+2131,1625113859237,SET_PKG,  [com.sec.android.app.myfiles] 
+2132,1625113859240,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2133,1625113859245,SET_PKG,  [com.sec.android.app.clockpackage] 
+2134,1625113859248,SET_PKG,  [com.android.vending] 
+2135,1625113859249,SET_PKG,  [com.samsung.android.game.gametools] 
+2136,1625113859251,SET_PKG,  [com.samsung.android.game.gamehome] 
+2137,1625113859252,SET_PKG,  [com.sec.android.app.samsungapps] 
+2138,1625113859253,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2139,1625202539104,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2140,1625202539114,SET_PKG,setPackageConfigurations()
+2141,1625202539120,SET_PKG,  [com.sec.android.app.myfiles] 
+2142,1625202539125,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2143,1625202539132,SET_PKG,  [com.sec.android.app.clockpackage] 
+2144,1625202539140,SET_PKG,  [com.android.vending] 
+2145,1625202539144,SET_PKG,  [com.samsung.android.game.gametools] 
+2146,1625202539147,SET_PKG,  [com.samsung.android.game.gamehome] 
+2147,1625202539149,SET_PKG,  [com.sec.android.app.samsungapps] 
+2148,1625202539152,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2149,1625203860185,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2150,1625203860193,SET_PKG,setPackageConfigurations()
+2151,1625203860197,SET_PKG,  [com.sec.android.app.myfiles] 
+2152,1625203860200,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2153,1625203860202,SET_PKG,  [com.sec.android.app.clockpackage] 
+2154,1625203860205,SET_PKG,  [com.android.vending] 
+2155,1625203860207,SET_PKG,  [com.samsung.android.game.gametools] 
+2156,1625203860210,SET_PKG,  [com.samsung.android.game.gamehome] 
+2157,1625203860212,SET_PKG,  [com.sec.android.app.samsungapps] 
+2158,1625203860216,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2159,1625209041804,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2160,1625209041813,SET_PKG,setPackageConfigurations()
+2161,1625209041818,SET_PKG,  [com.sec.android.app.myfiles] 
+2162,1625209041823,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2163,1625209041827,SET_PKG,  [com.sec.android.app.clockpackage] 
+2164,1625209041830,SET_PKG,  [com.android.vending] 
+2165,1625209041833,SET_PKG,  [com.samsung.android.game.gametools] 
+2166,1625209041836,SET_PKG,  [com.samsung.android.game.gamehome] 
+2167,1625209041839,SET_PKG,  [com.sec.android.app.samsungapps] 
+2168,1625209041842,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2169,1625209043314,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2170,1625209043318,SET_PKG,setPackageConfigurations()
+2171,1625209043321,SET_PKG,  [com.sec.android.app.myfiles] 
+2172,1625209043324,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2173,1625209043326,SET_PKG,  [com.sec.android.app.clockpackage] 
+2174,1625209043328,SET_PKG,  [com.android.vending] 
+2175,1625209043330,SET_PKG,  [com.samsung.android.game.gametools] 
+2176,1625209043334,SET_PKG,  [com.samsung.android.game.gamehome] 
+2177,1625209043336,SET_PKG,  [com.sec.android.app.samsungapps] 
+2178,1625209043341,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2179,1625260721724,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2180,1625260721733,SET_PKG,setPackageConfigurations()
+2181,1625260721736,SET_PKG,  [com.sec.android.app.myfiles] 
+2182,1625260721738,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2183,1625260721741,SET_PKG,  [com.sec.android.app.clockpackage] 
+2184,1625260721744,SET_PKG,  [com.android.vending] 
+2185,1625260721747,SET_PKG,  [com.samsung.android.game.gametools] 
+2186,1625260721750,SET_PKG,  [com.samsung.android.game.gamehome] 
+2187,1625260721752,SET_PKG,  [com.sec.android.app.samsungapps] 
+2188,1625260721754,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2189,1625304087496,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2190,1625304087512,SET_PKG,setPackageConfigurations()
+2191,1625304087516,SET_PKG,  [com.sec.android.app.myfiles] 
+2192,1625304087520,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2193,1625304087523,SET_PKG,  [com.sec.android.app.clockpackage] 
+2194,1625304087525,SET_PKG,  [com.android.vending] 
+2195,1625304087527,SET_PKG,  [com.samsung.android.game.gametools] 
+2196,1625304087529,SET_PKG,  [com.samsung.android.game.gamehome] 
+2197,1625304087532,SET_PKG,  [com.sec.android.app.samsungapps] 
+2198,1625304087534,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2199,1625384430978,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2200,1625384430987,SET_PKG,setPackageConfigurations()
+2201,1625384430991,SET_PKG,  [com.sec.android.app.myfiles] 
+2202,1625384430994,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2203,1625384430997,SET_PKG,  [com.sec.android.app.clockpackage] 
+2204,1625384431001,SET_PKG,  [com.android.vending] 
+2205,1625384431004,SET_PKG,  [com.samsung.android.game.gametools] 
+2206,1625384431007,SET_PKG,  [com.samsung.android.game.gamehome] 
+2207,1625384431009,SET_PKG,  [com.sec.android.app.samsungapps] 
+2208,1625384431012,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2209,1625384432542,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2210,1625384432548,SET_PKG,setPackageConfigurations()
+2211,1625384432552,SET_PKG,  [com.sec.android.app.myfiles] 
+2212,1625384432556,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2213,1625384432559,SET_PKG,  [com.sec.android.app.clockpackage] 
+2214,1625384432561,SET_PKG,  [com.android.vending] 
+2215,1625384432564,SET_PKG,  [com.samsung.android.game.gametools] 
+2216,1625384432566,SET_PKG,  [com.samsung.android.game.gamehome] 
+2217,1625384432568,SET_PKG,  [com.sec.android.app.samsungapps] 
+2218,1625384432572,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2219,1625384433928,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2220,1625384433933,SET_PKG,setPackageConfigurations()
+2221,1625384433936,SET_PKG,  [com.sec.android.app.myfiles] 
+2222,1625384433939,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2223,1625384433942,SET_PKG,  [com.sec.android.app.clockpackage] 
+2224,1625384433945,SET_PKG,  [com.android.vending] 
+2225,1625384433947,SET_PKG,  [com.samsung.android.game.gametools] 
+2226,1625384433950,SET_PKG,  [com.samsung.android.game.gamehome] 
+2227,1625384433953,SET_PKG,  [com.sec.android.app.samsungapps] 
+2228,1625384433956,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2229,1625384435300,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2230,1625384435305,SET_PKG,setPackageConfigurations()
+2231,1625384435309,SET_PKG,  [com.sec.android.app.myfiles] 
+2232,1625384435313,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2233,1625384435316,SET_PKG,  [com.sec.android.app.clockpackage] 
+2234,1625384435319,SET_PKG,  [com.android.vending] 
+2235,1625384435322,SET_PKG,  [com.samsung.android.game.gametools] 
+2236,1625384435324,SET_PKG,  [com.samsung.android.game.gamehome] 
+2237,1625384435327,SET_PKG,  [com.sec.android.app.samsungapps] 
+2238,1625384435330,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2239,1625508513444,SET_DFS,"FPS: 60, successful: true"
+2240,1625508545894,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2241,1625508545900,SET_PKG,setPackageConfigurations()
+2242,1625508545915,SET_PKG,  [com.sec.android.app.myfiles] 
+2243,1625508545917,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2244,1625508545920,SET_PKG,  [com.sec.android.app.clockpackage] 
+2245,1625508545921,SET_PKG,  [com.android.vending] 
+2246,1625508545922,SET_PKG,  [com.samsung.android.game.gametools] 
+2247,1625508545923,SET_PKG,  [com.samsung.android.game.gamehome] 
+2248,1625508545925,SET_PKG,  [com.sec.android.app.samsungapps] 
+2249,1625508545926,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2250,1625508548200,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2251,1625508548210,SET_PKG,setPackageConfigurations()
+2252,1625508548213,SET_PKG,  [com.sec.android.app.myfiles] 
+2253,1625508548217,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2254,1625508548228,SET_PKG,  [com.sec.android.app.clockpackage] 
+2255,1625508548231,SET_PKG,  [com.android.vending] 
+2256,1625508548232,SET_PKG,  [com.samsung.android.game.gametools] 
+2257,1625508548233,SET_PKG,  [com.samsung.android.game.gamehome] 
+2258,1625508548235,SET_PKG,  [com.sec.android.app.samsungapps] 
+2259,1625508548236,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2260,1625621880535,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2261,1625621880542,SET_PKG,setPackageConfigurations()
+2262,1625621880545,SET_PKG,  [com.android.vending] 
+2263,1625681422871,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2264,1625681422878,SET_PKG,setPackageConfigurations()
+2265,1625681422882,SET_PKG,  [com.sec.android.app.myfiles] 
+2266,1625681422884,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2267,1625681422887,SET_PKG,  [com.sec.android.app.clockpackage] 
+2268,1625681422890,SET_PKG,  [com.android.vending] 
+2269,1625681422892,SET_PKG,  [com.samsung.android.game.gametools] 
+2270,1625681422895,SET_PKG,  [com.samsung.android.game.gamehome] 
+2271,1625681422897,SET_PKG,  [com.sec.android.app.samsungapps] 
+2272,1625681422900,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2273,1625809522382,SET_DFS,"FPS: 60, successful: true"
+2274,1625809558201,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2275,1625809558210,SET_PKG,setPackageConfigurations()
+2276,1625809558214,SET_PKG,  [com.sec.android.app.myfiles] 
+2277,1625809558217,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2278,1625809558220,SET_PKG,  [com.sec.android.app.clockpackage] 
+2279,1625809558223,SET_PKG,  [com.android.vending] 
+2280,1625809558226,SET_PKG,  [com.samsung.android.game.gametools] 
+2281,1625809558228,SET_PKG,  [com.samsung.android.game.gamehome] 
+2282,1625809558231,SET_PKG,  [com.sec.android.app.samsungapps] 
+2283,1625809558232,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2284,1625809560601,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2285,1625809560631,SET_PKG,setPackageConfigurations()
+2286,1625809560638,SET_PKG,  [com.sec.android.app.myfiles] 
+2287,1625809560642,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2288,1625809560646,SET_PKG,  [com.sec.android.app.clockpackage] 
+2289,1625809560649,SET_PKG,  [com.android.vending] 
+2290,1625809560651,SET_PKG,  [com.samsung.android.game.gametools] 
+2291,1625809560653,SET_PKG,  [com.samsung.android.game.gamehome] 
+2292,1625809560655,SET_PKG,  [com.sec.android.app.samsungapps] 
+2293,1625809560658,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2294,1625991536621,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2295,1625991536629,SET_PKG,setPackageConfigurations()
+2296,1625991536633,SET_PKG,  [com.sec.android.app.myfiles] 
+2297,1625991536637,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2298,1625991536642,SET_PKG,  [com.sec.android.app.clockpackage] 
+2299,1625991536647,SET_PKG,  [com.android.vending] 
+2300,1625991536650,SET_PKG,  [com.samsung.android.game.gametools] 
+2301,1625991536652,SET_PKG,  [com.samsung.android.game.gamehome] 
+2302,1625991536655,SET_PKG,  [com.sec.android.app.samsungapps] 
+2303,1625991536658,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2304,1626166837073,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2305,1626166837084,SET_PKG,setPackageConfigurations()
+2306,1626166837089,SET_PKG,  [com.sec.android.app.myfiles] 
+2307,1626166837094,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2308,1626166837101,SET_PKG,  [com.sec.android.app.clockpackage] 
+2309,1626166837106,SET_PKG,  [com.android.vending] 
+2310,1626166837123,SET_PKG,  [com.samsung.android.game.gametools] 
+2311,1626166837125,SET_PKG,  [com.samsung.android.game.gamehome] 
+2312,1626166837127,SET_PKG,  [com.sec.android.app.samsungapps] 
+2313,1626166837128,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2314,1626351054253,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2315,1626351054261,SET_PKG,setPackageConfigurations()
+2316,1626351054264,SET_PKG,  [com.sec.android.app.myfiles] 
+2317,1626351054266,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2318,1626351054267,SET_PKG,  [com.sec.android.app.clockpackage] 
+2319,1626351054269,SET_PKG,  [com.android.vending] 
+2320,1626351054271,SET_PKG,  [com.samsung.android.game.gametools] 
+2321,1626351054272,SET_PKG,  [com.samsung.android.game.gamehome] 
+2322,1626351054274,SET_PKG,  [com.sec.android.app.samsungapps] 
+2323,1626351054275,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2324,1626448094493,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2325,1626448094502,SET_PKG,setPackageConfigurations()
+2326,1626448094506,SET_PKG,  [com.sec.android.app.myfiles] 
+2327,1626448094510,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2328,1626448094514,SET_PKG,  [com.sec.android.app.clockpackage] 
+2329,1626448094519,SET_PKG,  [com.android.vending] 
+2330,1626448094523,SET_PKG,  [com.samsung.android.game.gametools] 
+2331,1626448094527,SET_PKG,  [com.samsung.android.game.gamehome] 
+2332,1626448094530,SET_PKG,  [com.sec.android.app.samsungapps] 
+2333,1626448094535,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2334,1626637560744,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2335,1626637560759,SET_PKG,setPackageConfigurations()
+2336,1626637560764,SET_PKG,  [com.sec.android.app.myfiles] 
+2337,1626637560767,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2338,1626637560769,SET_PKG,  [com.sec.android.app.clockpackage] 
+2339,1626637560772,SET_PKG,  [com.android.vending] 
+2340,1626637560774,SET_PKG,  [com.samsung.android.game.gametools] 
+2341,1626637560776,SET_PKG,  [com.samsung.android.game.gamehome] 
+2342,1626637560778,SET_PKG,  [com.sec.android.app.samsungapps] 
+2343,1626637560780,SET_PKG,  [com.sec.android.app.popupcalculator] 
+2344,1626731136138,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2345,1626731136142,SET_PKG,setPackageConfigurations()
+2346,1626731136143,SET_PKG,  [com.android.vending] 
+2347,1626807625380,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2348,1626807625402,SET_PKG,setPackageConfigurations()
+2349,1626807625408,SET_PKG,  [com.android.vending] 
+2350,1626810687504,SET_GLO,"setPerformanceMode(), SiopMode: 1"
+2351,1626810687511,SET_PKG,setPackageConfigurations()
+2352,1626810687514,SET_PKG,  [com.sec.android.app.myfiles] 
+2353,1626810687517,SET_PKG,"  [com.ea.game.nfs14_row] , DSS: 0.7731481, GTC: -4/-2/0, GameSDK: -1/-1/true"
+2354,1626810687521,SET_PKG,  [com.sec.android.app.clockpackage] 
+2355,1626810687524,SET_PKG,  [com.android.vending] 
+2356,1626810687526,SET_PKG,  [com.samsung.android.game.gametools] 
+2357,1626810687529,SET_PKG,  [com.samsung.android.game.gamehome] 
+2358,1626810687532,SET_PKG,  [com.sec.android.app.samsungapps] 
+2359,1626810687534,SET_PKG,  [com.sec.android.app.popupcalculator] 

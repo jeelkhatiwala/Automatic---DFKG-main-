@@ -1,0 +1,424 @@
+RecordId,formal,alias
+1,SamIlJeol,삼 일 절
+2,SamIlJeol,삼 일 절 날
+3,SamIlJeol,삼 일 절 날
+4,JeHeonJeol,제 헌 절
+5,JeHeonJeol,제 헌 절 날
+6,JeHeonJeol,제 헌 절 날
+7,GwangBokJeol,광 복 절
+8,GwangBokJeol,광 복 절 날
+9,GwangBokJeol,광 복 절 날
+10,GaecheonJeol,개 천 절
+11,GaecheonJeol,개 천 절 날
+12,GaecheonJeol,개 천 절 날
+13,HangulLal,한 글 날
+14,Iipalminjuundong,228 민 주 운 동
+15,Iipalminjuundong,228 민 주 운 동
+16,NapSeJaUiNal,납 세 자 의 날
+17,NapSeJaUiNal,납 세 자 의 날
+18,SamIroUiGeoGinyeomIl,315 의 거 기 념 일
+19,SamIroUiGeoGinyeomIl,315 의 거 기 념 일 날
+20,SamIroUiGeoGinyeomIl,315 의 거 기 념 일 날
+21,SangGongUiNal,상 공 의 날
+22,SangGongUiNal,상 공 의 날
+23,Segyemuruinal,세 계 물 의 날
+24,Segyemuruinal,세 계 물 의 날
+25,Segyemuruinal,세 계 물 의 날
+26,Seohaesuhouinal,서 해 수 호 의 날
+27,Seohaesuhouinal,서 해 수 호 의 날
+28,Sasamhuisaengjachunyeomil,43 희 생 자 추 념 일
+29,Sasamhuisaengjachunyeomil,43 희 생 자 추 념 일 날
+30,Sasamhuisaengjachunyeomil,43 희 생 자 추 념 일 날
+31,Yebigunuinal,예 비 군 의 날
+32,Yebigunuinal,예 비 군 의 날
+33,Singmogil,식 목 일
+34,Singmogil,식 목 일 날
+35,Singmogil,식 목 일 날
+36,Bogeonuinal,보 건 의 날
+37,Bogeonuinal,보 건 의 날
+38,Daehanmingugimsijeongbusuripginyeomil,대 한 민 국 임 시 정 부 수 립 기 념 일
+39,Daehanmingugimsijeongbusuripginyeomil,대 한 민 국 임 시 정 부 수 립 기 념 일 날
+40,Daehanmingugimsijeongbusuripginyeomil,대 한 민 국 임 시 정 부 수 립 기 념 일 날
+41,Sailguhyeongmyeongginyeomil,419 혁 명 기 념 일
+42,Sailguhyeongmyeongginyeomil,419 혁 명 기 념 일 날
+43,Sailguhyeongmyeongginyeomil,419 혁 명 기 념 일 날
+44,Jangaeinuinal,장 애 인 의 날
+45,Jangaeinuinal,장 애 인 의 날
+46,Gwahaguinal,과 학 자 의 날
+47,Gwahaguinal,과 학 의 날
+48,Jiguuinal,지 구 의 날
+49,Jiguuinal,지 구 의 날
+50,Jeongbotongsinuinal,정 보 통 신 의 날
+51,Jeongbotongsinuinal,정 보 통 신 의 날
+52,Beobuinal,법 의 날
+53,Beobuinal,법 의 날
+54,Chungmugongisunsintansinil,충 무 공 이 순 신 탄 신 일
+55,Chungmugongisunsintansinil,충 무 공 이 순 신 탄 신 일 날
+56,Chungmugongisunsintansinil,충 무 공 이 순 신 탄 신 일 날
+57,Geullojauinal,근 로 자 의 날
+58,Geullojauinal,근 로 자 의 날
+59,Eorininal,어 린 이 날
+60,Eorininal,어 린 이 날
+61,Eobeoinal,어 버 이 날
+62,Eobeoinal,어 버 이 날
+63,Seuseunguinal,스 승 의 날
+64,Seuseunguinal,스 승 의 날
+65,Oilpalminjuhwaundongginyeomil,518 민 주 화 운 동 기 념 일
+66,Oilpalminjuhwaundongginyeomil,518 민 주 화 운 동 기 념 일 날
+67,Oilpalminjuhwaundongginyeomil,518 민 주 화 운 동 기 념 일 날
+68,Balmyeonguinal,발 명 의 날
+69,Balmyeonguinal,발 명 의 날
+70,Segyeinuinal,세 계 인 의 날
+71,Segyeinuinal,세 계 인 의 날
+72,Bubuuinal,부 부 의 날
+73,Bubuuinal,부 부 의 날
+74,Seongnyeonuinal,성 년 의 날
+75,Seongnyeonuinal,성 년 의 날
+76,Bangjaeuinal,방 재 의 날
+77,Bangjaeuinal,방 재 의 날
+78,Badauinal,바 다 의 날
+79,Badauinal,바 다 의 날
+80,Uibyeonguinal,의 병 의 날
+81,Uibyeonguinal,의 병 의 날
+82,Hwangyeonguinal,환 경 의 날
+83,Hwangyeonguinal,환 경 의 날
+84,Hyeonchungil,현 충 일
+85,Hyeonchungil,현 충 일 날
+86,Hyeonchungil,현 충 일 날
+87,Yugilgongminjuhangjaengginyeomil,610 민 주 항 쟁 기 념 일
+88,Yugilgongminjuhangjaengginyeomil,610 민 주 항 쟁 기 념 일 날
+89,Yugilgongminjuhangjaengginyeomil,610 민 주 항 쟁 기 념 일 날
+90,Yugiojeonjaengil,625 전 쟁 일
+91,Yugiojeonjaengil,625 전 쟁 일 날
+92,Yugiojeonjaengil,625 전 쟁 일 날
+93,Jeongbobohouinal,정 보 보 호 의 날
+94,Jeongbobohouinal,정 보 보 호 의 날
+95,Cheoldouinal,철 도 의 날
+96,Cheoldouinal,철 도 의 날
+97,Gukgunuinal,국 군 의 날
+98,Gukgunuinal,국 군 의 날
+99,Noinuinal,노 인 의 날
+100,Noinuinal,노 인 의 날
+101,Segyehaninuinal,세 계 한 인 의 날
+102,Segyehaninuinal,세 계 한 인 의 날
+103,Jaehyangguninuinal,재 향 군 인 의 날
+104,Jaehyangguninuinal,재 향 군 인 의 날
+105,Cheyuguinal,체 육 의 날
+106,Cheyuguinal,체 육 의 날
+107,Munhwauinal,문 화 의 날
+108,Munhwauinal,문 화 의 날
+109,Gyeongcharuinal,경 찰 의 날
+110,Gyeongcharuinal,경 찰 의 날
+111,Gukjeyeonhabil,국 제 연 합 일
+112,Gukjeyeonhabil,국 제 연 합 일
+113,Dokdouinal,독 도 의 날
+114,Dokdouinal,독 도 의 날
+115,Gyojeonguinal,교 정 의 날
+116,Gyojeonguinal,교 정 의 날
+117,Jibangjachiuinal,지 방 자 치 의 날
+118,Jibangjachiuinal,지 방 자 치 의 날
+119,Geumyunguinal,금 융 의 날
+120,Geumyunguinal,금 융 의 날
+121,Haksaengdongnibundongginyeomil,학 생 독 립 운 동 기 념 일
+122,Haksaengdongnibundongginyeomil,학 생 독 립 운 동 기 념 일 날
+123,Haksaengdongnibundongginyeomil,학 생 독 립 운 동 기 념 일 날
+124,Sobanguinal,소 방 의 날
+125,Sobanguinal,소 방 의 날
+126,Nongeobinuinal,농 업 인 의 날
+127,Nongeobinuinal,농 업 인 의 날
+128,Sungukseonyeoruinal,순 국 선 열 의 날
+129,Sungukseonyeoruinal,순 국 선 열 의 날
+130,Sobijauinal,소 비 자 의 날
+131,Sobijauinal,소 비 자 의 날
+132,Muyeoguinal,무 역 의 날
+133,Muyeoguinal,무 역 의 날
+134,Wonjaryeoganjeonmitjinheunguinal,원 자 력 안 전 및 진 흥 의 날
+135,Wonjaryeoganjeonmitjinheunguinal,원 자 력 안 전 및 진 흥 의 날
+136,SeolLal,설
+137,SeolLal,설 날
+138,SeolLal,구 정
+139,SeolLal,음 력 설
+140,SeolLal,음 력 설
+141,SeolLal,음 력 설 날
+142,SeolLal,음 력 설 날
+143,JeongWolDaeBoReum,정 월 대 보 름
+144,JeongWolDaeBoReum,정 월 대 보 름 날
+145,JeongWolDaeBoReum,정 월 대 보 름 날
+146,YeongDeungNal,영 등 날
+147,SamJitNal,삼 짇 날
+148,DanO,단 오
+149,DanO,단 오 날
+150,DanO,단 오 날
+151,DanO,단 오 절
+152,DanO,단 오 절 날
+153,DanO,단 오 절 날
+154,YuDo,유 두
+155,YuDo,유 두 날
+156,YuDo,유 두 날
+157,YuDo,유 두 절
+158,YuDo,유 두 절 날
+159,YuDo,유 두 절 날
+160,ChilSeok,칠 석
+161,ChilSeok,칠 석 날
+162,ChilSeok,칠 석 날
+163,ChilSeok,7 월 7 석
+164,ChilSeok,7 월 7 석 날
+165,ChilSeok,7 월 7 석 날
+166,BaekJung,백 중
+167,BaekJung,백 중 날
+168,BaekJung,백 중 날
+169,BaekJung,백 중 절
+170,BaekJung,백 중 절 날
+171,BaekJung,백 중 절 날
+172,BaekJung,백 종 일
+173,BaekJung,백 종 일 날
+174,BaekJung,백 종 일 날
+175,ChuSeok,추 석
+176,ChuSeok,추 석 날
+177,ChuSeok,추 석 날
+178,ChuSeok,한 가 위
+179,ChuSeok,한 가 위 날
+180,ChuSeok,한 가 윗 날
+181,ChuSeok,한 가 위 날
+182,JungYangJeol,중 양 절
+183,JungYangJeol,중 양 절 날
+184,JungYangJeol,중 양 절 날
+185,ShiWoelBoReum,시 월 보 름
+186,ShiWoelBoReum,시 월 보 름 날
+187,ShiWoelBoReum,시 월 보 름 날
+188,SeotDalGeuMeum,섣 달 그 믐
+189,SeotDalGeuMeum,섣 달 그 믐 날
+190,SeotDalGeuMeum,섣 달 그 믐 날
+191,SoHan,소 한
+192,SoHan,소 한 날
+193,SoHan,소 한 날
+194,DaeHan,대 한
+195,DaeHan,대 한 날
+196,DaeHan,대 한 날
+197,IpChun,입 춘
+198,IpChun,입 춘 날
+199,IpChun,입 춘 날
+200,USu,우 수
+201,USu,우 수 날
+202,USu,우 수 날
+203,GyeongChip,경 칩
+204,GyeongChip,경 칩 날
+205,GyeongChip,경 칩 날
+206,ChunBun,춘 분
+207,ChunBun,춘 분 날
+208,ChunBun,춘 분 날
+209,CheongMyeong,청 명
+210,CheongMyeong,청 명 날
+211,CheongMyeong,청 명 날
+212,GokU,곡 우
+213,GokU,곡 우 날
+214,GokU,곡 우 날
+215,IpHa,입 하
+216,IpHa,입 하 날
+217,IpHa,입 하 날
+218,SoMan,소 만
+219,SoMan,소 만 날
+220,SoMan,소 만 날
+221,MangJong,망 종
+222,MangJong,망 종 날
+223,MangJong,망 종 날
+224,HaJi,하 지
+225,HaJi,하 지 날
+226,HaJi,하 지 날
+227,HaJi,하 짓 날
+228,HaJi,하 짓 날
+229,SoSeo,소 서
+230,SoSeo,소 서 날
+231,SoSeo,소 서 날
+232,DaeSeo,대 서
+233,DaeSeo,대 서 날
+234,DaeSeo,대 서 날
+235,IpChu,입 추
+236,IpChu,입 추 날
+237,IpChu,입 추 날
+238,CheoSeo,처 서
+239,CheoSeo,처 서 날
+240,CheoSeo,처 서 날
+241,BaekRo,백 로
+242,BaekRo,백 로 날
+243,BaekRo,백 로 날
+244,ChuBun,추 분
+245,ChuBun,추 분 날
+246,ChuBun,추 분 날
+247,HanLo,한 로
+248,HanLo,한 로 날
+249,HanLo,한 로 날
+250,SangGang,상 강
+251,SangGang,상 강 날
+252,SangGang,상 강 날
+253,IpDong,입 동
+254,IpDong,입 동 날
+255,IpDong,입 동 날
+256,SoSeol,소 설
+257,SoSeol,소 설 날
+258,SoSeol,소 설 날
+259,DaeSeol,대 설
+260,DaeSeol,대 설 날
+261,DaeSeol,대 설 날
+262,DongJi,동 지
+263,DongJi,동 지 날
+264,DongJi,동 지 날
+265,DongJi,동 짓 날
+266,DongJi,동 짓 날
+267,NewYearsDay,신 정
+268,NewYearsDay,신 정 날
+269,NewYearsDay,신 정 날
+270,NewYearsDay,새 해 첫 날
+271,NewYearsDay,새 해 첫 날
+272,NewYearsDay,새 해 첫 날
+273,NewYearsDay,새 해 첫 날
+274,ValentinesDay,발 렌 타 인 데 이
+275,ValentinesDay,발 렌 타 인 데 이 날
+276,ValentinesDay,발 렌 타 인 데 이 날
+277,ValentinesDay,발 렌 타 인 데 이
+278,ValentinesDay,발 렌 타 인 데 이 날
+279,ValentinesDay,발 렌 타 인 데 이 날
+280,WhiteDay,화 이 트 데 이
+281,WhiteDay,화 이 트 데 이 날
+282,WhiteDay,화 이 트 데 이 날
+283,WhiteDay,화 이 트 데 이
+284,WhiteDay,화 이 트 데 이 날
+285,WhiteDay,화 이 트 데 이 날
+286,AprilFoolsDay,만 우 절
+287,AprilFoolsDay,만 우 절 날
+288,AprilFoolsDay,만 우 절 날
+289,BuddhasBirthday,석 가 탄 신 일
+290,BuddhasBirthday,석 가 탄 신 일 날
+291,BuddhasBirthday,석 가 탄 신 일 날
+292,BuddhasBirthday,석 가 탄 신 일
+293,BuddhasBirthday,석 가 탄 신 일 날
+294,BuddhasBirthday,석 가 탄 신 일 날
+295,BuddhasBirthday,부 처 님 오 신 날
+296,BuddhasBirthday,부 처 님 오 신 날
+297,BuddhasBirthday,사 월 초 파 일
+298,BuddhasBirthday,사 월 초 파 일 날
+299,BuddhasBirthday,사 월 초 파 일 날
+300,YuGwonJaUiNal,유 권 자 의 날
+301,YuGwonJaUiNal,유 권 자 의 날
+302,BokNal,복 날
+303,ChoBok,초 복
+304,ChoBok,초 복 날
+305,ChoBok,초 복 날
+306,JungBok,중 복
+307,JungBok,중 복 날
+308,JungBok,중 복 날
+309,MalBok,말 복
+310,MalBok,말 복 날
+311,MalBok,말 복 날
+312,HanSik,한 식
+313,HanSik,한 식 날
+314,HanSik,한 식 날
+315,PeperoDay,빼 빼 로 데 이
+316,PeperoDay,빼 빼 로 데 이
+317,PeperoDay,빼 빼 로 데 이
+318,PeperoDay,빼 빼 로 데 이
+319,Halloween,할 로 윈
+320,Halloween,할 로 윈 날
+321,Halloween,할 로 윈 날
+322,Halloween,할 로 윈 데 이
+323,Halloween,할 로 윈 데 이 날
+324,Halloween,할 로 윈 데 이 날
+325,Halloween,할 로 윈 데 이
+326,Halloween,할 로 윈 데 이 날
+327,Halloween,할 로 윈 데 이 날
+328,Halloween,핼 러 윈
+329,Halloween,핼 러 윈 데 이
+330,Halloween,핼 러 윈 데 이
+331,BlackFriday,블 랙 프 라 이 데 이
+332,BlackFriday,블 랙 프 라 이 데 이 날
+333,BlackFriday,블 랙 프 라 이 데 이 날
+334,BlackFriday,블 랙 프 라 이 데 이
+335,BlackFriday,블 랙 프 라 이 데 이 날
+336,BlackFriday,블 랙 프 라 이 데 이 날
+337,BlackFriday,블 프
+338,BlackFriday,블 프 날
+339,BlackFriday,블 프 날
+340,BlackFriday,블 프 데 이
+341,BlackFriday,블 프 데 이 날
+342,BlackFriday,블 프 데 이 날
+343,BlackFriday,블 프 데 이
+344,BlackFriday,블 프 데 이 날
+345,BlackFriday,블 프 데 이 날
+346,EasterSunday,부 활 절
+347,EasterSunday,부 활 절 기
+348,EasterSunday,이 스 터
+349,ChristmasEve,크 리 스 마 스 이 브
+350,ChristmasEve,크 리 스 마 스 이 브 날
+351,ChristmasEve,크 리 스 마 스 이 브 날
+352,ChristmasEve,크 리 스 마 스 이 브
+353,ChristmasEve,크 리 스 마 스 이 브 날
+354,ChristmasEve,크 리 스 마 스 이 브 날
+355,ChristmasDay,크 리 스 마 스
+356,ChristmasDay,크 리 스 마 스
+357,ChristmasDay,크 리 스 마 스 날
+358,ChristmasDay,크 리 스 마 스 날
+359,ChristmasDay,크 리 스 마 스 날
+360,ChristmasDay,크 리 스 마 스 날
+361,ChristmasDay,성 탄 절
+362,ChristmasDay,성 탄 절 날
+363,ChristmasDay,성 탄 절 날
+364,DiaryDay,다 이 어 리 데 이
+365,DiaryDay,다 이 어 리 데 이 날
+366,DiaryDay,다 이 어 리 데 이 날
+367,DiaryDay,다 이 어 리 데 이
+368,DiaryDay,다 이 어 리 데 이 날
+369,DiaryDay,다 이 어 리 데 이 날
+370,BlackDay,블 랙 데 이
+371,BlackDay,블 랙 데 이 날
+372,BlackDay,블 랙 데 이 날
+373,BlackDay,블 랙 데 이
+374,BlackDay,블 랙 데 이 날
+375,BlackDay,블 랙 데 이 날
+376,RoseDay,로 즈 데 이
+377,RoseDay,로 즈 데 이 날
+378,RoseDay,로 즈 데 이 날
+379,RoseDay,로 즈 데 이
+380,RoseDay,로 즈 데 이 날
+381,RoseDay,로 즈 데 이 날
+382,KissDay,키 스 데 이
+383,KissDay,키 스 데 이 날
+384,KissDay,키 스 데 이 날
+385,KissDay,키 스 데 이
+386,KissDay,키 스 데 이 날
+387,KissDay,키 스 데 이 날
+388,SilverDay,실 버 데 이
+389,SilverDay,실 버 데 이 날
+390,SilverDay,실 버 데 이 날
+391,SilverDay,실 버 데 이
+392,SilverDay,실 버 데 이 날
+393,SilverDay,실 버 데 이 날
+394,GreenDay,그 린 데 이
+395,GreenDay,그 린 데 이 날
+396,GreenDay,그 린 데 이 날
+397,GreenDay,그 린 데 이
+398,GreenDay,그 린 데 이 날
+399,GreenDay,그 린 데 이 날
+400,PhotoDay,포 토 데 이
+401,PhotoDay,포 토 데 이 날
+402,PhotoDay,포 토 데 이 날
+403,PhotoDay,포 토 데 이
+404,PhotoDay,포 토 데 이 날
+405,PhotoDay,포 토 데 이 날
+406,WineDay,와 인 데 이
+407,WineDay,와 인 데 이 날
+408,WineDay,와 인 데 이 날
+409,WineDay,와 인 데 이
+410,WineDay,와 인 데 이 날
+411,WineDay,와 인 데 이 날
+412,MovieDay,무 비 데 이
+413,MovieDay,무 비 데 이 날
+414,MovieDay,무 비 데 이 날
+415,MovieDay,무 비 데 이
+416,MovieDay,무 비 데 이 날
+417,MovieDay,무 비 데 이 날
+418,HugDay,허 그 데 이
+419,HugDay,허 그 데 이 날
+420,HugDay,허 그 데 이 날
+421,HugDay,허 그 데 이
+422,HugDay,허 그 데 이 날
+423,HugDay,허 그 데 이 날

@@ -1,0 +1,2 @@
+_id,is_preloaded,image_uri,is_selected_sim1,is_selected_sim2,type,is_default,thumbnail,package_name
+1,1,content://com.samsung.android.callbgprovider.media/videos/settings_gradient_720_1280_light.mp4,1,1,video,1,content://com.samsung.android.callbgprovider.media/thumbnail/callsetting_background_preview_default.jpg,

@@ -1,0 +1,66 @@
+_id,key,value,timeStamp
+2,PowerMode5G,"PSM_5G_MODE : null, need to init",1611196541085
+3,ACTION_BATTERY_DETERIORATION,This country does not support Battery Deterioration !!,1611196547142
+20,AnomalyNotification,Notified : com.google.android.apps.maps / reason : 4 / type : 2 / restrictionType : 0,1619493949033
+26,ACTION_BATTERY_DETERIORATION,This country does not support Battery Deterioration !!,1620202904357
+38,AnomalyNotification,Notified : com.google.android.apps.maps / reason : 4 / type : 2 / restrictionType : 0,1621125230107
+51,Anomaly_FilterOut_2,"filtered : com.microsoft.office.outlook / reason : isSystemApp : false, shouldRemoveFasTable : false, shouldHideAnomaly : false, isIgnoringBatteryOptimizations : false, hasPkg : com.microsoft.office.outlook [10287] is in FAS table, isSystemUid : false, isExcessiveBackgroundAnomaly : false, isAlreadyRestricted : alreadyRestriced",1622046920352
+52,Anomaly_FilterOut_2,"filtered : com.microsoft.office.officehubrow / reason : isSystemApp : false, hasPkg : com.microsoft.office.officehubrow [10289] is in FAS table, shouldRemoveFasTable : false, shouldHideAnomaly : false, isIgnoringBatteryOptimizations : false, isSystemUid : false, isExcessiveBackgroundAnomaly : false, isAlreadyRestricted : alreadyRestriced",1622047417282
+54,AutoOpt,Optimization took 738,1622099070923
+55,Anomaly_FilterOut_2,"filtered : com.duckduckgo.mobile.android / reason : isSystemApp : false, shouldRemoveFasTable : false, shouldHideAnomaly : false, isIgnoringBatteryOptimizations : false, hasPkg : com.duckduckgo.mobile.android [10304] is in FAS table, isSystemUid : false, isExcessiveBackgroundAnomaly : false, isAlreadyRestricted : alreadyRestriced",1622609919275
+56,Anomaly_FilterOut_2,"filtered : com.venmo / reason : isSystemApp : false, hasPkg : com.venmo [10305] is in FAS table, shouldRemoveFasTable : false, shouldHideAnomaly : false, isIgnoringBatteryOptimizations : false, isSystemUid : false, isExcessiveBackgroundAnomaly : false, isAlreadyRestricted : alreadyRestriced",1622610011621
+57,Anomaly_FilterOut_2,"filtered : com.microsoft.office.outlook / reason : isSystemApp : false, shouldRemoveFasTable : false, shouldHideAnomaly : false, isIgnoringBatteryOptimizations : false, hasPkg : com.microsoft.office.outlook [10287] is in FAS table, isSystemUid : false, isExcessiveBackgroundAnomaly : false, isAlreadyRestricted : alreadyRestriced",1622610061091
+61,AutoOpt,Optimization took 923,1622790212773
+62,dmtsysabnormal,Server Version : -1Local Version : 2018010100,1622859817304
+63,dmtsysabnormal,Server Version : -1Local Version : 2018010100,1622859819042
+64,AnomalyNotification,Notified : com.google.android.apps.maps / reason : 4 / type : 2 / restrictionType : 0,1622917553106
+66,Reboot,"AutoReboot true, false, false, false",1623012511338
+68,AnomalyNotification,Notified : com.google.android.apps.maps / reason : 4 / type : 2 / restrictionType : 0,1623017218413
+69,AutoOpt,Optimization took 784,1623049421562
+70,dmtsysabnormal,Server Version : -1Local Version : 2018010100,1623246888568
+71,dmtsysabnormal,Server Version : -1Local Version : 2018010100,1623246889581
+73,Reboot,"AutoReboot true, false, false, false",1623441213804
+75,AutoOpt,Optimization took 835,1623481465060
+76,Anomaly_FilterOut_2,"filtered : com.linkedin.android / reason : hasPkg : com.linkedin.android [10288] is in FAS table, isSystemApp : false, shouldRemoveFasTable : false, shouldHideAnomaly : false, isIgnoringBatteryOptimizations : false, isSystemUid : false, isExcessiveBackgroundAnomaly : false, isAlreadyRestricted : alreadyRestriced",1623634742440
+77,Anomaly_FilterOut_2,"filtered : org.thoughtcrime.securesms / reason : isSystemApp : false, shouldRemoveFasTable : false, hasPkg : org.thoughtcrime.securesms [10303] is in FAS table, shouldHideAnomaly : false, isIgnoringBatteryOptimizations : false, isSystemUid : false, isExcessiveBackgroundAnomaly : false, isAlreadyRestricted : alreadyRestriced",1623634767665
+78,Anomaly_FilterOut_2,"filtered : com.microsoft.office.outlook / reason : isSystemApp : false, shouldRemoveFasTable : false, shouldHideAnomaly : false, isIgnoringBatteryOptimizations : false, hasPkg : com.microsoft.office.outlook [10287] is in FAS table, isSystemUid : false, isExcessiveBackgroundAnomaly : false, isAlreadyRestricted : alreadyRestriced",1623634842564
+79,dmtsysabnormal,Server Version : -1Local Version : 2018010100,1623641629683
+80,dmtsysabnormal,Server Version : -1Local Version : 2018010100,1623641634944
+82,Reboot,"AutoReboot true, false, false, false",1624340164486
+84,AutoOpt,Optimization took 580,1624345411102
+85,Anomaly_FilterOut_2,"filtered : com.duckduckgo.mobile.android / reason : isSystemApp : false, shouldRemoveFasTable : false, shouldHideAnomaly : false, isIgnoringBatteryOptimizations : false, hasPkg : com.duckduckgo.mobile.android [10304] is in FAS table, isSystemUid : false, isExcessiveBackgroundAnomaly : false, isAlreadyRestricted : alreadyRestriced",1624345651497
+88,ACTION_BATTERY_DETERIORATION,This country does not support Battery Deterioration !!,1624385819849
+89,Reboot,"AutoReboot true, false, false, false",1624385908759
+90,AppSleepInChina,"switch : 1, isCnSim : false",1624385908831
+91,Reboot,updateRebootSetting :false AutoRebootDays : 256 AutoRebootTime : -1:-1,1624385934356
+92,AutoOpt,Optimization took 704,1624431811798
+93,AppSleepInChina,"switch : 1, isCnSim : false",1624936986760
+94,AppSleepInChina,"switch : 1, isCnSim : false",1624936991208
+95,ACTION_BATTERY_DETERIORATION,This country does not support Battery Deterioration !!,1624936992067
+96,Reboot,updateRebootSetting :false AutoRebootDays : 256 AutoRebootTime : -1:-1,1624936995120
+97,Reboot,"AutoReboot true, false, false, false",1624937116995
+98,AppSleepInChina,"switch : 1, isCnSim : false",1624937117015
+99,AutoOpt,Optimization took 21134,1624950232254
+100,AppSleepInChina,"switch : 1, isCnSim : false",1625113813031
+101,ACTION_BATTERY_DETERIORATION,This country does not support Battery Deterioration !!,1625113819057
+102,Reboot,"AutoReboot true, false, false, false",1625113896619
+103,AppSleepInChina,"switch : 1, isCnSim : false",1625113896692
+104,AutoOpt,Optimization took 502528,1625123514486
+105,dmtsysabnormal,Server Version : -1Local Version : 2018010100,1625170193185
+106,Anomaly_FilterOut_2,"filtered : com.venmo / reason : isSystemApp : false, hasPkg : com.venmo [10305] is in FAS table, shouldRemoveFasTable : false, shouldHideAnomaly : false, isIgnoringBatteryOptimizations : false, isSystemUid : false, isExcessiveBackgroundAnomaly : false, isAlreadyRestricted : alreadyRestriced",1625250531900
+107,AppSleepInChina,"switch : 1, isCnSim : false",1625508505148
+108,Reboot,"AutoReboot true, false, false, false",1625508577582
+109,AppSleepInChina,"switch : 1, isCnSim : false",1625508577627
+110,AutoOpt,Optimization took 961,1625555030972
+111,AppSleepInChina,"switch : 1, isCnSim : false",1625809516523
+112,Reboot,"AutoReboot true, false, false, false",1625809595849
+113,AppSleepInChina,"switch : 1, isCnSim : false",1625809595889
+114,AutoOpt,Optimization took 52319,1625814265217
+115,AnomalyNotification,Notified : com.zhiliaoapp.musically / reason : 4 / type : 16 / restrictionType : 0,1625872585440
+116,AnomalyNotification,Notified : com.zhiliaoapp.musically / reason : 4 / type : 16 / restrictionType : 0,1625974286578
+117,DC.AppErrorNotification,Notified : com.zhiliaoapp.musically,1626093895996
+118,DC.AppErrorNotification,Notified : com.zhiliaoapp.musically,1626215419616
+119,dmtsysabnormal,Server Version : -1Local Version : 2018010100,1626299025729
+120,dmtsysabnormal,Server Version : -1Local Version : 2018010100,1626299032407
+121,dmtsysabnormal,Server Version : -1Local Version : 2018010100,1626382296908
+122,AnomalyNotification,Notified : com.zhiliaoapp.musically / reason : 4 / type : 16 / restrictionType : 0,1626923681959

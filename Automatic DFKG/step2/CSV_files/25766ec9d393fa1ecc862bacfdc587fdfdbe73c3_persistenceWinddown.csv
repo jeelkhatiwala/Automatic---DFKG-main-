@@ -1,0 +1,5 @@
+id,name,value
+1,set_schedule_switch,false
+2,wind_down_disabled_day,false
+3,power_saving_mode,false
+4,on_off_switch,false

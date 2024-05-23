@@ -1,0 +1,278 @@
+RecordId,formal,alias
+1,Etc/GMT-0,greenwich
+2,Etc/GMT-0,greenwich mean
+3,Etc/GMT-0,gmt
+4,Etc/GMT-0,utc
+5,Etc/GMT-0,universal
+6,Etc/GMT-0,coordinated universal
+7,Etc/GMT-0,azores summer time
+8,Etc/GMT-0,eastern greenland summer time
+9,Etc/GMT-0,greenwich mean time
+10,Etc/GMT-0,coordinated universal time
+11,Etc/GMT-0,western european time
+12,Etc/GMT+1,bst
+13,Etc/GMT+1,bdt
+14,Etc/GMT+1,bdst
+15,Etc/GMT+1,british summer time
+16,Etc/GMT+1,central european time
+17,Etc/GMT+1,irish standard time
+18,Etc/GMT+1,middle european time
+19,Etc/GMT+1,west africa time
+20,Etc/GMT+2,central africa time
+21,Etc/GMT+2,central european summer time
+22,Etc/GMT+2,eastern european time
+23,Etc/GMT+2,heure avancée d'europe centrale
+24,Etc/GMT+2,israel standard time
+25,Etc/GMT+2,middle european summer time
+26,Etc/GMT+2,south african standard time
+27,Etc/GMT+2,west africa summer time
+28,Etc/GMT+2,europe/kaliningrad
+29,Etc/GMT+2,kalingrad time
+30,Etc/GMT+3,arabia standard time
+31,Etc/GMT+3,east africatime
+32,Etc/GMT+3,eastern european summer time
+33,Etc/GMT+3,further-eastern european time
+34,Etc/GMT+3,israel daylight time
+35,Etc/GMT+3,indian ocean time
+36,Etc/GMT+3,moscow time
+37,Etc/GMT+3,showa station time
+38,Etc/GMT+3,turkey time
+39,Iran,iran standard time
+40,Iran,iran
+41,Etc/GMT+4,europe/volgograd
+42,Etc/GMT+4,armenia time
+43,Etc/GMT+4,azerbaijan time
+44,Etc/GMT+4,georgia standard time
+45,Etc/GMT+4,gulf standard time
+46,Etc/GMT+4,mauritius time
+47,Etc/GMT+4,réunion time
+48,Etc/GMT+4,samara time
+49,Etc/GMT+4,seychelles time
+50,Etc/GMT+4,volgograd time
+51,+04:30,afghanistan time
+52,+04:30,iran daylight time
+53,Etc/GMT+5,heard and mcdonald islands time
+54,Etc/GMT+5,mawson station time
+55,Etc/GMT+5,maldives time
+56,Etc/GMT+5,oral time
+57,Etc/GMT+5,pakistan standard time
+58,Etc/GMT+5,indian/kerguelen
+59,Etc/GMT+5,tajikistan time
+60,Etc/GMT+5,turkmenistan time
+61,Etc/GMT+5,uzbekistan time
+62,Etc/GMT+5,yekaterinburg time
+63,+05:30,indian standard time
+64,+05:30,sri lanka standard time
+65,+05:45,nepal time  utc
+66,Etc/GMT+6,british indian ocean time
+67,Etc/GMT+6,bangladesh standard time
+68,Etc/GMT+6,bhutan time
+69,Etc/GMT+6,kyrgyzstan time
+70,Etc/GMT+6,omsk time
+71,Etc/GMT+6,vostok station time
+72,Indian/Cocos,cocos islands time
+73,Indian/Cocos,myanmar standard time
+74,Etc/GMT+7,christmas island time
+75,Etc/GMT+7,davis time
+76,Etc/GMT+7,khovd standard time
+77,Etc/GMT+7,indochina time
+78,Etc/GMT+7,krasnoyarsk time
+79,Etc/GMT+7,thailand standard time
+80,Etc/GMT+7,western indonesian time
+81,Etc/GMT+8,australian western standard time
+82,Etc/GMT+8,brunei time
+83,Etc/GMT+8,choibalsan standard time
+84,Etc/GMT+8,central indonesia time
+85,Etc/GMT+8,china standard time
+86,Etc/GMT+8,china time
+87,Etc/GMT+8,hong kong time
+88,Etc/GMT+8,khovd summer time
+89,Etc/GMT+8,irkutsk time
+90,Etc/GMT+8,malaysia standard time
+91,Etc/GMT+8,malaysia time
+92,Etc/GMT+8,philippine time
+93,Etc/GMT+8,philippine standard time
+94,Etc/GMT+8,singapore time
+95,Etc/GMT+8,singapore standard time
+96,Etc/GMT+8,ulaanbaatar standard time
+97,Etc/GMT+8,western standard time
+98,Etc/GMT+9,choibalsan summer time
+99,Etc/GMT+9,eastern indonesian time
+100,Etc/GMT+9,japan standard time
+101,Etc/GMT+9,korea standard time
+102,Etc/GMT+9,timor leste time
+103,Etc/GMT+9,ulaanbaatar summer time
+104,Etc/GMT+9,yakutsk time
+105,+09:30,australian central standard time
+106,Etc/GMT+10,australian eastern standard time
+107,Etc/GMT+10,chamorro standard time
+108,Etc/GMT+10,chuuk time
+109,Etc/GMT+10,dumont d'urville time
+110,Etc/GMT+10,papua new guinea time
+111,Etc/GMT+10,vladivostok time
+112,+10:30,australian central daylight savings time
+113,+10:30,lord howe standard time
+114,Etc/GMT+11,australian eastern daylight savings time
+115,Etc/GMT+11,bougainville standard time
+116,Etc/GMT+11,kosrae time
+117,Etc/GMT+11,lord howe summer time
+118,Etc/GMT+11,macquarie island station time
+119,Etc/GMT+11,new caledonia time
+120,Etc/GMT+11,norfolk island time
+121,Etc/GMT+11,pohnpei standard time
+122,Etc/GMT+11,sakhalin island time
+123,Etc/GMT+11,solomon islands time
+124,Etc/GMT+11,srednekolymsk time
+125,Etc/GMT+11,vanuatu time
+126,Etc/GMT+12,fiji time
+127,Etc/GMT+12,gilbert island time
+128,Etc/GMT+12,magadan time
+129,Etc/GMT+12,marshall islands time
+130,Etc/GMT+12,new zealand standard time
+131,Etc/GMT+12,kamchatka time
+132,Etc/GMT+12,tuvalu time
+133,Etc/GMT+12,wake island time
+134,Pacific/Chatham,chatham standard time
+135,Pacific/Tongatapu,new zealand daylight time
+136,Pacific/Tongatapu,phoenix island time
+137,Pacific/Tongatapu,tokelau time
+138,Pacific/Tongatapu,tonga time
+139,+14:00,line islands time
+140,Etc/GMT-1,azores standard time
+141,Etc/GMT-1,cape verde time
+142,Etc/GMT-1,eastern greenland time
+143,Etc/GMT-2,brasília summer time
+144,Etc/GMT-2,fernando de noronha time
+145,Etc/GMT-2,south georgia and the south sandwich islands time
+146,Etc/GMT-2,saint pierre and miquelon daylight time
+147,Etc/GMT-2,uruguay summer time
+148,-02:30,newfoundland daylight time
+149,Etc/GMT-3,atlantic daylight time
+150,Etc/GMT-3,adt
+151,Etc/GMT-3,atlantic daylight
+152,Etc/GMT-3,amazon summer time
+153,Etc/GMT-3,argentina time
+154,Etc/GMT-3,brasilia time
+155,Etc/GMT-3,chile summer
+156,Etc/GMT-3,falkland islands summer
+157,Etc/GMT-3,french guiana
+158,Etc/GMT-3,saint pierre and miquelon standard
+159,Etc/GMT-3,paraguay summer time
+160,Etc/GMT-3,rothera research station
+161,Etc/GMT-3,suriname time
+162,Etc/GMT-3,uruguay standard time
+163,-03:30,newfoundland standard time
+164,-03:30,newfoundland time
+165,Etc/GMT-4,amazon time
+166,Etc/GMT-4,atlantic standard time
+167,Etc/GMT-4,atlantic
+168,Etc/GMT-4,ast
+169,Etc/GMT-4,at
+170,Etc/GMT-4,atlantic standard
+171,Etc/GMT-4,bolivia time
+172,Etc/GMT-4,cuba daylight time
+173,Etc/GMT-4,chile standard time
+174,Etc/GMT-4,colombia summer time
+175,Etc/GMT-4,eastern caribbean time
+176,Etc/GMT-4,eastern daylight time
+177,Etc/GMT-4,eastern daylight
+178,Etc/GMT-4,edt
+179,Etc/GMT-4,us eastern daylight
+180,Etc/GMT-4,falkland islands time
+181,Etc/GMT-4,guyana time
+182,Etc/GMT-4,paraguay time
+183,Etc/GMT-4,venezuelan standard time
+184,Etc/GMT-5,acre time
+185,Etc/GMT-5,central daylight time
+186,Etc/GMT-5,us central daylight
+187,Etc/GMT-5,cdt
+188,Etc/GMT-5,central daylight
+189,Etc/GMT-5,colombia time
+190,Etc/GMT-5,cuba standard time
+191,Etc/GMT-5,easter island summer
+192,Etc/GMT-5,ecuador time
+193,Etc/GMT-5,eastern standard time
+194,Etc/GMT-5,us eastern
+195,Etc/GMT-5,eastern
+196,Etc/GMT-5,est
+197,Etc/GMT-5,et
+198,Etc/GMT-5,eastern standard
+199,Etc/GMT-5,us eastern standard
+200,Etc/GMT-5,peru time
+201,Etc/GMT-6,central standard time
+202,Etc/GMT-6,central
+203,Etc/GMT-6,cst
+204,Etc/GMT-6,ct
+205,Etc/GMT-6,central standard
+206,Etc/GMT-6,us central
+207,Etc/GMT-6,us central standard
+208,Etc/GMT-6,easter island standard time
+209,Etc/GMT-6,galápagos time
+210,Etc/GMT-6,mountain daylight time
+211,Etc/GMT-6,mdt
+212,Etc/GMT-6,us mountain daylight
+213,Etc/GMT-6,mountain daylight
+214,Etc/GMT-7,mountain standard time
+215,Etc/GMT-7,mountain
+216,Etc/GMT-7,mst
+217,Etc/GMT-7,us mountain
+218,Etc/GMT-7,us mountain standard
+219,Etc/GMT-7,mt
+220,Etc/GMT-7,mountain standard
+221,Etc/GMT-7,pacific daylight time
+222,Etc/GMT-7,pacific daylight
+223,Etc/GMT-7,pdt
+224,Etc/GMT-7,us pacific daylight
+225,Etc/GMT-8,alaska daylight time
+226,Etc/GMT-8,alaska daylight
+227,Etc/GMT-8,alaskan daylight
+228,Etc/GMT-8,us alaska daylight
+229,Etc/GMT-8,us alaskan daylight
+230,Etc/GMT-8,akdt
+231,Etc/GMT-8,clipperton island standard time
+232,Etc/GMT-8,pacific standard time
+233,Etc/GMT-8,us/pacific
+234,Etc/GMT-8,pacific
+235,Etc/GMT-8,pst
+236,Etc/GMT-8,pt
+237,Etc/GMT-8,pacific standard
+238,Etc/GMT-8,us pacific
+239,Etc/GMT-8,us pacific standard
+240,Etc/GMT-9,alaska standard time
+241,Etc/GMT-9,us alaska
+242,Etc/GMT-9,us alaskan
+243,Etc/GMT-9,us alaska standard
+244,Etc/GMT-9,us alaskan standard
+245,Etc/GMT-9,alaska
+246,Etc/GMT-9,alaskan
+247,Etc/GMT-9,akst
+248,Etc/GMT-9,akt
+249,Etc/GMT-9,alaska standard
+250,Etc/GMT-9,alaskan standard
+251,Etc/GMT-9,gambier islands time
+252,Etc/GMT-9,gambier island time
+253,Etc/GMT-9,hawaii–aleutian daylight time
+254,Etc/GMT-9,hdt
+255,Etc/GMT-9,hawaii daylight
+256,Etc/GMT-9,hawaiian daylight
+257,Etc/GMT-9,us hawaii daylight
+258,Etc/GMT-9,us hawaiian daylight
+259,Pacific/Marquesas,marquesas islands time
+260,Etc/GMT-10,cook island time
+261,Etc/GMT-10,hawaii–aleutian standard time
+262,Etc/GMT-10,hawaii
+263,Etc/GMT-10,hawaiian
+264,Etc/GMT-10,hst
+265,Etc/GMT-10,hat
+266,Etc/GMT-10,hawaii standard
+267,Etc/GMT-10,hawaiian standard
+268,Etc/GMT-10,us hawaii
+269,Etc/GMT-10,us hawaiian
+270,Etc/GMT-10,us hawaii standard
+271,Etc/GMT-10,us hawaiian standard
+272,Etc/GMT-10,samoa daylight time
+273,Etc/GMT-10,tahiti time
+274,Etc/GMT-11,niue time
+275,Etc/GMT-11,samoa standard time
+276,Etc/GMT-12,baker island time
+277,Etc/GMT-12,international day line west time zone

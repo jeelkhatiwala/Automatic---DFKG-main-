@@ -1,0 +1,5 @@
+accounts_id,auth_token_type,uid
+1,com.android.AccountManager.ACCOUNT_ACCESS_TOKEN_TYPE,10246
+1,com.android.AccountManager.ACCOUNT_ACCESS_TOKEN_TYPE,10284
+1,com.android.AccountManager.ACCOUNT_ACCESS_TOKEN_TYPE,10286
+1,com.android.AccountManager.ACCOUNT_ACCESS_TOKEN_TYPE,10186

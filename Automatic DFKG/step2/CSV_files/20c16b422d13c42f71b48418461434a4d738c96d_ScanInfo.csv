@@ -1,0 +1,5 @@
+app_name,scan_type,scan_mode,scan_feat,background,batch_delay,scan_cnt,scan_result,scan_time,scan_start_time,scan_stop_time
+android.uid.bcmgr,1,100,2,1,0,12,0,258,2021-07-22T19:06:30.099,2021-07-22T19:06:42.098
+android.uid.system,1,100,2,1,0,20,0,1597,2021-07-22T19:06:30.265,2021-07-22T19:06:41.706
+com.google.uid.shared,1,1,2,1,0,3,0,260,2021-07-22T19:06:36.270,2021-07-22T19:06:42.026
+com.google.uid.shared,1,2,2,1,0,201,4504,0,2021-07-22T19:06:30.208,2021-07-22T19:06:36.249

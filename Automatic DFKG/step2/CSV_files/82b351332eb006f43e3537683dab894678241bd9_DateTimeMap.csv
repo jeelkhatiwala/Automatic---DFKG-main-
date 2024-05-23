@@ -1,0 +1,764 @@
+type,word,wordgroup,wordvalue,flags,CultureId,numericvalue
+0,version,0,0,9,16,0
+1,:,0,0,0,16,1
+2,inverno,25,107,0,16,0
+2,primavera,25,108,0,16,0
+2,estate,25,109,0,16,0
+2,autunno,25,110,0,16,0
+1,am,4,37,0,16,0
+1,a.m.,4,37,0,16,0
+1,pm,4,38,0,16,0
+1,p.m.,4,38,0,16,0
+1,in punto,9,39,0,16,0
+1,esatta,9,39,0,16,0
+1,esatte,9,39,0,16,0
+1,a le,9,39,4,16,0
+1,a l' una,2,65,64,16,0
+1,alla,9,40,0,16,0
+1,il,9,40,0,16,0
+1,al,9,40,0,16,0
+1,e,9,40,36,16,0
+1,di,9,40,36,16,0
+1,la,9,40,36,16,0
+1,del,9,40,36,16,0
+1,dall',9,40,36,16,0
+1,dal l',9,40,36,16,0
+1,nei,9,40,36,16,0
+1,in i,9,40,36,16,0
+1,da le,9,40,36,16,0
+1,di le,9,40,36,16,0
+1,delle,9,40,36,16,0
+1,dalle,9,40,36,16,0
+1,per le,9,40,36,16,0
+1,questa,1,3,0,16,0
+1,questo,1,3,0,16,0
+1,prossima,1,2,0,16,0
+1,prossimo,1,2,0,16,0
+1,la prossima,1,2,512,16,0
+1,il prossimo,1,2,512,16,0
+1,ultimo,1,1,0,16,0
+1,l'ultimo,1,1,512,16,0
+1,ultima,1,1,0,16,0
+1,l'ultima,1,1,512,16,0
+1,scorsa,1,1,0,16,0
+1,scorso,1,1,0,16,0
+1,fino alle,7,69,0,16,0
+1,fino a,7,69,0,16,0
+1,meno,7,77,0,16,0
+1,alle,7,69,8192,16,0
+1,a,7,69,8192,16,0
+1,quarto,11,50,0,16,0
+1,all'una,11,49,1,16,0
+1,all' una,11,49,1,16,0
+1,dell'una,11,49,1,16,0
+1,dell' una,11,49,1,16,0
+1,l'una,11,49,1,16,0
+1,l' una,11,49,1,16,0
+1,all'una e,11,49,1,16,0
+1,all' una e,11,49,1,16,0
+1,dell'una e,11,49,1,16,0
+1,dell' una e,11,49,1,16,0
+1,l'una e,11,49,1,16,0
+1,l' una e,11,49,1,16,0
+1,una di,11,49,1,16,0
+1,una e,11,49,1,16,0
+1,stasera,6,21,0,16,0
+1,minuto,2,64,0,16,0
+1,un minuto,2,64,64,16,0
+1,minuti,2,64,0,16,0
+1,1 ora,2,65,64,16,0
+1,d'ora,2,65,0,16,0
+1,un ora,2,65,64,16,0
+1,un'ora,2,65,64,16,0
+1,un' ora,2,65,64,16,0
+1,ore,2,65,0,16,0
+1,secondo,2,41,0,16,0
+1,seconda,2,41,0,16,0
+1,una seconda,2,41,64,16,0
+1,un secondo,2,41,64,16,0
+1,secondi,2,41,0,16,0
+1,sera,4,17,0,16,0
+1,serale,4,17,0,16,0
+1,serali,4,17,0,16,0
+1,mattino,4,15,0,16,0
+1,mattina,4,15,0,16,0
+1,mattutino,4,15,0,16,0
+1,mattutina,4,15,0,16,0
+1,mattutine,4,15,0,16,0
+1,mattutini,4,15,0,16,0
+1,mattinale,4,15,0,16,0
+1,mattinali,4,15,0,16,0
+1,stamattino,4,15,0,16,0
+1,stamattina,4,15,0,16,0
+1,domattina,4,15,128,16,0
+1,notte,4,18,0,16,0
+1,stanotte,4,18,0,16,0
+1,pomeriggio,4,16,0,16,0
+1,tutto il giorno,4,72,0,16,0
+1,colazione,4,53,0,16,0
+1,brunch,4,54,0,16,0
+1,pranzo,4,55,0,16,0
+1,cena,4,56,0,16,0
+1,ieri,5,20,0,16,0
+1,domani,5,19,0,16,0
+1,domenica,3,8,0,16,0
+1,lunedì,3,9,0,16,0
+1,martedì,3,10,0,16,0
+1,mercoledì,3,11,0,16,0
+1,giovedì,3,12,0,16,0
+1,venerdì,3,13,0,16,0
+1,sabato,3,14,0,16,0
+2,questa,1,3,0,16,0
+2,questo,1,3,0,16,0
+2,prossima,1,2,0,16,0
+2,prossimo,1,2,0,16,0
+2,la prossima,1,2,512,16,0
+2,il prossimo,1,2,512,16,0
+2,ultimo,1,1,0,16,0
+2,l'ultimo,1,1,512,16,0
+2,ultima,1,1,0,16,0
+2,l'ultima,1,1,512,16,0
+2,scorsa,1,1,0,16,0
+2,scorso,1,1,0,16,0
+2,domenica,3,8,0,16,0
+2,lunedì,3,9,0,16,0
+2,martedì,3,10,0,16,0
+2,mercoledì,3,11,0,16,0
+2,giovedì,3,12,0,16,0
+2,venerdì,3,13,0,16,0
+2,sabato,3,14,0,16,0
+2,il 1,12,49,1,16,0
+2,il 2,12,49,2,16,0
+2,il 3,12,49,3,16,0
+2,il 4,12,49,4,16,0
+2,il quarto,12,49,4,16,0
+2,il 5,12,49,5,16,0
+2,il 6,12,49,6,16,0
+2,il 7,12,49,7,16,0
+2,il 8,12,49,8,16,0
+2,il 9,12,49,9,16,0
+2,il 10,12,49,10,16,0
+2,il 11,12,49,11,16,0
+2,il 12,12,49,12,16,0
+2,il 13,12,49,13,16,0
+2,il 14,12,49,14,16,0
+2,il 15,12,49,15,16,0
+2,il 16,12,49,16,16,0
+2,il 17,12,49,17,16,0
+2,il 18,12,49,18,16,0
+2,il 19,12,49,19,16,0
+2,il 20,12,49,20,16,0
+2,il 21,12,49,21,16,0
+2,il 22,12,49,22,16,0
+2,il 23,12,49,23,16,0
+2,il 24,12,49,24,16,0
+2,il 25,12,49,25,16,0
+2,il 26,12,49,26,16,0
+2,il 27,12,49,27,16,0
+2,il 28,12,49,28,16,0
+2,il 29,12,49,29,16,0
+2,il 30,12,49,30,16,0
+2,il 31,12,49,31,16,0
+2,gennaio,8,25,0,16,0
+2,febbraio,8,26,0,16,0
+2,marzo,8,27,0,16,0
+2,aprile,8,28,0,16,0
+2,maggio,8,29,0,16,0
+2,giugno,8,30,0,16,0
+2,luglio,8,31,0,16,0
+2,agosto,8,32,0,16,0
+2,settembre,8,33,0,16,0
+2,ottobre,8,34,0,16,0
+2,novembre,8,35,0,16,0
+2,dicembre,8,36,0,16,0
+2,gen,8,25,0,16,0
+2,feb,8,26,0,16,0
+2,mar,8,27,0,16,0
+2,apr,8,28,0,16,0
+2,mag,8,29,0,16,0
+2,giu,8,30,0,16,0
+2,lug,8,31,0,16,0
+2,ago,8,32,0,16,0
+2,set,8,33,0,16,0
+2,ott,8,34,0,16,0
+2,nov,8,35,0,16,0
+2,dic,8,36,0,16,0
+2,settimana,2,4,0,16,0
+2,una settimana,2,4,64,16,0
+2,settimane,2,4,0,16,0
+2,mese,2,6,0,16,0
+2,un mese,2,6,64,16,0
+2,mesi,2,6,0,16,0
+2,anno,2,7,0,16,0
+2,un anno,2,7,64,16,0
+2,anni,2,7,0,16,0
+2,dell'anno,2,7,0,16,0
+2,fine settimana,2,5,0,16,0
+2,weekend,2,5,0,16,0
+2,giorno,2,66,0,16,0
+2,un giorno,2,66,64,16,0
+2,al giorno,2,66,64,16,0
+2,giorni,2,66,0,16,0
+2,mattino,4,15,0,16,0
+2,mattina,4,15,0,16,0
+2,mattutino,4,15,0,16,0
+2,mattutina,4,15,0,16,0
+2,mattutine,4,15,0,16,0
+2,mattutini,4,15,0,16,0
+2,mattinale,4,15,0,16,0
+2,mattinali,4,15,0,16,0
+2,stamattino,4,15,0,16,0
+2,stamattina,4,15,0,16,0
+1,domattina,4,15,128,16,0
+2,pomeriggio,4,16,0,16,0
+2,sera,4,17,0,16,0
+2,serale,4,17,0,16,0
+2,serali,4,17,0,16,0
+2,notte,4,18,0,16,0
+2,stanotte,4,18,0,16,0
+2,tutto il giorno,4,72,0,16,0
+2,ieri,5,20,0,16,0
+2,domani,5,19,0,16,0
+2,dopodomani,5,57,0,16,0
+2,l'altro ieri,5,58,0,16,0
+2,oggi,6,22,0,16,0
+2,ora,6,23,0,16,0
+2,adesso,6,23,0,16,0
+2,presto,6,46,0,16,0
+2,fra poco,6,46,0,16,0
+2,tra poco,6,46,0,16,0
+2,a breve,6,46,0,16,0
+2,prossimamente,6,46,0,16,0
+2,recentemente,6,47,0,16,0
+2,recente,6,47,0,16,0
+2,di recente,6,47,0,16,0
+2,mezzogiorno,9,44,0,16,0
+2,mezzanotte,9,45,0,16,0
+2,prima serata,10,42,0,16,0
+2,orario di massimo ascolto,10,42,0,16,0
+2,l'orario di massimo ascolto,10,42,0,16,0
+2,tarda,10,43,0,16,0
+2,tardo,10,43,0,16,0
+2,tra,7,73,0,16,0
+2,fra,7,73,0,16,0
+2,in,7,73,0,16,0
+2,da,7,68,5,16,0
+2,dal,7,68,5,16,0
+2,più tardi,7,68,0,16,0
+2,dopo,7,68,512,16,0
+2,seguente,7,68,512,16,0
+2,successivo,7,68,512,16,0
+2,successiva,7,68,512,16,0
+2,di distanza,7,68,8,16,0
+2,prima,7,69,512,16,0
+2,precedente,7,69,512,16,0
+2,fa,7,69,0,16,0
+2,ultimo del,16,80,0,16,0
+2,l'ultimo del,16,80,0,16,0
+2,ultima del,16,80,0,16,0
+2,l'ultima del,16,80,0,16,0
+2,ultimo di,16,80,0,16,0
+2,l'ultimo di,16,80,0,16,0
+2,ultima di,16,80,0,16,0
+2,l'ultima di,16,80,0,16,0
+1,fuso orario dell' isola baker,15,70,-1200,16,0
+1,gmt meno 12,15,70,-1200,16,0
+1,gmt meno 11,15,70,-1100,16,0
+1,ora standard di samoa,15,70,-1100,16,0
+1,fuso orario di samoa,15,70,-1100,16,0
+1,fuso orario delle isole cook,15,70,-1000,16,0
+1,gmt meno 10,15,70,-1000,16,0
+1,orario standard delle hawaii,15,70,-1000,16,0
+1,fuso orario delle hawaii,15,70,-1000,16,0
+1,orario standard delle hawaii-aleutine,15,70,-1000,16,0
+1,fuso orario di tahiti,15,70,-1000,16,0
+1,fuso orario delle isole marchesi,15,70,-930,16,0
+1,orario standard dell'alaska,15,70,-900,16,0
+1,gmt meno 9,15,70,-900,16,0
+1,fuso orario dell'alaska,15,70,-900,16,0
+1,orario standard del pacifico,15,70,-800,16,0
+1,gmt meno 8,15,70,-800,16,0
+1,fuso orario del pacifico,15,70,-800,16,0
+1,gmt meno 7,15,70,-700,16,0
+1,orario standard delle montagne,15,70,-700,16,0
+1,ora standard centrale,15,70,-600,16,0
+1,gmt meno 6,15,70,-600,16,0
+1,ora centrale,15,70,-600,16,0
+1,ora standard dell'isola di pasqua,15,70,-600,16,0
+1,fuso orario delle galapagos,15,70,-600,16,0
+1,fuso orario della colombia,15,70,-500,16,0
+1,ora standard di cuba,15,70,-500,16,0
+1,fuso orario di cuba,15,70,-500,16,0
+1,gmt meno 5,15,70,-500,16,0
+1,ora standard della costa,15,70,-500,16,0
+1,fuso orario dell'equador,15,70,-500,16,0
+1,fuso orario del perù,15,70,-500,16,0
+1,orario standard del venezuela,15,70,-430,16,0
+1,fuso orario del venezuela,15,70,-430,16,0
+1,gmt meno 4,15,70,-400,16,0
+1,fuso orario amazzone,15,70,-400,16,0
+1,orario standard dell'atlantico,15,70,-400,16,0
+1,fuso orario dell'oceano atlantico,15,70,-400,16,0
+1,fuso orario della bolivia,15,70,-400,16,0
+1,ora standard del cile,15,70,-400,16,0
+1,fuso orario del cile,15,70,-400,16,0
+1,fuso orario del caraibi orientale,15,70,-400,16,0
+1,fuso orario delle isole falkland,15,70,-400,16,0
+1,fuso orario del guiana,15,70,-400,16,0
+1,fuso orario del paraguay,15,70,-400,16,0
+1,ora standard di terranova,15,70,-330,16,0
+1,fuso orario di terranova,15,70,-330,16,0
+1,gmt meno 3,15,70,-300,16,0
+1,fuso orario dell'argentina,15,70,-300,16,0
+1,fuso orario di brasilia,15,70,-300,16,0
+1,fuso orario della guiana francese,15,70,-300,16,0
+1,fuso orario del suriname,15,70,-300,16,0
+1,ora standard dell'uruguay,15,70,-300,16,0
+1,fuso orario dell'uruguay,15,70,-300,16,0
+1,fuso orario di fernando di noronha,15,70,-200,16,0
+1,gmt meno 2,15,70,-200,16,0
+1,gmt meno 1,15,70,-100,16,0
+1,ora standard delle azzorre,15,70,-100,16,0
+1,fuso orario delle azzorre,15,70,-100,16,0
+1,fuso orario di capo verde,15,70,-100,16,0
+1,fuso orario della groenlandia dell'est,15,70,-100,16,0
+1,tempo coordinato universale,15,70,0,16,0
+1,tempo del meridiano di greenwich,15,70,0,16,0
+1,fuso orario di londra,15,70,0,16,0
+1,fuso orario del regno unito,15,70,0,16,0
+1,gmt,15,70,0,16,0
+1,fuso orario dell'europa occidentale,15,70,0,16,0
+1,ora zulu,15,70,0,16,0
+1,gmt più 1,15,70,100,16,0
+1,tempo dell'europa centrale,15,70,100,16,0
+1,ora standard irlandese,15,70,100,16,0
+1,fuso orario dell'irlanda,15,70,100,16,0
+1,tempo dell'europa centrale,15,70,100,16,0
+1,fuso orario dell'africa centro-occidentale,15,70,100,16,0
+1,fuso orario dell'africa centrale,15,70,200,16,0
+1,gmt più 2,15,70,200,16,0
+1,fuso orario dell'europa orientale,15,70,200,16,0
+1,fuso orario dell'israele,15,70,200,16,0
+1,ora standard dell'israele,15,70,200,16,0
+1,fuso orario del sudafrica,15,70,200,16,0
+1,ora standard del sudafrica,15,70,200,16,0
+1,fuso orario dell'arabia,15,70,300,16,0
+1,ora standard dell'arabia,15,70,300,16,0
+1,gmt più 3,15,70,300,16,0
+1,fuso orario dell'africa orientale,15,70,300,16,0
+1,fuso orario dell'oceano pacifico,15,70,300,16,0
+1,ora standard dell'iran,15,70,330,16,0
+1,fuso orario dell'iran,15,70,330,16,0
+1,fuso orario dell'armenia,15,70,400,16,0
+1,fuso orario dell'azerbaijan,15,70,400,16,0
+1,fuso orario della georgia,15,70,400,16,0
+1,ora standard della georgia,15,70,400,16,0
+1,gmt più 4,15,70,400,16,0
+1,ora standard del golfo,15,70,400,16,0
+1,fuso orario delle mauritius,15,70,400,16,0
+1,fuso orario di mosca,15,70,400,16,0
+1,fuso orario dell'isola di riunione,15,70,400,16,0
+1,fuso orario delle seychelles,15,70,400,16,0
+1,fuso orario di volgograd,15,70,400,16,0
+1,fuso orario dell'afghanistan,15,70,430,16,0
+1,gmt più 5,15,70,500,16,0
+1,fuso orario delle maldive,15,70,500,16,0
+1,fuso orario del pakistan,15,70,500,16,0
+1,ora standard del pakistan,15,70,500,16,0
+1,fuso orario del tajikistan,15,70,500,16,0
+1,fuso orario del turkmenistan,15,70,500,16,0
+1,fuso orario dell'uzbekistan,15,70,500,16,0
+1,fuso orario dell'india,15,70,500,16,0
+1,ora standard dell'india,15,70,530,16,0
+1,fuso orario dello sri lanka,15,70,530,16,0
+1,fuso orario del nepal,15,70,545,16,0
+1,fuso orario del bangladesh,15,70,600,16,0
+1,ora standard del bangaldesh,15,70,600,16,0
+1,fuso orario del bhutan,15,70,600,16,0
+1,gmt più 6,15,70,600,16,0
+1,fuso orario dell'oceano indiano inglese,15,70,600,16,0
+1,fuso orario del kirghizistan,15,70,600,16,0
+1,ora standard della birmania,15,70,630,16,0
+1,fuso orario della birmania,15,70,630,16,0
+1,gmt più 7,15,70,700,16,0
+1,fuso orario dell'isola del natale,15,70,700,16,0
+1,fuso orario dell'indocina,15,70,700,16,0
+1,fuso orario del krasnojarsk,15,70,700,16,0
+1,fuso orario della thailandia,15,70,700,16,0
+1,ora standard della thailandia,15,70,700,16,0
+1,fuso orario dell'australia occidentale,15,70,800,16,0
+1,ora standard dell'australia occidentale,15,70,800,16,0
+1,fuso orario del brunei,15,70,800,16,0
+1,fuso orario dell'indonesia centrale,15,70,800,16,0
+1,gmt più 8,15,70,800,16,0
+1,ora standard della cina,15,70,800,16,0
+1,fuso orario della cina,15,70,800,16,0
+1,fuso orario di hong kong,15,70,800,16,0
+1,ora standard della malesia,15,70,800,16,0
+1,fuso orario della malesia,15,70,800,16,0
+1,fuso orario delle filippine,15,70,800,16,0
+1,fuso orario delle filippine,15,70,800,16,0
+1,ora standard di singapore,15,70,800,16,0
+1,fuso orario di singapore,15,70,800,16,0
+1,ora standard occidentale,15,70,800,16,0
+1,ora standard centro-occidentale,15,70,845,16,0
+1,gmt più 9,15,70,900,16,0
+1,fuso orario dell'indonesia orientale,15,70,900,16,0
+1,fuso orario dell'irkutsk,15,70,900,16,0
+1,fuso orario del giappone,15,70,900,16,0
+1,ora standard del giappone,15,70,900,16,0
+1,fuso orario della corea,15,70,900,16,0
+1,ora standard della corea,15,70,900,16,0
+1,fuso orario dell'australia centrale,15,70,930,16,0
+1,ora standard dell'autralia centrale,15,70,930,16,0
+1,fuso orario dell'australia orientale,15,70,1000,16,0
+1,ora standard dell'australia orientale,15,70,1000,16,0
+1,gmt più 10,15,70,1000,16,0
+1,fuso orario della papua nuova guinea,15,70,1000,16,0
+1,fuso orario di vladivostok,15,70,1000,16,0
+1,ora standard dell'isola di howe,15,70,1030,16,0
+1,fuso orario dell'isola di howe,15,70,1030,16,0
+1,fuso orario delle isole salomone,15,70,1100,16,0
+1,gmt più 11,15,70,1100,16,0
+1,fuso orario di norfolk,15,70,1130,16,0
+1,fuso orario delle figi,15,70,1200,16,0
+1,fuso orario del kamchatka,15,70,1200,16,0
+1,gmt più 12,15,70,1200,16,0
+1,isole marshall,15,70,1200,16,0
+1,fuso orario della nuova zelanda,15,70,1200,16,0
+1,ora standard della nuova zelanda,15,70,1200,16,0
+1,fuso orario delle isole chatham,15,70,1245,16,0
+1,fuso orario di tonga,15,70,1300,16,0
+1,gmt più 13,15,70,1300,16,0
+1,fuso orario delle sporadi equatoriali,15,70,1400,16,0
+1,gmt più 14,15,70,1400,16,0
+2,capodanno,14,71,1,16,0
+2,capodanno,14,71,1,16,0
+2,epifania,14,71,2,16,0
+2,festa della befana,14,71,2,16,0
+2,giorno di martin luther king,14,71,3,16,0
+2,giornata della marmotta,14,71,4,16,0
+2,compleanno di lincoln,14,71,5,16,0
+2,san valentino,14,71,6,16,0
+2,festa degli innamorati,14,71,6,16,0
+2,giorno dei presidenti,14,71,7,16,0
+2,compleanno di washington,14,71,7,16,0
+2,martedì grasso,14,71,8,16,0
+2,carnevale,14,71,8,16,0
+2,mercoledì delle ceneri,14,71,9,16,0
+2,le ceneri,14,71,9,16,0
+2,festa delle donne,14,71,10,16,0
+2,san patrizio,14,71,11,16,0
+2,festa del papà,14,71,12,16,0
+2,san giuseppe,14,71,12,16,0
+2,pesce d'aprile,14,71,13,16,0
+2,festa della liberazione,14,71,14,16,0
+2,anniversario della liberazione,14,71,14,16,0
+2,domenica delle palme,14,71,15,16,0
+2,giovedì santo,14,71,16,16,0
+2,venerdì santo,14,71,17,16,0
+2,sabato santo,14,71,18,16,0
+2,pasqua,14,71,19,16,0
+2,lunedì dell'angelo,14,71,20,16,0
+2,pasquetta,14,71,20,16,0
+2,lunedì di pasqua,14,71,20,16,0
+2,festa del lavoro,14,71,21,16,0
+2,festa dei lavoratori,14,71,21,16,0
+2,festa della mamma,14,71,22,16,0
+2,giorno della memoria in america,14,71,23,16,0
+2,festa della repubblica,14,71,24,16,0
+2,giorno della bandiera,14,71,25,16,0
+2,giorno dell'indipendenza americana,14,71,26,16,0
+2,festa del 4 luglio,14,71,26,16,0
+2,ferragosto,14,71,27,16,0
+2,assunzione di maria,14,71,27,16,0
+2,festa di colombo,14,71,28,16,0
+2,ognissanti,14,71,29,16,0
+2,tutti i santi,14,71,29,16,0
+2,giorno dei morti,14,71,30,16,0
+2,festa dei morti,14,71,30,16,0
+2,festa dei militari veterani,14,71,31,16,0
+2,giorno del ringraziamento,14,71,32,16,0
+2,immacolata concezione,14,71,33,16,0
+2,immacolata,14,71,33,16,0
+2,avvento,14,71,34,16,0
+2,vigilia di natale,14,71,35,16,0
+2,vigilia,14,71,35,16,0
+2,natale,14,71,36,16,0
+2,giorno di natale,14,71,36,16,0
+2,santo stefano,14,71,37,16,0
+2,notte di san silvestro,14,71,38,16,0
+2,vigilia di capodanno,14,71,38,16,0
+2,ultimo dell'anno,14,71,38,16,0
+2,l'ultimo dell'anno,14,71,38,16,0
+2,inizio ora legale,14,71,39,16,0
+2,fine ora legale,14,71,40,16,0
+2,halloween,14,71,41,16,0
+2,black friday,14,71,201,16,0
+2,venerdì nero,14,71,201,16,0
+2,ramzan,14,71,55,16,0
+2,ramadan,14,71,55,16,0
+2,ramadhan,14,71,55,16,0
+2,ramzan al-Mubarak,14,71,55,16,0
+2,ramadhan al-Mubarak,14,71,55,16,0
+3,capodanno,13,1,0,16,0
+3,capodanno,13,1,0,16,0
+3,epifania,13,2,0,16,0
+3,festa della befana,13,2,0,16,0
+3,giorno di martin luther king,13,3,0,16,0
+3,giornata della marmotta,13,4,0,16,0
+3,compleanno di lincoln,13,5,0,16,0
+3,san valentino,13,6,0,16,0
+3,festa degli innamorati,13,6,0,16,0
+3,giorno dei presidenti,13,7,0,16,0
+3,compleanno di washington,13,7,0,16,0
+3,martedì grasso,13,8,0,16,0
+3,carnevale,13,8,0,16,0
+3,mercoledì delle ceneri,13,9,0,16,0
+3,le ceneri,13,9,0,16,0
+3,festa delle donne,13,10,0,16,0
+3,san patrizio,13,11,0,16,0
+3,festa del papà,13,12,0,16,0
+3,san giuseppe,13,12,0,16,0
+3,pesce d'aprile,13,13,0,16,0
+3,festa della liberazione,13,14,0,16,0
+3,anniversario della liberazione,13,14,0,16,0
+3,domenica delle palme,13,15,0,16,0
+3,giovedì santo,13,16,0,16,0
+3,venerdì santo,13,17,0,16,0
+3,sabato santo,13,18,0,16,0
+3,pasqua,13,19,0,16,0
+3,lunedì dell'angelo,13,20,0,16,0
+3,pasquetta,13,20,0,16,0
+3,lunedì di pasqua,13,20,0,16,0
+3,festa del lavoro,13,21,0,16,0
+3,festa dei lavoratori,13,21,0,16,0
+3,festa della mamma,13,22,0,16,0
+3,giorno della memoria in america,13,23,0,16,0
+3,festa della repubblica,13,24,0,16,0
+3,giorno della bandiera,13,25,0,16,0
+3,giorno dell'indipendenza americana,13,26,0,16,0
+3,festa del 4 luglio,13,26,0,16,0
+3,ferragosto,13,27,0,16,0
+3,assunzione di maria,13,27,0,16,0
+3,festa di colombo,13,28,0,16,0
+3,ognissanti,13,29,0,16,0
+3,tutti i santi,13,29,0,16,0
+3,giorno dei morti,13,30,0,16,0
+3,festa dei morti,13,30,0,16,0
+3,festa dei militari veterani,13,31,0,16,0
+3,giorno del ringraziamento,13,32,0,16,0
+3,immacolata concezione,13,33,0,16,0
+3,immacolata,13,33,0,16,0
+3,avvento,13,34,0,16,0
+3,vigilia di natale,13,35,0,16,0
+3,vigilia,13,35,0,16,0
+3,natale,13,36,0,16,0
+3,giorno di natale,13,36,0,16,0
+3,santo stefano,13,37,0,16,0
+3,notte di san silvestro,13,38,0,16,0
+3,vigilia di capodanno,13,38,0,16,0
+3,ultimo dell'anno,13,38,0,16,0
+3,l'ultimo dell'anno,13,38,0,16,0
+3,inizio ora legale,13,39,0,16,0
+3,fine ora legale,13,40,0,16,0
+3,halloween,13,41,0,16,0
+3,black friday,13,201,0,16,0
+3,venerdì nero,13,201,0,16,0
+3,ramzan,13,55,0,16,0
+3,ramadan,13,55,0,16,0
+3,ramadhan,13,55,0,16,0
+3,ramzan al-Mubarak,13,55,0,16,0
+3,ramadhan al-Mubarak,13,55,0,16,0
+1,dt_delete_protector,100,100,0,0,0
+3,ogni,1,0,0,16,0
+3,giorno,2,0,0,16,0
+3,giornalmente,2,0,2,16,0
+3,quotidianamente,2,0,2,16,0
+3,giorni,2,0,1,16,0
+3,settimana,3,0,0,16,0
+3,settimanalmente,3,0,2,16,0
+3,settimane,3,0,1,16,0
+3,giorno feriale,4,0,0,16,0
+3,giorno lavorativo,4,0,0,16,0
+3,giorni feriali,4,0,1,16,0
+3,giorni lavorativi,4,0,1,16,0
+3,fine settimana,5,0,0,16,0
+3,weekend,5,0,0,16,0
+3,i fine settimana,5,0,1,16,0
+3,i weekend,5,0,1,16,0
+3,domenica,6,1,0,16,0
+3,domeniche,6,1,1,16,0
+3,lunedì,6,2,0,16,0
+3,i lunedì,6,2,1,16,0
+3,martedì,6,3,0,16,0
+3,i martedì,6,3,1,16,0
+3,mercoledì,6,4,0,16,0
+3,i mercoledì,6,4,1,16,0
+3,giovedì,6,5,0,16,0
+3,i giovedì,6,5,1,16,0
+3,venerdì,6,6,0,16,0
+3,i venerdì,6,6,1,16,0
+3,sabato,6,7,0,16,0
+3,i sabati,6,7,1,16,0
+3,il 1,7,1,0,16,0
+3,il 2,7,2,0,16,0
+3,il 3,7,3,0,16,0
+3,il 4,7,4,0,16,0
+3,il 5,7,5,0,16,0
+3,il 6,7,6,0,16,0
+3,il 7,7,7,0,16,0
+3,il 8,7,8,0,16,0
+3,il 9,7,9,0,16,0
+3,il 10,7,10,0,16,0
+3,il 11,7,11,0,16,0
+3,il 12,7,12,0,16,0
+3,il 13,7,13,0,16,0
+3,il 14,7,14,0,16,0
+3,il 15,7,15,0,16,0
+3,il 16,7,16,0,16,0
+3,il 17,7,17,0,16,0
+3,il 18,7,18,0,16,0
+3,il 19,7,19,0,16,0
+3,il 20,7,20,0,16,0
+3,il 21,7,21,0,16,0
+3,il 22,7,22,0,16,0
+3,il 23,7,23,0,16,0
+3,il 24,7,24,0,16,0
+3,il 25,7,25,0,16,0
+3,il 26,7,26,0,16,0
+3,il 27,7,27,0,16,0
+3,il 28,7,28,0,16,0
+3,il 29,7,29,0,16,0
+3,il 30,7,30,0,16,0
+3,il 31,7,31,0,16,0
+3,ultimo,8,0,0,16,0
+3,l'ultimo,8,0,0,16,0
+3,ultima,8,0,0,16,0
+3,l'ultima,8,0,0,16,0
+3,scorsa,8,0,0,16,0
+3,scorso,8,0,0,16,0
+3,passato,8,0,0,16,0
+3,mese,9,0,0,16,0
+3,mensilmente,9,0,2,16,0
+3,mesi,9,0,1,16,0
+3,gennaio,10,1,0,16,0
+3,gen,10,1,0,16,0
+3,febbraio,10,2,0,16,0
+3,feb,10,2,0,16,0
+3,marzo,10,3,0,16,0
+3,mar,10,3,0,16,0
+3,aprile,10,4,0,16,0
+3,apr,10,4,0,16,0
+3,maggio,10,5,0,16,0
+3,mag,10,5,0,16,0
+3,giugno,10,6,0,16,0
+3,giu,10,6,0,16,0
+3,luglio,10,7,0,16,0
+3,lug,10,7,0,16,0
+3,agosto,10,8,0,16,0
+3,ago,10,8,0,16,0
+3,settembre,10,9,0,16,0
+3,set,10,9,0,16,0
+3,ottobre,10,10,0,16,0
+3,ott,10,10,0,16,0
+3,novembre,10,11,0,16,0
+3,nov,10,11,0,16,0
+3,dicembre,10,12,0,16,0
+3,dic,10,12,0,16,0
+3,anno,11,0,0,16,0
+3,l'anno,11,0,0,16,0
+3,annualmente,11,0,2,16,0
+3,anni,11,0,1,16,0
+3,fino a,12,0,0,16,0
+3,fino ad,12,0,0,16,0
+3,fino al,12,0,0,16,0
+3,al,12,0,0,16,0
+3,a,12,0,0,16,0
+3,a il,12,0,0,16,0
+3,e,15,0,4,16,0
+3,di,15,0,4,16,0
+3,da,15,0,4,16,0
+3,la,15,0,4,16,0
+3,il,15,0,4,16,0
+3,del,15,0,4,16,0
+3,dal,15,0,4,16,0
+3,dall',15,0,4,16,0
+3,dal l',15,0,4,16,0
+3,nei,15,0,4,16,0
+3,in i,15,0,4,16,0
+3,inverno,17,0,2,16,0
+3,primavera,17,1,2,16,0
+3,estate,17,2,2,16,0
+3,autunno,17,3,2,16,0
+3,1.250,17,4,2,16,0
+3,2.250,17,5,2,16,0
+3,3.250,17,6,2,16,0
+3,4.250,17,7,2,16,0
+3,1. 0.500,17,8,2,16,0
+3,1. 0.500,17,9,2,16,0
+4,al,1,0,0,16,0
+4,a il,1,0,0,16,0
+4,da,1,0,0,16,0
+4,dal,1,0,0,16,0
+4,da il,1,0,0,16,0
+4,dall',1,0,0,16,0
+4,dal l',1,0,0,16,0
+4,del,1,0,0,16,0
+4,de il,1,0,0,16,0
+4,dalle,1,0,0,16,0
+4,che comincia a,1,0,0,16,0
+4,che comincia all',1,0,0,16,0
+4,che comincia alle,1,0,0,16,0
+4,che inizia a,1,0,0,16,0
+4,che inizia all',1,0,0,16,0
+4,che inizia alle,1,0,0,16,0
+4,che cominciano a,1,0,0,16,0
+4,che cominciano all',1,0,0,16,0
+4,che cominciano alle,1,0,0,16,0
+4,che iniziano a,1,0,0,16,0
+4,che iniziano all',1,0,0,16,0
+4,che iniziano alle,1,0,0,16,0
+4,a cominciare da,1,0,0,16,0
+4,a cominciare dall',1,0,0,16,0
+4,a cominciare dalle,1,0,0,16,0
+4,a partire da,1,0,0,16,0
+4,a partire dall',1,0,0,16,0
+4,a partire dalle,1,0,0,16,0
+4,tra,1,0,0,16,0
+4,tra le,1,0,0,16,0
+4,tra l',1,0,0,16,0
+4,a,2,0,0,16,0
+4,all',2,0,0,16,0
+4,al l',2,0,0,16,0
+4,alle,2,0,0,16,0
+4,fino a,2,0,0,16,0
+4,fino ad,2,0,0,16,0
+4,fino al,2,0,0,16,0
+4,fino all',2,0,0,16,0
+4,fino al l',2,0,0,16,0
+4,fino alle,2,0,0,16,0
+4,e finisce a,2,0,0,16,0
+4,e finisce all',2,0,0,16,0
+4,e finisce al l',2,0,0,16,0
+4,e finisce alle,2,0,0,16,0
+4,e termina a,2,0,0,16,0
+4,e termina all',2,0,0,16,0
+4,e termina al l',2,0,0,16,0
+4,e termina alle,2,0,0,16,0
+4,e finiscono a,2,0,0,16,0
+4,e finiscono all',2,0,0,16,0
+4,e finiscono al l',2,0,0,16,0
+4,e finiscono alle,2,0,0,16,0
+4,e terminano a,2,0,0,16,0
+4,e terminano all',2,0,0,16,0
+4,e terminano all' ,2,0,0,16,0
+4,e terminano alle,2,0,0,16,0
+4,fino a,2,0,0,16,0
+4,e,2,0,0,16,0
+4,e le,2,0,0,16,0
+4,e l',2,0,0,16,0
+4,precise,3,0,0,16,0
+4,in punto,3,0,0,16,0
+4,esatte,3,0,0,16,0
+4,circa,3,0,0,16,0

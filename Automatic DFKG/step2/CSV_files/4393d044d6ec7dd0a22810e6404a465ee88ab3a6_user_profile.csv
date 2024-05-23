@@ -1,0 +1,2 @@
+_id,name,phoneNumber,mailingAddr1,mailingAddr2,mailingAddr3,mailingCity,mailingState,mailingCountry,mailingZipcode,bilingIsSame,bilingAddr1,bilingAddr2,bilingAddr3,bilingCity,bilingState,bilingCountry,bilingZipcode,email,kor_name
+1,,,,,,,,,,false,,,,,,,,,

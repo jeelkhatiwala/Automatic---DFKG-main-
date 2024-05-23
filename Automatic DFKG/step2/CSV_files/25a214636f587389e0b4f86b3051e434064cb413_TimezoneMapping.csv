@@ -1,0 +1,3 @@
+TimezoneID,Timezone,Offset,IsDST,DstOffset
+100001,Asia/Shanghai,UTC+08:00,0,
+100002,America/New_York,UTC-05:00,1,UTC-04:00

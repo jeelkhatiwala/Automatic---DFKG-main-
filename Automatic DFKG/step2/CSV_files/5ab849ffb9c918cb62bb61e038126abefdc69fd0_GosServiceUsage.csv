@@ -1,0 +1,9 @@
+command,callerPkgName
+get_package_names,com.samsung.android.game.gamehome
+subscribe_events,com.sec.android.app.samsungapps
+get_global_data,com.samsung.android.game.gametools
+set_monitored_apps,com.samsung.android.game.gametools
+subscribe_events,com.samsung.android.game.gametools
+set_feature_accessibility,com.samsung.android.game.gametools
+get_gpp_state,com.samsung.android.game.gametools
+set_fps_value,com.samsung.android.game.gametools

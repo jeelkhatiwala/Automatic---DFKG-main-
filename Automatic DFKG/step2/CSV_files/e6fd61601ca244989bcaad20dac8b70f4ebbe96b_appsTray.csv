@@ -1,0 +1,79 @@
+_id,itemType,componentName,title,container,screen,rank,options,color,hidden,restored,profileId,modified
+27,2,,Google,-102,0,0,0.0,-1.0,0,,0,1625809513975
+28,0,com.google.android.googlequicksearchbox/.SearchActivity,Google,27,0,0,,,0,0.0,0,1625936232759
+29,0,com.android.chrome/com.google.android.apps.chrome.Main,Chrome,27,0,1,,,0,0.0,0,1625936232760
+30,0,com.google.android.gm/.ConversationListActivityGmail,Gmail,27,0,2,,,0,0.0,0,1625936232760
+31,0,com.google.android.apps.maps/com.google.android.maps.MapsActivity,Maps,27,0,3,,,0,0.0,0,1625936232760
+32,0,com.google.android.youtube/.app.honeycomb.Shell$HomeActivity,YouTube,27,0,4,,,0,0.0,0,1625936232760
+33,0,com.google.android.apps.docs/.app.NewMainProxyActivity,Drive,27,0,5,,,0,0.0,0,1626978248536
+34,0,com.google.android.videos/com.google.android.youtube.videos.EntryPointGtv,Google TV,27,0,6,,,0,0.0,0,1626981939019
+35,0,com.google.android.apps.tachyon/.MainActivity,Duo,27,0,7,,,0,0.0,0,1625936232760
+36,0,com.google.android.apps.photos/.home.HomeActivity,Photos,27,0,8,,,0,0.0,0,1625936232760
+37,2,,Microsoft,-102,0,1,0.0,-1.0,0,,0,1625809513976
+38,0,com.linkedin.android/.authenticator.LaunchActivity,LinkedIn,37,0,0,,,0,0.0,0,1626978249833
+39,0,com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity,Office,37,0,1,,,0,0.0,0,1626978249697
+40,0,com.microsoft.skydrive/.MainActivity,OneDrive,37,0,2,,,0,0.0,0,1625936232761
+41,0,com.microsoft.office.outlook/.MainActivity,Outlook,37,0,3,,,0,0.0,0,1626978247584
+42,2,,Samsung,-102,0,2,0.0,-1.0,0,,0,1625809513976
+43,0,com.samsung.android.arzone/.ARZoneLauncher,AR Zone,42,0,0,,,0,0.0,0,1625936232761
+44,0,com.samsung.android.bixby.agent/com.samsung.android.bixby.assistanthome.AssistantHomeLauncherActivity,Bixby,42,0,1,,,0,0.0,0,1625936232761
+45,0,com.samsung.android.app.watchmanager/.setupwizard.SetupWizardWelcomeActivity,Galaxy Wearable,42,0,2,,,0,0.0,0,1625936232761
+46,0,com.sec.android.app.sbrowser/.SBrowserMainActivity,Internet,42,0,3,,,0,0.0,0,1625936232761
+47,0,com.sec.android.app.myfiles/.external.ui.MainActivity,My Files,42,0,4,,,0,0.0,0,1625936232761
+48,0,com.sec.penup/.ui.SplashActivity,PENUP,42,0,5,,,0,0.0,0,1625936232761
+49,0,com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity,Samsung Health,42,0,6,,,0,0.0,0,1625936232761
+50,0,com.samsung.android.voc/.LauncherActivity,Samsung Members,42,0,7,,,0,0.0,0,1625936232761
+51,0,com.samsung.android.oneconnect/.ui.SCMainActivity,SmartThings,42,0,8,,,0,0.0,0,1625936232761
+52,0,com.sec.android.app.popupcalculator/.Calculator,Calculator,-102,0,3,,,0,0.0,0,1625936232761
+53,0,com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity,Calendar,-102,0,4,,,0,0.0,0,1625936232762
+54,0,com.sec.android.app.camera/.Camera,Camera,-102,0,5,,,0,0.0,0,1625936232762
+55,0,com.sec.android.app.clockpackage/.ClockPackage,Clock,-102,0,6,,,0,0.0,0,1625936232762
+56,0,com.samsung.android.app.contacts/com.samsung.android.contacts.contactslist.PeopleActivity,Contacts,-102,0,7,,,0,0.0,0,1625936232762
+58,0,com.facebook.katana/.LoginActivity,Facebook,-102,0,8,,,0,0.0,0,1625936232762
+59,0,com.sec.android.app.samsungapps/.SamsungAppsMainActivity,Galaxy Store,-102,0,9,,,0,0.0,0,1625936232762
+60,0,com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity,Gallery,-102,0,10,,,0,0.0,0,1625936232762
+61,0,com.samsung.android.game.gamehome/.activity.StartActivity,Game Launcher,-102,0,11,,,0,0.0,0,1625936232762
+62,0,com.samsung.android.messaging/com.android.mms.ui.ConversationComposer,Messages,-102,0,12,,,0,0.0,0,1625936232762
+63,0,com.netflix.mediaclient/.ui.launch.UIWebViewActivity,Netflix,-102,0,13,,,0,0.0,0,1626033849605
+64,0,com.samsung.android.dialer/.DialtactsActivity,Phone,-102,0,14,,,0,0.0,0,1625936232762
+65,0,com.google.android.music/.tombstone.LauncherActivity,Play Music,-102,0,15,,,0,0.0,0,1626980878961
+66,0,com.android.vending/.AssetBrowserActivity,Play Store,-102,0,16,,,0,0.0,0,1626807624317
+67,0,com.samsung.sree/.ui.MainActivity,Samsung Global Goals,-102,0,17,,,0,0.0,0,1625936232762
+68,0,com.samsung.android.app.notes/.memolist.MemoListActivity,Samsung Notes,-102,0,18,,,0,0.0,0,1625936232763
+69,0,com.samsung.android.spay/.ui.SpayMainActivity,Samsung Pay,-102,0,19,,,0,0.0,0,1625936232763
+70,0,com.android.settings/.Settings,Settings,-102,1,0,,,0,0.0,0,1626980947098
+71,0,com.spotify.music/.MainActivity,Spotify,-102,1,1,,,0,0.0,0,1626978249474
+72,0,com.samsung.android.app.tips/.TipsMainActivity,Tips,-102,1,2,,,0,0.0,0,1625936232763
+74,0,com.sec.android.easyMover/.DistributionActivity,Smart Switch,-102,1,3,,,0,0.0,0,1625936232763
+75,0,com.facebook.orca/.auth.StartScreenActivity,Messenger,-102,1,4,,,0,0.0,0,1625936232763
+76,0,com.instagram.android/.activity.MainTabActivity,Instagram,-102,1,5,,,0,0.0,0,1625936232763
+77,0,com.snapchat.android/.LandingPageActivity,Snapchat,-102,1,6,,,0,0.0,0,1625936232763
+78,0,com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity,TikTok,-102,1,7,,,0,0.0,0,1625936232763
+79,0,org.thoughtcrime.securesms/.RoutingActivity,Signal,-102,1,8,,,0,0.0,0,1625936232763
+80,0,com.duckduckgo.mobile.android/com.duckduckgo.app.launch.Launcher,DuckDuckGo,-102,1,9,,,0,0.0,0,1626978250020
+81,0,com.venmo/.TabCentralActivity,Venmo,-102,1,10,,,0,0.0,0,1626393010785
+82,0,com.twitter.android/.StartActivity,Twitter,-102,1,11,,,0,0.0,0,1625936232763
+83,0,com.whatsapp/.Main,WhatsApp,-102,1,12,,,0,0.0,0,1625936232764
+84,0,gov.vdh.exposurenotification/.home.ExposureNotificationActivity,COVIDWISE,-102,1,13,,,0,0.0,0,1625936232764
+85,0,com.tmobile.tuesdays/com.tmobile.tmte.Launcher,Tuesdays,-102,1,14,,,0,0.0,0,1625936232764
+86,0,app.greyshirts.sslcapture/ui.HomeActivity,Packet Capture,-102,1,15,,,0,0.0,0,1626978249316
+87,0,com.upside.consumer.android/.activities.MainActivity,GetUpside,-102,1,16,,,0,0.0,0,1625936232764
+88,0,com.google.tango.measure/com.google.vr.apps.ornament.measure.MeasureMainActivity,Measure,-102,1,17,,,0,0.0,0,1626978247120
+89,0,com.app.tgtg/.activities.SplashActivity,TooGoodToGo,-102,1,18,,,0,0.0,0,1625936232764
+90,0,com.beenverified.android/.MainActivity,Background Check BeenVerified,-102,1,19,,,0,0.0,0,1626978247823
+91,0,com.instantcheckmate.app/.MainActivity,Instant Checkmate,-102,2,0,,,0,0.0,0,1626978250159
+93,0,com.reddit.frontpage/launcher.default,Reddit,-102,2,1,,,0,0.0,0,1625936232764
+94,0,com.androidrocker.voicechanger/.MainActivity,Voice Changer,-102,2,2,,,0,0.0,0,1626978248185
+95,0,catching.cheatingspouseapp.app/.SplashActivity,Cheating Spouse,-102,2,3,,,0,0.0,0,1626978246650
+96,0,com.antispycell.free/.AntiSpyActivity,Anti Spy Mobile FREE,-102,2,4,,,0,0.0,0,1626978243262
+97,0,com.flatfish.cal.privacy/com.privacy.CalculatorActivity,Calculator,-102,2,5,,,0,0.0,0,1626978248780
+98,0,com.ea.game.nfs14_row/.NFSActivity,NFS No Limits,-102,2,6,,,0,0.0,0,1626978248408
+99,0,com.carfax.consumer/.NewSearchActivity,CARFAX,-102,2,7,,,0,0.0,0,1625936232764
+100,0,com.cargurus.mobileApp/.SplashActivity,CarGurus,-102,2,8,,,0,0.0,0,1625936232765
+101,0,com.autotrader.android/.MainActivity,Autotrader,-102,2,9,,,0,0.0,0,1626978248988
+102,0,com.lemurmonitors.bluedriver/.MainActivity,BlueDriver,-102,2,10,,,0,0.0,0,1625936232765
+103,0,com.napko.RealDash/com.napko.nuts.androidframe.NutsAndroidActivity,RealDash,-102,2,11,,,0,0.0,0,1625936232765
+104,0,app.cartomizer/.SplashScreenActivity,Cartomizer,-102,2,12,,,0,0.0,0,1625936232765
+105,0,com.gydala.allcars/.activity.SplashScreen,All Cars,-102,2,13,,,0,0.0,0,1625936232765
+106,0,com.orto.usa/.SplashActivity,Orto Vehicle History,-102,2,14,,,0,0.0,0,1625936232765
+107,0,com.waze/.FreeMapAppActivity,Waze,-102,2,15,,,0,0.0,0,1625936232765

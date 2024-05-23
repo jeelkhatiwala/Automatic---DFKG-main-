@@ -1,0 +1,11 @@
+PATH,VALUE
+metadata/timestamp,1611196536462
+omadm/./3GPP_IMS/sms_over_ip_network_indication,1
+omadm/./3GPP_IMS/EAB_SETTING,1
+omadm/./3GPP_IMS/IMS_TEST_MODE,0
+omadm/./3GPP_IMS/VOLTE_ENABLED,1
+omadm/./3GPP_IMS/POLL_LIST_SUB_EXP,30
+omadm/./3GPP_IMS/VOLTE_PREF_SERVICE_STATUS,1
+omadm/./3GPP_IMS/silent_redial,1
+omadm/./3GPP_IMS/LVC_ENABLED,1
+omadm/./3GPP_IMS/SMS_FORMAT,3GPP

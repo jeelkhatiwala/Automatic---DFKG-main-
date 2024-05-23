@@ -1,0 +1,4 @@
+_id,jid_row_id,hidden,subject,created_timestamp,display_message_row_id,last_message_row_id,last_read_message_row_id,last_read_receipt_sent_message_row_id,last_important_message_row_id,archived,sort_timestamp,mod_tag,gen,spam_detection,unseen_earliest_message_received_time,unseen_message_count,unseen_missed_calls_count,unseen_row_count,plaintext_disabled,vcard_ui_dismissed,change_number_notified_message_row_id,show_group_description,ephemeral_expiration,last_read_ephemeral_message_row_id,ephemeral_setting_timestamp,unseen_important_message_count
+1,1,1,,,,,,,,,,,,,,,,,,,,,,,,0
+2,5,1,,,,,,,,,,,,,,,,,,,,,,,,0
+3,6,1,,,,,,,,,,,,,,,,,,,,,,,,0

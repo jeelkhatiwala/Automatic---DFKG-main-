@@ -1,0 +1,868 @@
+_id,package,class,name
+1,com.sec.android.app.sbrowser,,browse
+2,com.sec.android.app.sbrowser,,browse application
+3,com.sec.android.app.sbrowser,,browser
+4,com.sec.android.app.sbrowser,,browser application
+5,com.sec.android.app.sbrowser,,firefox
+6,com.sec.android.app.sbrowser,,go online
+7,com.sec.android.app.sbrowser,,i e
+8,com.sec.android.app.sbrowser,,ie
+9,com.sec.android.app.sbrowser,,internet
+10,com.sec.android.app.sbrowser,,internet application
+11,com.sec.android.app.sbrowser,,internet browser
+12,com.sec.android.app.sbrowser,,internet browser application
+13,com.sec.android.app.sbrowser,,internet explorer
+14,com.sec.android.app.sbrowser,,net
+15,com.sec.android.app.sbrowser,,surf web
+16,com.sec.android.app.sbrowser,,the net
+17,com.sec.android.app.sbrowser,,the web
+18,com.sec.android.app.sbrowser,,web
+19,com.sec.android.app.sbrowser,,web application
+20,com.sec.android.app.sbrowser,,web browser
+21,com.sec.android.app.sbrowser,,web browser application
+22,com.sec.android.app.sbrowser,,web search
+23,com.sec.android.app.sbrowser,,websites
+24,com.samsung.android.snote,,memo
+25,com.samsung.android.snote,,memo application
+26,com.samsung.android.snote,,memo book
+27,com.samsung.android.snote,,memo memo
+28,com.samsung.android.snote,,memo pad
+29,com.samsung.android.snote,,memo pad application
+30,com.samsung.android.snote,,memopad
+31,com.samsung.android.snote,,memopad application
+32,com.samsung.android.snote,,nota s
+33,com.samsung.android.snote,,note
+34,com.samsung.android.snote,,note book
+35,com.samsung.android.snote,,note pad
+36,com.samsung.android.snote,,note pad application
+37,com.samsung.android.snote,,notepad
+38,com.samsung.android.snote,,notepad application
+39,com.samsung.android.snote,,notes
+40,com.samsung.android.snote,,notes application
+41,com.samsung.android.snote,,scratch pad
+42,com.samsung.android.snote,,take memo
+43,com.samsung.android.snote,,take note
+44,com.samsung.android.snote,,write memo
+45,com.samsung.android.snote,,write note
+46,com.samsung.android.calendar,,agenda
+47,com.samsung.android.calendar,,agenda application
+48,com.samsung.android.calendar,,appointments
+49,com.samsung.android.calendar,,appointments application
+50,com.samsung.android.calendar,,calendar
+51,com.samsung.android.calendar,,calendar application
+52,com.samsung.android.calendar,,calendar for car
+53,com.samsung.android.calendar,,calendar4car
+54,com.samsung.android.calendar,,calendario
+55,com.samsung.android.calendar,,calendars
+56,com.samsung.android.calendar,,datebook
+57,com.samsung.android.calendar,,datebook application
+58,com.samsung.android.calendar,,day planner
+59,com.samsung.android.calendar,,daybook
+60,com.samsung.android.calendar,,diary application
+61,com.samsung.android.calendar,,events
+62,com.samsung.android.calendar,,kalender
+63,com.samsung.android.calendar,,meeting
+64,com.samsung.android.calendar,,meetings
+65,com.samsung.android.calendar,,my appointments
+66,com.samsung.android.calendar,,my calendar
+67,com.samsung.android.calendar,,my day planner
+68,com.samsung.android.calendar,,my daybook
+69,com.samsung.android.calendar,,my schedule
+70,com.samsung.android.calendar,,my scheduler
+71,com.samsung.android.calendar,,organizer
+72,com.samsung.android.calendar,,organizer application
+73,com.samsung.android.calendar,,planer
+74,com.samsung.android.calendar,,planer application
+75,com.samsung.android.calendar,,planner
+76,com.samsung.android.calendar,,planner application
+77,com.samsung.android.calendar,,s planner
+78,com.samsung.android.calendar,,schedule
+79,com.samsung.android.calendar,,schedule application
+80,com.samsung.android.calendar,,scheduler
+81,com.samsung.android.calendar,,schedules
+82,com.samsung.android.calendar,,today 's schedule
+83,com.samsung.android.calendar,,today's schedule
+84,com.samsung.android.calendar,,today’s schedules
+85,com.google.android.calendar,,agenda
+86,com.google.android.calendar,,agenda application
+87,com.google.android.calendar,,appointments
+88,com.google.android.calendar,,appointments application
+89,com.google.android.calendar,,calendar
+90,com.google.android.calendar,,calendar application
+91,com.google.android.calendar,,calendario
+92,com.google.android.calendar,,calendars
+93,com.google.android.calendar,,datebook
+94,com.google.android.calendar,,datebook application
+95,com.google.android.calendar,,day planner
+96,com.google.android.calendar,,daybook
+97,com.google.android.calendar,,diary application
+98,com.google.android.calendar,,events
+99,com.google.android.calendar,,kalender
+100,com.google.android.calendar,,meeting
+101,com.google.android.calendar,,meetings
+102,com.google.android.calendar,,my appointments
+103,com.google.android.calendar,,my calendar
+104,com.google.android.calendar,,my day planner
+105,com.google.android.calendar,,my daybook
+106,com.google.android.calendar,,my schedule
+107,com.google.android.calendar,,my scheduler
+108,com.google.android.calendar,,organizer
+109,com.google.android.calendar,,organizer application
+110,com.google.android.calendar,,planer
+111,com.google.android.calendar,,planer application
+112,com.google.android.calendar,,planner
+113,com.google.android.calendar,,planner application
+114,com.google.android.calendar,,schedule
+115,com.google.android.calendar,,schedule application
+116,com.google.android.calendar,,scheduler
+117,com.google.android.calendar,,schedules
+118,com.google.android.calendar,,today 's schedule
+119,com.google.android.calendar,,today's schedule
+120,com.google.android.calendar,,today’s schedules
+121,com.samsung.android.email.provider,,correo
+122,com.samsung.android.email.provider,,correo electrónico
+123,com.samsung.android.email.provider,,e mail
+124,com.samsung.android.email.provider,,e mails
+125,com.samsung.android.email.provider,,e-mail
+126,com.samsung.android.email.provider,,electronic mail
+127,com.samsung.android.email.provider,,email
+128,com.samsung.android.email.provider,,email application
+129,com.samsung.android.email.provider,,emails
+130,com.samsung.android.email.provider,,in box
+131,com.samsung.android.email.provider,,in box application
+132,com.samsung.android.email.provider,,inbox
+133,com.samsung.android.email.provider,,inbox application
+134,com.samsung.android.email.provider,,inboxes
+135,com.samsung.android.email.provider,,mail
+136,com.samsung.android.email.provider,,mail box
+137,com.samsung.android.email.provider,,mail box application
+138,com.samsung.android.email.provider,,mail boxes
+139,com.samsung.android.email.provider,,mailbox
+140,com.samsung.android.email.provider,,mailbox application
+141,com.samsung.android.email.provider,,mails
+142,com.google.android.apps.maps,,a t and t map
+143,com.google.android.apps.maps,,a t and t map application
+144,com.google.android.apps.maps,,a t and t maps
+145,com.google.android.apps.maps,,a t and t maps application
+146,com.google.android.apps.maps,,a t t map
+147,com.google.android.apps.maps,,a t t map application
+148,com.google.android.apps.maps,,a t t maps
+149,com.google.android.apps.maps,,a t t maps application
+150,com.google.android.apps.maps,,direction
+151,com.google.android.apps.maps,,directions
+152,com.google.android.apps.maps,,google longitude
+153,com.google.android.apps.maps,,google map
+154,com.google.android.apps.maps,,google maps
+155,com.google.android.apps.maps,,google sky map
+156,com.google.android.apps.maps,,local maps
+157,com.google.android.apps.maps,,longitude
+158,com.google.android.apps.maps,,map
+159,com.google.android.apps.maps,,map application
+160,com.google.android.apps.maps,,map viewer
+161,com.google.android.apps.maps,,map viewer (naviteq)
+162,com.google.android.apps.maps,,mapas
+163,com.google.android.apps.maps,,maps
+164,com.google.android.apps.maps,,maps application
+165,com.google.android.apps.maps,,naviteq
+166,com.google.android.apps.maps,,naviteq map
+167,com.google.android.apps.maps,,naviteq maps
+168,com.google.android.gm,,g mail
+169,com.google.android.gm,,gmail
+170,com.google.android.gm,,google email
+171,com.google.android.gm,,google mail
+172,com.samsung.android.messaging,,mensagem
+173,com.samsung.android.messaging,,mensajes
+174,com.samsung.android.messaging,,message
+175,com.samsung.android.messaging,,message application
+176,com.samsung.android.messaging,,messages
+177,com.samsung.android.messaging,,messages application
+178,com.samsung.android.messaging,,messaggi
+179,com.samsung.android.messaging,,messaging
+180,com.samsung.android.messaging,,messaging application
+181,com.samsung.android.messaging,,mms
+182,com.samsung.android.messaging,,nachrichten
+183,com.samsung.android.messaging,,s m s
+184,com.samsung.android.messaging,,s m s application
+185,com.samsung.android.messaging,,sms
+186,com.samsung.android.messaging,,sms application
+187,com.samsung.android.messaging,,sms messages
+188,com.samsung.android.messaging,,text
+189,com.samsung.android.messaging,,text application
+190,com.samsung.android.messaging,,text message
+191,com.samsung.android.messaging,,text message application
+192,com.samsung.android.messaging,,text messages
+193,com.samsung.android.messaging,,text messages application
+194,com.samsung.android.messaging,,text messaging
+195,com.samsung.android.messaging,,texting
+196,com.samsung.android.messaging,,texts
+197,com.google.android.music,,play music
+198,com.google.android.music,,play música
+199,com.sec.android.app.music,,a t and t music
+200,com.sec.android.app.music,,a t and t music application
+201,com.sec.android.app.music,,a t and t music player
+202,com.sec.android.app.music,,a t and t music player application
+203,com.sec.android.app.music,,a t t music
+204,com.sec.android.app.music,,a t t music application
+205,com.sec.android.app.music,,a t t music player
+206,com.sec.android.app.music,,a t t music player application
+207,com.sec.android.app.music,,audio player
+208,com.sec.android.app.music,,media centre
+209,com.sec.android.app.music,,mp3 player
+210,com.sec.android.app.music,,music
+211,com.sec.android.app.music,,music application
+212,com.sec.android.app.music,,music centre
+213,com.sec.android.app.music,,music party
+214,com.sec.android.app.music,,music player
+215,com.sec.android.app.music,,music player application
+216,com.sec.android.app.music,,musica
+217,com.sec.android.app.music,,musik
+218,com.sec.android.app.music,,my a t and t music
+219,com.sec.android.app.music,,my a t and t music player
+220,com.sec.android.app.music,,my a t t music
+221,com.sec.android.app.music,,my a t t music player
+222,com.sec.android.app.music,,my music
+223,com.sec.android.app.music,,my music player
+224,com.sec.android.app.music,,player
+225,com.sec.android.app.music,,song player
+226,com.sec.android.app.music,,sound player
+227,com.sec.android.app.music,,stereo
+228,com.sec.android.app.music,,watch music
+229,com.sec.android.app.camera,,business card reader
+230,com.sec.android.app.camera,,business card scanner
+231,com.sec.android.app.camera,,camcorder
+232,com.sec.android.app.camera,,camera
+233,com.sec.android.app.camera,,camera app
+234,com.sec.android.app.camera,,camera application
+235,com.sec.android.app.camera,,capture the moment
+236,com.sec.android.app.camera,,cheese
+237,com.sec.android.app.camera,,câmera
+238,com.sec.android.app.camera,,fotocamera
+239,com.sec.android.app.camera,,i need to take a photo
+240,com.sec.android.app.camera,,i need to take a photograph
+241,com.sec.android.app.camera,,i need to take a picture
+242,com.sec.android.app.camera,,i need to take a shot
+243,com.sec.android.app.camera,,i need to take photo
+244,com.sec.android.app.camera,,i need to take photograph
+245,com.sec.android.app.camera,,i need to take photographs
+246,com.sec.android.app.camera,,i need to take photos
+247,com.sec.android.app.camera,,i need to take picture
+248,com.sec.android.app.camera,,i need to take pictures
+249,com.sec.android.app.camera,,i need to take shot
+250,com.sec.android.app.camera,,i need to take shots
+251,com.sec.android.app.camera,,i need to take some photographs
+252,com.sec.android.app.camera,,i need to take some photos
+253,com.sec.android.app.camera,,i need to take some pictures
+254,com.sec.android.app.camera,,i need to take some shots
+255,com.sec.android.app.camera,,i need to take the photo
+256,com.sec.android.app.camera,,i need to take the photograph
+257,com.sec.android.app.camera,,i need to take the picture
+258,com.sec.android.app.camera,,i need to take the shot
+259,com.sec.android.app.camera,,i want to take a photo
+260,com.sec.android.app.camera,,i want to take a photograph
+261,com.sec.android.app.camera,,i want to take a picture
+262,com.sec.android.app.camera,,i want to take a shot
+263,com.sec.android.app.camera,,i want to take photo
+264,com.sec.android.app.camera,,i want to take photograph
+265,com.sec.android.app.camera,,i want to take photographs
+266,com.sec.android.app.camera,,i want to take photos
+267,com.sec.android.app.camera,,i want to take picture
+268,com.sec.android.app.camera,,i want to take pictures
+269,com.sec.android.app.camera,,i want to take shot
+270,com.sec.android.app.camera,,i want to take shots
+271,com.sec.android.app.camera,,i want to take some photographs
+272,com.sec.android.app.camera,,i want to take some photos
+273,com.sec.android.app.camera,,i want to take some pictures
+274,com.sec.android.app.camera,,i want to take some shots
+275,com.sec.android.app.camera,,i want to take the photo
+276,com.sec.android.app.camera,,i want to take the photograph
+277,com.sec.android.app.camera,,i want to take the picture
+278,com.sec.android.app.camera,,i want to take the shot
+279,com.sec.android.app.camera,,kamera
+280,com.sec.android.app.camera,,let 's take a photo
+281,com.sec.android.app.camera,,let 's take a photograph
+282,com.sec.android.app.camera,,let 's take a picture
+283,com.sec.android.app.camera,,let 's take a shot
+284,com.sec.android.app.camera,,let 's take photo
+285,com.sec.android.app.camera,,let 's take photograph
+286,com.sec.android.app.camera,,let 's take photographs
+287,com.sec.android.app.camera,,let 's take photos
+288,com.sec.android.app.camera,,let 's take picture
+289,com.sec.android.app.camera,,let 's take pictures
+290,com.sec.android.app.camera,,let 's take shot
+291,com.sec.android.app.camera,,let 's take shots
+292,com.sec.android.app.camera,,let 's take some photographs
+293,com.sec.android.app.camera,,let 's take some photos
+294,com.sec.android.app.camera,,let 's take some pictures
+295,com.sec.android.app.camera,,let 's take some shots
+296,com.sec.android.app.camera,,let 's take the photo
+297,com.sec.android.app.camera,,let 's take the photograph
+298,com.sec.android.app.camera,,let 's take the picture
+299,com.sec.android.app.camera,,let 's take the shot
+300,com.sec.android.app.camera,,let me take a photo
+301,com.sec.android.app.camera,,let me take a photograph
+302,com.sec.android.app.camera,,let me take a picture
+303,com.sec.android.app.camera,,let me take a shot
+304,com.sec.android.app.camera,,let me take photo
+305,com.sec.android.app.camera,,let me take photograph
+306,com.sec.android.app.camera,,let me take photographs
+307,com.sec.android.app.camera,,let me take photos
+308,com.sec.android.app.camera,,let me take picture
+309,com.sec.android.app.camera,,let me take pictures
+310,com.sec.android.app.camera,,let me take shot
+311,com.sec.android.app.camera,,let me take shots
+312,com.sec.android.app.camera,,let me take some photographs
+313,com.sec.android.app.camera,,let me take some photos
+314,com.sec.android.app.camera,,let me take some pictures
+315,com.sec.android.app.camera,,let me take some shots
+316,com.sec.android.app.camera,,let me take the photo
+317,com.sec.android.app.camera,,let me take the photograph
+318,com.sec.android.app.camera,,let me take the picture
+319,com.sec.android.app.camera,,let me take the shot
+320,com.sec.android.app.camera,,let's take a photo
+321,com.sec.android.app.camera,,let's take a photograph
+322,com.sec.android.app.camera,,let's take a picture
+323,com.sec.android.app.camera,,let's take a shot
+324,com.sec.android.app.camera,,let's take photo
+325,com.sec.android.app.camera,,let's take photograph
+326,com.sec.android.app.camera,,let's take photographs
+327,com.sec.android.app.camera,,let's take photos
+328,com.sec.android.app.camera,,let's take picture
+329,com.sec.android.app.camera,,let's take pictures
+330,com.sec.android.app.camera,,let's take shot
+331,com.sec.android.app.camera,,let's take shots
+332,com.sec.android.app.camera,,let's take some photographs
+333,com.sec.android.app.camera,,let's take some photos
+334,com.sec.android.app.camera,,let's take some pictures
+335,com.sec.android.app.camera,,let's take some shots
+336,com.sec.android.app.camera,,let's take the photo
+337,com.sec.android.app.camera,,let's take the photograph
+338,com.sec.android.app.camera,,let's take the picture
+339,com.sec.android.app.camera,,let's take the shot
+340,com.sec.android.app.camera,,make a movie
+341,com.sec.android.app.camera,,make movie
+342,com.sec.android.app.camera,,name card scanner
+343,com.sec.android.app.camera,,point&
+344,com.sec.android.app.camera,,record a video
+345,com.sec.android.app.camera,,record some video
+346,com.sec.android.app.camera,,record some videos
+347,com.sec.android.app.camera,,record video
+348,com.sec.android.app.camera,,shoot pictures
+349,com.sec.android.app.camera,,snap a photo
+350,com.sec.android.app.camera,,snapshot
+351,com.sec.android.app.camera,,start recording video
+352,com.sec.android.app.camera,,take a photo
+353,com.sec.android.app.camera,,take a photograph
+354,com.sec.android.app.camera,,take a pic
+355,com.sec.android.app.camera,,take a pics
+356,com.sec.android.app.camera,,take a picture
+357,com.sec.android.app.camera,,take a picture of that
+358,com.sec.android.app.camera,,take a pictures
+359,com.sec.android.app.camera,,take a shot
+360,com.sec.android.app.camera,,take a snapshot
+361,com.sec.android.app.camera,,take a video
+362,com.sec.android.app.camera,,take me a picture
+363,com.sec.android.app.camera,,take photo
+364,com.sec.android.app.camera,,take photograph
+365,com.sec.android.app.camera,,take photographs
+366,com.sec.android.app.camera,,take photos
+367,com.sec.android.app.camera,,take pics
+368,com.sec.android.app.camera,,take picture
+369,com.sec.android.app.camera,,take pictures
+370,com.sec.android.app.camera,,take shot
+371,com.sec.android.app.camera,,take shots
+372,com.sec.android.app.camera,,take snapshot
+373,com.sec.android.app.camera,,take some photographs
+374,com.sec.android.app.camera,,take some photos
+375,com.sec.android.app.camera,,take some pictures
+376,com.sec.android.app.camera,,take some pictures of that
+377,com.sec.android.app.camera,,take some shots
+378,com.sec.android.app.camera,,take some video
+379,com.sec.android.app.camera,,take the photo
+380,com.sec.android.app.camera,,take the photograph
+381,com.sec.android.app.camera,,take the picture
+382,com.sec.android.app.camera,,take the shot
+383,com.sec.android.app.camera,,take video
+384,com.android.settings,com.android.settings.Settings,ajustes
+385,com.android.settings,com.android.settings.Settings,android option
+386,com.android.settings,com.android.settings.Settings,android options
+387,com.android.settings,com.android.settings.Settings,android setting
+388,com.android.settings,com.android.settings.Settings,android settings
+389,com.android.settings,com.android.settings.Settings,call setting
+390,com.android.settings,com.android.settings.Settings,call settings
+391,com.android.settings,com.android.settings.Settings,config
+392,com.android.settings,com.android.settings.Settings,config.
+393,com.android.settings,com.android.settings.Settings,impostazioni
+394,com.android.settings,com.android.settings.Settings,my android option
+395,com.android.settings,com.android.settings.Settings,my android options
+396,com.android.settings,com.android.settings.Settings,my android setting
+397,com.android.settings,com.android.settings.Settings,my android settings
+398,com.android.settings,com.android.settings.Settings,my option
+399,com.android.settings,com.android.settings.Settings,my options
+400,com.android.settings,com.android.settings.Settings,my setting
+401,com.android.settings,com.android.settings.Settings,my settings
+402,com.android.settings,com.android.settings.Settings,option
+403,com.android.settings,com.android.settings.Settings,options
+404,com.android.settings,com.android.settings.Settings,phone settings
+405,com.android.settings,com.android.settings.Settings,preferences
+406,com.android.settings,com.android.settings.Settings,setting
+407,com.android.settings,com.android.settings.Settings,settings
+408,com.android.settings,com.android.settings.Settings,the android option
+409,com.android.settings,com.android.settings.Settings,the android options
+410,com.android.settings,com.android.settings.Settings,the android setting
+411,com.android.settings,com.android.settings.Settings,the android settings
+412,com.android.settings,com.android.settings.Settings,the option
+413,com.android.settings,com.android.settings.Settings,the options
+414,com.android.settings,com.android.settings.Settings,the setting
+415,com.android.settings,com.android.settings.Settings,the settings
+416,com.android.settings,com.android.settings.Settings$WifiApSettingsActivity,4g mobile hotspot
+417,com.android.settings,com.android.settings.Settings$WifiApSettingsActivity,mobile hotspot
+418,com.android.settings,com.android.settings.Settings$WifiApSettingsActivity,portable wi-fi hotspot
+419,com.android.settings,com.android.settings.Settings$WifiApSettingsActivity,sprint hotspot
+420,com.android.settings,com.android.settings.Settings$WifiApSettingsActivity,tethering and portable hotspot
+421,com.android.settings,com.android.settings.Settings$WifiApSettingsActivity,zona móvil
+422,com.samsung.helphub,,ajuda
+423,com.samsung.helphub,,ayuda
+424,com.samsung.helphub,,guida
+425,com.samsung.helphub,,help
+426,com.samsung.helphub,,hilfe
+427,com.google.android.videos,,movie
+428,com.google.android.videos,,movie application
+429,com.google.android.videos,,movies
+430,com.google.android.videos,,movies application
+431,com.google.android.videos,,play filmes
+432,com.google.android.videos,,play movies
+433,com.google.android.videos,,play movies & tv
+434,com.google.android.videos,,play movies and tv
+435,com.google.android.youtube,,watch some videos on youtube
+436,com.google.android.youtube,,watch some youtube videos
+437,com.google.android.youtube,,you tube
+438,com.google.android.youtube,,you tube application
+439,com.google.android.youtube,,youtube
+440,com.google.android.youtube,,youtube application
+441,com.android.vending,,android app store
+442,com.android.vending,,android market
+443,com.android.vending,,android market application
+444,com.android.vending,,app store
+445,com.android.vending,,application store
+446,com.android.vending,,applications store
+447,com.android.vending,,apps store
+448,com.android.vending,,buy new apps
+449,com.android.vending,,buy some new apps
+450,com.android.vending,,download apps
+451,com.android.vending,,google app store
+452,com.android.vending,,google market
+453,com.android.vending,,google marketplace
+454,com.android.vending,,google play
+455,com.android.vending,,google play store
+456,com.android.vending,,market
+457,com.android.vending,,market application
+458,com.android.vending,,marketplace
+459,com.android.vending,,my android market
+460,com.android.vending,,play store
+461,com.android.vending,,store
+462,com.android.vending,,the android market
+463,com.amazon.mShop.android,,amazon
+464,com.google.android.apps.books,,play books
+465,com.google.android.apps.books,,play livros
+466,com.sec.android.app.popupcalculator,,adder
+467,com.sec.android.app.popupcalculator,,calc
+468,com.sec.android.app.popupcalculator,,calc application
+469,com.sec.android.app.popupcalculator,,calculadora
+470,com.sec.android.app.popupcalculator,,calculater
+471,com.sec.android.app.popupcalculator,,calculater application
+472,com.sec.android.app.popupcalculator,,calculator
+473,com.sec.android.app.popupcalculator,,calculator application
+474,com.sec.android.app.popupcalculator,,calculators
+475,com.sec.android.app.popupcalculator,,math
+476,com.sec.android.app.popupcalculator,,rechner
+477,com.sec.android.app.popupcalculator,,the calculator
+478,com.google.android.googlequicksearchbox,com.google.android.googlequicksearchbox.SearchActivity,google
+479,com.google.android.googlequicksearchbox,com.google.android.googlequicksearchbox.SearchActivity,ricerca
+480,com.google.android.googlequicksearchbox,com.google.android.googlequicksearchbox.SearchActivity,search
+481,com.amazon.kindlefs,,amazon kindle
+482,com.samsung.android.video,,film player
+483,com.samsung.android.video,,film viewer
+484,com.samsung.android.video,,films
+485,com.samsung.android.video,,movie player
+486,com.samsung.android.video,,movie viewer
+487,com.samsung.android.video,,my phone videos
+488,com.samsung.android.video,,my video
+489,com.samsung.android.video,,my videos
+490,com.samsung.android.video,,phone videos
+491,com.samsung.android.video,,video
+492,com.samsung.android.video,,video app
+493,com.samsung.android.video,,video application
+494,com.samsung.android.video,,video list
+495,com.samsung.android.video,,video player
+496,com.samsung.android.video,,video store
+497,com.samsung.android.video,,video viewer
+498,com.samsung.android.video,,videos
+499,com.samsung.android.video,,videos app
+500,com.samsung.android.video,,videos application
+501,com.samsung.android.video,,videos player
+502,com.samsung.android.video,,videos viewer
+503,com.samsung.android.video,,vídeo
+504,com.samsung.android.video,,watch a video
+505,com.sprint.voicemail,,audio message
+506,com.sprint.voicemail,,audio messages
+507,com.sprint.voicemail,,voice mail
+508,com.sprint.voicemail,,voice message
+509,com.sprint.voicemail,,voice messages
+510,com.sprint.voicemail,,voicemail
+511,com.sec.android.app.voicenote,,dictaphone
+512,com.sec.android.app.voicenote,,microphone
+513,com.sec.android.app.voicenote,,record audio
+514,com.sec.android.app.voicenote,,record me
+515,com.sec.android.app.voicenote,,record memo
+516,com.sec.android.app.voicenote,,record notes
+517,com.sec.android.app.voicenote,,record sound
+518,com.sec.android.app.voicenote,,record voice
+519,com.sec.android.app.voicenote,,recorder
+520,com.sec.android.app.voicenote,,recorder application
+521,com.sec.android.app.voicenote,,recording
+522,com.sec.android.app.voicenote,,sound recorder
+523,com.sec.android.app.voicenote,,sound recording
+524,com.sec.android.app.voicenote,,speech recorder
+525,com.sec.android.app.voicenote,,the recorder
+526,com.sec.android.app.voicenote,,the recorder application
+527,com.sec.android.app.voicenote,,the voice recorder
+528,com.sec.android.app.voicenote,,the voice recorder application
+529,com.sec.android.app.voicenote,,voice pad
+530,com.sec.android.app.voicenote,,voice recorder
+531,com.sec.android.app.voicenote,,voice recorder application
+532,com.sec.android.app.voicenote,,voice recording
+533,com.sec.android.app.myfiles,,file
+534,com.sec.android.app.myfiles,,file application
+535,com.sec.android.app.myfiles,,file list
+536,com.sec.android.app.myfiles,,file manager
+537,com.sec.android.app.myfiles,,file manager application
+538,com.sec.android.app.myfiles,,files
+539,com.sec.android.app.myfiles,,files application
+540,com.sec.android.app.myfiles,,files manager
+541,com.sec.android.app.myfiles,,files manager application
+542,com.sec.android.app.myfiles,,folders
+543,com.sec.android.app.myfiles,,my files
+544,com.vlingo.android.tools.explorer,,device explorer
+545,com.android.development,,dev tools
+546,com.android.development,,devtools
+547,kt.navi,,olleh navi
+548,com.kt.olleh.storefront,,olleh market
+549,com.samsung.android.app.memo,,jot memo
+550,com.samsung.android.app.memo,,jot note
+551,com.samsung.android.app.memo,,memo
+552,com.samsung.android.app.memo,,memo application
+553,com.samsung.android.app.memo,,memo book
+554,com.samsung.android.app.memo,,memo memo
+555,com.samsung.android.app.memo,,memo pad
+556,com.samsung.android.app.memo,,memo pad application
+557,com.samsung.android.app.memo,,memopad
+558,com.samsung.android.app.memo,,memopad application
+559,com.samsung.android.app.memo,,memos
+560,com.samsung.android.app.memo,,memos application
+561,com.samsung.android.app.memo,,nota s
+562,com.samsung.android.app.memo,,note
+563,com.samsung.android.app.memo,,note book
+564,com.samsung.android.app.memo,,note pad
+565,com.samsung.android.app.memo,,note pad application
+566,com.samsung.android.app.memo,,notepad
+567,com.samsung.android.app.memo,,notepad application
+568,com.samsung.android.app.memo,,notes
+569,com.samsung.android.app.memo,,notes application
+570,com.samsung.android.app.memo,,s note
+571,com.samsung.android.app.memo,,scratch pad
+572,com.samsung.android.app.memo,,take memo
+573,com.samsung.android.app.memo,,take note
+574,com.samsung.android.app.memo,,write memo
+575,com.samsung.android.app.memo,,write note
+576,com.ktmusic.geniemusic,,genie
+577,lgt.call,,call help service
+578,com.mnet.app,,mnet
+579,com.lgu,,mp3 ringtone
+580,com.lgu,,ringtone
+581,lg.uplusbox,,u plus box
+582,lg.uplusbox,,u+ box
+583,lg.uplusbox,,u+box
+584,com.uplus.onphone,,u plus hdtv
+585,com.uplus.onphone,,u+ hdtv
+586,com.uplus.onphone,,u+hdtv
+587,com.iloen.melon,,melon
+588,com.skt.skaf.A000Z00040,,t store
+589,com.nate.android.portalmini,,nate
+590,com.sktelecom.hoppin.mobile,,hoppin
+591,com.skt.smartbill,,smart bill
+592,com.lguplus.usimsvcm,,smart wallet
+593,com.lguplus.usimsvcm,,smartwallet
+594,com.tms,,t member
+595,com.tms,,t membership
+596,com.skt.skaf.l001mtm091,,t map
+597,com.skt.tbagplus,,t cloud
+598,com.btb.minihompy,,cyworld
+599,Com.sktelecom.minit,,mobile t world
+600,com.skt.tservice,,t service
+601,com.cyworld.camera,,cymera
+602,com.android.chrome,,chrome
+603,com.android.chrome,,google chrome
+604,com.yellowpages.android.ypmobile,,y p
+605,com.yellowpages.android.ypmobile,,y p mobile
+606,com.yellowpages.android.ypmobile,,y p mobile application
+607,com.yellowpages.android.ypmobile,,yellow page mobile
+608,com.yellowpages.android.ypmobile,,yellow page mobile application
+609,com.yellowpages.android.ypmobile,,yellowpage mobile
+610,com.yellowpages.android.ypmobile,,yellowpage mobile application
+611,com.yellowpages.android.ypmobile,,yp
+612,com.yellowpages.android.ypmobile,,yp mobile
+613,com.yellowpages.android.ypmobile,,yp mobile application
+614,com.yellowpages.android.ypmobile,,ypmobile
+615,com.sec.android.devicehelp,,device help
+616,com.sec.android.devicehelp,,devicehelp
+617,com.facebook.katana,,f b for car
+618,com.facebook.katana,,face book
+619,com.facebook.katana,,facebook
+620,com.facebook.katana,,facebook application
+621,com.att.android.digitallocker,,a t & t locker
+622,com.att.android.digitallocker,,a t and t locker
+623,com.att.android.digitallocker,,a t t locker
+624,com.att.android.digitallocker,,at&t locker
+625,com.wavemarket.waplauncher,,a t & t family map
+626,com.wavemarket.waplauncher,,a t & t familymap
+627,com.wavemarket.waplauncher,,a t and t family map
+628,com.wavemarket.waplauncher,,a t and t family map application
+629,com.wavemarket.waplauncher,,a t and t family maps
+630,com.wavemarket.waplauncher,,a t and t family maps application
+631,com.wavemarket.waplauncher,,a t t family map
+632,com.wavemarket.waplauncher,,a t t family map application
+633,com.wavemarket.waplauncher,,a t t family maps
+634,com.wavemarket.waplauncher,,a t t family maps application
+635,com.wavemarket.waplauncher,,at&t family map
+636,com.wavemarket.waplauncher,,at&t familymap
+637,com.wavemarket.waplauncher,,family map
+638,com.wavemarket.waplauncher,,family map application
+639,com.wavemarket.waplauncher,,family maps
+640,com.wavemarket.waplauncher,,family maps application
+641,com.att.myWireless,,my a t and t
+642,com.att.myWireless,,my a t t
+643,com.att.myWireless,,my att
+644,com.att.myWireless,,myat&t
+645,com.dropbox.android,,dropbox
+646,com.instagram.android,,instagram
+647,com.google.android.googlequicksearchbox,com.google.android.googlequicksearchbox.VoiceSearchActivity,búsqueda por voz
+648,com.google.android.googlequicksearchbox,com.google.android.googlequicksearchbox.VoiceSearchActivity,google voice search
+649,com.google.android.googlequicksearchbox,com.google.android.googlequicksearchbox.VoiceSearchActivity,google voice search application
+650,com.google.android.googlequicksearchbox,com.google.android.googlequicksearchbox.VoiceSearchActivity,pesquisa por voz
+651,com.google.android.googlequicksearchbox,com.google.android.googlequicksearchbox.VoiceSearchActivity,sprachsuche
+652,com.google.android.googlequicksearchbox,com.google.android.googlequicksearchbox.VoiceSearchActivity,voice search
+653,com.google.android.googlequicksearchbox,com.google.android.googlequicksearchbox.VoiceSearchActivity,voice search application
+654,com.sec.hiddenmenu,,iothiddenmenu
+655,com.vlingo.midas,,s voice
+656,com.vlingo.midas,,svoice
+657,com.samsung.mobilecare,,mobile care
+658,com.samsung.mobilecare,,mobilecare
+659,tv.peel.app,,cento ontv
+660,tv.peel.app,,smart remote
+661,tv.peel.app,,watch on
+662,tv.peel.app,,watchon
+663,tv.peel.app,,watchon remote
+664,com.samsung.bst.uimdual,,uim toolkit
+665,com.mobitv.client.tv,,mobile tv
+666,com.mobitv.client.tv,,mobiletv
+667,com.sec.android.app.dmb,,dmb
+668,com.siso.autotest,,vtautotest
+669,com.skmnc.gifticon,,gifticon
+670,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,address
+671,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,address book
+672,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,address book application
+673,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,addresses
+674,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,contact
+675,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,contact information
+676,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,contact list
+677,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,contactos
+678,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,contacts
+679,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,contacts application
+680,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,contacts for car
+681,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,contacts list
+682,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,contacts4car
+683,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,contatos
+684,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,friend list
+685,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,friends
+686,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,kontakte
+687,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,list of contacts
+688,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,my contacts
+689,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,people
+690,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,people list
+691,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,phone book
+692,com.samsung.android.app.contacts,com.samsung.android.contacts.contactslist.PeopleActivity,rubrica
+693,com.samsung.vvm,,visual voicemail
+694,com.whitepages.nameid.tmobile,,t-mobile name id
+695,com.mobitv.client.tmobiletvhd,,t-mobile tv
+696,com.sec.android.app.shealth,,s health
+697,com.kt.wificm,,olleh wifi manager
+698,com.samsung.android.dialer,com.samsung.android.dialer.DialtactsActivity,call
+699,com.samsung.android.dialer,com.samsung.android.dialer.DialtactsActivity,call number
+700,com.samsung.android.dialer,com.samsung.android.dialer.DialtactsActivity,call people
+701,com.samsung.android.dialer,com.samsung.android.dialer.DialtactsActivity,dial
+702,com.samsung.android.dialer,com.samsung.android.dialer.DialtactsActivity,dial number
+703,com.samsung.android.dialer,com.samsung.android.dialer.DialtactsActivity,dial pad
+704,com.samsung.android.dialer,com.samsung.android.dialer.DialtactsActivity,dialer
+705,com.samsung.android.dialer,com.samsung.android.dialer.DialtactsActivity,dialer application
+706,com.samsung.android.dialer,com.samsung.android.dialer.DialtactsActivity,make a call
+707,com.samsung.android.dialer,com.samsung.android.dialer.DialtactsActivity,phone
+708,com.samsung.android.dialer,com.samsung.android.dialer.DialtactsActivity,phone application
+709,com.samsung.android.dialer,com.samsung.android.dialer.DialtactsActivity,telefon
+710,com.samsung.android.dialer,com.samsung.android.dialer.DialtactsActivity,telefono
+711,com.telenav.app.android.cingular,,a t & t navigator
+712,com.telenav.app.android.cingular,,a t and t navigation
+713,com.telenav.app.android.cingular,,a t and t navigation application
+714,com.telenav.app.android.cingular,,a t and t navigator
+715,com.telenav.app.android.cingular,,a t and t navigator application
+716,com.telenav.app.android.cingular,,a t t navigation
+717,com.telenav.app.android.cingular,,a t t navigation application
+718,com.telenav.app.android.cingular,,a t t navigator
+719,com.telenav.app.android.cingular,,a t t navigator application
+720,com.telenav.app.android.cingular,,at&t navigation
+721,com.telenav.app.android.cingular,,at&t navigator
+722,com.elevenst,,11st
+723,com.elevenst,,elevenst
+724,com.sec.android.app.clockpackage,,alarm
+725,com.sec.android.app.clockpackage,,alarm application
+726,com.sec.android.app.clockpackage,,alarm clock
+727,com.sec.android.app.clockpackage,,alarm clock application
+728,com.sec.android.app.clockpackage,,alarm clocks
+729,com.sec.android.app.clockpackage,,alarm/clock
+730,com.sec.android.app.clockpackage,,alarms
+731,com.sec.android.app.clockpackage,,alarms application
+732,com.sec.android.app.clockpackage,,alarms clock
+733,com.sec.android.app.clockpackage,,alarms clock application
+734,com.sec.android.app.clockpackage,,clock
+735,com.sec.android.app.clockpackage,,clock application
+736,com.sec.android.app.clockpackage,,orologio
+737,com.sec.android.app.clockpackage,,reloj
+738,com.sec.android.app.clockpackage,,sports watch
+739,com.sec.android.app.clockpackage,,stopwatch
+740,com.sec.android.app.clockpackage,,stopwatch and timer
+741,com.sec.android.app.clockpackage,,time
+742,com.sec.android.app.clockpackage,,timer
+743,com.sec.android.app.clockpackage,,uhr
+744,com.sec.android.app.clockpackage,,wake up
+745,com.sec.android.app.clockpackage,,wake-up alarm
+746,com.sec.android.app.clockpackage,,watch
+747,com.sec.android.app.clockpackage,,world clock
+748,com.sec.android.app.clockpackage,,worldclock
+749,com.lgt.tmoney,,lgu plus t money
+750,com.lgt.tmoney,,lgu plus t-money
+751,com.lgt.tmoney,,lgu+ t-money
+752,com.lgt.tmoney,,mobile t money
+753,com.lgt.tmoney,,mobile t-money
+754,com.lgt.tmoney,,t money
+755,Uxpp.UC,,nateon
+756,Uxpp.UC,,nateon u c
+757,Uxpp.UC,,nateon uc
+758,com.diotek.diodict4.EDictionary,,dictionary
+759,com.lguplus.mobile.cs,,customer center
+760,com.lguplus.mobile.cs,,olleh cs
+761,com.tmobile.pr.mytmobile,,t-mobile my account
+762,com.skt.tmaphot,,pickat
+763,com.skb.btvmobile,,b tv mobile
+764,com.lguplus.uplusshopping,,u plus shopping
+765,com.lguplus.uplusshopping,,u+shopping
+766,com.sec.android.app.irsettings,,international roaming
+767,com.sec.android.app.irsettings,,roaming settings
+768,com.google.android.gms,,ajustes de google
+769,com.google.android.gms,,config. google
+770,com.google.android.gms,,einstellungen
+771,com.google.android.gms,,google settings
+772,com.sec.android.voltesettings,,volte configuration menu
+773,com.sec.keystringscreen,,samsung keystring
+774,com.google.android.talk,,hangouts
+775,com.skype.raider,,skype
+776,com.lookout,,lookout
+777,com.google.android.apps.docs,,drive
+778,com.google.android.apps.docs,,google drive
+779,com.google.android.play.games,,play games
+780,com.moent.vas,,call svc center
+781,com.sec.android.gallery3d,,galeria
+782,com.sec.android.gallery3d,,gallery
+783,com.sec.android.gallery3d,,gallery application
+784,com.sec.android.gallery3d,,image viewer
+785,com.sec.android.gallery3d,,images
+786,com.sec.android.gallery3d,,my gallery
+787,com.sec.android.gallery3d,,my photos
+788,com.sec.android.gallery3d,,my picture and video
+789,com.sec.android.gallery3d,,my picture and videos
+790,com.sec.android.gallery3d,,my pictures
+791,com.sec.android.gallery3d,,my pictures and video
+792,com.sec.android.gallery3d,,my pictures and videos
+793,com.sec.android.gallery3d,,my ring tones
+794,com.sec.android.gallery3d,,my ringtones
+795,com.sec.android.gallery3d,,my stuff
+796,com.sec.android.gallery3d,,my stuff application
+797,com.sec.android.gallery3d,,photo
+798,com.sec.android.gallery3d,,photo album
+799,com.sec.android.gallery3d,,photo albums
+800,com.sec.android.gallery3d,,photo viewer
+801,com.sec.android.gallery3d,,photograph
+802,com.sec.android.gallery3d,,photographs
+803,com.sec.android.gallery3d,,pics
+804,com.sec.android.gallery3d,,picture
+805,com.sec.android.gallery3d,,picture album
+806,com.sec.android.gallery3d,,picture albums
+807,com.sec.android.gallery3d,,picture and video
+808,com.sec.android.gallery3d,,picture and video application
+809,com.sec.android.gallery3d,,picture and videos
+810,com.sec.android.gallery3d,,picture and videos application
+811,com.sec.android.gallery3d,,picture viewer
+812,com.sec.android.gallery3d,,pictures
+813,com.sec.android.gallery3d,,pictures and video
+814,com.sec.android.gallery3d,,pictures and video application
+815,com.sec.android.gallery3d,,pictures and videos
+816,com.sec.android.gallery3d,,pictures and videos application
+817,com.sec.android.gallery3d,,pictures application
+818,com.sec.android.gallery3d,,ringtones application
+819,com.sec.android.gallery3d,,snapshots
+820,com.sec.android.gallery3d,,ring tones
+821,com.sec.android.gallery3d,,ring tones application
+822,com.sec.android.gallery3d,,ringtones
+823,com.sec.att.usagemanager3,,usage manager
+824,com.asurion.android.mobilerecovery.att,,at&t mobile locate
+825,com.uplus.ipagent,,u w a
+826,com.uplus.ipagent,,uwa
+827,com.google.android.apps.magazines,,play newsstand
+828,com.kt.nfc.mgr,,moca tree
+829,com.kt.android.showtouch,,moca wallet
+830,com.drivemode,,drivemode
+831,com.callpod.android_apps.keeper,,keeper
+832,com.skt.prod.dialer,,t phone
+833,com.skt.prod.phonebook,,t contacts
+834,com.lguplus.paynow,,paynow
+835,com.banner.catch_uptv,,catch-up tv
+836,com.paypal.android.p2pmobile,,paypal
+837,com.hancom.office.editor,,hancom office 2014
+838,com.yahoo.mobile.client.android.mail.att,,at&t mail
+839,com.yahoo.mobile.client.android.yahoo.att,,at&t live
+840,com.samsung.advp.imssettings,,ims settings
+841,com.ubercab,,uber
+842,com.sec.android.app.samsungapps,,galaxy apps
+843,com.sktelecom.tguard,,t guard
+844,com.estsoft.alyac,,alyac
+845,com.sec.epdgtestapp,,smart epdg test
+846,com.samsung.mdl.radio,,milk
+847,com.sec.android.imsdebuginfo,,ims debug
+848,com.samsung.android.packageinspector,,package inspector
+849,com.samsung.galaxylife,,samsung galaxy life
+850,com.skmc.okcashbag.home_google,,ok cashbag
+851,com.olleh.android.oc2,,olleh membership
+852,com.mnsoft.lgunavi,,u+ navi real
+853,com.skt.skaf.OA00026910,,syrup
+854,com.samsung.android.sm,,smart manager
+855,com.sec.vux,,vux
+856,com.samsung.android.app.circle,,circle
+857,com.samsung.android.bbc.bbcagent,,bbcagent
+858,com.ebay.kr.gmarket,,gmarket
+859,com.microsoft.office.officehub,,office mobile
+860,com.microsoft.skydrive,,onedrive
+861,com.samsung.milk.milkvideo,,milk video
+862,com.tmobile.simlock,,device unlock
+863,com.trustonic.ota.checker,,trustonic t-base checker
+864,com.sec.keyverifier,,keyverifier
+865,com.att.mobiletransfer,,at&t mobile transfer
+866,com.locationlabs.cni.att,,smart limits
+867,com.att.digitallife.android.phone22,,digital life

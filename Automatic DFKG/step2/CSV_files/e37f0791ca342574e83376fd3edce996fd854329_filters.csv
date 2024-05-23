@@ -1,0 +1,13 @@
+_ID,name,filename,version,filter_type,vendor,filter_order,front_filter_order,category,title_id,package_name,texture,preload_filter,vendor_package_name
+1,Warm,com.samsung.android.provider.filterprovider.vivid_warm.sel,3,SINGLE,SAMSUNG_MOBILE,0,0,0,2130837569,com.samsung.android.provider.filterprovider,,1,com.samsung.android.provider.filterprovider
+2,Cool,com.samsung.android.provider.filterprovider.vivid_cool.sel,3,SINGLE,SAMSUNG_MOBILE,1,0,0,2130837506,com.samsung.android.provider.filterprovider,,1,com.samsung.android.provider.filterprovider
+3,Lolli,com.samsung.android.provider.filterprovider.lolli.sel,3,SINGLE,Seerslab,2,0,0,2130837551,com.samsung.android.provider.filterprovider,,1,com.seerslab.filter
+4,Frosty,com.samsung.android.provider.filterprovider.pale_jaehan.sel,3,SINGLE,SAMSUNG_MOBILE,3,0,0,2130837508,com.samsung.android.provider.filterprovider,,1,com.samsung.android.provider.filterprovider
+5,Blossom,com.samsung.android.provider.filterprovider.blossom.sel,3,SINGLE,SAMSUNG_MOBILE,4,0,1,2130837512,com.samsung.android.provider.filterprovider,,1,com.samsung.android.provider.filterprovider
+6,Ivory,com.samsung.android.provider.filterprovider.fc03.sel,3,SINGLE,CandyCamera,5,0,0,2130837509,com.samsung.android.provider.filterprovider,,1,com.candycamera.android.filter
+7,Faded,com.samsung.android.provider.filterprovider.softtone_white_mini.sel,3,SINGLE,SAMSUNG_MOBILE,6,0,0,2130837507,com.samsung.android.provider.filterprovider,,1,com.samsung.android.provider.filterprovider
+8,Soft,com.samsung.android.provider.filterprovider.softtone_warm_mini.sel,3,SINGLE,SAMSUNG_MOBILE,7,0,0,2130837565,com.samsung.android.provider.filterprovider,,1,com.samsung.android.provider.filterprovider
+9,KissMe,com.samsung.android.provider.filterprovider.kissme.sel,3,SINGLE,CandyCamera,8,0,0,2130837510,com.samsung.android.provider.filterprovider,,1,com.candycamera.android.filter
+10,Grayscale,com.samsung.android.provider.filterprovider.greyscale.sel,3,SINGLE,SAMSUNG_MOBILE,9,0,1,2130837530,com.samsung.android.provider.filterprovider,,1,com.samsung.android.provider.filterprovider
+11,Classic,com.samsung.android.provider.filterprovider.classic.sel,3,SINGLE,SAMSUNG_MOBILE,10,0,0,2130837516,com.samsung.android.provider.filterprovider,,1,com.samsung.android.provider.filterprovider
+12,B&W,com.samsung.android.provider.filterprovider.c360wb.sel,3,SINGLE,Camera360,11,0,0,2130837505,com.samsung.android.provider.filterprovider,,1,com.pinguo.camera360filter

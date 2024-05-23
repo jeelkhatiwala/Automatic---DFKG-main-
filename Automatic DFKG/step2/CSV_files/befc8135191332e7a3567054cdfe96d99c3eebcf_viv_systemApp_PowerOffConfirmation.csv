@@ -1,0 +1,129 @@
+RecordId,formal,alias
+1,true,예
+2,true,응
+3,true,네
+4,true,엉
+5,true,그 래
+6,true,꺼
+7,true,꺼 줘
+8,true,꺼 주 세 요
+9,true,꺼 주 렴
+10,true,끄 렴
+11,true,꺼 봐
+12,true,어
+13,true,예 꺼
+14,true,예 꺼 줘
+15,true,예 꺼 주 세 요
+16,true,예 종 료 해 주 세 요
+17,true,예 종 료 해 줘
+18,true,예 종 료
+19,true,예 예
+20,true,예 해 주 세 요
+21,true,네 꺼 주 세 요
+22,true,네 꺼
+23,true,네 꺼 줘
+24,true,네 종 료
+25,true,네 종 료 해 주 세 요
+26,true,네 종 료 해 줘
+27,true,네 네
+28,true,네 해 주 세 요
+29,true,응 꺼 주 세 요
+30,true,응 꺼 줘
+31,true,응 꺼
+32,true,응 그 래
+33,true,응 종 료 해 주 세 요
+34,true,응 종 료 해 줘
+35,true,응 종 료
+36,true,응 응
+37,true,응 해 줘
+38,true,어 그 래
+39,true,어 그 러 렴
+40,true,어 그 러 려 무 나
+41,true,어 그 래 줄 래
+42,true,어 꺼 줘
+43,true,어 끄 렴
+44,true,어 꺼 주 렴
+45,true,어 파 워 오 프
+46,true,어 꺼
+47,true,어 어
+48,true,어 해
+49,true,어 해 줘
+50,true,어 종 료
+51,true,어 종 료 해 줘
+52,true,어 종 료 해 주 렴
+53,true,어 셧 다 운
+54,true,어 셧 다 운 해 줘
+55,true,어 파 워 오 프
+56,true,어 파 워 오 프 해 줘
+57,true,어 전 원 꺼
+58,true,어 전 원 꺼 줘
+59,true,어 전 원 끄 기
+60,true,어 꺼 주 세 요
+61,true,그 러 렴
+62,true,그 러 려 무 나
+63,true,그 래 꺼 주 세 요
+64,true,그 래 꺼 줘
+65,true,그 래 꺼
+66,true,그 래 종 료
+67,true,그 래 종 료 해 줘
+68,true,그 래 종 료 해 주 세 요
+69,true,그 래 그 래
+70,true,그 래 해 줘
+71,true,종 료
+72,true,종 료 시 켜
+73,true,종 료 해 줘
+74,true,종 료 해 봐
+75,true,종 료 해 주 렴
+76,true,파 워 오 프
+77,true,셧 다 운
+78,true,예 스
+79,true,오 케 이
+80,true,전 원 꺼
+81,true,전 원 끄 기
+82,true,내 꺼 주 세 요
+83,true,바 로 꺼
+84,true,휴 대 전 화 꺼 줘
+85,true,핸 드 폰 꺼 줘
+86,true,태 블 릿 꺼 줘
+87,true,단 말 기 꺼 줘
+88,true,디 바 이 스 꺼 줘
+89,false,아 니
+90,false,아 냐
+91,false,취 소
+92,false,취 소
+93,false,취 소 해
+94,false,취 소 할 래
+95,false,취 소 해 줘
+96,false,취 소 할 게
+97,false,하 지 마
+98,false,아 니
+99,false,아 니 오
+100,false,아 니 요
+101,false,아 니 오
+102,false,아 니 야
+103,false,아 니 다
+104,false,아 니 야 됐 어
+105,false,아 니 에 요
+106,false,아 니 요 괜 찮 아 요
+107,false,아 니 아 니
+108,false,아 니 아 니 야
+109,false,아 니 야 아 니 야
+110,false,아 니 야 하 지 마
+111,false,아 니 취 소
+112,false,아 니 야 취 소
+113,false,아 니 취 소 해 줘
+114,false,아 니 요 끄 지 마 세 요
+115,false,아 니 끄 지 마
+116,false,아 니 종 료 하 지 마
+117,false,아 니 종 료 하 지 마 세 요
+118,false,안 해
+119,false,안 돼
+120,false,안 할 래
+121,false,노
+122,false,끄 지 마
+123,false,종 료 하 지 마
+124,false,캔 슬
+125,false,중 단
+126,false,중 지
+127,false,싫 어
+128,false,싫 다 고

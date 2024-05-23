@@ -1,0 +1,26 @@
+RecordId,formal,alias
+1,TalkToBixby,빅 스 비 에 게 말 하 기
+2,VoiceWakeUp,목 소 리 로 빅 스 비 호 출 하 기
+3,VoiceWakeUp,음 성 호 출
+4,VoiceWakeUp,빅 스 비 호 출
+5,VoiceWakeUp,음 성 으 로 호 출
+6,VoiceWakeUp,깨 우 는 방 법
+7,VoiceWakeUp,목 소 리
+8,CheckYourSchedule,일 정 확 인 하 기
+9,PersonalResults,맞 춤 결 과 보 기
+10,Suggestions,추 천 명 령 사 용 해 보 기
+11,Suggestions,추 천 명 령 어 사 용 해 보 기
+12,WhatBixbyHeard,빅 스 비 가 이 해 한 내 용 알 아 보 기
+13,WhatBixbyHeard,빅 스 비 가 얼 마 나 이 해 하 는 지
+14,HowToUseQuickCommand,단 축 명 령
+15,HowToUseQuickCommand,단 축 명 령 어 사 용 하 기
+16,HowToUseQuickCommand,단 축 명 령 어
+17,HowToUseQuickCommand,단 축 명 령 어
+18,LockScreen,휴 대 전 화 가 잠 겨 있 을 때 빅 스 비 사 용 하 기
+19,LockScreen,잠 금 화 면
+20,LockScreen,잠 금 화 면
+21,TypingToBixby,텍 스 트 입 력 하 여 대 화 하 기
+22,TypingToBixby,텍 스 트 입 력
+23,TypingToBixby,텍 스 트
+24,Marketplace,마 켓 플 레 이 스
+25,Marketplace,마 켓 플 레 이 스

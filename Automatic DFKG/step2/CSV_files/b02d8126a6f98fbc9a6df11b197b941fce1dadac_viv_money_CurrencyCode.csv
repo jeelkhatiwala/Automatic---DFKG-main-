@@ -1,0 +1,899 @@
+RecordId,formal,alias
+1,AED,aed
+2,AED,dirham
+3,AED,dirhams
+4,AED,uae's currency
+5,AED,united arab emirates currency
+6,AED,united arab emirates dirham
+7,AED,united arab emirates dirhams
+8,AFN,afghan afghani
+9,AFN,afghan currency
+10,AFN,afghanistan's currency
+11,AFN,afn
+12,ALL,albania's currency
+13,ALL,albanian currency
+14,ALL,albanian lek
+15,ALL,albanian leks
+16,ALL,all
+17,AMD,amd
+18,AMD,armenia's currency
+19,AMD,armenian currency
+20,AMD,armenian dram
+21,AMD,armenian drams
+22,ANG,ang
+23,ANG,dutch currency
+24,ANG,netherlands currency
+25,ANG,netherlands antillean guilder
+26,ANG,netherlands antillean guilders
+27,AOA,angola's currency
+28,AOA,angolan currency
+29,AOA,angolan kwanza
+30,AOA,angolan kwanzas
+31,AOA,aoa
+32,ARS,argentina's currency
+33,ARS,argentine currency
+34,ARS,argentine peso
+35,ARS,argentine pesos
+36,ARS,argentinian currency
+37,ARS,ars
+38,AUD,aud
+39,AUD,australia's currency
+40,AUD,australian currency
+41,AUD,australian dollar
+42,AUD,australian dollars
+43,AUD,australian money
+44,AWG,aruba's currency
+45,AWG,aruban currency
+46,AWG,aruban florin
+47,AWG,aruban florins
+48,AWG,awg
+49,AZN,azerbaijan's currency
+50,AZN,azerbaijani currency
+51,AZN,azerbaijani manat
+52,AZN,azerbaijani manats
+53,AZN,azn
+54,BAM,bam
+55,BAM,b&h
+56,BAM,bosnia-herzegovina's currency
+57,BAM,bosnia and herzegovina's currency
+58,BAM,bosnia herzegovina's currency
+59,BAM,bosnian currency
+60,BAM,bosnia and herzegovina convertible mark
+61,BAM,bosnia and herzegovina convertible marks
+62,BBD,barbadian currency
+63,BBD,bajan currency
+64,BBD,barbados' currency
+65,BBD,barbados dollar
+66,BBD,barbados dollars
+67,BBD,bbd
+68,BCH,bitcoin cash
+69,BCH,bch
+70,BDT,bangladesh's currency
+71,BDT,bangladeshi currency
+72,BDT,bangladeshi taka
+73,BDT,bangladeshi takas
+74,BDT,bdt
+75,BGN,bgn
+76,BGN,bulgaria's currency
+77,BGN,bulgarian currency
+78,BGN,bulgarian lev
+79,BGN,bulgarian levs
+80,BHD,bahrain's currency
+81,BHD,bahraini currency
+82,BHD,bahraini dinar
+83,BHD,bahraini dinars
+84,BHD,bhd
+85,BIF,bif
+86,BIF,burundi's currency
+87,BIF,burundian currency
+88,BIF,burundian franc
+89,BIF,burundian francs
+90,BMD,bermuda's currency
+91,BMD,bermudian currency
+92,BMD,bermudian dollar
+93,BMD,bermudian dollars
+94,BMD,bmd
+95,BND,bnd
+96,BND,brunei's currency
+97,BND,bruneian currency
+98,BND,brunei dollar
+99,BND,brunei dollars
+100,BOB,bob
+101,BOB,bolivia's currency
+102,BOB,bolivian currency
+103,BOB,boliviano
+104,BOB,bolivianos
+105,BRL,brazil's currency
+106,BRL,brazilian currency
+107,BRL,brazilian real
+108,BRL,brl
+109,BRL,brazil
+110,BSD,bahamas currency
+111,BSD,bahamian currency
+112,BSD,bahamian dollar
+113,BSD,bahamian dollars
+114,BSD,bsd
+115,BTC,bitcoin
+116,BTC,btc
+117,BTN,bhutan's currency
+118,BTN,bhutanese currency
+119,BTN,bhutanese ngultrum
+120,BTN,btn
+121,BWP,botswana's currency
+122,BWP,botswana currency
+123,BWP,botswana pula
+124,BWP,botswana pulas
+125,BWP,bwp
+126,BYN,belarus currency
+127,BYN,belarusian currency
+128,BYN,belarusian ruble
+129,BYN,belarusian rubles
+130,BYN,byn
+131,BYR,belarus currency
+132,BYR,belarusian currency
+133,BYR,belarusian ruble
+134,BYR,belarusian rubles
+135,BYR,byr
+136,BZD,belize's currency
+137,BZD,belizean currency
+138,BZD,belize dollar
+139,BZD,belize dollars
+140,BZD,bzd
+141,CAD,cad
+142,CAD,canadian
+143,CAD,canada
+144,CAD,canada's currency
+145,CAD,canadian currency
+146,CAD,canadian dollar
+147,CAD,canadian dollars
+148,CAD,canadian money
+149,CDF,cdf
+150,CDF,congo's currency
+151,CDF,congolese currency
+152,CDF,congolese franc
+153,CDF,congolese francs
+154,CHF,chf
+155,CHF,franc
+156,CHF,francs
+157,CHF,france
+158,CHF,sfr
+159,CHF,swiss currency
+160,CHF,swiss franc
+161,CHF,swiss francs
+162,CHF,switzerland's currency
+163,CLP,chile's currency
+164,CLP,chilean currency
+165,CLP,chilean peso
+166,CLP,chilean pesos
+167,CLP,clp
+168,CNY,china's currency
+169,CNY,chinese currency
+170,CNY,chinese yen
+171,CNY,chinese yuan
+172,CNY,cny
+173,CNY,china
+174,COP,colombia's currency
+175,COP,colombian currency
+176,COP,colombian peso
+177,COP,colombian pesos
+178,COP,cop
+179,CRC,costa rica's currency
+180,CRC,costa rican currency
+181,CRC,costa rican colon
+182,CRC,costa rican colons
+183,CRC,crc
+184,CUC,cuban currency
+185,CUC,cuban convertible peso
+186,CUC,cuban convertible pesos
+187,CUC,cuc
+188,CUP,cuban peso
+189,CUP,cuban pesos
+190,CUP,cup
+191,CVE,cape verde's currency
+192,CVE,cape verdean currency
+193,CVE,cape verde escudo
+194,CVE,cape verde escudos
+195,CVE,cve
+196,CZK,czech currency
+197,CZK,czech koruna
+198,CZK,czech korunas
+199,CZK,czk
+200,DJF,djf
+201,DJF,djibouti's currency
+202,DJF,djiboutian currency
+203,DJF,djiboutian franc
+204,DJF,djiboutian francs
+205,DKK,danish currency
+206,DKK,danish krone
+207,DKK,danish kroner
+208,DKK,denmark's currency
+209,DKK,dkk
+210,DKK,kroner
+211,DOP,dominican currency
+212,DOP,dominican peso
+213,DOP,dominican pesos
+214,DOP,deomincan republic's currency
+215,DOP,dop
+216,DZD,algeria's currency
+217,DZD,algerian currency
+218,DZD,algerian dinar
+219,DZD,algerian dinars
+220,DZD,dzd
+221,EGP,egp
+222,EGP,egypt's currency
+223,EGP,egyptian currency
+224,EGP,egyptian pound
+225,EGP,egyptian pounds
+226,EGP,le
+227,ERN,eritrea's currency
+228,ERN,eritrean currency
+229,ERN,eritrean nakfa
+230,ERN,eritrean nakfas
+231,ERN,ern
+232,ETB,etb
+233,ETB,ethiopia's currency
+234,ETB,ethiopian currency
+235,ETB,ethiopian birr
+236,ETB,ethiopian birrs
+237,ETH,ethereum
+238,ETH,eth
+239,EUR,eur
+240,EUR,euro
+241,EUR,europe's currency
+242,EUR,european currency
+243,EUR,european money
+244,EUR,european euro
+245,EUR,euros
+246,EUR,germany
+247,FJD,fiji's currency
+248,FJD,fijian currency
+249,FJD,fiji dollar
+250,FJD,fiji dollars
+251,FJD,fjd
+252,FKP,falkland islands currency
+253,FKP,falkland islands pound
+254,FKP,falkland islands pounds
+255,FKP,fkp
+256,GBP,britain's currency
+257,GBP,british currency
+258,GBP,uk money
+259,GBP,british pound
+260,GBP,british pounds
+261,GBP,english currency
+262,GBP,english pounds
+263,GBP,gbp
+264,GBP,pound
+265,GBP,pound sterling
+266,GBP,pound sterlings
+267,GBP,pounds
+268,GBP,uk
+269,GBP,uk currency
+270,GBP,uk pound
+271,GBP,uk pounds
+272,GEL,gel
+273,GEL,georgia's currency
+274,GEL,georgian currency
+275,GEL,georgian lari
+276,GEL,georgian laris
+277,GHS,ghana's currency
+278,GHS,ghanian currency
+279,GHS,ghanaian cedi
+280,GHS,ghanaian cedis
+281,GHS,ghs
+282,GIP,gibraltar's currency
+283,GIP,gibraltar pound
+284,GIP,gibraltar pounds
+285,GIP,gip
+286,GMD,gambia's currency
+287,GMD,gambian currency
+288,GMD,gambian dalasi
+289,GMD,gmd
+290,GNF,gnf
+291,GNF,guinea's currency
+292,GNF,guinean currency
+293,GNF,guinean franc
+294,GNF,guinean francs
+295,GTQ,gtq
+296,GTQ,guatemala's currency
+297,GTQ,guatemalan currency
+298,GTQ,guatemalan quetzal
+299,GTQ,guatemalan quetzals
+300,GYD,guyana's currency
+301,GYD,guyanese currency
+302,GYD,guyanese dollar
+303,GYD,guyanese dollars
+304,GYD,gyd
+305,HKD,hkd
+306,HKD,hong kong's currency
+307,HKD,hong kong dollar
+308,HKD,hong kong dollars
+309,HNL,hnl
+310,HNL,honduran currency
+311,HNL,honduran lempira
+312,HNL,honduran lempiras
+313,HNL,honduras currency
+314,HRK,coratia's currency
+315,HRK,croatian currency
+316,HRK,croatian kuna
+317,HRK,croatian kunas
+318,HRK,hrk
+319,HTG,haiti's currency
+320,HTG,haitian currency
+321,HTG,haitian gourde
+322,HTG,haitian gourdes
+323,HTG,htg
+324,HUF,huf
+325,HUF,hungary's currency
+326,HUF,hungarian currency
+327,HUF,hungarian forint
+328,HUF,hungarian forints
+329,IDR,idr
+330,IDR,indonesia's currency
+331,IDR,indonesian currency
+332,IDR,indonesian rupiah
+333,IDR,indonesian rupiahs
+334,ILS,ils
+335,ILS,israel's currency
+336,ILS,israeli currency
+337,ILS,israeli new shekel
+338,ILS,israeli new shekels
+339,ILS,israeli shekels
+340,ILS,israeli shekel
+341,ILS,shekel
+342,INR,india's currency
+343,INR,indian currency
+344,INR,indian rupee
+345,INR,indian rupees
+346,INR,indian money
+347,INR,rupee
+348,INR,rupees
+349,INR,inr
+350,INR,india
+351,IQD,iqd
+352,IQD,iraq's currency
+353,IQD,iraqi currency
+354,IQD,iraqi dinar
+355,IQD,iraqi dinars
+356,IRR,iran's currency
+357,IRR,iranian currency
+358,IRR,iranian rial
+359,IRR,iranian rials
+360,IRR,irr
+361,ISK,iceland's currency
+362,ISK,icelandic currency
+363,ISK,icelandic króna
+364,ISK,icelandic krónas
+365,ISK,isk
+366,JMD,jamaica's currency
+367,JMD,jamaican currency
+368,JMD,jamaican dollar
+369,JMD,jamaican dollars
+370,JMD,jmd
+371,JOD,jod
+372,JOD,jordan's currency
+373,JOD,jordanian currency
+374,JOD,jordanian dinar
+375,JOD,jordanian dinars
+376,JOD,jordanian money
+377,JPY,japan's currency
+378,JPY,japanese currency
+379,JPY,japanese money
+380,JPY,japanese yen
+381,JPY,japanese yens
+382,JPY,jpy
+383,JPY,yen
+384,KES,kenya's currency
+385,KES,kenyan currency
+386,KES,kenyan shilling
+387,KES,kenyan shillings
+388,KES,kes
+389,KES,kenyan money
+390,KGS,kgs
+391,KGS,kyrgyzstan's currency
+392,KGS,kyrgyzstani currency
+393,KGS,kyrgyzstani som
+394,KGS,kyrgyzstani soms
+395,KGS,kyrgyzstani money
+396,KHR,cambodia's currency
+397,KHR,cambodian currency
+398,KHR,cambodian riel
+399,KHR,cambodian riels
+400,KHR,khr
+401,KHR,cambodian money
+402,KMF,comoros currency
+403,KMF,comoro currency
+404,KMF,comoro franc
+405,KMF,comoro francs
+406,KMF,kmf
+407,KPW,kpw
+408,KPW,north korean currency
+409,KPW,north korea's currency
+410,KPW,north korean won
+411,KPW,north korean money
+412,KPW,north korean wons
+413,KRW,korea's currency
+414,KRW,korean currency
+415,KRW,korean won
+416,KRW,korean wons
+417,KRW,krw
+418,KRW,korean money
+419,KRW,south korean money
+420,KRW,korea's money
+421,KRW,south korea's money
+422,KRW,south korea's currency
+423,KRW,south korean currency
+424,KRW,south korean won
+425,KRW,south korean wons
+426,KRW,korea
+427,KWD,kuwait's currency
+428,KWD,kuwaiti currency
+429,KWD,kuwaiti dinar
+430,KWD,kuwaiti money
+431,KWD,kuwaiti dinars
+432,KWD,kwd
+433,KYD,cayman islands currency
+434,KYD,cayman islands money
+435,KYD,cayman islands dollar
+436,KYD,cayman islands dollars
+437,KYD,kyd
+438,KZT,kazakhstan's currency
+439,KZT,kazakhstani money
+440,KZT,kazakhstani currency
+441,KZT,kazakhstani tenge
+442,KZT,kazakhstani tenges
+443,KZT,kzt
+444,LAK,lak
+445,LAK,lao currency
+446,LAK,lao kip
+447,LAK,lao kips
+448,LAK,laos currency
+449,LAK,laotian currency
+450,LAK,laos money
+451,LBP,lbp
+452,LBP,lebanese currency
+453,LBP,lebanese money
+454,LBP,lebanese pound
+455,LBP,lebanese pounds
+456,LBP,lebanon's currency
+457,LKR,lkr
+458,LKR,sri lanka's currency
+459,LKR,sri lankan currency
+460,LKR,sri lankan rupee
+461,LKR,sri lankan rupees
+462,LRD,liberia's currency
+463,LRD,liberian currency
+464,LRD,liberian dollar
+465,LRD,liberian dollars
+466,LRD,lrd
+467,LSL,lesotho's currency
+468,LSL,lesotho loti
+469,LSL,lesotho lotis
+470,LSL,lsl
+471,LTC,litecoin
+472,LTC,ltc
+473,LTL,lithuania's currency
+474,LTL,lithuanian currency
+475,LTL,lithuanian litas
+476,LTL,ltl
+477,LYD,libya's currency
+478,LYD,libyan currency
+479,LYD,libyan dinar
+480,LYD,libyan dinars
+481,LYD,lyd
+482,MAD,mad
+483,MAD,morocco's currency
+484,MAD,moroccan currency
+485,MAD,moroccan dirham
+486,MAD,moroccan dirhams
+487,MDL,mdl
+488,MDL,moldova's currency
+489,MDL,moldovan currency
+490,MDL,moldovan leu
+491,MDL,moldovan leus
+492,MGA,madagascar's currency
+493,MGA,malagasy currency
+494,MGA,malagasy ariaries
+495,MGA,malagasy ariary
+496,MGA,mga
+497,MKD,macedonia's currency
+498,MKD,macedonian currency
+499,MKD,macedonian denar
+500,MKD,macedonian denars
+501,MKD,mkd
+502,MMK,mmk
+503,MMK,myanma currency
+504,MMK,myanma kyat
+505,MMK,myanma kyats
+506,MMK,myanmar's currency
+507,MNT,mnt
+508,MNT,mongolia's currency
+509,MNT,mongolian currency
+510,MNT,mongolian tugrik
+511,MNT,mongolian tugriks
+512,MOP,macau's currency
+513,MOP,macanese currency
+514,MOP,macanese pataca
+515,MOP,macanese patacas
+516,MOP,mop
+517,MRO,mauritania's currency
+518,MRO,mauritanian currency
+519,MRO,mauritanian ouguiya
+520,MRO,mauritanian ouguiyas
+521,MRO,mro
+522,MRU,mauritania's currency
+523,MRU,mauritanian currency
+524,MRU,mauritanian ouguiya
+525,MRU,mauritanian ouguiyas
+526,MRU,mru
+527,MUR,mauritian currency
+528,MUR,mauritian rupee
+529,MUR,mauritian rupees
+530,MUR,mauritius currency
+531,MUR,mur
+532,MVR,maldive's currency
+533,MVR,maldivian currency
+534,MVR,maldivian rufiyaa
+535,MVR,maldivian rufiyaas
+536,MVR,mvr
+537,MWK,malawi's currency
+538,MWK,malawian currency
+539,MWK,malawian kwacha
+540,MWK,malawian kwachas
+541,MWK,mwk
+542,MXN,mexican currency
+543,MXN,mexican peso
+544,MXN,mexican pesos
+545,MXN,mexico's currency
+546,MXN,mxn
+547,MXN,peso
+548,MXN,pesos
+549,MYR,malaysia's currency
+550,MYR,malaysian currency
+551,MYR,malaysian dollar
+552,MYR,malaysian dollars
+553,MYR,malaysian ringgit
+554,MYR,malaysian ringgits
+555,MYR,myr
+556,MZN,mozambique's currency
+557,MZN,mozambican currency
+558,MZN,mozambican metical
+559,MZN,mozambican meticals
+560,MZN,mzn
+561,NAD,nad
+562,NAD,namibia's currency
+563,NAD,namibian currency
+564,NAD,namibian dollar
+565,NAD,namibian dollars
+566,NGN,ngn
+567,NGN,nigeria's currency
+568,NGN,nigerian currency
+569,NGN,nigerian naira
+570,NGN,nigerian nairas
+571,NIO,nicaragua's currency
+572,NIO,nicaraguan currency
+573,NIO,nicaraguan córdoba
+574,NIO,nicaraguan córdobas
+575,NIO,nio
+576,NOK,nok
+577,NOK,norway's currency
+578,NOK,norwegian currency
+579,NOK,norwegian krone
+580,NOK,norwegian krones
+581,NOK,krones
+582,NOK,krone
+583,NPR,nepal's currency
+584,NPR,nepalese currency
+585,NPR,nepalese rupee
+586,NPR,nepalese rupees
+587,NPR,npr
+588,NZD,new zealand's currency
+589,NZD,new zealander currency
+590,NZD,new zealand dollar
+591,NZD,new zealand dollars
+592,NZD,nzd
+593,OMR,oman's currency
+594,OMR,omani currency
+595,OMR,omani rial
+596,OMR,omani rials
+597,OMR,omr
+598,PAB,pab
+599,PAB,panama's currency
+600,PAB,panamanian currency
+601,PAB,panamanian balboa
+602,PAB,panamanian balboas
+603,PEN,pen
+604,PEN,peru's currency
+605,PEN,peruvian currency
+606,PEN,peruvian nuevo sol
+607,PEN,peruvian nuevo sols
+608,PGK,papua new guinea's currency
+609,PGK,papua new guinean currency
+610,PGK,papua new guinean kina
+611,PGK,papua new guinean kinas
+612,PGK,pgk
+613,PHP,philippine currency
+614,PHP,philippine peso
+615,PHP,philippine pesos
+616,PHP,philippines currency
+617,PHP,php
+618,PHP,the philippines
+619,PHP,filipino peso
+620,PHP,filipino pesos
+621,PHP,filipino currency
+622,PKR,pakistan's currency
+623,PKR,pakistani currency
+624,PKR,pakistani rupee
+625,PKR,pakistani rupees
+626,PKR,pkr
+627,PLN,pln
+628,PLN,poland's currency
+629,PLN,polish currency
+630,PLN,polish złoty
+631,PYG,paraguay's currency
+632,PYG,paraguayan currency
+633,PYG,paraguayan guaraní
+634,PYG,paraguayan guaranís
+635,PYG,pyg
+636,QAR,qar
+637,QAR,qatar's currency
+638,QAR,qatari currency
+639,QAR,qatari riyal
+640,QAR,qatari riyals
+641,RON,romania's currency
+642,RON,romanian currency
+643,RON,romanian new leu
+644,RON,romanian new leus
+645,RON,ron
+646,RSD,rsd
+647,RSD,serbia's currency
+648,RSD,serbian currency
+649,RSD,serbian dinar
+650,RSD,serbian dinars
+651,RUB,rub
+652,RUB,ruble
+653,RUB,rubles
+654,RUB,russia's currency
+655,RUB,russian currency
+656,RUB,russian ruble
+657,RUB,russian rubles
+658,RWF,rwanda's currency
+659,RWF,rwandan currency
+660,RWF,rwandan franc
+661,RWF,rwandan francs
+662,RWF,rwf
+663,SAR,sar
+664,SAR,saudi arabia's currency
+665,SAR,saudi currency
+666,SAR,saudi riyal
+667,SAR,saudi riyals
+668,SBD,sbd
+669,SBD,solomon islands currency
+670,SBD,solomon islands dollar
+671,SBD,solomon islands dollars
+672,SCR,scr
+673,SCR,seychelles currency
+674,SCR,seychelles rupee
+675,SCR,seychelles rupees
+676,SCR,seychellois currency
+677,SDG,sdg
+678,SDG,sudan's currency
+679,SDG,sudanese currency
+680,SDG,sudanese pound
+681,SDG,sudanese pounds
+682,SEK,sek
+683,SEK,sweden's currency
+684,SEK,swedish currency
+685,SEK,swedish krona
+686,SEK,swedish kronor
+687,SEK,swedish kronas
+688,SGD,sgd
+689,SGD,singapore's currency
+690,SGD,singapore dollar
+691,SGD,singapore dollars
+692,SGD,singaporean currency
+693,SHP,saint helena's currency
+694,SHP,saint helena pound
+695,SHP,saint helena pounds
+696,SHP,saint helenian currency
+697,SHP,shp
+698,SLL,sierra leon's currency
+699,SLL,sierra leonean currency
+700,SLL,sierra leonean leone
+701,SLL,sierra leonean leones
+702,SLL,sll
+703,SOS,somali currency
+704,SOS,somali shilling
+705,SOS,somali shillings
+706,SOS,somalia's currency'
+707,SOS,sos
+708,SRD,srd
+709,SRD,suriname's currency
+710,SRD,surinamese currency
+711,SRD,surinamese dollar
+712,SRD,surinamese dollars
+713,SSP,south sudan's currency
+714,SSP,south sudanese currency
+715,SSP,south sudanese pound
+716,SSP,south sudanese pounds
+717,SSP,ssp
+718,STD,std
+719,STD,são tomé and príncipe's currency
+720,STD,são tomé and príncipe dobra
+721,STD,são tomé and príncipe dobras
+722,STN,stn
+723,STN,são tomé and príncipe's currency
+724,STN,são tomé and príncipe dobra
+725,STN,são tomé and príncipe dobras
+726,SVC,svc
+727,SVC,el salvador's currency
+728,SVC,salvadoran colon
+729,SVC,salvadoran colones
+730,SYP,syp
+731,SYP,syria's currency
+732,SYP,syrian currency
+733,SYP,syrian pound
+734,SYP,syrian pounds
+735,SZL,swaziland's currency
+736,SZL,swazi currency
+737,SZL,swazi lilangeni
+738,SZL,swazi lilangenis
+739,SZL,szl
+740,THB,thai currency
+741,THB,thai baht
+742,THB,thai bahts
+743,THB,thailand's currency
+744,THB,thb
+745,TJS,tajikistan's currency
+746,TJS,tajikistani currency
+747,TJS,tajikistani somoni
+748,TJS,tajikistani somonis
+749,TJS,tjs
+750,TMT,tmt
+751,TMT,turkmenistan's currency
+752,TMT,turkmenistani currency
+753,TMT,turkmenistani manat
+754,TMT,turkmenistani manats
+755,TND,tnd
+756,TND,tunisia's currency
+757,TND,tunisian currency
+758,TND,tunisian dinar
+759,TND,tunisian dinars
+760,TOP,tonga's currency
+761,TOP,tongan currency
+762,TOP,tongan paʻanga
+763,TOP,tongan paʻangas
+764,TOP,top
+765,TRY,lira
+766,TRY,try
+767,TRY,turkey's currency
+768,TRY,turkish currency
+769,TRY,turkish lira
+770,TRY,turkish liras
+771,TTD,tobago's currency
+772,TTD,trinidad's currency
+773,TTD,trinidad and tobago's currency
+774,TTD,trinidad and tobago dollar
+775,TTD,trinidad and tobago dollars
+776,TTD,trinidadian currency
+777,TTD,trini currency
+778,TTD,ttd
+779,TWD,new taiwan dollar
+780,TWD,new taiwan dollars
+781,TWD,taiwan's currency
+782,TWD,taiwan dollar
+783,TWD,taiwan dollars
+784,TWD,taiwanese currency
+785,TWD,twd
+786,TZS,tanzania's currency
+787,TZS,tanzanian currency
+788,TZS,tanzanian shilling
+789,TZS,tanzanian shillings
+790,TZS,tzs
+791,UAH,uah
+792,UAH,ukraine's currency
+793,UAH,ukrainian currency
+794,UAH,ukrainian hryvnia
+795,UAH,ukrainian hryvnias
+796,UGX,uganda's currency
+797,UGX,ugandan currency
+798,UGX,ugandan shilling
+799,UGX,ugandan shillings
+800,UGX,ugx
+801,USD,american currency
+802,USD,american dollar
+803,USD,american dollars
+804,USD,american money
+805,USD,bones
+806,USD,buck
+807,USD,bucks
+808,USD,dollar
+809,USD,dollars
+810,USD,united states currency
+811,USD,united states dollar
+812,USD,united states dollars
+813,USD,us currency
+814,USD,us dollar
+815,USD,us dollars
+816,USD,us money
+817,USD,us
+818,USD,usd
+819,USD,america
+820,USD,united states
+821,UYU,uruguay's currency
+822,UYU,uruguayan currency
+823,UYU,uruguayan peso
+824,UYU,uruguayan pesos
+825,UYU,uyu
+826,UYW,uruguay's currency
+827,UYW,uruguayan currency
+828,UYW,uruguayan peso
+829,UYW,uruguayan pesos
+830,UYW,uyw
+831,UZS,uzbekistan's currency
+832,UZS,uzbekistan som
+833,UZS,uzbekistan soms
+834,UZS,uzs
+835,VEF,vef
+836,VEF,venezuela's currency
+837,VEF,venezuelan currency
+838,VEF,venezuelan bolívar
+839,VEF,venezuelan bolívars
+840,VES,ves
+841,VES,venezuela's currency
+842,VES,venezuelan currency
+843,VES,venezuelan bolívar
+844,VES,venezuelan bolívars
+845,VND,vietnam's currency
+846,VND,vietnamese currency
+847,VND,vietnamese dong
+848,VND,vietnamese dongs
+849,VND,vnd
+850,VUV,vanuatu's currency
+851,VUV,vanuatu vatu
+852,VUV,vanuatu vatus
+853,VUV,vuv
+854,WST,samoa's currency
+855,WST,samoan currency
+856,WST,samoan tala
+857,WST,samoan talas
+858,WST,wst
+859,XAF,central african cfa currency
+860,XAF,central african cfa franc
+861,XAF,central african cfa francs
+862,XAF,xaf
+863,XCD,east caribbean currency
+864,XCD,east caribbean dollar
+865,XCD,east caribbean dollars
+866,XCD,xcd
+867,XOF,west african cfa currency
+868,XOF,west african cfa franc
+869,XOF,west african cfa francs
+870,XOF,xof
+871,XPF,cfp franc
+872,XPF,cfp francs
+873,XPF,xpf
+874,YER,yemen's currency
+875,YER,yemeni currency
+876,YER,yemeni rial
+877,YER,yemeni rials
+878,YER,yer
+879,ZAR,south africa's currency
+880,ZAR,south african currency
+881,ZAR,south african rand
+882,ZAR,south african rands
+883,ZAR,zar
+884,ZMW,zambia's currency
+885,ZMW,zambian currency
+886,ZMW,zambian kwacha
+887,ZMW,zambian kwachas
+888,ZMW,zmw
+889,ZWD,zimbabwe's currency
+890,ZWD,zimbabwe dollar
+891,ZWD,zimbabwe dollars
+892,ZWD,zimbabwean currency
+893,ZWD,zwd
+894,ZWL,zimbabwe's currency
+895,ZWL,zimbabwe dollar
+896,ZWL,zimbabwe dollars
+897,ZWL,zimbabwean currency
+898,ZWL,zwl

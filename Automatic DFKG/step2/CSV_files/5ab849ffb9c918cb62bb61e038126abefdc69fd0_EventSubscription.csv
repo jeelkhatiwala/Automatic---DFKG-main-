@@ -1,0 +1,7 @@
+eventName,subscriberPkgName,intentActionName,flags,receiver_type
+MONITORED_APP_UNINSTALLED,com.samsung.android.game.gametools,com.samsung.android.game.gos.MONITORED_APP_UNINSTALLED,32,b
+GAME_PAUSED,com.sec.android.app.samsungapps,com.galaxystore.action.GOS_EVENT,0,b
+GAME_INSTALLED,com.sec.android.app.samsungapps,com.galaxystore.action.GOS_EVENT,0,b
+GAME_UNINSTALLED,com.sec.android.app.samsungapps,com.galaxystore.action.GOS_EVENT,0,b
+GAME_REPLACED,com.sec.android.app.samsungapps,com.galaxystore.action.GOS_EVENT,0,b
+GAME_RESUMED,com.sec.android.app.samsungapps,com.galaxystore.action.GOS_EVENT,0,b

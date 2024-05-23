@@ -1,0 +1,2 @@
+_id,jid_row_id,message_table_id,last_read_message_table_id,last_read_receipt_sent_message_table_id,first_unread_message_table_id,autodownload_limit_message_table_id,timestamp,unseen_count,total_count
+1,2,11,1,1,2,3,1487300004000,10,10

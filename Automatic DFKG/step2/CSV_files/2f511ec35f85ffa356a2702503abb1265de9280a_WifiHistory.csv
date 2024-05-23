@@ -1,0 +1,4 @@
+conrol_id,package_name,time_stamp,enable_number,disable_number,first_control,last_control
+1,com.android.settings,1617476965842,1,0,1617476965842,1
+2,com.android.systemui,1625260743245,6,7,1617592494571,0
+3,com.android.shell,1626981457993,0,1,1626981457993,0

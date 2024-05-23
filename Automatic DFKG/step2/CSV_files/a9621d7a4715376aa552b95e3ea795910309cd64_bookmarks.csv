@@ -1,0 +1,4 @@
+_id,title,url,type,parent,favicon,touchicon
+1,Samsung Mobile,,2,0,,
+2,Google,http://www.google.com/m?client=ms-android-samsung-gn-rev1&source=android-home,1,1,,
+3,Galaxy Shop,https://www.samsung.com/us/mobile/phones/all-phones/?cid=us_owned_app_s-internet_none_none_bookmark_bookmark_202008_none,1,1,,

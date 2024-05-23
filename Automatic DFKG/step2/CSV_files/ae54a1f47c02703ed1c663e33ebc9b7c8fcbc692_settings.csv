@@ -1,0 +1,7 @@
+account_name,account_type,data_set,ungrouped_visible,should_sync
+vnd.sec.contact.phone,vnd.sec.contact.phone,,1,0
+primary.sim.account_name,vnd.sec.contact.sim,,1,0
+vnd.sec.contact.phone,vnd.sec.contact.phone,,1,0
+primary.sim.account_name,vnd.sec.contact.sim,,1,0
+vnd.sec.contact.phone,vnd.sec.contact.phone,,1,0
+primary.sim.account_name,vnd.sec.contact.sim,,1,0

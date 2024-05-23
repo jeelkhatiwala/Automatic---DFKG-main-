@@ -1,0 +1,105 @@
+RecordId,formal,alias
+1,minus,minus
+2,minus,subtract
+3,minus,difference
+4,minus,remove
+5,minus,subtracted
+6,minus,take away
+7,minus,reduce
+8,minus,deduct
+9,minus,decrease
+10,plus,plus
+11,plus,add
+12,plus,sum
+13,plus,added
+14,plus,increase
+15,plus,raise
+16,plus,total
+17,plus,+
+18,multiply,multiply
+19,multiply,multiplied
+20,multiply,multiplied by
+21,multiply,product
+22,multiply,×
+23,divide,divide
+24,divide,divided
+25,divide,divided by
+26,divide,quotient
+27,divide,÷
+28,sine,sine
+29,sine,sin
+30,cosine,cosine
+31,cosine,cos
+32,tangent,tangent
+33,tangent,tan
+34,log,log
+35,log,logarithm
+36,log,log ten
+37,log,log 10
+38,log,log base 10
+39,log,log base ten
+40,ln,ln
+41,ln,natural log
+42,ln,natural logarithm
+43,ln,log base e
+44,ln,natural logarithm of
+45,square,square
+46,square,squared
+47,cube,cube
+48,cube,cubed
+49,sqrt,sqrt
+50,sqrt,square root
+51,sqrt,root
+52,cbrt,cbrt
+53,cbrt,cube root
+54,cbrt,cubic root
+55,power,power
+56,factorial,factorial
+57,asin,arcsine
+58,asin,sine inverse
+59,asin,arcsin
+60,acos,cos inverse
+61,acos,arccos
+62,acos,arccosine
+63,acos,cosine inverse
+64,atan,tan inverse
+65,atan,arctan
+66,atan,arctangent
+67,atan,tangent inverse
+68,asinh,hyperbolic sine inverse
+69,asinh,inverse hyperbolic sine
+70,asinh,asinh
+71,acosh,hyperbolic cosine inverse
+72,acosh,inverse hyperbolic cosine
+73,acosh,acosh
+74,acosh,hyperbolic cos inverse
+75,acosh,inverse hyperbolic cos
+76,atanh,hyperbolic tan inverse
+77,atanh,inverse hyperbolic tangent
+78,atanh,hyperbolic tangent inverse
+79,atanh,inverse hyperbolic tan
+80,atanh,atanh
+81,sinh,hyperbolic sine
+82,sinh,hyperbolic sin
+83,sinh,sinh
+84,cosh,hyperbolic cosine
+85,cosh,hyperbolic cos
+86,cosh,cosh
+87,tanh,hyperbolic tangent
+88,tanh,hyperbolic tan
+89,tanh,tanh
+90,unaryminus,unaryminus
+91,unaryminus,minus
+92,unaryminus,negative
+93,modulus,modulus
+94,modulus,absolute value
+95,percent,percent
+96,percent,percentage
+97,percent,%
+98,double,double
+99,triple,triple
+100,quadruple,quadruple
+101,halve,halve
+102,halve,half
+103,quarter,quarter
+104,reciprocal,reciprocal

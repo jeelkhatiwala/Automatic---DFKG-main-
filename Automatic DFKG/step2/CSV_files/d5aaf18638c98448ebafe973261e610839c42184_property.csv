@@ -1,0 +1,6 @@
+_id,value_text,category,name,value
+1,"wibAvX/2rtoA1DBKKT+jGcs6B0NJL7PlIM62Vp++hjA=
+",RegisteredDevice,deviceId,b'\xac\xed\x00\x05t\x00-wibAvX/2rtoA1DBKKT+jGcs6B0NJL7PlIM62Vp++hjA=\n'
+2,SM-N970U1,RegisteredDevice,modelName,b'\xac\xed\x00\x05t\x00\tSM-N970U1'
+3,TMB,RegisteredDevice,salesCode,b'\xac\xed\x00\x05t\x00\x03TMB'
+4,,RegisteredDevice,corpId,b'\xac\xed\x00\x05t\x00\x00'

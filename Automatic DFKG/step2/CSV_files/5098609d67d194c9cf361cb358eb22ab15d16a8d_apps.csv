@@ -1,0 +1,28 @@
+_id,uid,name,package,use_vpn,compatible,user_id
+1,10168,Google,com.google.android.googlequicksearchbox,1,1,0
+2,10189,Gmail,com.google.android.gm,1,1,0
+3,10136,Messages,com.samsung.android.messaging,1,1,0
+4,10127,Contacts,com.samsung.android.app.contacts,1,1,0
+5,10119,Google Play Store,com.android.vending,0,1,0
+6,10117,OneDrive,com.microsoft.skydrive,1,1,0
+7,10224,Maps,com.google.android.apps.maps,1,1,0
+8,10246,YouTube,com.google.android.youtube,0,1,0
+9,10094,Game Launcher,com.samsung.android.game.gamehome,1,1,0
+10,10131,Phone,com.samsung.android.dialer,1,1,0
+11,10097,Galaxy Store,com.sec.android.app.samsungapps,0,1,0
+12,10297,SmartThings,com.samsung.android.oneconnect,1,1,0
+13,10300,Instagram,com.instagram.android,1,1,0
+14,10307,WhatsApp,com.whatsapp,1,1,0
+15,10305,Venmo,com.venmo,1,1,0
+16,10285,Google Play Music,com.google.android.music,1,1,0
+17,10283,Drive,com.google.android.apps.docs,0,1,0
+18,10229,Facebook,com.facebook.katana,1,1,0
+19,10312,GetUpside,com.upside.consumer.android,1,1,0
+20,10306,Twitter,com.twitter.android,1,1,0
+21,10287,Outlook,com.microsoft.office.outlook,1,1,0
+22,10289,Office,com.microsoft.office.officehubrow,1,1,0
+23,10295,Smart Switch,com.sec.android.easyMover,1,1,0
+24,10204,Chrome,com.android.chrome,1,1,0
+25,10290,Samsung Pay,com.samsung.android.spay,1,1,0
+26,10304,DuckDuckGo,com.duckduckgo.mobile.android,1,1,0
+27,10299,Messenger,com.facebook.orca,1,1,0

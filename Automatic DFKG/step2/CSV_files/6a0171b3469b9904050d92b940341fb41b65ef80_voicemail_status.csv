@@ -1,0 +1,2 @@
+_id,source_package,phone_account_component_name,phone_account_id,settings_uri,voicemail_access_uri,configuration_state,data_channel_state,notification_channel_state,quota_occupied,quota_total,source_type
+1,com.samsung.android.app.telephonyui,com.android.phone/com.android.services.telephony.TelephonyConnectionService,8901260275757938976F,,,1,1,1,-1,-1,

@@ -1,0 +1,363 @@
+RecordId,formal,alias
+1,-1,last
+2,-1,that last
+3,-1,the last
+4,-2,second to last
+5,-2,that second to last
+6,-2,the second to last
+7,1,1st
+8,1,first
+9,1,that 1st
+10,1,that first
+11,1,the 1st
+12,1,the first
+13,10,10th
+14,10,tenth
+15,10,that 10th
+16,10,that tenth
+17,10,the 10th
+18,10,the tenth
+19,11,11th
+20,11,eleventh
+21,11,that 11th
+22,11,that eleventh
+23,11,the 11th
+24,11,the eleventh
+25,12,12th
+26,12,that 12th
+27,12,that twelfth
+28,12,the 12th
+29,12,the twelfth
+30,12,twelfth
+31,13,13th
+32,13,that 13th
+33,13,that thirteenth
+34,13,the 13th
+35,13,the thirteenth
+36,13,thirteenth
+37,14,14th
+38,14,fourteenth
+39,14,that 14th
+40,14,that fourteenth
+41,14,the 14th
+42,14,the fourteenth
+43,15,15th
+44,15,fifteenth
+45,15,that 15th
+46,15,that fifteenth
+47,15,the 15th
+48,15,the fifteenth
+49,16,16th
+50,16,sixteenth
+51,16,that 16th
+52,16,that sixteenth
+53,16,the 16th
+54,16,the sixteenth
+55,17,17th
+56,17,seventeenth
+57,17,that 17th
+58,17,that seventeenth
+59,17,the 17th
+60,17,the seventeenth
+61,18,18th
+62,18,eighteenth
+63,18,that 18th
+64,18,that eighteenth
+65,18,the 18th
+66,18,the eighteenth
+67,19,19th
+68,19,nineteenth
+69,19,that 19th
+70,19,that nineteenth
+71,19,the 19th
+72,19,the nineteenth
+73,2,2nd
+74,2,second
+75,2,that 2nd
+76,2,that second
+77,2,the 2nd
+78,2,the second
+79,20,20th
+80,20,that 20th
+81,20,that twentieth
+82,20,the 20th
+83,20,the twentieth
+84,20,twentieth
+85,21,21st
+86,21,that 21st
+87,21,that twenty-first
+88,21,the 21st
+89,21,the twenty-first
+90,21,twenty-first
+91,22,22nd
+92,22,that 22nd
+93,22,that twenty-second
+94,22,the 22nd
+95,22,the twenty-second
+96,22,twenty-second
+97,23,23th
+98,23,that 23th
+99,23,that twenty-third
+100,23,the 23th
+101,23,the twenty-third
+102,23,twenty-third
+103,24,24th
+104,24,that 24th
+105,24,that twenty-fourth
+106,24,the 24th
+107,24,the twenty-fourth
+108,24,twenty-fourth
+109,25,25th
+110,25,that 25th
+111,25,that twenty-fifth
+112,25,the 25th
+113,25,the twenty-fifth
+114,25,twenty-fifth
+115,26,26th
+116,26,that 26th
+117,26,that twenty-sixth
+118,26,the 26th
+119,26,the twenty-sixth
+120,26,twenty-sixth
+121,27,27th
+122,27,that 27th
+123,27,that twenty-seventh
+124,27,the 27th
+125,27,the twenty-seventh
+126,27,twenty-seventh
+127,28,28th
+128,28,that 28th
+129,28,that twenty-eighth
+130,28,the 28th
+131,28,the twenty-eighth
+132,28,twenty-eighth
+133,29,29th
+134,29,that 29th
+135,29,that twenty-ninth
+136,29,the 29th
+137,29,the twenty-ninth
+138,29,twenty-ninth
+139,3,3rd
+140,3,that 3rd
+141,3,that third
+142,3,the 3rd
+143,3,the third
+144,3,third
+145,30,30th
+146,30,that 30th
+147,30,that thirtieth
+148,30,the 30th
+149,30,the thirtieth
+150,30,thirtieth
+151,31,31st
+152,31,that 31st
+153,31,that thirty-first
+154,31,the 31st
+155,31,the thirty-first
+156,31,thirty-first
+157,32,32nd
+158,32,that 32nd
+159,32,that thirty-second
+160,32,the 32nd
+161,32,the thirty-second
+162,32,thirty-second
+163,33,33th
+164,33,that 33th
+165,33,that thirty-third
+166,33,the 33th
+167,33,the thirty-third
+168,33,thirty-third
+169,34,34th
+170,34,that 34th
+171,34,that thirty-fourth
+172,34,the 34th
+173,34,the thirty-fourth
+174,34,thirty-fourth
+175,35,35th
+176,35,that 35th
+177,35,that thirty-fifth
+178,35,the 35th
+179,35,the thirty-fifth
+180,35,thirty-fifth
+181,36,36th
+182,36,that 36th
+183,36,that thirty-sixth
+184,36,the 36th
+185,36,the thirty-sixth
+186,36,thirty-sixth
+187,37,37th
+188,37,that 37th
+189,37,that thirty-seventh
+190,37,the 37th
+191,37,the thirty-seventh
+192,37,thirty-seventh
+193,38,38th
+194,38,that 38th
+195,38,that thirty-eighth
+196,38,the 38th
+197,38,the thirty-eighth
+198,38,thirty-eighth
+199,39,39th
+200,39,that 39th
+201,39,that thirty-ninth
+202,39,the 39th
+203,39,the thirty-ninth
+204,39,thirty-ninth
+205,4,4th
+206,4,fourth
+207,4,that 4th
+208,4,that fourth
+209,4,the 4th
+210,4,the fourth
+211,40,40th
+212,40,fortieth
+213,40,that 40th
+214,40,that fortieth
+215,40,the 40th
+216,40,the fortieth
+217,41,41st
+218,41,forty-first
+219,41,that 41st
+220,41,that forty-first
+221,41,the 41st
+222,41,the forty-first
+223,42,42nd
+224,42,forty-second
+225,42,that 42nd
+226,42,that forty-second
+227,42,the 42nd
+228,42,the forty-second
+229,43,43th
+230,43,forty-third
+231,43,that 43th
+232,43,that forty-third
+233,43,the 43th
+234,43,the forty-third
+235,44,44th
+236,44,forty-fourth
+237,44,that 44th
+238,44,that forty-fourth
+239,44,the 44th
+240,44,the forty-fourth
+241,45,45th
+242,45,forty-fifth
+243,45,that 45th
+244,45,that forty-fifth
+245,45,the 45th
+246,45,the forty-fifth
+247,46,46th
+248,46,forty-sixth
+249,46,that 46th
+250,46,that forty-sixth
+251,46,the 46th
+252,46,the forty-sixth
+253,47,47th
+254,47,forty-seventh
+255,47,that 47th
+256,47,that forty-seventh
+257,47,the 47th
+258,47,the forty-seventh
+259,48,48th
+260,48,forty-eighth
+261,48,that 48th
+262,48,that forty-eighth
+263,48,the 48th
+264,48,the forty-eighth
+265,49,49th
+266,49,forty-ninth
+267,49,that 49th
+268,49,that forty-ninth
+269,49,the 49th
+270,49,the forty-ninth
+271,5,5th
+272,5,fifth
+273,5,that 5th
+274,5,that fifth
+275,5,the 5th
+276,5,the fifth
+277,50,50th
+278,50,fiftieth
+279,50,that 50th
+280,50,that fiftieth
+281,50,the 50th
+282,50,the fiftieth
+283,51,51st
+284,51,fifty-first
+285,51,that 51st
+286,51,that fifty-first
+287,51,the 51st
+288,51,the fifty-first
+289,52,52nd
+290,52,fifty-second
+291,52,that 52nd
+292,52,that fifty-second
+293,52,the 52nd
+294,52,the fifty-second
+295,53,53th
+296,53,fifty-third
+297,53,that 53th
+298,53,that fifty-third
+299,53,the 53th
+300,53,the fifty-third
+301,54,54th
+302,54,fifty-fourth
+303,54,that 54th
+304,54,that fifty-fourth
+305,54,the 54th
+306,54,the fifty-fourth
+307,55,55th
+308,55,fifty-fifth
+309,55,that 55th
+310,55,that fifty-fifth
+311,55,the 55th
+312,55,the fifty-fifth
+313,56,56th
+314,56,fifty-sixth
+315,56,that 56th
+316,56,that fifty-sixth
+317,56,the 56th
+318,56,the fifty-sixth
+319,57,57th
+320,57,fifty-seventh
+321,57,that 57th
+322,57,that fifty-seventh
+323,57,the 57th
+324,57,the fifty-seventh
+325,58,58th
+326,58,fifty-eighth
+327,58,that 58th
+328,58,that fifty-eighth
+329,58,the 58th
+330,58,the fifty-eighth
+331,59,59th
+332,59,fifty-ninth
+333,59,that 59th
+334,59,that fifty-ninth
+335,59,the 59th
+336,59,the fifty-ninth
+337,60,60th
+338,60,sixtieth
+339,6,6th
+340,6,sixth
+341,6,that 6th
+342,6,that sixth
+343,6,the 6th
+344,6,the sixth
+345,7,7th
+346,7,seventh
+347,7,that 7th
+348,7,that seventh
+349,7,the 7th
+350,7,the seventh
+351,8,8th
+352,8,eighth
+353,8,that 8th
+354,8,that eighth
+355,8,the 8th
+356,8,the eighth
+357,9,9th
+358,9,ninth
+359,9,that 9th
+360,9,that ninth
+361,9,the 9th
+362,9,the ninth

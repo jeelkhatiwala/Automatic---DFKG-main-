@@ -1,0 +1,52 @@
+RecordId,formal,alias
+1,ringer_mode_sound,소 리 모 드
+2,ringer_mode_sound,벨 소 리 모 드
+3,ringer_mode_sound,사 운 드 모 드
+4,ringer_mode_sound,s o u n d 모 드
+5,ringer_mode_sound,소 리 모 드
+6,ringer_mode_sound,벨 소 리 모 드
+7,ringer_mode_sound,사 운 드 모 드
+8,ringer_mode_sound,s o u n d 모 드
+9,ringer_mode_vibrate,진 동
+10,ringer_mode_vibrate,떨 림
+11,ringer_mode_vibrate,매 너
+12,ringer_mode_vibrate,진 동 모 드
+13,ringer_mode_vibrate,떨 림 모 드
+14,ringer_mode_vibrate,매 너 모 드
+15,ringer_mode_vibrate,진 동 모 드
+16,ringer_mode_vibrate,떨 림 모 드
+17,ringer_mode_vibrate,매 너 모 드
+18,ringer_mode_silent,무 음
+19,ringer_mode_silent,무 음 모 드
+20,ringer_mode_silent,무 음 모 드
+21,prompt_sound,소 리
+22,prompt_sound,벨 소 리
+23,prompt_sound,사 운 드
+24,prompt_sound,s o u n d
+25,prompt_sound,소 리 모 드
+26,prompt_sound,벨 소 리 모 드
+27,prompt_sound,사 운 드 모 드
+28,prompt_sound,s o u n d 모 드
+29,prompt_sound,소 리 모 드
+30,prompt_sound,벨 소 리 모 드
+31,prompt_sound,사 운 드 모 드
+32,prompt_sound,s o u n d 모 드
+33,prompt_vibrate,진 동
+34,prompt_vibrate,떨 림
+35,prompt_vibrate,매 너
+36,prompt_vibrate,진 동 모 드
+37,prompt_vibrate,떨 림 모 드
+38,prompt_vibrate,매 너 모 드
+39,prompt_vibrate,진 동 모 드
+40,prompt_vibrate,떨 림 모 드
+41,prompt_vibrate,매 너 모 드
+42,prompt_silent,무 음
+43,prompt_silent,뮤 트
+44,prompt_silent,음 소 거
+45,prompt_silent,사 일 런 트
+46,prompt_silent,무 음 모 드
+47,prompt_silent,무 음 모 드
+48,prompt_silent,뮤 트 모 드
+49,prompt_silent,음 소 거 모 드
+50,prompt_silent,사 일 런 트 모 드
+51,prompt_silent,사 일 런 트 모 드

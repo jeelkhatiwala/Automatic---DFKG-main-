@@ -1,0 +1,6 @@
+fixer_name,condition_name,fix_name,execution_time_seconds,valid_till_seconds,data,status,entry_point,is_log_deferred
+ScheduledRestartFixer,AlwaysRestart,RestartProcessFix_com.google.android.gms,1626882991,1626886591,b'',2,7,0
+ScheduledRestartFixer,AlwaysRestart,RestartProcessFix_com.google.android.gms.persistent,1626933684,1626937284,b'',2,7,0
+PersistentProcessRestartWriter,IsInPersistentProcessCondition,WriteRestartFix,1626933688,1626933688,b'',2,1,0
+PersistentProcessRestartCleanup,IsInPersistentProcessCondition,CleanupRestartsFix,1626933688,1626933688,b'',2,1,0
+ProcessStableCheckInFixer,IsInPersistentProcessCondition,TempPSFlagCommitFix,1626933688,1626940888,b'',2,1,0

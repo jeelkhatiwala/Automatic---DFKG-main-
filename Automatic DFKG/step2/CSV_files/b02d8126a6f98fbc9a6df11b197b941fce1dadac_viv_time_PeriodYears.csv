@@ -1,0 +1,30 @@
+RecordId,formal,alias
+1,1,a
+2,1,the
+3,1.5,a year and a half
+4,5,half a decade
+5,10,a decade
+6,10,one decade
+7,2,a couple
+8,2,couple
+9,2,a couple of
+10,2,couple of
+11,2.5,two and a half
+12,20,2 decades
+13,20,two decades
+14,3,a few
+15,3,few
+16,3,several
+17,3.5,three years and a half
+18,30,3 decades
+19,30,three decades
+20,40,4 decades
+21,40,four decades
+22,50,5 decades
+23,50,five decades
+24,100,10 decades
+25,100,ten decades
+26,100,a century
+27,100,century
+28,1000,a millenium
+29,1000,millenium

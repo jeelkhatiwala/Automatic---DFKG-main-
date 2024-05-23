@@ -1,0 +1,42 @@
+RecordId,formal,alias
+1,true,yes
+2,true,send
+3,true,yeah
+4,true,yep
+5,true,yup
+6,true,of course
+7,true,do it
+8,true,go ahead
+9,true,certainly
+10,true,absolutely
+11,true,definitely
+12,true,indeed
+13,true,sure
+14,true,all right
+15,true,okay
+16,true,ok
+17,true,you got it
+18,true,proceed
+19,true,save
+20,false,no
+21,false,cancel
+22,false,nope
+23,false,nop
+24,false,don't
+25,false,do not
+26,false,never
+27,false,no way
+28,false,not at all
+29,false,nay
+30,false,forget it
+31,false,reject
+32,false,decline
+33,false,ignore
+34,false,avoid
+35,false,exit
+36,false,come out
+37,false,not
+38,false,get out
+39,true,send the message
+40,false,"don""t"
+41,true,send this message

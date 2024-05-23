@@ -1,0 +1,184 @@
+RecordId,formal,alias
+1,Sundays,sundays
+2,Sundays,sunday
+3,Mondays,mondays
+4,Mondays,monday
+5,Tuesdays,tuesdays
+6,Tuesdays,tuesday
+7,Wednesdays,wednesdays
+8,Wednesdays,wednesday
+9,Thursdays,thursdays
+10,Thursdays,thursday
+11,Fridays,fridays
+12,Fridays,friday
+13,Saturdays,saturdays
+14,Saturdays,saturday
+15,Weekends,weekends
+16,Weekends,weekend
+17,InaugurationDay,inauguration day
+18,InaugurationDay,inauguration days
+19,NewYearsDay,new years day
+20,NewYearsDay,new years
+21,NewYearsDay,new year's day
+22,NewYearsDay,new years days
+23,NewYearsDay,new year days
+24,MartinLutherKingDay,martin luther king day
+25,MartinLutherKingDay,martin luther king days
+26,MartinLutherKingDay,mlk day
+27,MartinLutherKingDay,mlk days
+28,TuBShevat,tubshevat
+29,TuBShevat,tubshevats
+30,GroundhogDay,groundhog day
+31,GroundhogDay,groundhogs day
+32,GroundhogDay,groundhog days
+33,ChineseNewYear,chinese new year
+34,ChineseNewYear,chinese new years
+35,LincolnsBirthday,lincolns birthday
+36,LincolnsBirthday,lincolns birthdays
+37,LincolnsBirthday,lincoln's birthday
+38,LincolnsBirthday,lincoln'sbirthdays
+39,MardiGras,mardi gras
+40,AshWednesday,ash wednesday
+41,AshWednesday,ashwednesdays
+42,ValentinesDay,valentines day
+43,ValentinesDay,valentine's day
+44,ValentinesDay,valentines days
+45,ValentinesDay,valentine's days
+46,PresidentsDay,presidentsday
+47,PresidentsDay,presidents days
+48,PresidentsDay,president days
+49,WashingtonsBirthday,washingtons birthday
+50,WashingtonsBirthday,washingtons birthdays
+51,WashingtonsBirthday,washington's birthday
+52,WashingtonsBirthday,washington's birthdays
+53,StPatricksDay,st. patrick's day
+54,StPatricksDay,saint patrick's day
+55,StPatricksDay,st patrick's day
+56,StPatricksDay,st. patricks day
+57,StPatricksDay,saint patricks day
+58,StPatricksDay,st patricks day
+59,StPatricksDay,st. patrick day
+60,StPatricksDay,saint patrick day
+61,StPatricksDay,st patrick day
+62,StPatricksDay,st. patrick's days
+63,StPatricksDay,saint patrick's days
+64,StPatricksDay,st patrick's days
+65,StPatricksDay,st. patricks days
+66,StPatricksDay,saint patricks days
+67,StPatricksDay,st patricks days
+68,StPatricksDay,st. patrick days
+69,StPatricksDay,saint patrick days
+70,StPatricksDay,st patrick days
+71,Purim,purim
+72,Purim,purims
+73,MarchEquinox,march equinox
+74,MarchEquinox,march equinoxes
+75,PalmSunday,palmsunday
+76,PalmSunday,palm sundays
+77,Passover,passover
+78,Passover,passovers
+79,GoodFriday,good friday
+80,GoodFriday,good fridays
+81,CesarChavezDay,cesar chavez day
+82,CesarChavezDay,cesar chavez days
+83,EasterSunday,easter sunday
+84,EasterSunday,easter
+85,EasterSunday,easter sundays
+86,EasterSunday,easters
+87,YomHaShoah,yom hashoah
+88,YomHaShoah,yom hashoahs
+89,AprilFoolsDay,april fools day
+90,AprilFoolsDay,april fools days
+91,TaxDay,tax day
+92,TaxDay,tax days
+93,EarthDay,earthday
+94,EarthDay,earth days
+95,ArborDay,arbor day
+96,ArborDay,arbor days
+97,LagBOmer,lag bomer
+98,LagBOmer,lag bomers
+99,CinqoDeMayo,cinqo de mayo
+100,CinqoDeMayo,cinqo de mayos
+101,MothersDay,mothers day
+102,MothersDay,mothers days
+103,MothersDay,mother's day
+104,MothersDay,mother's days
+105,MemorialDay,memorial day
+106,MemorialDay,memorial days
+107,FlagDay,flag day
+108,FlagDay,flag days
+109,Shavuot,shavuots
+110,Shavuot,shavuot
+111,Pentecost,pentecost
+112,Pentecost,pentecosts
+113,FathersDay,fathers day
+114,FathersDay,fathers days
+115,FathersDay,father's day
+116,FathersDay,father's days
+117,JuneSolstice,june solstice
+118,JuneSolstice,summer solstice
+119,JuneSolstice,june solstices
+120,JuneSolstice,summer solstices
+121,DecemberSolstice,december solstice
+122,DecemberSolstice,winter solstice
+123,DecemberSolstice,december solstices
+124,DecemberSolstice,winter solstices
+125,Lent,lent
+126,LeapDay,leap day
+127,LeapDay,leap days
+128,IndependenceDay,independence day
+129,IndependenceDay,independence days
+130,Ramadan,ramadan
+131,Ramadan,ramadans
+132,TishaBAv,tisha bav
+133,TishaBAv,tisha bavs
+134,LaylatAlQadr,laylat al qadr
+135,LaylatAlQadr,laylat al qadrs
+136,EidAlFitr,eid al fitr
+137,EidAlFitr,eid al fitrs
+138,LaborDay,labor day
+139,LaborDay,labor days
+140,RoshHashana,rosh hashana
+141,RoshHashana,rosh hashanas
+142,YomKippur,yom kippur
+143,YomKippur,yom kippurs
+144,SeptemberEquinox,september equinox
+145,SeptemberEquinox,september equinoxes
+146,SeptemberEquinox,equinox
+147,SeptemberEquinox,equinoxes
+148,SeptemberEquinox,fall equinox
+149,SeptemberEquinox,fall equinoxes
+150,Sukkot,sukkot
+151,Sukkot,sukkots
+152,SimchatTorah,simchat torah
+153,SimchatTorah,simchat torahs
+154,ColumbusDay,columbus day
+155,ColumbusDay,columbus days
+156,Halloween,halloween
+157,Halloween,halloweens
+158,AllSaintsDay,all saints day
+159,AllSaintsDay,all saints days
+160,VeteransDay,veterans day
+161,VeteransDay,veterans days
+162,ThanksgivingDay,thanksgiving day
+163,ThanksgivingDay,thanksgiving days
+164,ThanksgivingDay,thanksgiving
+165,ThanksgivingDay,thanksgivings
+166,Hanukkah,hanukkah
+167,Hanukkah,hanukkahs
+168,BlackFriday,black friday
+169,BlackFriday,black fridays
+170,CyberMonday,cyber monday
+171,CyberMonday,cyber mondays
+172,PearlHarborRemembranceDay,pearl harbor remembrance day
+173,PearlHarborRemembranceDay,pearl harbor remembrance days
+174,ChristmasEve,christmas eve
+175,ChristmasEve,christmas eves
+176,ChristmasDay,christmas day
+177,ChristmasDay,christmas days
+178,ChristmasDay,christmas
+179,ChristmasDay,christmases
+180,Kwanzaa,kwanzaa
+181,Kwanzaa,kwanzaas
+182,NewYearsEve,new years eve
+183,NewYearsEve,new years eves

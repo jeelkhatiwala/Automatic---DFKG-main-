@@ -1,0 +1,46 @@
+RecordId,formal,alias
+1,storage,저 장 공 간
+2,storage,저 장 공 간
+3,storage,파 일
+4,storage,파 일 들
+5,storage,저 장 용 량
+6,storage,용 량
+7,storage,저 장 소
+8,storage,캐 시
+9,storage,디 스 크
+10,memory,렘
+11,memory,램
+12,memory,메 모 리
+13,memory,매 모 리
+14,memory,어 플 리 케 이 션
+15,memory,어 플
+16,memory,앱
+17,memory,백 그 라 운 드 앱
+18,memory,램 메 모 리
+19,memory,램 용 량
+20,memory,메 모 리 용 량
+21,security,바 이 러 스
+22,security,악 성 코 드
+23,security,악 성 코 드
+24,security,악 성 소 프 트 웨 어
+25,security,안 전
+26,security,보 안
+27,security,보 호
+28,battery,배 터 리
+29,battery,빳 데 리
+30,battery,빠 테 리
+31,battery,배 러 리
+32,battery,배 더 리
+33,battery,빠 때 리
+34,battery,베 터 리
+35,battery,빳 대 리
+36,battery,빠 태 리
+37,battery,베 러 리
+38,battery,베 더 리
+39,battery,빠 떼 리
+40,battery,충 전
+41,battery,완 충
+42,wirelesspowershare,무 선 배 터 리 공 유
+43,wirelesspowershare,배 터 리 공 유
+44,wirelesspowershare,무 선 배 터 리 충 전
+45,wirelesspowershare,무 선 충 전

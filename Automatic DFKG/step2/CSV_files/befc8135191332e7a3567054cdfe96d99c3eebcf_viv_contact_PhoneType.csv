@@ -1,0 +1,32 @@
+RecordId,formal,alias
+1,Mobile,휴 대 폰
+2,Mobile,핸 드 폰
+3,Mobile,전 화 번 호
+4,Mobile,모 바 일
+5,Mobile,폰
+6,Mobile,휴 대 전 화
+7,Mobile,휴 대 전 화
+8,Home,홈
+9,Home,집
+10,Home,자 택
+11,Home,집 전 화
+12,Home,집 전 화
+13,Work,회 사
+14,Work,직 장
+15,Work,사 무 실
+16,Work,작 업 실
+17,Work,작 업 장
+18,Work,워 크
+19,HomeFax,집 팩 스
+20,HomeFax,집 팩 스
+21,HomeFax,홈 팩 스
+22,HomeFax,홈 팩 스
+23,HomeFax,팩 스
+24,WorkFax,회 사 팩 스
+25,WorkFax,회 사 팩 스
+26,WorkFax,직 장 팩 스
+27,WorkFax,직 장 팩 스
+28,Pager,호 출 기
+29,Other,기 타
+30,Callback,콜 백
+31,Callback,회 신

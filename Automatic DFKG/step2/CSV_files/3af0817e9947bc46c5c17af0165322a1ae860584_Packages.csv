@@ -1,0 +1,7 @@
+packageName,version,params,dynamicParams,weak,androidPackageName,isSynced,serializedDeclarativeRegInfo,configTier,baselineCl,heterodyneInfo
+com.google.android.gms.usagereporting,214,,,1,com.google.android.gms,1,,,,
+com.google.android.gms.clearcut.public,229,,,1,com.google.android.gms,1,,,0.0,
+com.google.android.gms.permissions,212418000,,,0,com.google.android.gms,1,,,0.0,
+com.google.android.gms.gcm,1400,,,1,com.google.android.gms,1,,,0.0,
+com.google.android.gms.phenotype,229,,,1,com.google.android.gms,1,,,0.0,
+com.google.android.gms.playlog.uploader,229,,,1,com.google.android.gms,1,,,0.0,

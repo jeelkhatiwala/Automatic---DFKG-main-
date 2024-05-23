@@ -1,0 +1,126 @@
+level,timestamp,message,id
+1,1626383265028,Using PROD server,452
+0,1626383265064,connectMessenger: android.os.Messenger@842ff87,453
+2,1626383470860,isRunning: false,454
+0,1626383470914,disconnectMessenger: android.os.Messenger@842ff87,455
+1,1626385914315,Using PROD server,456
+0,1626385914330,connectMessenger: android.os.Messenger@41f20a2,457
+2,1626385977381,isRunning: false,458
+0,1626385977407,disconnectMessenger: android.os.Messenger@41f20a2,459
+1,1626406918727,Using PROD server,460
+0,1626406919036,connectMessenger: android.os.Messenger@d72a4ee,461
+2,1626406982108,isRunning: false,462
+0,1626406982159,disconnectMessenger: android.os.Messenger@d72a4ee,463
+1,1626485466798,Using PROD server,464
+0,1626485466859,connectMessenger: android.os.Messenger@d72a4ee,465
+2,1626485801345,isRunning: false,466
+0,1626485801404,disconnectMessenger: android.os.Messenger@d72a4ee,467
+1,1626498192365,Using PROD server,468
+0,1626498192412,connectMessenger: android.os.Messenger@c7e7133,469
+2,1626498361435,isRunning: false,470
+0,1626498361491,disconnectMessenger: android.os.Messenger@c7e7133,471
+1,1626546210057,Using PROD server,472
+0,1626546210102,connectMessenger: android.os.Messenger@d0e9ce4,473
+2,1626546273113,isRunning: false,474
+0,1626546273130,disconnectMessenger: android.os.Messenger@d0e9ce4,475
+1,1626595783025,Using PROD server,476
+0,1626595783159,connectMessenger: android.os.Messenger@c173269,477
+2,1626596023693,isRunning: false,478
+0,1626596023736,disconnectMessenger: android.os.Messenger@c173269,479
+1,1626691583547,Using PROD server,480
+0,1626691583581,connectMessenger: android.os.Messenger@c7e7133,481
+2,1626694514634,isRunning: false,482
+0,1626694514665,disconnectMessenger: android.os.Messenger@c7e7133,483
+1,1626731392323,Using PROD server,484
+0,1626731392340,connectMessenger: android.os.Messenger@c63c6d,485
+2,1626731455365,isRunning: false,486
+0,1626731455384,disconnectMessenger: android.os.Messenger@c63c6d,487
+1,1626752190910,Using PROD server,488
+0,1626752190986,connectMessenger: android.os.Messenger@8c5ecf0,489
+2,1626752436077,isRunning: false,490
+0,1626752436142,disconnectMessenger: android.os.Messenger@8c5ecf0,491
+1,1626807253078,Using PROD server,492
+0,1626807253097,connectMessenger: android.os.Messenger@c7e7133,493
+2,1626807331112,isRunning: false,494
+0,1626807331353,disconnectMessenger: android.os.Messenger@c7e7133,495
+1,1626813122789,Using PROD server,496
+0,1626813122822,connectMessenger: android.os.Messenger@41f20a2,497
+2,1626813185846,isRunning: false,498
+0,1626813185884,disconnectMessenger: android.os.Messenger@41f20a2,499
+1,1626813258662,Using PROD server,500
+0,1626813258668,connectMessenger: android.os.Messenger@c7e7133,501
+2,1626813485249,isRunning: false,502
+0,1626813485284,disconnectMessenger: android.os.Messenger@c7e7133,503
+1,1626838266998,Using PROD server,504
+0,1626838267099,connectMessenger: android.os.Messenger@c173269,505
+2,1626838330149,isRunning: false,506
+0,1626838330190,disconnectMessenger: android.os.Messenger@c173269,507
+1,1626878357931,Using PROD server,508
+0,1626878357950,connectMessenger: android.os.Messenger@c7e7133,509
+2,1626878420965,isRunning: false,510
+0,1626878420978,disconnectMessenger: android.os.Messenger@c7e7133,511
+1,1626878425897,Using PROD server,512
+0,1626878425903,connectMessenger: android.os.Messenger@4ea8c84,513
+2,1626878488918,isRunning: false,514
+0,1626878488942,disconnectMessenger: android.os.Messenger@4ea8c84,515
+1,1626884056709,Using PROD server,516
+0,1626884056742,connectMessenger: android.os.Messenger@8c5ecf0,517
+2,1626884125333,isRunning: false,518
+2,1626898671159,isRunning: false,519
+0,1626898671200,disconnectMessenger: android.os.Messenger@8c5ecf0,520
+1,1626900087013,Using PROD server,521
+0,1626900087046,connectMessenger: android.os.Messenger@c63c6d,522
+2,1626900574224,isRunning: false,523
+2,1626901492128,isRunning: false,524
+0,1626901492160,disconnectMessenger: android.os.Messenger@c63c6d,525
+1,1626901494995,Using PROD server,526
+0,1626901495019,connectMessenger: android.os.Messenger@8c5ecf0,527
+2,1626901991871,isRunning: false,528
+0,1626901991900,disconnectMessenger: android.os.Messenger@8c5ecf0,529
+1,1626903101682,Using PROD server,530
+0,1626903101690,connectMessenger: android.os.Messenger@c63c6d,531
+2,1626903320741,isRunning: false,532
+0,1626903320835,disconnectMessenger: android.os.Messenger@c63c6d,533
+1,1626903342145,Using PROD server,534
+0,1626903342185,connectMessenger: android.os.Messenger@c173269,535
+2,1626903413823,isRunning: false,536
+0,1626903413845,disconnectMessenger: android.os.Messenger@c173269,537
+1,1626903556864,Using PROD server,538
+0,1626903556873,connectMessenger: android.os.Messenger@c173269,539
+2,1626903624549,isRunning: false,540
+0,1626903624559,disconnectMessenger: android.os.Messenger@c173269,541
+1,1626903678474,Using PROD server,542
+0,1626903678497,connectMessenger: android.os.Messenger@c63c6d,543
+2,1626903741533,isRunning: false,544
+0,1626903741562,disconnectMessenger: android.os.Messenger@c63c6d,545
+1,1626904135726,Using PROD server,546
+0,1626904135736,connectMessenger: android.os.Messenger@c63c6d,547
+2,1626905185412,isRunning: false,548
+0,1626905185452,disconnectMessenger: android.os.Messenger@c63c6d,549
+1,1626910484710,Using PROD server,550
+0,1626910484726,connectMessenger: android.os.Messenger@c7e7133,551
+2,1626911184667,isRunning: false,552
+0,1626911184688,disconnectMessenger: android.os.Messenger@c7e7133,553
+1,1626916679137,Using PROD server,554
+0,1626916679145,connectMessenger: android.os.Messenger@4ea8c84,555
+2,1626916746038,isRunning: false,556
+2,1626927219779,isRunning: false,557
+0,1626927219812,disconnectMessenger: android.os.Messenger@4ea8c84,558
+1,1626927393804,Using PROD server,559
+0,1626927393817,connectMessenger: android.os.Messenger@c7e7133,560
+2,1626927461537,isRunning: false,561
+2,1626931733853,isRunning: false,562
+0,1626931733879,disconnectMessenger: android.os.Messenger@c7e7133,563
+1,1626935194886,Using PROD server,564
+0,1626935194913,connectMessenger: android.os.Messenger@c173269,565
+2,1626936095007,isRunning: false,566
+0,1626936095039,disconnectMessenger: android.os.Messenger@c173269,567
+1,1626977875571,Using PROD server,568
+0,1626977875668,connectMessenger: android.os.Messenger@624ed8f,569
+2,1626977966267,isRunning: false,570
+2,1626978571643,isRunning: false,571
+0,1626978571680,disconnectMessenger: android.os.Messenger@624ed8f,572
+1,1626980801747,Using PROD server,573
+0,1626980801758,connectMessenger: android.os.Messenger@41f20a2,574
+2,1626980864771,isRunning: false,575
+0,1626980864810,disconnectMessenger: android.os.Messenger@41f20a2,576

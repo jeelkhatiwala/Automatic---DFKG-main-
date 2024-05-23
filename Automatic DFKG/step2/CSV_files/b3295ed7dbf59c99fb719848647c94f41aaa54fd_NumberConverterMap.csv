@@ -1,0 +1,311 @@
+flags,word,value,confidence,CultureId
+256,eins,1,1000,7
+256,eine,1,1000,7
+256,ein,1,1000,7
+256,einer,1,1000,7
+256,einem,1,1000,7
+257,eis,1,800,7
+258,erste,1,1000,7
+258,erstem,1,1000,7
+258,ersten,1,1000,7
+258,erster,1,1000,7
+258,erstes,1,1000,7
+258,erstens,1,1000,7
+256,zwei,2,1000,7
+258,zweite,2,1000,7
+258,zweitem,2,1000,7
+258,zweiten,2,1000,7
+258,zweiter,2,1000,7
+258,zweites,2,1000,7
+258,zweitens,2,1000,7
+256,drei,3,1000,7
+258,dritte,3,1000,7
+258,drittem,3,1000,7
+258,dritten,3,1000,7
+258,dritter,3,1000,7
+258,drittes,3,1000,7
+258,drittens,3,1000,7
+256,vier,4,1000,7
+257,viel,4,800,7
+258,vierte,4,1000,7
+258,viertem,4,1000,7
+258,vierten,4,1000,7
+258,vierter,4,1000,7
+258,viertes,4,1000,7
+258,viertens,4,1000,7
+256,fünf,5,1000,7
+258,fünfte,5,1000,7
+258,fünftem,5,1000,7
+258,fünften,5,1000,7
+258,fünfter,5,1000,7
+258,fünftes,5,1000,7
+258,fünftens,5,1000,7
+256,sechs,6,1000,7
+257,sex,6,800,7
+258,sechste,6,1000,7
+258,sechstem,6,1000,7
+258,sechsten,6,1000,7
+258,sechster,6,1000,7
+258,sechstes,6,1000,7
+258,sechstens,6,1000,7
+256,sieben,7,1000,7
+258,siebte,7,1000,7
+258,siebente,7,1000,7
+258,siebentem,7,1000,7
+258,siebenten,7,1000,7
+258,siebenter,7,1000,7
+258,siebentes,7,1000,7
+258,siebentens,7,1000,7
+256,acht,8,1000,7
+257,achten,8,800,7
+258,achte,8,1000,7
+258,achtem,8,1000,7
+258,achten,8,1000,7
+258,achter,8,1000,7
+258,achtes,8,1000,7
+258,achtens,8,1000,7
+256,neun,9,1000,7
+257,neuen,9,800,7
+258,neunte,9,1000,7
+258,neuntem,9,1000,7
+258,neunten,9,1000,7
+258,neunter,9,1000,7
+258,neuntes,9,1000,7
+258,neuntens,9,1000,7
+1536,zehn,10,1000,7
+1537,zehen,10,800,7
+1538,zehnte,10,1000,7
+1538,zehntem,10,1000,7
+1538,zehnten,10,1000,7
+1538,zehnter,10,1000,7
+1538,zehntes,10,1000,7
+1538,zehntens,10,1000,7
+512,elf,11,1000,7
+514,elfte,11,1000,7
+514,elftem,11,1000,7
+514,elften,11,1000,7
+514,elfter,11,1000,7
+514,elftes,11,1000,7
+514,elftens,11,1000,7
+512,zwölf,12,1000,7
+514,zwölfte,12,1000,7
+514,zwölftem,12,1000,7
+514,zwölften,12,1000,7
+514,zwölfter,12,1000,7
+514,zwölftes,12,1000,7
+514,zwölftens,12,1000,7
+576,dutzend,12,1000,7
+512,dreizehn,13,1000,7
+514,dreizehnte,13,1000,7
+514,dreizehntem,13,1000,7
+514,dreizehnten,13,1000,7
+514,dreizehnter,13,1000,7
+514,dreizehntes,13,1000,7
+514,dreizehntens,13,1000,7
+512,vierzehn,14,1000,7
+514,vierzehnte,14,1000,7
+514,vierzehntem,14,1000,7
+514,vierzehnten,14,1000,7
+514,vierzehnter,14,1000,7
+514,vierzehntes,14,1000,7
+514,vierzehntens,14,1000,7
+512,fünfzehn,15,1000,7
+514,fünfzehnte,15,1000,7
+514,fünfzehntem,15,1000,7
+514,fünfzehnten,15,1000,7
+514,fünfzehnter,15,1000,7
+514,fünfzehntes,15,1000,7
+514,fünfzehntens,15,1000,7
+512,sechzehn,16,1000,7
+514,sechzehnte,16,1000,7
+514,sechzehntem,16,1000,7
+514,sechzehnten,16,1000,7
+514,sechzehnter,16,1000,7
+514,sechzehntes,16,1000,7
+514,sechzehntens,16,1000,7
+512,siebzehn,17,1000,7
+514,siebzehnte,17,1000,7
+514,siebzehntem,17,1000,7
+514,siebzehnten,17,1000,7
+514,siebzehnter,17,1000,7
+514,siebzehntes,17,1000,7
+514,siebzehntens,17,1000,7
+512,achtzehn,18,1000,7
+514,achtzehnte,18,1000,7
+514,achtzehntem,18,1000,7
+514,achtzehnten,18,1000,7
+514,achtzehnter,18,1000,7
+514,achtzehntes,18,1000,7
+514,achtzehntens,18,1000,7
+512,neunzehn,19,1000,7
+514,neunzehnte,19,1000,7
+514,neunzehntem,19,1000,7
+514,neunzehnten,19,1000,7
+514,neunzehnter,19,1000,7
+514,neunzehntes,19,1000,7
+514,neunzehntens,19,1000,7
+512,zwanzig,20,1000,7
+512,dreißig,30,1000,7
+512,vierzig,40,1000,7
+512,fünfzig,50,1000,7
+512,sechzig,60,1000,7
+512,siebzig,70,1000,7
+512,achtzig,80,1000,7
+512,neunzig,90,1000,7
+64,hundert,100,1000,7
+64,hundertund,100,1000,7
+64,hundert und,100,1000,7
+64,hundert-und-,100,1000,7
+64,hundreds,100,1000,7
+192,tausend,1000,1000,7
+192,tausend und,1000,1000,7
+192,million,1000000,1000,7
+192,million und,1000000,1000,7
+192,milliarde,1000000000,1000,7
+192,milliarde und,1000000000,1000,7
+524800,und zwanzig,20,1000,7
+524802,und zwanzigste,20,1000,7
+524802,und zwanzigstem,20,1000,7
+524802,und zwanzigsten,20,1000,7
+524802,und zwanzigster,20,1000,7
+524802,und zwanzigstes,20,1000,7
+524802,und zwanzigstens,20,1000,7
+524800,-und-zwanzig,20,1000,7
+524800,und 20,20,1000,7
+524800,undzwanzig,20,1000,7
+524800,und dreißig,30,1000,7
+524802,und dreißigste,30,1000,7
+524802,und dreißigstem,30,1000,7
+524802,und dreißigsten,30,1000,7
+524802,und dreißigster,30,1000,7
+524802,und dreißigstes,30,1000,7
+524802,und dreißigstens,30,1000,7
+524800,-und-dreißig,30,1000,7
+524800,und 30,30,1000,7
+524800,unddreißig,30,1000,7
+524800,und vierzig,40,1000,7
+524802,und vierzigste,40,1000,7
+524802,und vierzigstem,40,1000,7
+524802,und vierzigsten,40,1000,7
+524802,und vierzigster,40,1000,7
+524802,und vierzigstes,40,1000,7
+524802,und vierzigstens,40,1000,7
+524800,-und-vierzig,40,1000,7
+524800,und 40,40,1000,7
+524800,undvierzig,40,1000,7
+524800,und fünfzig,50,1000,7
+524802,und fünfzigste,50,1000,7
+524802,und fünfzigstem,50,1000,7
+524802,und fünfzigsten,50,1000,7
+524802,und fünfzigster,50,1000,7
+524802,und fünfzigstes,50,1000,7
+524802,und fünfzigstens,50,1000,7
+524800,-und-fünfzig,50,1000,7
+524800,und 50,50,1000,7
+524800,undfünfzig,50,1000,7
+524800,und sechzig,60,1000,7
+524802,und sechzigste,60,1000,7
+524802,und sechzigstem,60,1000,7
+524802,und sechzigsten,60,1000,7
+524802,und sechzigster,60,1000,7
+524802,und sechzigstes,60,1000,7
+524802,und sechzigstens,60,1000,7
+524800,-und-sechzig,60,1000,7
+524800,und 60,60,1000,7
+524800,undsechzig,60,1000,7
+524800,und siebzig,70,1000,7
+524802,und siebzigste,70,1000,7
+524802,und siebzigstem,70,1000,7
+524802,und siebzigsten,70,1000,7
+524802,und siebzigster,70,1000,7
+524802,und siebzigstes,70,1000,7
+524802,und siebzigstens,70,1000,7
+524800,-und-siebzig,70,1000,7
+524800,und 70,70,1000,7
+524800,undsiebzig,70,1000,7
+524800,und achtzig,80,1000,7
+524802,und achtzigste,80,1000,7
+524802,und achtzigstem,80,1000,7
+524802,und achtzigsten,80,1000,7
+524802,und achtzigster,80,1000,7
+524802,und achtzigstes,80,1000,7
+524802,und achtzigstens,80,1000,7
+524800,-und-achtzig,80,1000,7
+524800,und 80,80,1000,7
+524800,undachtzig,80,1000,7
+524800,und neunzig,90,1000,7
+524802,und neunzigste,90,1000,7
+524802,und neunzigstem,90,1000,7
+524802,und neunzigsten,90,1000,7
+524802,und neunzigster,90,1000,7
+524802,und neunzigstes,90,1000,7
+524802,und neunzigstens,90,1000,7
+524800,-und-neunzig,90,1000,7
+524800,und 90,90,1000,7
+524800,undneunzig,90,1000,7
+10,ste,0,1000,7
+10,stem,0,1000,7
+10,sten,0,1000,7
+10,ster,0,1000,7
+10,stes,0,1000,7
+10,stens,0,1000,7
+32,halb,500,1000,7
+32,halbe,500,1000,7
+32,einhalb,500,1000,7
+32,und einhalb,500,1000,7
+32,ein halb,500,1000,7
+32,und ein halb,500,1000,7
+32,eine halbe,500,1000,7
+32,und eine halbe,500,1000,7
+32,einer halben,500,1000,7
+32,und einer halben,500,1000,7
+32,1/2,500,1000,7
+32,anderthalb,1500,1000,7
+32,eineinhalb,1500,1000,7
+32,drittel,333,1000,7
+32,1/3,333,1000,7
+32,zwei drittel,667,1000,7
+32,zweidrittel,667,1000,7
+32,2/3,667,1000,7
+32,viertel,250,1000,7
+32,ein viertel,250,1000,7
+32,und ein viertel,250,1000,7
+32,einviertel,250,1000,7
+32,und einviertel,250,1000,7
+32,eine viertel,250,1000,7
+32,und eine viertel,250,1000,7
+32,einer viertel,250,1000,7
+32,und einer viertel,250,1000,7
+32,1/4,250,1000,7
+32,drei viertel,750,1000,7
+32,und drei viertel,750,1000,7
+32,dreiviertel,750,1000,7
+32,und dreiviertel,750,1000,7
+32,ein dreiviertel,750,1000,7
+32,eine dreiviertel,750,1000,7
+32,einer dreiviertel,750,1000,7
+32,3/4,750,1000,7
+1280,null,0,1000,7
+1284,0,0,1000,7
+1281,nur,0,800,7
+32,punkt,0,1000,7
+32,komma,0,1000,7
+32,.,0,1000,7
+262152,und,0,1000,7
+16,negativ,0,1000,7
+16,minus,0,1000,7
+16,-,0,1000,7
+1179648,letzte,0,1000,7
+1179648,letzten,0,1000,7
+1179648,letzte,0,1000,7
+1179648,letzter,0,1000,7
+1179648,letzten,0,1000,7
+1179648,vorletzte,1,1000,7
+1179648,vorletzter,1,1000,7
+1179648,vorletzten,1,1000,7
+1179648,zweitletzte,1,1000,7
+1179648,zweitletzter,1,1000,7
+1179648,zweitletzten,1,1000,7
+1179648,drittletze,2,1000,7
+1179648,drittletzer,2,1000,7
+1179648,drittletzen,2,1000,7

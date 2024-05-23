@@ -1,0 +1,2 @@
+_id,serverId,clientId,clientModifiedTime,isDirtyFolder,clientModifiedTimeFolder,lastModifiedTimeFolder,isSyncFailed,isExtraInfoDirty,commitId,deviceName,conflict,conflictStrategy
+1,,46976171-1965-ebf8-0000-0178ce280273_screenoff,0,0,0,0,0,0,,,0,0

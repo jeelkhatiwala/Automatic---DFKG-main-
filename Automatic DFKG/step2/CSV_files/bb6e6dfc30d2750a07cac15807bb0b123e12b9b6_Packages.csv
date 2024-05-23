@@ -1,0 +1,3 @@
+packageName,version,params,dynamicParams,weak,androidPackageName,isSynced,serializedDeclarativeRegInfo,configTier,baselineCl
+com.google.android.finsky.stable,82622210,b'\x08\x01',,0,com.android.vending,1,,,0
+com.google.android.finsky.regular,82622210,b'\x08\x01',,0,com.android.vending,1,,,0

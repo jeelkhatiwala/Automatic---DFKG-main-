@@ -1,0 +1,984 @@
+type,word,wordgroup,wordvalue,flags,CultureId,numericvalue
+0,version,0,0,20,9,0
+1,:,0,0,0,9,1
+2,winter,25,107,0,9,0
+2,spring,25,108,0,9,0
+2,summer,25,109,0,9,0
+2,autumn,25,110,0,9,0
+2,1. 0.250,25,111,0,9,0
+2,2. 0.250,25,112,0,9,0
+2,3. 0.250,25,113,0,9,0
+2,4. 0.250,25,114,0,9,0
+2,1. 0.500,25,115,0,9,0
+2,2. 0.500,25,116,0,9,0
+1,am,4,37,0,9,0
+1,a.m.,4,37,0,9,0
+1,a.m,4,37,0,9,0
+1,a m,4,37,0,9,0
+1,pm,4,38,0,9,0
+1,p.m.,4,38,0,9,0
+1,p.m,4,38,0,9,0
+1,p m,4,38,0,9,0
+1,o'clock,9,39,8,9,0
+1,at,9,39,4,9,0
+1,the,9,40,36,9,0
+1,on the,9,40,36,9,0
+1,of,9,40,37,9,0
+1,about,9,40,37,9,0
+1,this,1,3,16,9,0
+1,on this,1,3,16,9,0
+1,next,1,2,16,9,0
+1,coming,1,2,16,9,0
+1,upcoming,1,2,16,9,0
+1,on next,1,2,16,9,0
+1,on coming,1,2,16,9,0
+1,on upcoming,1,2,16,9,0
+1,the next,1,2,516,9,0
+1,the coming,1,2,516,9,0
+1,the upcoming,1,2,516,9,0
+1,last,1,1,16,9,0
+1,previous,1,1,16,9,0
+1,on last,1,1,16,9,0
+1,the last,1,1,516,9,0
+1,the previous,1,1,516,9,0
+1,after next,1,75,0,9,0
+1,after coming,1,75,0,9,0
+1,after upcoming,1,75,0,9,0
+1,before last,1,76,0,9,0
+1,after,7,68,4,9,0
+1,past,7,68,5,9,0
+1,till,7,69,8197,9,0
+1,to,7,69,8197,9,0
+1,0.250 of,11,50,0,9,0
+1,a 0.250,11,50,0,9,0
+1,a 0.250 of,11,50,0,9,0
+1,0.500 of,11,51,0,9,0
+1,a 0.500,11,51,0,9,0
+1,a 0.500 of,11,51,0,9,0
+1,0.750 of,11,52,0,9,0
+1,one,11,49,1,9,0
+1,tonight,6,21,0,9,0
+1,tonights,6,21,0,9,0
+1,tonight's,6,21,0,9,0
+1,minute,2,64,8,9,0
+1,a minute,2,64,64,9,0
+1,minutes,2,64,8,9,0
+1,min,2,64,8,9,0
+1,min.,2,64,8,9,0
+1,mins,2,64,8,9,0
+1,hour,2,65,8,9,0
+1,an hour,2,65,64,9,0
+1,hours,2,65,8,9,0
+1,second,2,41,8,9,0
+1,2nd,2,41,8,9,0
+1,a second,2,41,64,9,0
+1,seconds,2,41,8,9,0
+1,sec,2,41,8,9,0
+1,secs,2,41,8,9,0
+1,sec.,2,41,8,9,0
+1,evening,4,17,0,9,0
+1,evenings,4,17,0,9,0
+1,evening's,4,17,0,9,0
+1,morning,4,15,0,9,0
+1,mornings,4,15,0,9,0
+1,morning's,4,15,0,9,0
+1,night,4,18,0,9,0
+1,nights,4,18,0,9,0
+1,night's,4,18,0,9,0
+1,afternoon,4,16,0,9,0
+1,afternoons,4,16,0,9,0
+1,afternoon's,4,16,0,9,0
+1,all day,4,72,0,9,0
+1,work day,4,79,0,9,0
+1,breakfast,4,53,0,9,0
+1,breakfasts,4,53,0,9,0
+1,breakfast's,4,53,0,9,0
+1,brunch,4,54,0,9,0
+1,brunches,4,54,0,9,0
+1,brunch's,4,54,0,9,0
+1,lunch,4,55,0,9,0
+1,lunches,4,55,0,9,0
+1,lunch's,4,55,0,9,0
+1,dinner,4,56,0,9,0
+1,dinners,4,56,0,9,0
+1,dinner's,4,56,0,9,0
+1,yesterday,5,20,0,9,0
+1,yesterdays,5,20,0,9,0
+1,yesterday's,5,20,0,9,0
+1,tomorrow,5,19,0,9,0
+1,tomorrows,5,19,0,9,0
+1,tomorrow's,5,19,0,9,0
+1,sunday,3,8,0,9,0
+1,sundays,3,8,0,9,0
+1,sunday's,3,8,0,9,0
+1,on sunday,3,8,0,9,0
+1,monday,3,9,0,9,0
+1,mondays,3,9,0,9,0
+1,monday's,3,9,0,9,0
+1,on monday,3,9,0,9,0
+1,tuesday,3,10,0,9,0
+1,tuesdays,3,10,0,9,0
+1,tuesday's,3,10,0,9,0
+1,on tuesday,3,10,0,9,0
+1,wednesday,3,11,0,9,0
+1,wednesdays,3,11,0,9,0
+1,wednesday's,3,11,0,9,0
+1,on wednesday,3,11,0,9,0
+1,thursday,3,12,0,9,0
+1,thursdays,3,12,0,9,0
+1,thursday's,3,12,0,9,0
+1,on thursday,3,12,0,9,0
+1,friday,3,13,0,9,0
+1,fridays,3,13,0,9,0
+1,friday's,3,13,0,9,0
+1,on friday,3,13,0,9,0
+1,saturday,3,14,0,9,0
+1,saturdays,3,14,0,9,0
+1,saturday's,3,14,0,9,0
+1,on saturday,3,14,0,9,0
+2,this,1,3,16,9,0
+2,on this,1,3,16,9,0
+2,next,1,2,16,9,0
+2,coming,1,2,16,9,0
+2,upcoming,1,2,16,9,0
+2,on coming,1,2,16,9,0
+2,on upcoming,1,2,16,9,0
+2,on next,1,2,16,9,0
+2,the next,1,2,516,9,0
+2,the coming,1,2,516,9,0
+2,the upcoming,1,2,516,9,0
+2,last,1,1,16,9,0
+2,previous,1,1,16,9,0
+2,on last,1,1,16,9,0
+2,the last,1,1,516,9,0
+2,the previous,1,1,516,9,0
+2,after next,1,75,0,9,0
+2,after coming,1,75,0,9,0
+2,after upcoming,1,75,0,9,0
+2,before last,1,76,0,9,0
+2,following,1,2,516,9,0
+2,preceding,1,1,516,9,0
+2,sunday,3,8,0,9,0
+2,sundays,3,8,0,9,0
+2,sunday's,3,8,0,9,0
+2,on sunday,3,8,0,9,0
+2,monday,3,9,0,9,0
+2,mondays,3,9,0,9,0
+2,monday's,3,9,0,9,0
+2,on monday,3,9,0,9,0
+2,tuesday,3,10,0,9,0
+2,tuesdays,3,10,0,9,0
+2,tuesday's,3,10,0,9,0
+2,on tuesday,3,10,0,9,0
+2,wednesday,3,11,0,9,0
+2,wednesdays,3,11,0,9,0
+2,wednesday's,3,11,0,9,0
+2,on wednesday,3,11,0,9,0
+2,thursday,3,12,0,9,0
+2,thursdays,3,12,0,9,0
+2,thursday's,3,12,0,9,0
+2,on thursday,3,12,0,9,0
+2,friday,3,13,0,9,0
+2,fridays,3,13,0,9,0
+2,friday's,3,13,0,9,0
+2,on friday,3,13,0,9,0
+2,saturday,3,14,0,9,0
+2,saturdays,3,14,0,9,0
+2,saturday's,3,14,0,9,0
+2,on saturday,3,14,0,9,0
+2,january,8,25,0,9,0
+2,januarys,8,25,0,9,0
+2,january's,8,25,0,9,0
+2,on january,8,25,0,9,0
+2,february,8,26,0,9,0
+2,februarys,8,26,0,9,0
+2,february's,8,26,0,9,0
+2,on february,8,26,0,9,0
+2,march,8,27,0,9,0
+2,marchs,8,27,0,9,0
+2,march's,8,27,0,9,0
+2,on march,8,27,0,9,0
+2,april,8,28,0,9,0
+2,aprils,8,28,0,9,0
+2,april's,8,28,0,9,0
+2,on april,8,28,0,9,0
+2,may,8,29,0,9,0
+2,mays,8,29,0,9,0
+2,may's,8,29,0,9,0
+2,on may,8,29,0,9,0
+2,june,8,30,0,9,0
+2,junes,8,30,0,9,0
+2,june's,8,30,0,9,0
+2,on june,8,30,0,9,0
+2,july,8,31,0,9,0
+2,julys,8,31,0,9,0
+2,july's,8,31,0,9,0
+2,on july,8,31,0,9,0
+2,august,8,32,0,9,0
+2,augusts,8,32,0,9,0
+2,august's,8,32,0,9,0
+2,on august,8,32,0,9,0
+2,september,8,33,0,9,0
+2,septembers,8,33,0,9,0
+2,september's,8,33,0,9,0
+2,on september,8,33,0,9,0
+2,october,8,34,0,9,0
+2,octobers,8,34,0,9,0
+2,october's,8,34,0,9,0
+2,on october,8,34,0,9,0
+2,november,8,35,0,9,0
+2,novembers,8,35,0,9,0
+2,november's,8,35,0,9,0
+2,on november,8,35,0,9,0
+2,december,8,36,0,9,0
+2,decembers,8,36,0,9,0
+2,december's,8,36,0,9,0
+2,on december,8,36,0,9,0
+2,jan.,8,25,0,9,0
+2,on jan.,8,25,0,9,0
+2,jan,8,25,0,9,0
+2,on jan,8,25,0,9,0
+2,feb.,8,26,0,9,0
+2,on feb.,8,26,0,9,0
+2,feb,8,26,0,9,0
+2,on feb,8,26,0,9,0
+2,mar.,8,27,0,9,0
+2,on mar.,8,27,0,9,0
+2,mar,8,27,0,9,0
+2,on mar,8,27,0,9,0
+2,apr.,8,28,0,9,0
+2,on apr.,8,28,0,9,0
+2,apr,8,28,0,9,0
+2,on apr,8,28,0,9,0
+2,jul.,8,31,0,9,0
+2,on jul.,8,31,0,9,0
+2,jul,8,31,0,9,0
+2,on jul,8,31,0,9,0
+2,aug.,8,32,0,9,0
+2,on aug.,8,32,0,9,0
+2,aug,8,32,0,9,0
+2,on aug,8,32,0,9,0
+2,sep.,8,33,0,9,0
+2,on sep.,8,33,0,9,0
+2,sep,8,33,0,9,0
+2,on sep,8,33,0,9,0
+2,sept.,8,33,0,9,0
+2,on sept.,8,33,0,9,0
+2,sept,8,33,0,9,0
+2,on sept,8,33,0,9,0
+2,oct.,8,34,0,9,0
+2,on oct.,8,34,0,9,0
+2,oct,8,34,0,9,0
+2,on oct,8,34,0,9,0
+2,nov.,8,35,0,9,0
+2,on nov.,8,35,0,9,0
+2,nov,8,35,0,9,0
+2,on nov,8,35,0,9,0
+2,dec.,8,36,0,9,0
+2,on dec.,8,36,0,9,0
+2,dec,8,36,0,9,0
+2,on dec,8,36,0,9,0
+2,week,2,4,0,9,0
+2,a week,2,4,64,9,0
+2,week's,2,4,0,9,0
+2,weeks,2,4,0,9,0
+2,month,2,6,0,9,0
+2,a month,2,6,64,9,0
+2,month's,2,6,0,9,0
+2,months,2,6,0,9,0
+2,year,2,7,0,9,0
+2,a year,2,7,64,9,0
+2,year's,2,7,0,9,0
+2,years,2,7,0,9,0
+2,weekend,2,5,0,9,0
+2,weekends,2,5,0,9,0
+2,weekend's,2,5,0,9,0
+2,day,2,66,8,9,0
+2,the day,2,66,0,9,0
+2,a day,2,66,64,9,0
+2,days,2,66,8,9,0
+2,weekday,2,67,0,9,0
+2,weekdays,2,67,0,9,0
+2,weekday's,2,67,0,9,0
+2,work week,2,67,0,9,0
+2,work weeks,2,67,0,9,0
+2,work week's,2,67,0,9,0
+2,end of the day,4,82,0,9,0
+2,eod,4,82,0,9,0
+2,rest of the day,4,83,0,9,0
+2,morning,4,15,0,9,0
+2,mornings,4,15,0,9,0
+2,morning's,4,15,0,9,0
+2,afternoon,4,16,0,9,0
+2,afternoons,4,16,0,9,0
+2,afternoon's,4,16,0,9,0
+2,evening,4,17,0,9,0
+2,evenings,4,17,0,9,0
+2,evening's,4,17,0,9,0
+2,night,4,18,0,9,0
+2,nights,4,18,0,9,0
+2,night's,4,18,0,9,0
+2,all day,4,72,0,9,0
+2,work day,4,79,0,9,0
+2,yesterday,5,20,0,9,0
+2,yesterdays,5,20,0,9,0
+2,yesterday's,5,20,0,9,0
+2,the day before,5,20,512,9,0
+2,tomorrow,5,19,0,9,0
+2,the day after,5,19,512,9,0
+2,tomorrows,5,19,0,9,0
+2,tomorrow's,5,19,0,9,0
+2,day after tomorrow,5,57,0,9,0
+2,day after next,5,57,0,9,0
+2,day after coming,5,57,0,9,0
+2,day after upcoming,5,57,0,9,0
+2,day before yesterday,5,58,0,9,0
+2,day before last,5,58,0,9,0
+2,today,6,22,0,9,0
+2,todays,6,22,0,9,0
+2,today's,6,22,0,9,0
+2,now,6,23,0,9,0
+2,right now,6,23,0,9,0
+2,just now,6,23,0,9,0
+2,soon,6,46,0,9,0
+2,recently,6,47,0,9,0
+2,recent,6,47,0,9,0
+2,noon,9,44,0,9,0
+2,noons,9,44,0,9,0
+2,noon's,9,44,0,9,0
+2,midnight,9,45,0,9,0
+2,midnights,9,45,0,9,0
+2,midnight's,9,45,0,9,0
+2,primetime,10,42,0,9,0
+2,prime time,10,42,0,9,0
+2,late,10,43,0,9,0
+2,in,7,73,4,9,1
+2,within,7,73,4,9,1
+2,in next,7,73,4,9,1
+2,within next,7,73,4,9,1
+2,in coming,7,73,4,9,1
+2,in upcoming,7,73,4,9,1
+2,in the next,7,73,4,9,1
+2,within the next,7,73,4,9,1
+2,in the coming,7,73,4,9,1
+2,in the upcoming,7,73,4,9,1
+2,for,7,73,4,9,2
+2,from,7,68,5,9,0
+2,away,7,68,8,9,0
+2,later,7,68,520,9,0
+2,in the future,7,68,8,9,0
+2,before,7,69,520,9,0
+2,earlier,7,69,520,9,0
+2,ago,7,69,8,9,0
+2,by,7,73,4,9,1
+2,last of,16,80,0,9,0
+2,last day of,16,80,0,9,0
+2,mid of,24,105,0,9,0
+2,mid of the,24,105,0,9,0
+2,end of,24,106,0,9,0
+2,end of the,24,106,0,9,0
+1,baker island time,15,70,-1200,9,0
+1,gmt minus 12,15,70,-1200,9,0
+1,gmt minus 11,15,70,-1100,9,0
+1,samoa standard time,15,70,-1100,9,0
+1,samoa time,15,70,-1100,9,0
+1,cook island time,15,70,-1000,9,0
+1,gmt minus 10,15,70,-1000,9,0
+1,hawaii standard time,15,70,-1000,9,0
+1,hawaii time,15,70,-1000,9,0
+1,hawaii aleutian standard time,15,70,-1000,9,0
+1,tahiti time,15,70,-1000,9,0
+1,marquesas islands time,15,70,-930,9,0
+1,alaska standard time,15,70,-900,9,0
+1,gmt minus 9,15,70,-900,9,0
+1,alaska time,15,70,-900,9,0
+1,pacific standard time,15,70,-800,9,0
+1,gmt minus 8,15,70,-800,9,0
+1,pacific time,15,70,-800,9,0
+1,gmt minus 7,15,70,-700,9,0
+1,mountain standard time,15,70,-700,9,0
+1,central standard time,15,70,-600,9,0
+1,gmt minus 6,15,70,-600,9,0
+1,central time,15,70,-600,9,0
+1,easter island standard time,15,70,-600,9,0
+1,galapagos time,15,70,-600,9,0
+1,colombia time,15,70,-500,9,0
+1,cuba standard time,15,70,-500,9,0
+1,cuba time,15,70,-500,9,0
+1,gmt minus 5,15,70,-500,9,0
+1,eastern standard time,15,70,-500,9,0
+1,eastern time,15,70,-500,9,0
+1,ecuador time,15,70,-500,9,0
+1,peru time,15,70,-500,9,0
+1,venezuelan standard time,15,70,-430,9,0
+1,venezuela time,15,70,-430,9,0
+1,gmt minus 4,15,70,-400,9,0
+1,amazon time,15,70,-400,9,0
+1,atlantic standard time,15,70,-400,9,0
+1,atlantic time,15,70,-400,9,0
+1,bolivia time,15,70,-400,9,0
+1,chile standard time,15,70,-400,9,0
+1,chile time,15,70,-400,9,0
+1,eastern caribbean time,15,70,-400,9,0
+1,falkland islands time,15,70,-400,9,0
+1,guyana time,15,70,-400,9,0
+1,paraguay time,15,70,-400,9,0
+1,newfoundland standard time,15,70,-330,9,0
+1,newfoundland time,15,70,-330,9,0
+1,gmt minus 3,15,70,-300,9,0
+1,argentina time,15,70,-300,9,0
+1,brasilia time,15,70,-300,9,0
+1,french guiana time,15,70,-300,9,0
+1,suriname time,15,70,-300,9,0
+1,uruguay standard time,15,70,-300,9,0
+1,uruguay time,15,70,-300,9,0
+1,fernando de noronha time,15,70,-200,9,0
+1,gmt minus 2,15,70,-200,9,0
+1,gmt minus 1,15,70,-100,9,0
+1,azores standard time,15,70,-100,9,0
+1,azores time,15,70,-100,9,0
+1,cape verde time,15,70,-100,9,0
+1,eastern greenland time,15,70,-100,9,0
+1,coordinated universal time,15,70,0,9,0
+1,greenwich mean time,15,70,0,9,0
+1,london time,15,70,0,9,0
+1,uk time,15,70,0,9,0
+1,gmt,15,70,0,9,0
+1,western european time,15,70,0,9,0
+1,zulu time,15,70,0,9,0
+1,gmt plus 1,15,70,100,9,0
+1,central european time,15,70,100,9,0
+1,irish standard time,15,70,100,9,0
+1,ireland time,15,70,100,9,0
+1,middle european time,15,70,100,9,0
+1,west africa time,15,70,100,9,0
+1,central africa time,15,70,200,9,0
+1,gmt plus 2,15,70,200,9,0
+1,eastern european time,15,70,200,9,0
+1,israel time,15,70,200,9,0
+1,israel standard time,15,70,200,9,0
+1,south africa time,15,70,200,9,0
+1,south african standard time,15,70,200,9,0
+1,arabia time,15,70,300,9,0
+1,arabia standard time,15,70,300,9,0
+1,gmt plus 3,15,70,300,9,0
+1,east africa time,15,70,300,9,0
+1,indian ocean time,15,70,300,9,0
+1,iran standard time,15,70,330,9,0
+1,iran time,15,70,330,9,0
+1,armenia time,15,70,400,9,0
+1,azerbaijan time,15,70,400,9,0
+1,georgia time,15,70,400,9,0
+1,georgia standard time,15,70,400,9,0
+1,gmt plus 4,15,70,400,9,0
+1,gulf standard time,15,70,400,9,0
+1,mauritius time,15,70,400,9,0
+1,moscow time,15,70,400,9,0
+1,seychelles time,15,70,400,9,0
+1,volgograd time,15,70,400,9,0
+1,afghanistan time,15,70,430,9,0
+1,gmt plus 5,15,70,500,9,0
+1,maldives time,15,70,500,9,0
+1,pakistan time,15,70,500,9,0
+1,pakistan standard time,15,70,500,9,0
+1,tajikistan time,15,70,500,9,0
+1,turkmenistan time,15,70,500,9,0
+1,uzbekistan time,15,70,500,9,0
+1,india time,15,70,500,9,0
+1,indian standard time,15,70,530,9,0
+1,sri lanka time,15,70,530,9,0
+1,nepal time,15,70,545,9,0
+1,bangladesh time,15,70,600,9,0
+1,bangladesh standard time,15,70,600,9,0
+1,bhutan time,15,70,600,9,0
+1,gmt plus 6,15,70,600,9,0
+1,british indian ocean time,15,70,600,9,0
+1,kyrgyzstan time,15,70,600,9,0
+1,myanmar standard time,15,70,630,9,0
+1,myanmar time,15,70,630,9,0
+1,gmt plus 7,15,70,700,9,0
+1,christmas island time,15,70,700,9,0
+1,indochina time,15,70,700,9,0
+1,krasnoyarsk time,15,70,700,9,0
+1,thailand time,15,70,700,9,0
+1,thailand standard time,15,70,700,9,0
+1,western australia time,15,70,800,9,0
+1,australian western standard time,15,70,800,9,0
+1,brunei time,15,70,800,9,0
+1,central indonesia time,15,70,800,9,0
+1,gmt plus 8,15,70,800,9,0
+1,china standard time,15,70,800,9,0
+1,china time,15,70,800,9,0
+1,hong kong time,15,70,800,9,0
+1,malaysia standard time,15,70,800,9,0
+1,malaysia time,15,70,800,9,0
+1,philippines time,15,70,800,9,0
+1,philippine time,15,70,800,9,0
+1,singapore standard time,15,70,800,9,0
+1,singapore time,15,70,800,9,0
+1,western standard time,15,70,800,9,0
+1,central western standard time,15,70,845,9,0
+1,gmt plus 9,15,70,900,9,0
+1,eastern indonesian time,15,70,900,9,0
+1,irkutsk time,15,70,900,9,0
+1,japan time,15,70,900,9,0
+1,japan standard time,15,70,900,9,0
+1,korea time,15,70,900,9,0
+1,korea standard time,15,70,900,9,0
+1,central australia time,15,70,930,9,0
+1,australian central standard time,15,70,930,9,0
+1,eastern austalia time,15,70,1000,9,0
+1,australian eastern standard time,15,70,1000,9,0
+1,gmt plus 10,15,70,1000,9,0
+1,papua new guinea time,15,70,1000,9,0
+1,vladivostok time,15,70,1000,9,0
+1,lord howe standard time,15,70,1030,9,0
+1,lord howe island time,15,70,1030,9,0
+1,solomon islands time,15,70,1100,9,0
+1,gmt plus 11,15,70,1100,9,0
+1,norfolk time,15,70,1130,9,0
+1,fiji time,15,70,1200,9,0
+1,kamchatka time,15,70,1200,9,0
+1,gmt plus 12,15,70,1200,9,0
+1,marshall islands,15,70,1200,9,0
+1,new zealand time,15,70,1200,9,0
+1,new zealand standard time,15,70,1200,9,0
+1,chatham standard time,15,70,1245,9,0
+1,tonga time,15,70,1300,9,0
+1,gmt plus 13,15,70,1300,9,0
+1,line islands time,15,70,1400,9,0
+1,gmt plus 14,15,70,1400,9,0
+2,new years day,14,71,1,9,0
+2,new year's day,14,71,1,9,0
+2,new years,14,71,1,9,0
+2,new year's,14,71,1,9,0
+2,new year,14,71,1,9,0
+2,martin luther king junior day,14,71,2,9,0
+2,martin luther king jr day,14,71,2,9,0
+2,martin luther king jr. day,14,71,2,9,0
+2,martin luther king day,14,71,2,9,0
+2,mlk junior day,14,71,2,9,0
+2,mlk jr day,14,71,2,9,0
+2,mlk jr. day,14,71,2,9,0
+2,mlk day,14,71,2,9,0
+2,valentines day,14,71,3,9,0
+2,valentine's day,14,71,3,9,0
+2,valentines,14,71,3,9,0
+2,valentine's,14,71,3,9,0
+2,valentine,14,71,3,9,0
+2,valentine day,14,71,3,9,0
+2,presidents day,14,71,4,9,0
+2,president's day,14,71,4,9,0
+2,washington's birthday,14,71,4,9,0
+2,washingtons birthday,14,71,4,9,0
+2,george washingtons birthday,14,71,4,9,0
+2,george washingtons's birthday,14,71,4,9,0
+2,saint patricks day,14,71,5,9,0
+2,saint patrick's day,14,71,5,9,0
+2,st patricks day,14,71,5,9,0
+2,st patrick's day,14,71,5,9,0
+2,st. patricks day,14,71,5,9,0
+2,st. patrick's day,14,71,5,9,0
+2,easter,14,71,6,9,0
+2,easter sunday,14,71,6,9,0
+2,mothers day,14,71,7,9,0
+2,mother's day,14,71,7,9,0
+2,moms day,14,71,7,9,0
+2,mom's day,14,71,7,9,0
+2,memorial day,14,71,8,9,0
+2,fathers day,14,71,9,9,0
+2,father's day,14,71,9,9,0
+2,dads day,14,71,9,9,0
+2,dad's day,14,71,9,9,0
+2,independence day,14,71,10,9,0
+2,labor day,14,71,11,9,0
+2,columbus day,14,71,12,9,0
+2,christopher columbus day,14,71,12,9,0
+2,halloween,14,71,13,9,0
+2,veterans day,14,71,14,9,0
+2,veteran's day,14,71,14,9,0
+2,thanksgiving,14,71,15,9,0
+2,thanksgiving day,14,71,15,9,0
+2,day after thanksgiving,14,71,16,9,0
+2,thanksgiving friday,14,71,16,9,0
+2,christmas eve,14,71,17,9,0
+2,xmas eve,14,71,17,9,0
+2,christmas day,14,71,18,9,0
+2,christmas,14,71,18,9,0
+2,xmas,14,71,18,9,0
+2,xmas day,14,71,18,9,0
+2,new years eve,14,71,19,9,0
+2,new year's eve,14,71,19,9,0
+2,new year eve,14,71,19,9,0
+2,hogmanay,14,71,19,9,0
+2,april fool's day,14,71,20,9,0
+2,april fools day,14,71,20,9,0
+2,april fools,14,71,20,9,0
+2,april fool's,14,71,20,9,0
+2,cinco de mayo,14,71,21,9,0
+2,daylight savings time begins,14,71,22,9,0
+2,dst begins,14,71,22,9,0
+2,beginning of daylight savings time,14,71,22,9,0
+2,beginning of dst,14,71,22,9,0
+2,daylight savings time begin,14,71,22,9,0
+2,daylight savings time starts,14,71,22,9,0
+2,daylight savings time start,14,71,22,9,0
+2,dst start,14,71,22,9,0
+2,dst starts,14,71,22,9,0
+2,dst begin,14,71,22,9,0
+2,onset of daylight savings time,14,71,22,9,0
+2,onset of dst,14,71,22,9,0
+2,daylight savings time ends,14,71,23,9,0
+2,dst ends,14,71,23,9,0
+2,daylight savings time end,14,71,23,9,0
+2,dst end,14,71,23,9,0
+2,end of daylight savings time,14,71,23,9,0
+2,end of dst,14,71,23,9,0
+2,ending of daylight savings time,14,71,23,9,0
+2,ending of dst,14,71,23,9,0
+2,election day,14,71,24,9,0
+2,flag day,14,71,25,9,0
+2,groundhog day,14,71,26,9,0
+2,groundhogs day,14,71,26,9,0
+2,groundhog's day,14,71,26,9,0
+2,john f kennedy's birthday,14,71,27,9,0
+2,john f kennedys birthday,14,71,27,9,0
+2,jfk's birthday,14,71,27,9,0
+2,jfks birthday,14,71,27,9,0
+2,lincoln's birthday,14,71,28,9,0
+2,lincolns birthday,14,71,28,9,0
+2,abraham lincolns birthday,14,71,28,9,0
+2,abraham lincoln's birthday,14,71,28,9,0
+2,president lincoln's birthday,14,71,28,9,0
+2,president lincoln's birthday,14,71,28,9,0
+2,patriot day,14,71,29,9,0
+2,patriots day,14,71,29,9,0
+2,patriot's day,14,71,29,9,0
+2,tax day,14,71,30,9,0
+2,emancipation day,14,71,31,9,0
+2,earth day,14,71,32,9,0
+2,boxing day,14,71,33,9,0
+2,british summer time begins,14,71,34,9,0
+2,british summer time ends,14,71,35,9,0
+2,early may bank holiday,14,71,36,9,0
+2,easter monday,14,71,37,9,0
+2,elizabeth ii's birthday,14,71,38,9,0
+2,elizabeth iis birthday,14,71,38,9,0
+2,elizabeth two's birthday,14,71,38,9,0
+2,elizabeth twos birthday,14,71,38,9,0
+2,elizabeth the second's birthday,14,71,38,9,0
+2,elizabeth the seconds birthday,14,71,38,9,0
+2,good friday,14,71,39,9,0
+2,guy fawkes night,14,71,40,9,0
+2,late summer holiday,14,71,41,9,0
+2,british mother's day,14,71,42,9,0
+2,british mothers day,14,71,42,9,0
+2,mothering sunday,14,71,42,9,0
+2,mother's day in britain,14,71,42,9,0
+2,mothers day in britain,14,71,42,9,0
+2,new year holiday,14,71,43,9,0
+2,remembrance day,14,71,44,9,0
+2,shrove tuesday,14,71,45,9,0
+2,spring bank holiday,14,71,46,9,0
+2,saint andrews day,14,71,47,9,0
+2,saint andrew's day,14,71,47,9,0
+2,st andrews day,14,71,47,9,0
+2,st andrew's day,14,71,47,9,0
+2,st. andrews day,14,71,47,9,0
+2,st. andrew's day,14,71,47,9,0
+2,saint davids day,14,71,48,9,0
+2,saint david's day,14,71,48,9,0
+2,st davids day,14,71,48,9,0
+2,st david's day,14,71,48,9,0
+2,st. davids day,14,71,48,9,0
+2,st. david's day,14,71,48,9,0
+2,saint georges day,14,71,49,9,0
+2,saint george's day,14,71,49,9,0
+2,st georges day,14,71,49,9,0
+2,st george's day,14,71,49,9,0
+2,st. georges day,14,71,49,9,0
+2,st. george's day,14,71,49,9,0
+2,summer bank holiday,14,71,50,9,0
+2,kwanzaa,14,71,51,9,0
+2,advent,14,71,52,9,0
+2,star wars day,14,71,53,9,0
+2,monkey day,14,71,54,9,0
+2,black friday,14,71,201,9,0
+2,ramzan,14,71,55,9,0
+2,ramadan,14,71,55,9,0
+2,ramadhan,14,71,55,9,0
+2,ramzan al-Mubarak,14,71,55,9,0
+2,ramadhan al-Mubarak,14,71,55,9,0
+3,new years day,13,1,0,9,0
+3,new year's day,13,1,0,9,0
+3,new years,13,1,0,9,0
+3,new year's,13,1,0,9,0
+3,new year,13,1,0,9,0
+3,martin luther king junior day,13,2,0,9,0
+3,martin luther king jr day,13,2,0,9,0
+3,martin luther king jr. day,13,2,0,9,0
+3,martin luther king day,13,2,0,9,0
+3,mlk junior day,13,2,0,9,0
+3,mlk jr day,13,2,0,9,0
+3,mlk jr. day,13,2,0,9,0
+3,mlk day,13,2,0,9,0
+3,valentines day,13,3,0,9,0
+3,valentine's day,13,3,0,9,0
+3,valentines,13,3,0,9,0
+3,valentine's,13,3,0,9,0
+3,valentine,13,3,0,9,0
+3,valentine day,13,3,0,9,0
+3,presidents day,13,4,0,9,0
+3,president's day,13,4,0,9,0
+3,washington's birthday,13,4,0,9,0
+3,washingtons birthday,13,4,0,9,0
+3,george washingtons birthday,13,4,0,9,0
+3,george washingtons's birthday,13,4,0,9,0
+3,saint patricks day,13,5,0,9,0
+3,saint patrick's day,13,5,0,9,0
+3,st patricks day,13,5,0,9,0
+3,st patrick's day,13,5,0,9,0
+3,st. patricks day,13,5,0,9,0
+3,st. patrick's day,13,5,0,9,0
+3,easter,13,6,0,9,0
+3,easter sunday,13,6,0,9,0
+3,mothers day,13,7,0,9,0
+3,mother's day,13,7,0,9,0
+3,moms day,13,7,0,9,0
+3,mom's day,13,7,0,9,0
+3,memorial day,13,8,0,9,0
+3,fathers day,13,9,0,9,0
+3,father's day,13,9,0,9,0
+3,dads day,13,9,0,9,0
+3,dad's day,13,9,0,9,0
+3,independence day,13,10,0,9,0
+3,labor day,13,11,0,9,0
+3,columbus day,13,12,0,9,0
+3,christopher columbus day,13,12,0,9,0
+3,halloween,13,13,0,9,0
+3,veterans day,13,13,0,9,0
+3,veteran's day,13,13,0,9,0
+3,thanksgiving,13,15,0,9,0
+3,thanksgiving day,13,15,0,9,0
+3,day after thanksgiving,13,16,0,9,0
+3,thanksgiving friday,13,16,0,9,0
+3,christmas eve,13,17,0,9,0
+3,xmas eve,13,17,0,9,0
+3,christmas day,13,18,0,9,0
+3,christmas,13,18,0,9,0
+3,xmas,13,18,0,9,0
+3,xmas day,13,18,0,9,0
+3,new years eve,13,19,0,9,0
+3,new year's eve,13,19,0,9,0
+3,new year eve,13,19,0,9,0
+3,hogmanay,13,19,0,9,0
+3,april fool's day,13,20,0,9,0
+3,april fools day,13,20,0,9,0
+3,april fools,13,20,0,9,0
+3,april fool's,13,20,0,9,0
+3,cinco de mayo,13,21,0,9,0
+3,daylight savings time begins,13,22,0,9,0
+3,dst begins,13,22,0,9,0
+3,beginning of daylight savings time,13,22,0,9,0
+3,beginning of dst,13,22,0,9,0
+3,daylight savings time begin,13,22,0,9,0
+3,daylight savings time starts,13,22,0,9,0
+3,daylight savings time start,13,22,0,9,0
+3,dst start,13,22,0,9,0
+3,dst starts,13,22,0,9,0
+3,dst begin,13,22,0,9,0
+3,onset of daylight savings time,13,22,0,9,0
+3,onset of dst,13,22,0,9,0
+3,daylight savings time ends,13,23,0,9,0
+3,dst ends,13,23,0,9,0
+3,daylight savings time end,13,23,0,9,0
+3,dst end,13,23,0,9,0
+3,end of daylight savings time,13,23,0,9,0
+3,end of dst,13,23,0,9,0
+3,ending of daylight savings time,13,23,0,9,0
+3,ending of dst,13,23,0,9,0
+3,election day,13,24,0,9,0
+3,flag day,13,25,0,9,0
+3,groundhog day,13,26,0,9,0
+3,groundhogs day,13,26,0,9,0
+3,groundhog's day,13,26,0,9,0
+3,john f kennedy's birthday,13,27,0,9,0
+3,john f kennedys birthday,13,27,0,9,0
+3,jfk's birthday,13,27,0,9,0
+3,jfks birthday,13,27,0,9,0
+3,lincoln's birthday,13,28,0,9,0
+3,lincolns birthday,13,28,0,9,0
+3,abraham lincolns birthday,13,28,0,9,0
+3,abraham lincoln's birthday,13,28,0,9,0
+3,president lincoln's birthday,13,28,0,9,0
+3,president lincoln's birthday,13,28,0,9,0
+3,patriot day,13,29,0,9,0
+3,patriots day,13,29,0,9,0
+3,patriot's day,13,29,0,9,0
+3,tax day,13,30,0,9,0
+3,emancipation day,13,31,0,9,0
+3,earth day,13,32,0,9,0
+3,boxing day,13,33,0,9,0
+3,british summer time begins,13,34,0,9,0
+3,british summer time ends,13,35,0,9,0
+3,early may bank holiday,13,36,0,9,0
+3,easter monday,13,37,0,9,0
+3,elizabeth ii's birthday,13,38,0,9,0
+3,elizabeth iis birthday,13,38,0,9,0
+3,elizabeth two's birthday,13,38,0,9,0
+3,elizabeth twos birthday,13,38,0,9,0
+3,elizabeth the second's birthday,13,38,0,9,0
+3,elizabeth the seconds birthday,13,38,0,9,0
+3,good friday,13,39,0,9,0
+3,guy fawkes night,13,40,0,9,0
+3,late summer holiday,13,41,0,9,0
+3,british mother's day,13,42,0,9,0
+3,british mothers day,13,42,0,9,0
+3,mothering sunday,13,42,0,9,0
+3,mother's day in britain,13,42,0,9,0
+3,mothers day in britain,13,42,0,9,0
+3,new year holiday,13,43,0,9,0
+3,remembrance day,13,44,0,9,0
+3,shrove tuesday,13,45,0,9,0
+3,spring bank holiday,13,46,0,9,0
+3,saint andrews day,13,47,0,9,0
+3,saint andrew's day,13,47,0,9,0
+3,st andrews day,13,47,0,9,0
+3,st andrew's day,13,47,0,9,0
+3,st. andrews day,13,47,0,9,0
+3,st. andrew's day,13,47,0,9,0
+3,saint davids day,13,48,0,9,0
+3,saint david's day,13,48,0,9,0
+3,st davids day,13,48,0,9,0
+3,st david's day,13,48,0,9,0
+3,st. davids day,13,48,0,9,0
+3,st. david's day,13,48,0,9,0
+3,saint georges day,13,49,0,9,0
+3,saint george's day,13,49,0,9,0
+3,st georges day,13,49,0,9,0
+3,st george's day,13,49,0,9,0
+3,st. georges day,13,49,0,9,0
+3,st. george's day,13,49,0,9,0
+3,summer bank holiday,13,50,0,9,0
+3,kwanzaa,13,51,0,9,0
+3,advent,13,52,0,9,0
+3,star wars day,13,53,0,9,0
+3,monkey day,13,54,0,9,0
+3,black friday,13,201,0,9,0
+3,ramzan,13,55,0,9,0
+3,ramadan,13,55,0,9,0
+3,ramadhan,13,55,0,9,0
+3,ramzan al-Mubarak,13,55,0,9,0
+3,ramadhan al-Mubarak,13,55,0,9,0
+1,dt_delete_protector,100,100,0,0,0
+3,each,1,0,0,9,0
+3,every,1,0,0,9,0
+3,repeated,1,0,0,9,0
+3,all,1,0,0,9,0
+3,the day,2,0,0,9,0
+3,this day,2,0,0,9,0
+3,day,2,0,0,9,0
+3,days,2,0,1,9,0
+3,daily,2,0,2,9,0
+3,everyday,2,0,2,9,0
+3,week,3,0,0,9,0
+3,the week,3,0,0,9,0
+3,this week,3,0,0,9,0
+3,weeks,3,0,1,9,0
+3,weekly,3,0,2,9,0
+3,weekday,4,0,0,9,0
+3,the weekday,4,0,0,9,0
+3,this weekday,4,0,0,9,0
+3,weekdays,4,0,1,9,0
+3,weekend,5,0,0,9,0
+3,the weekend,5,0,0,9,0
+3,this weekend,5,0,0,9,0
+3,weekends,5,0,1,9,0
+3,sunday,6,1,0,9,0
+3,sundays,6,1,1,9,0
+3,monday,6,2,0,9,0
+3,mondays,6,2,1,9,0
+3,tuesday,6,3,0,9,0
+3,tuesdays,6,3,1,9,0
+3,wednesday,6,4,0,9,0
+3,wednesdays,6,4,1,9,0
+3,thursday,6,5,0,9,0
+3,thursdays,6,5,1,9,0
+3,friday,6,6,0,9,0
+3,fridays,6,6,1,9,0
+3,saturday,6,7,0,9,0
+3,saturdays,6,7,1,9,0
+3,last,8,0,0,9,0
+3,month,9,0,0,9,0
+3,the month,9,0,0,9,0
+3,this month,9,0,0,9,0
+3,months,9,0,1,9,0
+3,monthly,9,0,2,9,0
+3,january,10,1,0,9,0
+3,jan,10,1,0,9,0
+3,february,10,2,0,9,0
+3,feb,10,2,0,9,0
+3,march,10,3,0,9,0
+3,mar,10,3,0,9,0
+3,april,10,4,0,9,0
+3,apr,10,4,0,9,0
+3,may,10,5,0,9,0
+3,june,10,6,0,9,0
+3,july,10,7,0,9,0
+3,jul,10,7,0,9,0
+3,august,10,8,0,9,0
+3,aug,10,8,0,9,0
+3,september,10,9,0,9,0
+3,sept,10,9,0,9,0
+3,october,10,10,0,9,0
+3,oct,10,10,0,9,0
+3,november,10,11,0,9,0
+3,nov,10,11,0,9,0
+3,december,10,12,0,9,0
+3,dec,10,12,0,9,0
+3,year,11,0,0,9,0
+3,the year,11,0,0,9,0
+3,this year,11,0,0,9,0
+3,years,11,0,1,9,0
+3,yearly,11,0,2,9,0
+3,annual,11,0,2,9,0
+3,annually,11,0,2,9,0
+3,through,12,0,0,9,0
+3,to,12,0,0,9,0
+3,all week,16,0,1,9,0
+3,entire week,16,0,1,9,0
+3,full week,16,0,1,9,0
+3,complete week,16,0,1,9,0
+3,and,15,0,4,9,0
+3,on,15,0,4,9,0
+3,winter,17,0,2,18,0
+3,spring,17,1,2,18,0
+3,summer,17,2,2,18,0
+3,autumn,17,3,2,18,0
+3,1. 0.250,17,4,2,9,0
+3,2. 0.250,17,5,2,9,0
+3,3. 0.250,17,6,2,9,0
+3,4. 0.250,17,7,2,9,0
+3,1. 0.500,17,8,2,9,0
+3,2. 0.500,17,9,2,9,0
+4,from,1,0,0,9,0
+4,beginning,1,0,0,9,0
+4,beginning at,1,0,0,9,0
+4,beginning on,1,0,0,9,0
+4,between,1,0,0,9,0
+4,through,2,0,0,9,0
+4,to,2,0,1,9,0
+4,and,2,0,1,9,0
+4,until,2,0,0,9,0
+4,ending,2,0,0,9,0
+4,ending at,2,0,0,9,0
+4,ending on,2,0,0,9,0
+4,and ending,2,0,0,9,0
+4,and ending at,2,0,0,9,0
+4,and ending on,2,0,0,9,0
+4,end,3,0,0,9,0
+4,after,5,1,0,9,0
+4,since,5,1,0,9,0
+4,till,5,2,0,9,0
+4,upto,5,2,0,9,0
+4,before,5,2,0,9,0

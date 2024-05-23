@@ -1,0 +1,379 @@
+flags,word,value,confidence,CultureId
+256,uno,1,1000,10
+256,ún,1,1000,10
+258,primero,1,1000,10
+258,primera,1,1000,10
+258,primeros,1,1000,10
+258,primeras,1,1000,10
+258,primer,1,1000,10
+262,1º,1,1000,10
+262,1ª,1,1000,10
+256,dos,2,1000,10
+256,dós,2,1000,10
+258,segundo,2,1000,10
+258,segunda,2,1000,10
+258,segundos,2,1000,10
+258,segundas,2,1000,10
+262,2º,2,1000,10
+262,2ª,2,1000,10
+256,tres,3,1000,10
+256,trés,3,1000,10
+258,tercero,3,1000,10
+258,tercera,3,1000,10
+258,terceros,3,1000,10
+258,terceras,3,1000,10
+258,tercer,3,1000,10
+262,3º,3,1000,10
+262,3ª,4,1000,10
+256,cuatro,4,1000,10
+131330,cuarto,4,1000,10
+258,cuarta,4,1000,10
+258,cuartos,4,1000,10
+258,cuartas,4,1000,10
+262,4º,4,1000,10
+262,4ª,4,1000,10
+256,cinco,5,1000,10
+256,quin,5,1000,10
+258,quinto,5,1000,10
+258,quinta,5,1000,10
+258,quintos,5,1000,10
+258,quintas,5,1000,10
+262,5º,5,1000,10
+262,5ª,5,1000,10
+256,seis,6,1000,10
+256,séis,6,1000,10
+258,sexto,6,1000,10
+258,sexta,6,1000,10
+258,sextos,6,1000,10
+258,sextas,6,1000,10
+262,6º,6,1000,10
+262,6ª,6,1000,10
+256,siete,7,1000,10
+256,sete,7,1000,10
+258,séptimo,7,1000,10
+258,septimo,7,1000,10
+258,séptima,7,1000,10
+258,septima,7,1000,10
+258,séptimos,7,1000,10
+258,septimos,7,1000,10
+258,séptimas,7,1000,10
+258,septimas,7,1000,10
+262,7º,7,1000,10
+262,7ª,7,1000,10
+256,ocho,8,1000,10
+258,octavo,8,1000,10
+258,octava,8,1000,10
+258,octavos,8,1000,10
+258,octavas,8,1000,10
+262,8º,8,1000,10
+262,8ª,8,1000,10
+256,nueve,9,1000,10
+256,nove,9,1000,10
+258,noveno,9,1000,10
+258,novena,9,1000,10
+258,novenos,9,1000,10
+258,novenas,9,1000,10
+262,9º,9,1000,10
+262,9ª,9,1000,10
+1536,diez,10,1000,10
+1538,décimo,10,1000,10
+1538,decimo,10,1000,10
+1538,décima,10,1000,10
+1538,decima,10,1000,10
+1538,décimos,10,1000,10
+1538,decimos,10,1000,10
+1538,décimas,10,1000,10
+1538,decimas,10,1000,10
+1542,10º,10,1000,10
+1542,10ª,10,1000,10
+512,once,11,1000,10
+514,undécimo,11,1000,10
+514,undecimo,11,1000,10
+514,undécima,11,1000,10
+514,undecima,11,1000,10
+514,undécimos,11,1000,10
+514,undecimos,11,1000,10
+514,undécimas,11,1000,10
+514,undecimas,11,1000,10
+514,décimo primero,11,1000,10
+514,decimo primero,11,1000,10
+514,décimo primer,11,1000,10
+514,decimo primer,11,1000,10
+514,décimo primera,11,1000,10
+514,decimo primera,11,1000,10
+514,décimoprimer,11,1000,10
+514,decimoprimer,11,1000,10
+514,decimoprimero,11,1000,10
+514,decimoprimera,11,1000,10
+518,11º,11,1000,10
+518,11ª,11,1000,10
+512,doce,12,1000,10
+514,duodécimo,12,1000,10
+514,duodecimo,12,1000,10
+514,duodécima,12,1000,10
+514,duodecima,12,1000,10
+514,duodécimos,12,1000,10
+514,duodecimos,12,1000,10
+514,duodécimas,12,1000,10
+514,duodecimas,12,1000,10
+514,décimo segundo,12,1000,10
+514,decimo segundo,12,1000,10
+514,décimo segunda,12,1000,10
+514,decimo segunda,12,1000,10
+514,decimosegundo,12,1000,10
+514,decimosegunda,12,1000,10
+518,12º,12,1000,10
+518,12ª,12,1000,10
+576,docena,12,1000,10
+576,docenas,12,1000,10
+512,trece,13,1000,10
+514,décimo tercero,13,1000,10
+514,decimo tercero,13,1000,10
+514,décimo tercera,13,1000,10
+514,decimo tercera,13,1000,10
+514,décimo terceros,13,1000,10
+514,decimo terceros,13,1000,10
+514,décimo terceras,13,1000,10
+514,decimo terceras,13,1000,10
+514,décimo tercer,13,1000,10
+514,decimo tercer,13,1000,10
+514,decimotercer,13,1000,10
+514,decimotercero,13,1000,10
+514,decimotercera,13,1000,10
+518,13º,13,1000,10
+518,13ª,14,1000,10
+512,catorce,14,1000,10
+514,décimo cuarto,14,1000,10
+514,decimo cuarto,14,1000,10
+514,décimo cuarta,14,1000,10
+514,decimo cuarta,14,1000,10
+514,décimo cuartos,14,1000,10
+514,decimo cuartos,14,1000,10
+514,décimo cuartas,14,1000,10
+514,decimo cuartas,14,1000,10
+514,decimocuarto,14,1000,10
+514,decimocuarta,14,1000,10
+518,14º,14,1000,10
+518,14ª,14,1000,10
+512,quince,15,1000,10
+514,décimo quinto,15,1000,10
+514,decimo quinto,15,1000,10
+514,décimo quinta,15,1000,10
+514,decimo quinta,15,1000,10
+514,décimo quintos,15,1000,10
+514,decimo quintos,15,1000,10
+514,décimo quintas,15,1000,10
+514,decimo quintas,15,1000,10
+514,decimoquinto,15,1000,10
+514,decimoquinta,15,1000,10
+518,15º,15,1000,10
+518,15ª,15,1000,10
+512,dieciséis,16,1000,10
+512,dieciseis,16,1000,10
+514,décimo sexto,16,1000,10
+514,decimo sexto,16,1000,10
+514,décimo sexta,16,1000,10
+514,decimo sexta,16,1000,10
+514,decimosexto,16,1000,10
+514,decimosexta,16,1000,10
+518,16º,16,1000,10
+518,16ª,16,1000,10
+512,diecisiete,17,1000,10
+514,décimo séptimo,17,1000,10
+514,decimo septimo,17,1000,10
+514,décimo séptima,17,1000,10
+514,decimo septima,17,1000,10
+514,décimo séptimos,17,1000,10
+514,decimo septimos,17,1000,10
+514,décimo séptimas,17,1000,10
+514,decimo septimas,17,1000,10
+514,decimoseptimo,17,1000,10
+514,decimoseptima,17,1000,10
+518,17º,17,1000,10
+518,17ª,17,1000,10
+512,dieciocho,18,1000,10
+512,diesiocho,18,1000,10
+514,décimo octavo,18,1000,10
+514,decimo octavo,18,1000,10
+514,décimo octava,18,1000,10
+514,decimo octava,18,1000,10
+514,décimo octavos,18,1000,10
+514,decimo octavos,18,1000,10
+514,décimo octavas,18,1000,10
+514,decimo octavas,18,1000,10
+514,décimoctavo,18,1000,10
+514,decimoctavo,18,1000,10
+514,décimoctava,18,1000,10
+514,decimoctava,18,1000,10
+518,18º,18,1000,10
+518,18ª,18,1000,10
+512,diecinueve,19,1000,10
+514,décimo noveno,19,1000,10
+514,decimo noveno,19,1000,10
+514,décimo novena,19,1000,10
+514,decimo novena,19,1000,10
+514,décimo novenos,19,1000,10
+514,decimo novenos,19,1000,10
+514,décimo novenas,19,1000,10
+514,decimo novenas,19,1000,10
+514,decimonoveno,19,1000,10
+514,decimonovena,19,1000,10
+518,19º,19,1000,10
+518,19ª,19,1000,10
+512,veinte,20,1000,10
+512,veinti,20,1000,10
+514,vigésimo,20,1000,10
+514,vigesimo,20,1000,10
+514,vigésima,20,1000,10
+514,vigesima,20,1000,10
+514,vigésimos,20,1000,10
+514,vigesimos,20,1000,10
+514,vigésimas,20,1000,10
+514,vigesimas,20,1000,10
+1542,20º,20,1000,10
+1542,20ª,20,1000,10
+512,treinta,30,1000,10
+514,trigésimo,30,1000,10
+514,trigesimo,30,1000,10
+514,trigésima,30,1000,10
+514,trigesima,30,1000,10
+514,trigésimos,30,1000,10
+514,trigesimos,30,1000,10
+514,trigésimas,30,1000,10
+514,trigesimas,30,1000,10
+1542,30º,30,1000,10
+1542,30ª,30,1000,10
+512,cuarenta,40,1000,10
+514,cuadragésimo,40,1000,10
+514,cuadragesimo,40,1000,10
+514,cuadragésima,40,1000,10
+514,cuadragesima,40,1000,10
+514,cuadragésimos,40,1000,10
+514,cuadragesimos,40,1000,10
+514,cuadragésimas,40,1000,10
+514,cuadragesimas,40,1000,10
+1542,40º,40,1000,10
+1542,40ª,40,1000,10
+512,cincuenta,50,1000,10
+512,la cincuenta,50,1000,10
+514,quincuagésimo,50,1000,10
+514,quincuagesimo,50,1000,10
+514,quincuagésima,50,1000,10
+514,quincuagesima,50,1000,10
+514,quincuagésimos,50,1000,10
+514,quincuagesimos,50,1000,10
+514,quincuagésimas,50,1000,10
+514,quincuagesimas,50,1000,10
+1542,50º,50,1000,10
+1542,50ª,50,1000,10
+512,sesenta,60,1000,10
+514,sexagésimo,60,1000,10
+514,sexagesimo,60,1000,10
+514,sexagésima,60,1000,10
+514,sexagesima,60,1000,10
+514,sexagésimos,60,1000,10
+514,sexagesimos,60,1000,10
+514,sexagésimas,60,1000,10
+514,sexagesimas,60,1000,10
+1542,60º,60,1000,10
+1542,60ª,60,1000,10
+512,setenta,70,1000,10
+514,septuagésimo,70,1000,10
+514,septuagesimo,70,1000,10
+514,septuagésima,70,1000,10
+514,septuagesima,70,1000,10
+514,septuagésimos,70,1000,10
+514,septuagesimos,70,1000,10
+514,septuagésimas,70,1000,10
+514,septuagesimas,70,1000,10
+1542,70º,70,1000,10
+1542,70ª,70,1000,10
+512,ochenta,80,1000,10
+514,octogésimo,80,1000,10
+514,octogesimo,80,1000,10
+514,octogésima,80,1000,10
+514,octogesima,80,1000,10
+514,octogésimos,80,1000,10
+514,octogesimos,80,1000,10
+514,octogésimas,80,1000,10
+514,octogesimas,80,1000,10
+1542,80º,80,1000,10
+1542,80ª,80,1000,10
+512,noventa,90,1000,10
+514,nonagésimo,90,1000,10
+514,nonagesimo,90,1000,10
+514,nonagésima,90,1000,10
+514,nonagesima,90,1000,10
+514,nonagésimos,90,1000,10
+514,nonagesimos,90,1000,10
+514,nonagésimas,90,1000,10
+514,nonagesimas,90,1000,10
+1542,90º,90,1000,10
+1542,90ª,90,1000,10
+64,cien,100,1000,10
+64,ciento,100,1000,10
+64,cientas,100,1000,10
+64,cientos,100,1000,10
+66,centésimo,100,1000,10
+66,centesimo,100,1000,10
+66,centésima,100,1000,10
+66,centesima,100,1000,10
+66,centésimos,100,1000,10
+66,centesimos,100,1000,10
+66,centésimas,100,1000,10
+66,centesimas,100,1000,10
+1094,100º,100,1000,10
+1094,100ª,100,1000,10
+16384,quinientos,500,1000,10
+192,mil,1000,1000,10
+192,miles,1000,1000,10
+16768,dos mil,2000,1000,10
+16768,dos miles,2000,1000,10
+192,millón,1000000,1000,10
+192,millon,1000000,1000,10
+192,millones,1000000,1000,10
+192,mil millones,1000000000,1000,10
+192,billones,1000000000,1000,10
+32,mitad,500,1000,10
+32,media,500,1000,10
+32,y media,500,1000,10
+32,medio,500,1000,10
+32,y medio,500,1000,10
+32,1/2,500,1000,10
+32,uno y medio,1500,1000,10
+32,una y media,1500,1000,10
+32,un tercio,333,1000,10
+32,1/3,333,1000,10
+32,dos tercios,667,1000,10
+32,2/3,667,1000,10
+32,un cuarto,250,1000,10
+32,y un cuarto,250,1000,10
+32,cuartos,250,1000,10
+32,1/4,250,1000,10
+32,tres cuartos,750,1000,10
+32,y tres cuartos,750,1000,10
+32,3/4,750,1000,10
+1280,cero,0,1000,10
+1284,0,0,1000,10
+262176,punto,0,1000,10
+32,coma,0,1000,10
+32,.,0,1000,10
+8,y,0,1000,10
+8,un,0,1000,10
+8,una,0,1000,10
+16,negativo,0,1000,10
+16,menos,0,1000,10
+16,-,0,1000,10
+1179648,último,0,1000,10
+1179648,última,0,1000,10
+1179648,ultimo,0,1000,10
+1179648,ultima,0,1000,10
+1179648,del final,0,1000,10
+1179648,penúltimo,1,1000,10
+1179648,penúltima,1,1000,10
+1179648,penultimo,1,1000,10
+1179648,penultima,1,1000,10
+1179648,antepenúltimo,2,1000,10
+1179648,antepenúltima,2,1000,10
+1179648,antepenultimo,2,1000,10
+1179648,antepenultima,2,1000,10

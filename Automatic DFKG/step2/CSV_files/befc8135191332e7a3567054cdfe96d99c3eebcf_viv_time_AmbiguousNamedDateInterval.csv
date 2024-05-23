@@ -1,0 +1,113 @@
+RecordId,formal,alias
+1,Q1,1 분 기
+2,Q1,일 사 분 기
+3,Q2,2 분 기
+4,Q2,이 사 분 기
+5,Q3,3 분 기
+6,Q3,삼 사 분 기
+7,Q4,4 분 기
+8,Q4,사 사 분 기
+9,H1,상 반 기
+10,H1,상 반 년
+11,H1,전 반 기
+12,H2,하 반 기
+13,H2,하 반 년
+14,H2,후 반 기
+15,ThisTimeOfYear,이 맘 때
+16,ThisTimeOfYear,매 년 이 맘 때
+17,ThisTimeOfYear,요 맘 때
+18,ThisTimeOfYear,매 년 요 맘 때
+19,ThisTimeOfYear,요 즈 음
+20,ThisTimeOfYear,요 즘
+21,ThisTimeOfYear,요 사 이
+22,ThisTimeOfYear,이 즈 음
+23,ThisTimeOfYear,근 래
+24,x-TodayTomorrow,오 늘 내 일
+25,x-TodayTomorrow,오 늘 내 일
+26,x-TodayTomorrow,오 늘 이 랑 내 일
+27,x-TodayTomorrow,오 늘 이 랑 내 일
+28,x-ThisSpring,올 봄
+29,x-ThisSummer,올 여 름
+30,x-ThisFall,올 가 을
+31,x-ThisWinter,올 겨 울
+32,x-LastSpring,지 난 봄
+33,x-LastSummer,지 난 여 름
+34,x-LastFall,지 난 가 을
+35,x-LastWinter,지 난 겨 울
+36,x-YearBeforeLastYear,재 작 년
+37,x-LastYear,거 년
+38,x-LastYear,작 년
+39,x-LastYear,전 년
+40,x-LastYear,전 년 도
+41,x-LastYear,전 해
+42,x-LastYear,지 난 해
+43,x-LastYear,지 지 난 해
+44,x-LastYear,지 난 년
+45,x-LastYear,지 난 년 도
+46,x-LastYear,저 번 년
+47,x-LastYear,저 번 년 도
+48,x-LastYear,이 전 년 도
+49,x-LastYear,이 전 년 도
+50,x-LastYear,이 전 연 도
+51,x-ThisYear,올
+52,x-ThisYear,올 해
+53,x-ThisYear,금 년
+54,x-ThisYear,당 년
+55,x-ThisYear,당 년 도
+56,x-ThisYear,당 해
+57,x-ThisYear,당 해 년 도
+58,x-ThisYear,이 번 년
+59,x-ThisYear,이 번 년 도
+60,x-ThisYear,년 간
+61,x-ThisYear,연 간
+62,x-NextYear,내 년
+63,x-NextYear,명 년
+64,x-NextYear,이 듬 해
+65,x-NextYear,익 년
+66,x-NextYear,다 음 년
+67,x-NextYear,다 음 해
+68,x-NextYear,다 음 년 도
+69,x-YearAfterNextYear,후 년
+70,x-TwoYearsAfterNextYear,내 후 년
+71,x-TwoYearsAfterNextYear,명 후 년
+72,x-TwoYearsAfterNextYear,후 후 년
+73,x-TwoYearsAfterNextYear,그 후 년
+74,x-MonthBeforeLastMonth,지 지 난 달
+75,x-MonthBeforeLastMonth,전 전 달
+76,x-MonthBeforeLastMonth,저 저 번 달
+77,x-LastMonth,지 난 달
+78,x-LastMonth,전 달
+79,x-LastMonth,저 번 달
+80,x-ThisMonth,이 달
+81,x-ThisMonth,금 월
+82,x-ThisMonth,차 월
+83,x-ThisMonth,당 월
+84,x-ThisMonth,요 번 달
+85,x-ThisMonth,이 번 달
+86,x-ThisMonth,월 간
+87,x-NextMonth,내 달
+88,x-NextMonth,다 음 달
+89,x-MonthAfterNextMonth,다 음 다 음 달
+90,x-MonthAfterNextMonth,다 다 음 달
+91,x-MonthAfterNextMonth,다 담 달
+92,x-WeekBeforeLastWeek,지 지 난 주
+93,x-WeekBeforeLastWeek,저 저 번 주
+94,x-WeekBeforeLastWeek,저 저 번 주
+95,x-WeekBeforeLastWeek,저 저 번 주
+96,x-WeekBeforeLastWeek,전 전 주
+97,x-LastWeek,지 난 주
+98,x-LastWeek,저 번 주
+99,x-LastWeek,전 주
+100,x-ThisWeek,금 주
+101,x-ThisWeek,이 주
+102,x-ThisWeek,요 번 주
+103,x-ThisWeek,이 번 주
+104,x-ThisWeek,주 간
+105,x-NextWeek,차 주
+106,x-NextWeek,담 주
+107,x-NextWeek,다 음 주
+108,x-WeekAfterNextWeek,차 차 주
+109,x-WeekAfterNextWeek,다 담 주
+110,x-WeekAfterNextWeek,다 다 음 주
+111,x-WeekAfterNextWeek,다 음 다 음 주
+112,x-EndOfThisYear,연 말

@@ -1,0 +1,15 @@
+_id,logDate,logTitmeTick,logDesc
+1,2021-04-03 15:10:31,1617477031,[DA_DAUtility] updateWhitelistAppsInSystemServer. count = 19
+2,2021-05-05 04:13:02,1620202382,[DA_DAUtility] updateWhitelistAppsInSystemServer. count = 19
+3,2021-05-05 04:22:10,1620202930,[DA_DAUtility] updateWhitelistAppsInSystemServer. count = 19
+4,2021-05-15 20:03:42,1621123422,[DA_DAUtility] updateWhitelistAppsInSystemServer. count = 19
+5,2021-05-18 22:54:20,1621392860,[DA_DAUtility] updateWhitelistAppsInSystemServer. count = 19
+6,2021-05-26 12:27:36,1622046456,[DA_DAUtility] updateWhitelistAppsInSystemServer. count = 19
+7,2021-06-06 16:47:27,1623012447,[DA_DAUtility] updateWhitelistAppsInSystemServer. count = 19
+8,2021-06-11 15:52:38,1623441158,[DA_DAUtility] updateWhitelistAppsInSystemServer. count = 19
+9,2021-06-22 01:35:05,1624340105,[DA_DAUtility] updateWhitelistAppsInSystemServer. count = 19
+10,2021-06-22 14:17:12,1624385832,[DA_DAUtility] updateWhitelistAppsInSystemServer. count = 19
+11,2021-06-28 23:23:59,1624937039,[DA_DAUtility] updateWhitelistAppsInSystemServer. count = 19
+12,2021-07-01 00:30:14,1625113814,[DA_DAUtility] updateWhitelistAppsInSystemServer. count = 19
+13,2021-07-05 14:08:25,1625508505,[DA_DAUtility] updateWhitelistAppsInSystemServer. count = 19
+14,2021-07-09 01:45:15,1625809515,[DA_DAUtility] updateWhitelistAppsInSystemServer. count = 19

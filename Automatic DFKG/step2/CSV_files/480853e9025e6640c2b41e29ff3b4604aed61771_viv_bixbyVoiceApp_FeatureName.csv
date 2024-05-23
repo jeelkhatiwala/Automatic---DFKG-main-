@@ -1,0 +1,106 @@
+RecordId,formal,alias
+1,QuickCommands,단 축 명 령 어
+2,QuickCommands,단 축 명 령 어
+3,QuickCommands,빠 른 명 령 어
+4,QuickCommands,짧 게 사 용 하 는 명 령 어
+5,QuickCommands,간 단 명 령 어
+6,QuickCommands,간 단 명 령 어
+7,QuickCommands,빅 스 비 명 령 어
+8,QuickCommandRecommendations,추 천 단 축 명 령 어
+9,QuickCommandRecommendations,추 천 단 축 명 령 어
+10,QuickCommandRecommendations,추 천 단 축 명 령 어
+11,QuickCommandRecommendations,추 천 단 축 명 령 어
+12,BixbySettings,빅 스 비 설 정
+13,BixbySettings,빅 스 비 설 정
+14,BixbySettings,빅 스 비 보 이 스 설 정
+15,BixbySettings,빅 스 비 세 팅
+16,BixbySettings,빅 스 비 보 이 스 세 팅
+17,BixbySettings,빅 스 비 설 정 메 뉴
+18,BixbySettings,빅 스 비 세 팅 메 뉴
+19,BixbySettings,빅 스 비 설 정 창
+20,BixbySettings,보 이 스 설 정
+21,BixbySettings,빅 스 비 환 경 설 정
+22,BixbyAnnouncements,빅 스 비 공 지 사 항
+23,BixbyAnnouncements,빅 스 비 공 지 사 항
+24,BixbyAnnouncements,빅 스 비 보 이 스 공 지 사 항
+25,MyPage,프 로 필
+26,MyPage,마 이 페 이 지
+27,MyPage,마 이 페 이 지
+28,MyPage,내 프 로 필
+29,MyPage,내 프 로 파 일
+30,MyPage,프 로 필 등 록 정 보
+31,MyPage,내 정 보
+32,MyPage,내 페 이 지
+33,MyPage,마 이 프 로 필
+34,MyPage,마 이 프 로 필
+35,MyPage,마 이 프 로 파 일
+36,MyPage,내 프 로 필 등 록 정 보
+37,MyPage,프 로 필 내 것
+38,MyPage,내 프 로 필 정 보
+39,MyPage,내 프 로 필 등 록 정 보
+40,MyPage,프 로 필 사 진
+41,MyPage,내 프 로 필 사 진
+42,MyPage,프 로 필 이 미 지
+43,MyPage,내 프 로 필 이 미 지
+44,VoiceWakeUpOption,음 성 호 출
+45,VoiceWakeUpOption,음 성 호 출 설 정
+46,BixbyKey,빅 스 비 키
+47,BixbyKey,빅 스 비 키
+48,BixbyKey,빅 스 비 보 이 스 키
+49,BixbyKey,빅 스 비 키 설 정
+50,BixbyKey,빅 스 비 버 튼
+51,BixbyKey,빅 스 비 보 이 스 버 튼
+52,BixbyKey,빅 스 비 버 튼 설 정
+53,BixbyKey,보 이 스 키
+54,BixbyKey,보 이 스 키
+55,BixbyKey,보 이 스 키 설 정
+56,BixbyKey,보 이 스 버 튼
+57,BixbyKey,보 이 스 버 튼 설 정
+58,VoiceUnlock,음 성 인 식 잠 금 해 제
+59,VoiceUnlock,음 성 으 로 잠 금 해 제
+60,VoiceUnlock,목 소 리 로 잠 금 해 제
+61,VoiceUnlock,목 소 리 잠 금 해 제
+62,VoiceUnlock,음 성 인 식 잠 금 해 제 설 정
+63,VoiceUnlock,음 성 으 로 잠 금 해 제 설 정
+64,VoiceUnlock,목 소 리 로 잠 금 해 제 설 정
+65,VoiceUnlock,목 소 리 잠 금 해 제 설 정
+66,DictationSettings,받 아 쓰 기
+67,DictationSettings,받 아 쓰 기
+68,DictationSettings,받 아 쓰 기 기 능
+69,DictationSettings,받 아 쓰 기 메 뉴
+70,DictationSettings,빅 스 비 받 아 쓰 기
+71,DictationSettings,받 아 쓰 기 설 정
+72,DictationSettings,빅 스 비 받 아 쓰 기 설 정
+73,DiscoveryPanel,캡 슐 리 스 트
+74,DiscoveryPanel,캡 슐 들
+75,DiscoveryPanel,캡 슐 리 스 트 페 이 지
+76,DiscoveryPanel,캡 슐 목 록
+77,DiscoveryPanel,캡 슐 목 록 페 이 지
+78,DiscoveryPanel,캡 슐 카 테 고 리
+79,DiscoveryPanel,빅 스 비 서 비 스 페 이 지
+80,DiscoveryPanel,빅 스 비 로 사 용 할 수 있 는 캡 슐
+81,DiscoveryPanel,빅 스 비 가 지 원 하 는 서 비 스 목 록
+82,DiscoveryPanel,빅 스 비 가 지 원 하 는 캡 슐 목 록
+83,DiscoveryPanel,빅 스 비 로 지 원 되 는 캡 슐 목 록
+84,DiscoveryPanel,보 이 스 지 원 앱 및 서 비 스
+85,DiscoveryPanel,보 이 스 지 원 앱 및 캡 슐
+86,DiscoveryPanel,음 성 명 령 으 로 사 용 할 수 있 는 캡 슐
+87,DiscoveryPanel,빅 스 비 에 서 지 원 하 는 앱 들
+88,DiscoveryPanel,빅 스 비 에 서 지 원 하 는 캡 슐 들
+89,DiscoveryPanel,빅 스 비 로 사 용 할 수 있 는 애 플 리 케 이 션
+90,DiscoveryPanel,음 성 명 령 으 로 사 용 할 수 있 는 애 플 리 케 이 션
+91,DiscoveryPanel,빅 스 비 랑 연 동 되 는 캡 슐
+92,DiscoveryPanel,빅 스 비 랑 연 동 되 는 앱
+93,DiscoveryPanel,빅 스 비 로 이 용 할 수 있 는 캡 슐
+94,DiscoveryPanel,빅 스 비 로 이 용 할 수 있 는 서 비 스
+95,DiscoveryPanel,빅 스 비 로 지 원 되 는 서 비 스 목 록
+96,DiscoveryPanel,빅 스 비 캡 슐 페 이 지
+97,DiscoveryPanel,사 용 할 수 있 는 빅 스 비 캡 슐
+98,TutorialPage,빅 스 비 튜 토 리 얼 리 스 트
+99,TutorialPage,빅 스 비 튜 토 리 얼
+100,TutorialPage,빅 스 비 사 용 방 법
+101,TutorialPage,빅 스 비 사 용 방 법 리 스 트
+102,TutorialPage,빅 스 비 튜 토 리 얼 페 이 지
+103,TutorialPage,빅 스 비 사 용 방 법 페 이 지
+104,TutorialPage,빅 스 비 튜 토 리 얼 리 스 트 페 이 지
+105,TutorialPage,빅 스 비 사 용 방 법 리 스 트 페 이 지

@@ -1,0 +1,391 @@
+RecordId,formal,alias
+1,-1,last
+2,-1,last one
+3,-1,bottom
+4,-1,the bottom
+5,-1,at the bottom
+6,-1,at the end
+7,-1,the last one
+8,-1,the end one
+9,-1,the bottom one
+10,-2,second from end
+11,-2,last but one
+12,-2,second from bottom
+13,1,head
+14,1,top
+15,1,uppermost
+16,1,on top
+17,1,first
+18,1,no. 1
+19,1,number one
+20,1,first one
+21,1,first
+22,1,first
+23,1,1st
+24,2,the second
+25,2,second
+26,2,no.2
+27,2,number two
+28,2,secone one
+29,2,the second one
+30,2,second
+31,2,second
+32,2,2nd
+33,2,second one
+34,3,third
+35,3,number three
+36,3,third one
+37,3,the third one
+38,3,the third
+39,3,third
+40,3,third
+41,3,3rd
+42,4,fourth
+43,4,number four
+44,4,fourth one
+45,4,the fourth one
+46,4,the fourth
+47,4,fourth
+48,4,fourth
+49,4,4th
+50,5,fifth
+51,5,number five
+52,5,fifth one
+53,5,the fifth one
+54,5,the fifth
+55,6,sixth
+56,6,number six
+57,6,sixth one
+58,6,the sixth one
+59,6,the sixth
+60,6,sixth
+61,6,sixth
+62,6,6th
+63,7,seventh
+64,7,number seven
+65,7,seventh one
+66,7,the seventh one
+67,7,the seventh
+68,7,seventh
+69,7,seventh
+70,7,7th
+71,8,eighth
+72,8,number eight
+73,8,eighth one
+74,8,the eighth one
+75,8,the eighth
+76,8,eighth
+77,8,eighth
+78,8,8th
+79,9,ninth
+80,9,number nine
+81,9,ninth one
+82,9,the ninth one
+83,9,the ninth
+84,9,ninth
+85,9,ninth
+86,9,9th
+87,10,tenth
+88,10,number ten
+89,10,tenth one
+90,10,the tenth one
+91,10,the tenth
+92,10,tenth
+93,10,tenth
+94,10,10th
+95,11,eleventh
+96,11,number eleven
+97,11,eleventh one
+98,11,the eleventh one
+99,11,the eleventh
+100,12,twelveth
+101,12,number twelve
+102,12,twelveth one
+103,12,the twelveth one
+104,12,the twelveth
+105,13,thirteenth
+106,13,number thirteen
+107,13,thirteenth one
+108,13,the thirteenth one
+109,13,the thirteenth
+110,14,fourteenth
+111,14,number fourteen
+112,14,fourteenth one
+113,14,the fourteenth one
+114,14,the fourteenth
+115,15,15th
+116,15,fifteenth
+117,15,number fifteenth
+118,15,fifteenth one
+119,15,the fifteenth
+120,15,the fifteenth one
+121,16,16th
+122,16,sixteenth
+123,16,number sixteenth
+124,16,sixteenth one
+125,16,the sixteenth
+126,16,the sixteenth one
+127,17,17th
+128,17,seventeenth
+129,17,number seventeenth
+130,17,seventeenth one
+131,17,the seventeenth
+132,17,the seventeenth one
+133,18,18th
+134,18,eighteenth
+135,18,number eighteenth
+136,18,eighteenth one
+137,18,the eighteenth
+138,18,the eighteenth one
+139,19,19th
+140,19,nineteenth
+141,19,number nineteenth
+142,19,nineteenth one
+143,19,the nineteenth
+144,19,the nineteenth one
+145,20,20th
+146,20,twentieth
+147,20,number twentieth
+148,20,twentieth one
+149,20,the twentieth
+150,20,the twentieth one
+151,21,21st
+152,21,twenty first
+153,21,number twenty first
+154,21,twenty first one
+155,21,the twenty first
+156,21,the twenty first one
+157,22,22nd
+158,22,twenty second
+159,22,number twenty second
+160,22,twenty second one
+161,22,the twenty second
+162,22,the twenty second one
+163,23,23th
+164,23,twenty third
+165,23,number twenty third
+166,23,twenty third one
+167,23,the twenty third
+168,23,the twenty third one
+169,24,24th
+170,24,twenty fourth
+171,24,number twenty fourth
+172,24,twenty fourth one
+173,24,the twenty fourth
+174,24,the twenty fourth one
+175,25,25th
+176,25,twenty fifth
+177,25,number twenty fifth
+178,25,twenty fifth one
+179,25,the twenty fifth
+180,25,the twenty fifth one
+181,26,26th
+182,26,twenty sixth
+183,26,number twenty sixth
+184,26,twenty sixth one
+185,26,the twenty sixth
+186,26,the twenty sixth one
+187,27,27th
+188,27,twenty seventh
+189,27,number twenty seventh
+190,27,twenty seventh one
+191,27,the twenty seventh
+192,27,the twenty seventh one
+193,28,28th
+194,28,twenty eighth
+195,28,number twenty eighth
+196,28,twenty eighth one
+197,28,the twenty eighth
+198,28,the twenty eighth one
+199,29,29th
+200,29,twenty ninth
+201,29,number twenty ninth
+202,29,twenty ninth one
+203,29,the twenty ninth
+204,29,the twenty ninth one
+205,30,30th
+206,30,thirtieth
+207,30,number thirtieth
+208,30,thirtieth one
+209,30,the thirtieth
+210,30,the thirtieth one
+211,31,31st
+212,31,thirty first
+213,31,number thirty first
+214,31,thirty first one
+215,31,the thirty first
+216,31,the thirty first one
+217,32,32nd
+218,32,thirty second
+219,32,number thirty second
+220,32,thirty second one
+221,32,the thirty second
+222,32,the thirty second one
+223,33,33rd
+224,33,thirty third
+225,33,number thirty third
+226,33,thirty third one
+227,33,the thirty third
+228,33,the thirty third one
+229,34,34th
+230,34,thirty fourth
+231,34,number thirty fourth
+232,34,thirty fourth one
+233,34,the thirty fourth
+234,34,the thirty fourth one
+235,35,35th
+236,35,thirty fifth
+237,35,number thirty fifth
+238,35,thirty fifth one
+239,35,the thirty fifth
+240,35,the thirty fifth one
+241,36,36th
+242,36,thirty sixth
+243,36,number thirty sixth
+244,36,thirty sixth one
+245,36,the thirty sixth
+246,36,the thirty sixth one
+247,37,37th
+248,37,thirty seventh
+249,37,number thirty seventh
+250,37,thirty seventh one
+251,37,the thirty seventh
+252,37,the thirty seventh one
+253,38,38th
+254,38,thirty eighth
+255,38,number thirty eighth
+256,38,thirty eighth one
+257,38,the thirty eighth
+258,38,the thirty eighth one
+259,39,39th
+260,39,thirty ninth
+261,39,number thirty ninth
+262,39,thirty ninth one
+263,39,the thirty ninth
+264,39,the thirty ninth one
+265,40,40th
+266,40,fortieth
+267,40,number fortieth
+268,40,fortieth one
+269,40,the fortieth
+270,40,the fortieth one
+271,41,41st
+272,41,forty first
+273,41,number forty first
+274,41,forty first one
+275,41,the forty first
+276,41,the forty first one
+277,42,42nd
+278,42,forty second
+279,42,number forty second
+280,42,the forty second
+281,42,forty second one
+282,42,the forty second one
+283,43,43th
+284,43,forty third
+285,43,number forty third
+286,43,forty third one
+287,43,the forty third
+288,43,the forty third one
+289,44,44th
+290,44,forty fourth
+291,44,number forty fourth
+292,44,forty fourth one
+293,44,the forty fourth
+294,44,the forty fourth one
+295,45,45th
+296,45,forty fifth
+297,45,number forty fifth
+298,45,forty fifth one
+299,45,the forty fifth
+300,45,the forty fifth one
+301,46,46th
+302,46,forty sixth
+303,46,number forty sixth
+304,46,forty sixth one
+305,46,the forty sixth
+306,46,the forty sixth one
+307,47,47th
+308,47,forty seventh
+309,47,number forty seventh
+310,47,forty seventh one
+311,47,the forty seventh
+312,47,the forty seventh one
+313,48,48th
+314,48,forty eighth
+315,48,number forty eighth
+316,48,forty eighth one
+317,48,the forty eighth
+318,48,the forty eighth one
+319,49,49th
+320,49,forty ninth
+321,49,number forty ninth
+322,49,forty ninth one
+323,49,the forty ninth
+324,49,the forty ninth one
+325,50,50th
+326,50,fiftieth
+327,50,number fiftieth
+328,50,fiftieth one
+329,50,the fiftieth
+330,50,the fiftieth one
+331,51,51st
+332,51,fifty first
+333,51,number fifty first
+334,51,fifty first one
+335,51,the fifty first
+336,51,the fifty first one
+337,52,52nd
+338,52,fifty second
+339,52,number fifty second
+340,52,fifty second one
+341,52,the fifty second
+342,52,the fifty second one
+343,53,53th
+344,53,fifty third
+345,53,number fifty third
+346,53,fifty third one
+347,53,the fifty third
+348,53,the fifty third one
+349,54,54th
+350,54,fifty fourth
+351,54,number fifty fourth
+352,54,fifty fourth one
+353,54,the fifty fourth
+354,54,the fifty fourth one
+355,55,55th
+356,55,fifty fifth
+357,55,number fifty fifth
+358,55,fifty fifth one
+359,55,the fifty fifth
+360,55,the fifty fifth one
+361,56,56th
+362,56,fifty sixth
+363,56,number fifty sixth
+364,56,fifty sixth one
+365,56,the fifty sixth
+366,56,the fifty sixth one
+367,57,57th
+368,57,fifty seventh
+369,57,number fifty seventh
+370,57,fifty seventh one
+371,57,teh fifty seventh
+372,57,the fifty seventh one
+373,58,58th
+374,58,fifty eighth
+375,58,number fifty eighth
+376,58,fifty eighth one
+377,58,the fifty eighth
+378,58,the fifty eighth one
+379,59,59th
+380,59,fifty ninth
+381,59,number fifty ninth
+382,59,fifty ninth one
+383,59,the fifty ninth
+384,59,the fifty ninth one
+385,60,60th
+386,60,sixtieth
+387,60,number sixtieth
+388,60,sixtieth one
+389,60,the sixtieth
+390,60,the sixtieth one

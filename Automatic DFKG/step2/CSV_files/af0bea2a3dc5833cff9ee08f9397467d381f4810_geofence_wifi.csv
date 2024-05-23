@@ -1,0 +1,2 @@
+_id,location_id,network_id,config_key,bssid,time,latitude,longitude,time_major,latitude_major,longitude_major
+1,1,-1,"""802 Claytor Square-5G""WPA_PSK",00:00:00:00:00:00,-1,-1.0,-1.0,1625259943170,37.2354897,-80.4369418

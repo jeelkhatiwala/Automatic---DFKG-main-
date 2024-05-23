@@ -1,0 +1,143 @@
+RecordId,formal,alias
+1,Wifi,w i f i
+2,Wifi,w i f i
+3,Wifi,w i f i
+4,Wifi,w i f i a p
+5,Wifi,와 이 파 이
+6,Wifi,와 이 파 이
+7,Wifi,와 이 파 이 a p
+8,Wifi,무 선 랜
+9,Wifi,무 선 공 유 기
+10,Wifi,무 선 공 유 기
+11,Wifi,a p
+12,Wifi,a c c e s s p o i n t
+13,Wifi,와 파
+14,Wifi,w i - f i
+15,Bluetooth,b l u e t o o t h
+16,Bluetooth,블 루 투 스
+17,Bluetooth,b t
+18,Bluetooth,b t
+19,Bluetooth,비 티
+20,Bluetooth,블 투
+21,Hotspot,핫 스 팟
+22,Hotspot,핫 스 폿
+23,Hotspot,w i f i 테 더 링
+24,Hotspot,와 이 파 이 테 더 링
+25,NFC,n f c
+26,NFC,n f c
+27,NFC,모 바 일 지 갑
+28,Edge,e d g e
+29,Edge,e d g e s c r e e n
+30,Edge,e d g e s c r e e n
+31,Edge,e d g e p a n e l
+32,Edge,e d g e p a n e l
+33,Edge,엣 지
+34,Edge,엣 지 패 널
+35,Edge,엣 지 스 크 린
+36,Edge,엣 지 화 면
+37,Edge,e d g e 패 널
+38,EdgeLighting,e d g e l i g h t i n g
+39,EdgeLighting,e d g e l i g h t i n g
+40,EdgeLighting,엣 지 라 이 팅
+41,EdgeLighting,엣 지 라 이 트 닝
+42,EdgeLighting,엣 지 알 림
+43,EdgeLighting,엣 지 라 이 팅
+44,EdgeLighting,엣 지 라 이 트 닝
+45,EdgeLighting,엣 지 알 림
+46,EdgeLighting,엣 지 라 이 트
+47,AOD,a o d
+48,AOD,a l w a y s o n d i s p l a y
+49,AOD,올 웨 이 즈 온 디 스 플 레 이
+50,AOD,얼 웨 이 즈 온 디 스 플 레 이
+51,AOD,올 웨 이 즈 온 디 스 플 레 이
+52,AOD,얼 웨 이 즈 온 디 스 플 레 이
+53,AOD,올 웨 이 즈 온 디 스 플 레 이
+54,AOD,얼 웨 이 즈 온 디 스 플 레 이
+55,AOD,올 웨 이 즈 온 디 스 플 레 이
+56,AOD,얼 웨 이 즈 온 디 스 플 레 이
+57,AOD,항 상 켜 짐
+58,AOD,화 면 유 지
+59,AOD,얼 웨 이 즈 온 디 스 프 레 이
+60,AOD,올 웨 이 즈 디 스 플 레 이
+61,NoDisturb,d o n o t d i s t u r b
+62,NoDisturb,d n d
+63,NoDisturb,방 해 금 지
+64,NoDisturb,방 해 금 지
+65,NoDisturb,방 해 그 만
+66,NoDisturb,방 해 안 되 게
+67,NoDisturb,방 해 안 받 는 설 정
+68,NoDisturb,방 해 안 받 는 설 정
+69,NoDisturb,방 해 는 이 제 그 만
+70,NoDisturb,방 해
+71,NoDisturb,방 해 금 지 모 드
+72,BlueLight,b l u e l i g h t
+73,BlueLight,b l u e l i g h t
+74,BlueLight,블 루 라 이 트
+75,BlueLight,블 루 라 이 트
+76,BlueLight,블 루 라 이 트 필 터
+77,BlueLight,블 루 라 이 트 필 터
+78,AutoBrightness,자 동 밝 기
+79,AutoBrightness,자 동 밝 기
+80,AutoBrightness,밝 기 조 절
+81,AutoBrightness,밝 기 조 절
+82,AutoBrightness,밝 기 설 정
+83,AutoBrightness,밝 기 설 정
+84,AutoBrightness,자 동 조 절 밝 기
+85,NightTheme,야 간 모 드
+86,NightTheme,야 간 모 드
+87,NightTheme,나 이 트 테 마
+88,NightTheme,저 녁 모 드
+89,NightTheme,다 크 모 드
+90,NightTheme,다 크 모 드
+91,Routine,b i x b y r o u t i n e s
+92,Routine,빅 스 비 루 틴
+93,Routine,루 틴
+94,Location,위 치
+95,Location,내 위 치
+96,Location,g p s
+97,Location,g p s
+98,Location,현 재 위 치
+99,PinWindows,앱 고 정
+100,PinWindows,앱 고 정
+101,ScreenSaver,화 면 보 호 기
+102,ScreenSaver,화 면 보 호 기
+103,ScreenSaver,스 크 린 세 이 버
+104,ScreenSaver,스 크 린 세 이 버
+105,Sound,소 리 모 드
+106,Sound,벨 소 리 모 드
+107,Sound,사 운 드 모 드
+108,Sound,s o u n d 모 드
+109,Sound,소 리 모 드
+110,Sound,벨 소 리 모 드
+111,Sound,사 운 드 모 드
+112,Sound,s o u n d 모 드
+113,Vibrate,진 동
+114,Vibrate,떨 림
+115,Vibrate,매 너
+116,Vibrate,진 동 모 드
+117,Vibrate,떨 림 모 드
+118,Vibrate,매 너 모 드
+119,Vibrate,진 동 모 드
+120,Vibrate,떨 림 모 드
+121,Vibrate,매 너 모 드
+122,Silent,무 음 모 드
+123,Silent,무 음 모 드
+124,Airplane,비 행 기 모 드
+125,Airplane,비 행 기 탑 승 모 드
+126,Airplane,비 행 모 드
+127,MobileData,모 바 일 데 이 터
+128,MobileData,모 바 일 데 이 터
+129,MobileData,데 이 터
+130,Not_Supported_Name,w i f i 다 이 렉 트
+131,Not_Supported_Name,와 이 파 이 다 이 렉 트
+132,Not_Supported_Name,이 지 모 드
+133,Not_Supported_Name,메 시 지 앱 알 림
+134,Not_Supported_Name,24 시 간 형 식
+135,Not_Supported_Name,터 치 민 감 도
+136,Not_Supported_Name,터 치 민 감 도
+137,Not_Supported_Name,전 면 카 메 라 감 추 기
+138,Not_Supported_Name,전 면 카 메 라 감 추 기
+139,Not_Supported_Name,전 면 카 메 라
+140,Not_Supported_Name,자 동 동 기 화
+141,Not_Supported_Name,데 이 터 절 약 모 드
+142,Not_Supported_Name,데 이 터 세 이 버

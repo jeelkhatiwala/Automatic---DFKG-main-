@@ -1,0 +1,13 @@
+package_name,sticker_name,thumbnail_resource,thumbnail_resource_id,scene_type,description,sub_order
+com.samsung.android.app.camera.sticker.facearframe.preload,frame_anniversary,,2131231682,,Pink and orange bunting at top of frame and birthday cake and presents at bottom,1
+com.samsung.android.app.camera.sticker.facearframe.preload,frame_beach,,2131231683,,Palm leaves at top of frame and beach with sand castle at bottom,2
+com.samsung.android.app.camera.sticker.facearframe.preload,frame_cartoon,,2131231684,,O M G word balloon in top left corner of frame and popcorn in bottom right corner,3
+com.samsung.android.app.camera.sticker.facearframe.preload,frame_cooking,,2131231685,,"Bread, cakes, and bow floating at top of frame and pots and cutlery floating at bottom",4
+com.samsung.android.app.camera.sticker.facearframe.preload,frame_desert,,2131231686,,Red moon in top right corner of frame and desert scene at bottom,5
+com.samsung.android.app.camera.sticker.facearframe.preload,frame_flower_rose,,2131231687,,Pink and red roses around the frame,6
+com.samsung.android.app.camera.sticker.facearframe.preload,frame_icecream,,2131231688,,Floating ice cream cones,7
+com.samsung.android.app.camera.sticker.facearframe.preload,frame_neon_space,,2131231689,,"Neon stars, planets, and spaceships",8
+com.samsung.android.app.camera.sticker.facearframe.preload,frame_night_sky,,2131231690,,Shooting stars at top of frame and clouds and moon at bottom,9
+com.samsung.android.app.camera.sticker.facearframe.preload,frame_ocean,,2131231691,,"Coral, seaweed, and seahorse at bottom of frame",10
+com.samsung.android.app.camera.sticker.facearframe.preload,frame_theme_park,,2131231692,,Hot air balloons at top of frame and Ferris wheel and park at bottom,11
+com.samsung.android.app.camera.sticker.facearframe.preload,frame_tropical,,2131231693,,Parrot in top left corner of frame and jungle foliage around other edges,12

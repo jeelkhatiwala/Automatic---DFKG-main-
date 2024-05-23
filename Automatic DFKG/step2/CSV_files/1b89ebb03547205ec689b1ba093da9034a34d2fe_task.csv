@@ -1,0 +1,7 @@
+pos,type,component,appid,pkg,large_image_id,small_image_id,labelid,intent,large_image,small_image,label
+0,1,com.samsung.android.app.calendar.activity.EdgeLaunchAddActivity,executable://com.samsung.android.calendar/1687857898,com.samsung.android.calendar,2131231627.0,2131231627.0,2131886131,,,,
+1,4,,,,,,1,,,,
+2,1,com.sec.android.app.camera.Camera,executable://com.sec.android.app.camera/1141080296,com.sec.android.app.camera,2131233022.0,2131233027.0,2131886361,,,,
+3,1,com.samsung.android.contacts.editor.ContactEditorActivity,executable://com.samsung.android.app.contacts/1087757667,com.samsung.android.app.contacts,2131231327.0,2131231129.0,2131886462,,,,
+4,1,com.sec.android.app.clockpackage.alarm.activity.AlarmAddExecutable,executable://com.sec.android.app.clockpackage/1347664406,com.sec.android.app.clockpackage,2131623950.0,2131230877.0,2131820576,,,,
+5,1,com.samsung.android.messaging.ui.view.taskEdge.TaskEdgeActivity,executable://com.samsung.android.messaging/3063483042,com.samsung.android.messaging,2131689472.0,2131232510.0,2131889894,,,,

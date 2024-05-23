@@ -1,0 +1,2 @@
+time_index,data_json
+1625725910469,"{""log_maps"":[{""log_id"":""d3cbcb3f-5ebc-4e2e-b239-8c51e1ce0567"",""ver"":""3.3.2.9"",""obj"":""disconnect"",""verc"":""30302009"",""action"":""net_change"",""net"":""4G"",""logtime"":""1625725910468""}],""log_time"":1625725910469,""lost_param"":false}"

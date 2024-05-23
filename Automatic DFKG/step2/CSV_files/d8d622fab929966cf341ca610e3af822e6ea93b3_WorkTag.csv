@@ -1,0 +1,5 @@
+tag,work_spec_id
+com.linkedin.android.litrackinglib.network.SendTrackingEventWorker,53ec9d19-35b3-4bad-b883-eff7c647e627
+period_sync_work,53ec9d19-35b3-4bad-b883-eff7c647e627
+com.linkedin.android.diskusage.DiskUsageReporter,740ec3ff-834f-468e-b9f3-c44967e5b68a
+com.linkedin.android.tracking.sensor.SensorMetricTapeWorker,9a80e5d5-fa8d-4720-b583-220d6f5c4c2a

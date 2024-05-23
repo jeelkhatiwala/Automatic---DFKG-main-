@@ -1,0 +1,2 @@
+carrier_id,list_cpid_endpoints_resp,mcc_mnc,carrier_app_logo,carrier_logo,expiration_time,carrier_extra
+589634,b'\n\x1fhttp://nwp.t-mobile.com/getcpid\x10\xc2\xfe#0\xe8\xdc\xc0\x93\xaf\xa0\xa9\xbb\x80\x01',,,,1658212167,

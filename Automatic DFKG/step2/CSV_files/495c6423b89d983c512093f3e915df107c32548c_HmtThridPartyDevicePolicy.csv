@@ -1,0 +1,9 @@
+_id,item,category,data1,data2,data3,data4,data5
+1,PicoVR,0x2d40,0x0000,device-whitelist,,,
+2,PicoVR,0x1f29,0x0000,device-whitelist,,,
+3,nreal light,0x04b4,0x3120,device-whitelist,,,
+4,nreal light,0x0486,0x0604,device-whitelist,,,
+5,nreal light,0x3318,0x0604,device-whitelist,,,
+6,nreal light,0x04b4,0x3120,power-limiting-device,,,
+7,nreal light,0x0486,0x0604,power-limiting-device,,,
+8,nreal light,0x3318,0x0604,power-limiting-device,,,

@@ -1,0 +1,30 @@
+_id,level,timestamp,message
+397,2,1625809521929,AgentBroadcast: onReceive [android.intent.action.BOOT_COMPLETED]
+398,2,1625809522472,ServerRequestScheduler: scheduleJob nextScheduledTime[60000] cancelPreviousIfNeeded[true] isLegalAgreed[false]
+399,2,1625809522496,AgentBroadcast
+400,2,1625809522554,AgentService: ================ onCreate ==================
+401,2,1625809522572,AgentService: ================ onBind ==================
+402,2,1625809522584,AgentService: ================ from agent service ==================
+403,2,1625809522584,AgentService: executeAction 0x260101
+404,2,1625809522585,AgentSvcImpl: execute is started
+405,2,1625809522634,AccessoryInitializer: accessoryList(from db) size = 0
+406,2,1625809522635,AccessoryInitializer: bundleList(from mate_service) size = 0
+407,2,1625809522637,ActionDispatcherImpldispatch action [0x260101:c]
+408,2,1625809522643,dispatched action [0x260101]
+409,2,1625809522645,AgentBroadcast: onAccessoryInitCompleted 0
+410,2,1625809522672,AgentService: ================ from agent service ==================
+411,2,1625809522673,AgentService: executeAction 0x260108
+412,2,1625809522674,AgentSvcImpl: execute is started
+413,2,1625809522682,ActionDispatcherImpldispatch action [0x260108:c]
+414,2,1625809522685,dispatched action [0x260108]
+415,2,1625809522693,AgentService: ================ from agent service ==================
+416,2,1625809522693,AgentService: executeAction 0x26011c
+417,2,1625809522694,AgentSvcImpl: execute is started
+418,2,1625809522697,ActionDispatcherImpldispatch action [0x26011c:c]
+419,2,1625809522699,dispatched action [0x26011c]
+420,2,1625809522703,AgentService: ================ from agent service ==================
+421,2,1625809522704,AgentService: executeAction 0x260102
+422,2,1625809522704,AgentSvcImpl: execute is started
+423,2,1625809522705,ActionDispatcherImpldispatch action [0x260102:c]
+424,2,1625809522706,dispatched action [0x260102]
+425,2,1625809522718,AgentService: ================ onDestroy ==================

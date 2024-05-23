@@ -1,0 +1,2 @@
+media_id,recommended_id,person_id,name,pos_x,pos_y,face_w,face_h,facepose,expression_like,age_child,age_youth,age_young,age_adult,age_senior,gender_male,gender_female,flag,pos_ratio,group_id
+12,1,1,null,648.0,1388.0,1520.0,1520.0,6,0.2568580210208893,0.6567261219024658,0.26380017399787903,0.42681002616882324,0.25928524136543274,0.2888699769973755,0.4415671229362488,0.5584328770637512,0,"0.4714674,0.29347825,0.98777175,0.98188406",0

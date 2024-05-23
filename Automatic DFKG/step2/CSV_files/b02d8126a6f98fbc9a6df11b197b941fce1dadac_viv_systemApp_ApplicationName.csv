@@ -1,0 +1,396 @@
+RecordId,formal,alias
+1,gallery,gallery
+2,messages,messages
+3,message,message
+4,contact,contact
+5,contacts,contacts
+6,camera,camera
+7,internet,internet
+8,samsung music,samsung music
+9,gmail,gmail
+10,facebook,facebook
+11,Facebook,facebook
+12,youtube,youtube
+13,YouTube,youtube
+14,twitter,twitter
+15,settings,settings
+16,chrome,chrome
+17,play store,play store
+18,playstore,playstore
+19,my files,my files
+20,kakaotalk,kakaotalk
+21,samsung pay,samsung pay
+22,Samsung Pay,samsung pay
+23,bixby vision,bixby vision
+24,instagram,instagram
+25,s notes,s notes
+26,samsung notes,samsung notes
+27,samsung note,samsung note
+28,calculator,calculator
+29,smartmanager,smartmanager
+30,music,music
+31,wechat,wechat
+32,s health,s health
+33,shealth,shealth
+34,calendar,calendar
+35,whatsapp,whatsapp
+36,WhatsApp,whatsapp
+37,play music,play music
+38,clock,clock
+39,reminder,reminder
+40,Galaxy apps,galaxy apps
+41,google play music,google play music
+42,samsung internet,samsung internet
+43,facebook messenger,facebook messenger
+44,whatsapp messenger,whatsapp messenger
+45,Snapchat,snapchat
+46,yahoo mail,yahoo mail
+47,nova launcher,nova launcher
+48,Microsoft outlook,microsoft outlook
+49,clean master,clean master
+50,photos,photos
+51,amazon,amazon
+52,discord,discord
+53,pandora music,pandora music
+54,tumblr,tumblr
+55,linkedin,linkedin
+56,ebay,ebay
+57,reddit,reddit
+58,fitbit,fitbit
+59,walmart,walmart
+60,imo free video calls,imo free video calls
+61,360 security,360 security
+62,finder,finder
+63,smartthings,smartthings
+64,smartswitch,smartswitch
+65,hangouts,hangouts
+66,samsung pass,samsung pass
+67,onedrive,onedrive
+68,secure wifi,secure wifi
+69,google play,google play
+70,PENUP,penup
+71,tinder,tinder
+72,telegram,telegram
+73,drive,drive
+74,CM launcher 3D,cm launcher 3d
+75,maps,maps
+76,kik,kik
+77,cricbuzz,cricbuzz
+78,ola,ola
+79,Uber,uber
+80,hotstar,hotstar
+81,smart things,smart things
+82,smart switch,smart switch
+83,excel,excel
+84,Google Play Movies & TV,google play movies & tv
+85,samsung cloud,samsung cloud
+86,ESPN,espn
+87,amazon shopping,amazon shopping
+88,buzz video,buzz video
+89,phone,phone
+90,samsung health,samsung health
+91,google chrome,google chrome
+92,the weather channel,the weather channel
+93,Textnow,textnow
+94,Email,email
+95,Best vines,best vines
+96,google,google
+97,super bright led flashlight,super bright led flashlight
+98,samsung connect,samsung connect
+99,bible,bible
+100,voice recorder,voice recorder
+101,samsung members,samsung members
+102,soundcloud,soundcloud
+103,samsung themes,samsung themes
+104,samsung theme,samsung theme
+105,one drive,one drive
+106,gboard,gboard
+107,secure folder,secure folder
+108,ES file explorer,es file explorer
+109,seamless,seamless
+110,messaging,messaging
+111,pinterest,pinterest
+112,ISS manager,iss manager
+113,device unlock,device unlock
+114,at&t smart wi-fi,at&t smart wi-fi
+115,at&t smart wifi,at&t smart wifi
+116,AT & T Smart Wi-Fi,at & t smart wi-fi
+117,at & t Smart Wi-Fi,at & t smart wi-fi
+118,at and t smart wi-fi,at and t smart wi-fi
+119,AT&T Call Protect,at&t call protect
+120,at&t call protect,at&t call protect
+121,mobile security,mobile security
+122,at&t live,at&t live
+123,at & t live,at & t live
+124,at&t mobile transfer,at&t mobile transfer
+125,myat&t,myat&t
+126,at and t live,at and t live
+127,at and t mobile transfer,at and t mobile transfer
+128,at n t live,at n t live
+129,at n t mobile transfer,at n t mobile transfer
+130,at & t mobile transfer,at & t mobile transfer
+131,t bag,t bag
+132,t baseball,t baseball
+133,t bizpoint,t bizpoint
+134,t book,t book
+135,t cash,t cash
+136,t cloud,t cloud
+137,t free,t free
+138,t freemium,t freemium
+139,t freemium plus,t freemium plus
+140,t guard,t guard
+141,t map,t map
+142,t maps,t maps
+143,t membership,t membership
+144,t mobile,t mobile
+145,t service,t service
+146,t wi-fi smart,t wi-fi smart
+147,t wifi smart,t wifi smart
+148,t world,t world
+149,android pay,android pay
+150,Play Movies & TV,play movies & tv
+151,t mobile tv,t mobile tv
+152,my verizon,my verizon
+153,caller name id,caller name id
+154,verizon protect,verizon protect
+155,verizon messages,verizon messages
+156,v messages,v messages
+157,message +,message +
+158,message plus,message plus
+159,message+,message+
+160,device help,device help
+161,directv,directv
+162,directtv remote,directtv remote
+163,smart limits,smart limits
+164,drivemode,drivemode
+165,sprint zone,sprint zone
+166,visual voicemail,visual voicemail
+167,sprint tv & movies,sprint tv & movies
+168,sprint tv &movies,sprint tv &movies
+169,spring Tv & movies,spring tv & movies
+170,sprint music plus,sprint music plus
+171,sprint worldwide,sprint worldwide
+172,sprint spot,sprint spot
+173,tech expert,tech expert
+174,secure wi-fi,secure wi-fi
+175,sprint cloud binder,sprint cloud binder
+176,mobile data cellular,mobile data cellular
+177,tone room deluxe,tone room deluxe
+178,city id,city id
+179,caller locator name id,caller locator name id
+180,mobilesecurity,mobilesecurity
+181,samsung+,samsung+
+182,samsung plus,samsung plus
+183,samsung +,samsung +
+184,reminders,reminders
+185,t-mobile,t-mobile
+186,show time,show time
+187,pandora,pandora
+188,setup & transfer,setup & transfer
+189,samsung Internet,samsung internet
+190,Netflix,netflix
+191,cookpad,cookpad
+192,Link sharing,link sharing
+193,s pay,s pay
+194,Firefox browser,firefox browser
+195,star biz,star biz
+196,viber messenger,viber messenger
+197,security & privacy,security & privacy
+198,my at&t,my at&t
+199,hum,hum
+200,showtime,showtime
+201,security and privacy,security and privacy
+202,setup and transfer,setup and transfer
+203,tunein radio,tunein radio
+204,tunein,tunein
+205,tune in radio,tune in radio
+206,tune in,tune in
+207,samsung gear,samsung gear
+208,s gear,s gear
+209,weather,weather
+210,s memo,s memo
+211,memos,memos
+212,calculators,calculators
+213,camcorder,camcorder
+214,chaton,chaton
+215,chat on,chat on
+216,chrome internet,chrome internet
+217,chrome browser,chrome browser
+218,clocks,clocks
+219,address book,address book
+220,phone book,phone book
+221,phonebook,phonebook
+222,device explorer,device explorer
+223,developer tools,developer tools
+224,google drive,google drive
+225,dropbox,dropbox
+226,drop box,drop box
+227,google earth,google earth
+228,flipboard,flipboard
+229,flipboards,flipboards
+230,flip board,flip board
+231,Flipboard News,flipboard news
+232,flip boards,flip boards
+233,Facebook Mobile,facebook mobile
+234,find my phone,find my phone
+235,find my device,find my device
+236,picture gallery,picture gallery
+237,google mail,google mail
+238,google assistance,google assistance
+239,google assist,google assist
+240,google assistant,google assistant
+241,Google Search,google search
+242,google voice search,google voice search
+243,google voice recognition,google voice recognition
+244,google voice,google voice
+245,google+,google+
+246,google plus,google plus
+247,googleplus,googleplus
+248,google settings,google settings
+249,group play,group play
+250,internet browser,internet browser
+251,samsunginternet,samsunginternet
+252,google maps,google maps
+253,google map,google map
+254,s note,s note
+255,text messages,text messages
+256,message inbox,message inbox
+257,messages inbox,messages inbox
+258,instant messaging,instant messaging
+259,messenger,messenger
+260,Facebook Messenger,facebook messenger
+261,fb messenger,fb messenger
+262,mp3 player,mp3 player
+263,my tracks,my tracks
+264,media hub,media hub
+265,music player,music player
+266,file explorer,file explorer
+267,my folder,my folder
+268,my file,my file
+269,navigation,navigation
+270,navigator,navigator
+271,optical reader,optical reader
+272,dialer,dialer
+273,dialpad,dialpad
+274,dial pad,dial pad
+275,play books,play books
+276,google play books,google play books
+277,Google Books,google books
+278,play magazines,play magazines
+279,google magazine,google magazine
+280,play magazine,play magazine
+281,news stand,news stand
+282,newsstand,newsstand
+283,play movies,play movies
+284,play movies and tv,play movies and tv
+285,google movies,google movies
+286,Google Play Movies,google play movies
+287,Google Play TV,google play tv
+288,google music,google music
+289,play market,play market
+290,google play store,google play store
+291,google playstore,google playstore
+292,Google Play,google play
+293,Android App Store,android app store
+294,android google play,android google play
+295,play newsstand,play newsstand
+296,google play newsstand,google play newsstand
+297,samsung hub,samsung hub
+298,s hub,s hub
+299,samsung link,samsung link
+300,s link,s link
+301,samsung milk music,samsung milk music
+302,milk music,milk music
+303,system settings,system settings
+304,s planner,s planner
+305,calendars,calendars
+306,story album,story album
+307,s translator,s translator
+308,translation,translation
+309,s voice,s voice
+310,voice command,voice command
+311,google talk,google talk
+312,tripadvisor,tripadvisor
+313,trip advisor,trip advisor
+314,videos,videos
+315,video player,video player
+316,voice memo,voice memo
+317,recorder,recorder
+318,voice search,voice search
+319,smart remote,smart remote
+320,watchon,watchon
+321,watch on,watch on
+322,samsungconnect,samsungconnect
+323,sconnect,sconnect
+324,s connect,s connect
+325,SmartThings,smartthings
+326,Smart Things,smart things
+327,securefolder,securefolder
+328,mygalaxy,mygalaxy
+329,my galaxy,my galaxy
+330,galaxy apps,galaxy apps
+331,galaxy app,galaxy app
+332,samsung galaxy apps,samsung galaxy apps
+333,samsung store,samsung store
+334,samsung apps store,samsung apps store
+335,shop samsung,shop samsung
+336,samsung apps,samsung apps
+337,look out,look out
+338,my AT&T,my at&t
+339,set up and transfer,set up and transfer
+340,drive mode,drive mode
+341,caller name i d,caller name i d
+342,vz protect,vz protect
+343,v z protect,v z protect
+344,messages plus,messages plus
+345,T-Mobile,t-mobile
+346,verizon cloud,verizon cloud
+347,vz cloud,vz cloud
+348,my verizon mobile,my verizon mobile
+349,verizon,verizon
+350,verizon hum,verizon hum
+351,vz hum,vz hum
+352,visual voice mail,visual voice mail
+353,at and t call protect,at and t call protect
+354,att call protect,att call protect
+355,at & t call protect,at & t call protect
+356,at&t smart wi fi,at&t smart wi fi
+357,at and t smart wifi,at and t smart wifi
+358,att smart wifi,att smart wifi
+359,att smart wi fi,att smart wi fi
+360,at & t smart wifi,at & t smart wifi
+361,at&t protech,at&t protech
+362,at and t protech,at and t protech
+363,att protech,att protech
+364,at & t protech,at & t protech
+365,my a t & t,my a t & t
+366,my a t t,my a t t
+367,my at and t,my at and t
+368,my att,my att
+369,my at & t,my at & t
+370,at & t mobile security,at & t mobile security
+371,at&t mobile security,at&t mobile security
+372,at&t mobilesecurity,at&t mobilesecurity
+373,at and t mobile security,at and t mobile security
+374,at and t mobilesecurity,at and t mobilesecurity
+375,att mobile security,att mobile security
+376,att mobilesecurity,att mobilesecurity
+377,at & t device help,at & t device help
+378,at&t device help,at&t device help
+379,at and t device help,at and t device help
+380,at & t smart limits,at & t smart limits
+381,at&t smart limits,at&t smart limits
+382,at and t smart limits,at and t smart limits
+383,google play movies and tv,google play movies and tv
+384,sprint tv and movies,sprint tv and movies
+385,galaxy essentials,galaxy essentials
+386,galaxy essentials widget,galaxy essentials widget
+387,smart connect,smart connect
+388,device management,device management
+389,game launcher,game launcher
+390,voicemail,voicemail
+391,duo,duo
+392,finance,finance
+393,newsroom,newsroom
+394,sports,sports
+395,spotify,spotify

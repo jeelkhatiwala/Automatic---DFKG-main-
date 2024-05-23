@@ -1,0 +1,11 @@
+_id,key,value
+1,marsversion,1020201104
+2,skipratio,90
+3,killthreshold,100
+4,restrictionthreshold,100
+5,auto_disable_period_days,32
+6,unused_app_period_days,32
+8,sleep_notification_time,1618485712176
+11,sleep_dismiss_time,1618718950099
+15,deep_sleep_notification_time,1626889273684
+16,deep_sleep_dismiss_time,1626978240208

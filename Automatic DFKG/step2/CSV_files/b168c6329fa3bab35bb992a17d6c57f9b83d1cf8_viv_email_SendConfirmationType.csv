@@ -1,0 +1,47 @@
+RecordId,formal,alias
+1,true,send
+2,true,yes please
+3,true,send it
+4,true,send this out
+5,true,please do it
+6,true,yes
+7,true,surely
+8,true,of course
+9,true,true
+10,true,shoot it
+11,true,send this right now
+12,true,right away
+13,true,go ahead
+14,true,certainly
+15,true,absolutely
+16,true,definitely
+17,true,indeed
+18,true,ok
+19,true,right on
+20,true,precisely
+21,true,all right
+22,true,sure thing
+23,true,yup
+24,true,yep
+25,true,yeah
+26,false,no
+27,false,cancel
+28,false,do not send
+29,false,false
+30,false,never
+31,false,nope
+32,false,dont
+33,false,stop sending it
+34,false,trash it
+35,false,dont do it
+36,false,lets not send it
+37,false,dont send it
+38,false,dont send
+39,false,avoid
+40,false,ignore
+41,false,decline
+42,false,reject
+43,false,forget it
+44,false,nay
+45,false,no way
+46,false,not at all

@@ -1,0 +1,15 @@
+package,class,permission,mode
+com.sec.android.app.sbrowser,com.sec.android.app.sbrowser.SBrowserMainActivity,1001,0
+com.google.android.apps.maps,com.google.android.maps.MapsActivity,0000,0
+com.sec.chaton,com.sec.chaton.HomeActivity,0000,0
+com.facebook.katana,com.facebook.katana.LoginActivity,0000,0
+com.twitter.android,com.twitter.android.StartActivity,0000,0
+com.kakao.talk,com.kakao.talk.activity.SplashActivity,0000,0
+jp.naver.line.android,jp.naver.line.android.activity.SplashActivity,0000,0
+com.samsung.android.email.provider,com.samsung.android.email.ui.activity.MessageListXL,0000,0
+com.android.chrome,com.google.android.apps.chrome.Main,0000,0
+com.microsoft.office.outlook,com.microsoft.office.outlook.MainActivity,0000,0
+com.sec.android.app.popupcalculator,com.sec.android.app.popupcalculator.Calculator,0000,0
+com.samsung.android.app.notes,com.samsung.android.app.notes.memolist.MemoListActivity,0001,0
+com.sec.android.app.clockpackage,com.sec.android.app.clockpackage.ClockPackage,0101,0
+com.whatsapp,com.whatsapp.Main,0000,0

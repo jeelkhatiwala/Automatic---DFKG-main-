@@ -1,0 +1,2 @@
+_id,account_name,account_type,data
+1,heisenbergcarro@gmail.com,com.google,"b'{""version"":16,""firstSeen"":false,""jellyBeanOrNewer"":true,""b38085245"":2147483647,""package"":""com.google.android.syncadapters.calendar"",""heisenbergcarro@gmail.com"":{""window_end"":1658880000000,""feed_updated_time"":""2021-04-03T19:26:01.079Z"",""last_sync_time"":1626979888584,""do_incremental_sync"":true,""new_window_end"":0}}'"

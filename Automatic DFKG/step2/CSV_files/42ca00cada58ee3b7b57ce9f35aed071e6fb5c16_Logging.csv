@@ -1,0 +1,214 @@
+id,key,value,timeStamp
+1,DWBReceiver,android.intent.action.LOCALE_CHANGED,1617476971741
+2,DWBReceiver,android.intent.action.TIME_SET,1617476975283
+3,UsageDataManager::changeTime(),prevBootTime : 1617476819120 currentBootTime : 1617476819121,1617476975371
+4,UsageDataManager::timeChanged(),prevBootTime : 1617476819120 currentBootTime : 1617476819121 difference : 1,1617476975372
+5,DWBReceiver,android.intent.action.TIMEZONE_CHANGED,1617476977581
+6,UsageDataManager::timeZoneChanged(),"prevTimezone(  ), newTimezone( America/New_York ), now( 1617476977633 )",1617476977639
+7,AppUdageDataUpdater::updateTimeZoneInDb(),timezoneDifference( 14400000 ),1617476977648
+8,DWBReceiver,android.intent.action.BOOT_COMPLETED,1617477053663
+9,UsageDataManager::updateQosFirstBootTime(),prevQosFirst : 0 currentBootTime : 1617477053867,1617477053868
+10,UsageDataManager::onQosFirstBootTime(),timeStamp : 1617476940342,1617477053883
+11,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1617508801593
+12,UsageDataManager::changeDate,prevBootTime : 1617476819121 currentBootTime : 1617476819120,1617509351066
+13,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1617595200522
+14,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1617681601971
+15,UsageDataManager::changeDate,prevBootTime : 1617476819121 currentBootTime : 1617476819120,1617690734862
+16,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1617768000968
+17,UsageDataManager::changeDate,prevBootTime : 1617476819121 currentBootTime : 1617476819120,1617768991789
+18,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1617854400372
+19,UsageDataManager::changeDate,prevBootTime : 1617476819120 currentBootTime : 1617476819121,1617875204406
+20,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1617940801573
+21,UsageDataManager::changeDate,prevBootTime : 1617476819120 currentBootTime : 1617476819120,1617960747481
+22,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1618027201843
+23,UsageDataManager::changeDate,prevBootTime : 1617476819120 currentBootTime : 1617476819121,1618044674795
+24,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1618113601001
+25,UsageDataManager::changeDate,prevBootTime : 1617476819120 currentBootTime : 1617476819120,1618127161982
+26,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1618200000489
+27,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1618286401381
+28,UsageDataManager::changeDate,prevBootTime : 1617476819121 currentBootTime : 1617476819121,1618295479326
+29,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1618372801744
+30,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1618459200303
+31,DWBReceiver,android.intent.action.TIME_SET,1618475921018
+32,UsageDataManager::changeTime(),prevBootTime : 1617476817020 currentBootTime : 1617476817020,1618475921056
+33,UsageDataManager::timeChanged(),prevBootTime : 1617476817020 currentBootTime : 1617476817020 difference : 0,1618475921059
+34,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1618545600865
+35,UsageDataManager::changeDate,prevBootTime : 1617476817021 currentBootTime : 1617476817021,1618546966891
+36,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1618632001071
+37,UsageDataManager::changeDate,prevBootTime : 1617476817021 currentBootTime : 1617476817020,1618645337012
+38,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1618718401197
+39,UsageDataManager::changeDate,prevBootTime : 1617476817021 currentBootTime : 1617476817021,1618718941562
+40,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1618804801445
+41,UsageDataManager::changeDate,prevBootTime : 1617476817021 currentBootTime : 1617476817020,1618818817501
+42,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1618891201573
+43,UsageDataManager::changeDate,prevBootTime : 1617476817020 currentBootTime : 1617476817020,1618903112213
+44,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1618977601755
+45,UsageDataManager::changeDate,prevBootTime : 1617476817021 currentBootTime : 1617476817021,1618989947887
+46,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1619064001948
+47,UsageDataManager::changeDate,prevBootTime : 1617476817020 currentBootTime : 1617476817020,1619075185007
+48,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1619150401156
+49,UsageDataManager::changeDate,prevBootTime : 1617476817021 currentBootTime : 1617476817020,1619158128205
+50,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1619236801322
+51,UsageDataManager::changeDate,prevBootTime : 1617476817020 currentBootTime : 1617476817021,1619242803402
+52,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1619323200633
+53,UsageDataManager::changeDate,prevBootTime : 1617476817020 currentBootTime : 1617476817020,1619334535671
+54,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1619409600443
+55,DWBReceiver,android.intent.action.TIME_SET,1619468308102
+56,UsageDataManager::changeTime(),prevBootTime : 1617476814092 currentBootTime : 1617476814092,1619468308163
+57,UsageDataManager::timeChanged(),prevBootTime : 1617476814092 currentBootTime : 1617476814092 difference : 0,1619468308165
+58,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1619496002064
+59,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1619582401256
+60,UsageDataManager::changeDate,prevBootTime : 1617476814092 currentBootTime : 1617476814093,1619584631428
+61,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1619668801194
+62,UsageDataManager::changeDate,prevBootTime : 1617476814092 currentBootTime : 1617476814092,1619669733435
+63,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1619755201610
+64,UsageDataManager::changeDate,prevBootTime : 1617476814092 currentBootTime : 1617476814092,1619760845858
+65,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1619841601824
+66,UsageDataManager::changeDate,prevBootTime : 1617476814092 currentBootTime : 1617476814093,1619847252930
+67,DWBReceiver,android.intent.action.BOOT_COMPLETED,1620202415325
+68,DWBReceiver,android.intent.action.BOOT_COMPLETED,1620202965079
+69,DWBReceiver,android.intent.action.TIME_SET,1620203020460
+70,UsageDataManager::changeTime(),prevBootTime : 1620202761261 currentBootTime : 1620202761262,1620203020502
+71,UsageDataManager::timeChanged(),prevBootTime : 1620202761261 currentBootTime : 1620202761261 difference : 0,1620203020504
+72,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1620273601542
+73,UsageDataManager::changeDate,prevBootTime : 1620202761262 currentBootTime : 1620202761261,1620277347573
+74,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1620360001777
+75,UsageDataManager::changeDate,prevBootTime : 1620202761262 currentBootTime : 1620202761261,1620362199150
+76,DWBReceiver,android.intent.action.TIME_SET,1620442516635
+77,UsageDataManager::changeTime(),prevBootTime : 1620202758836 currentBootTime : 1620202758836,1620442516678
+78,UsageDataManager::timeChanged(),prevBootTime : 1620202758836 currentBootTime : 1620202758835 difference : -1,1620442516681
+79,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1620446401498
+80,UsageDataManager::changeDate,prevBootTime : 1620202758836 currentBootTime : 1620202758836,1620446984579
+81,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1620532801727
+82,UsageDataManager::changeDate,prevBootTime : 1620202758836 currentBootTime : 1620202758836,1620552821718
+83,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1620619200905
+84,UsageDataManager::changeDate,prevBootTime : 1620202758836 currentBootTime : 1620202758836,1620623448972
+85,DWBReceiver,android.intent.action.BOOT_COMPLETED,1621123457873
+86,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1621137600460
+87,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1621224001239
+88,UsageDataManager::changeDate,prevBootTime : 1620725651527 currentBootTime : 1620725651526,1621232292154
+89,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1621310401462
+90,UsageDataManager::changeDate,prevBootTime : 1620725651527 currentBootTime : 1620725651527,1621316900465
+91,DWBReceiver,android.intent.action.BOOT_COMPLETED,1621392889671
+92,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1621396800473
+93,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1621483201487
+94,UsageDataManager::changeDate,prevBootTime : 1621392620721 currentBootTime : 1621392620720,1621487956507
+95,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1621569600691
+96,UsageDataManager::changeDate,prevBootTime : 1621392620721 currentBootTime : 1621392620720,1621572453666
+97,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1621656001845
+98,UsageDataManager::changeDate,prevBootTime : 1621392620721 currentBootTime : 1621392620720,1621667207808
+99,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1621742401075
+100,UsageDataManager::changeDate,prevBootTime : 1621392620720 currentBootTime : 1621392620721,1621752890296
+101,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1621828800253
+102,UsageDataManager::changeDate,prevBootTime : 1621392620720 currentBootTime : 1621392620720,1621839190287
+103,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1621915201482
+104,UsageDataManager::changeDate,prevBootTime : 1621392620720 currentBootTime : 1621392620720,1621923202432
+105,DWBReceiver,android.intent.action.BOOT_COMPLETED,1622046485965
+106,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1622088000616
+107,UsageDataManager::changeDate,prevBootTime : 1622046413812 currentBootTime : 1622046413811,1622092913158
+108,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1622174400826
+109,UsageDataManager::changeDate,prevBootTime : 1622046413812 currentBootTime : 1622046413811,1622183871799
+110,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1622260801992
+111,UsageDataManager::changeDate,prevBootTime : 1622046413811 currentBootTime : 1622046413812,1622269094725
+112,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1622347200963
+113,UsageDataManager::changeDate,prevBootTime : 1622046413812 currentBootTime : 1622046413811,1622353222160
+114,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1622433600297
+115,UsageDataManager::changeDate,prevBootTime : 1622046413812 currentBootTime : 1622046413812,1622438491617
+116,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1622520001596
+117,UsageDataManager::changeDate,prevBootTime : 1622046413812 currentBootTime : 1622046413812,1622523500725
+118,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1622606401811
+119,UsageDataManager::changeDate,prevBootTime : 1622046413812 currentBootTime : 1622046413812,1622607965749
+120,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1622692801020
+121,UsageDataManager::changeDate,prevBootTime : 1622046413812 currentBootTime : 1622046413811,1622712893041
+122,DWBReceiver,android.intent.action.TIME_SET,1622724069617
+123,UsageDataManager::changeTime(),prevBootTime : 1622046411506 currentBootTime : 1622046411507,1622724069661
+124,UsageDataManager::timeChanged(),prevBootTime : 1622046411506 currentBootTime : 1622046411506 difference : 0,1622724069665
+125,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1622779201030
+126,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1622865601320
+127,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1622952001286
+128,UsageDataManager::changeDate,prevBootTime : 1622046411506 currentBootTime : 1622046411506,1622965729379
+129,DWBReceiver,android.intent.action.BOOT_COMPLETED,1623012480681
+130,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1623038400353
+131,UsageDataManager::changeDate,prevBootTime : 1623012146954 currentBootTime : 1623012146955,1623039834042
+132,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1623124801340
+133,UsageDataManager::changeDate,prevBootTime : 1623012146955 currentBootTime : 1623012146955,1623128992977
+134,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1623211200512
+135,UsageDataManager::changeDate,prevBootTime : 1623012146955 currentBootTime : 1623012146954,1623220328583
+136,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1623297600680
+137,UsageDataManager::changeDate,prevBootTime : 1623012146955 currentBootTime : 1623012146955,1623300449745
+138,DWBReceiver,android.intent.action.BOOT_COMPLETED,1623441187527
+139,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1623470401408
+140,UsageDataManager::changeDate,prevBootTime : 1623436406237 currentBootTime : 1623436406236,1623470480602
+141,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1623556800589
+142,UsageDataManager::changeDate,prevBootTime : 1623436406237 currentBootTime : 1623436406237,1623566714537
+143,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1623643202075
+144,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1623729601022
+145,UsageDataManager::changeDate,prevBootTime : 1623436406236 currentBootTime : 1623436406236,1623734455129
+146,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1623816001235
+147,UsageDataManager::changeDate,prevBootTime : 1623436406237 currentBootTime : 1623436406236,1623816145473
+148,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1623902400485
+149,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1623988800324
+150,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1624075201169
+151,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1624161602008
+152,UsageDataManager::changeDate,prevBootTime : 1623436406236 currentBootTime : 1623436406236,1624180193035
+153,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1624248002223
+154,DWBReceiver,android.intent.action.BOOT_COMPLETED,1624340139372
+155,DWBReceiver,android.intent.action.BOOT_COMPLETED,1624385874624
+156,DWBReceiver,android.intent.action.TIME_SET,1624385933847
+157,UsageDataManager::changeTime(),prevBootTime : 1624385701915 currentBootTime : 1624385701916,1624385933888
+158,UsageDataManager::timeChanged(),prevBootTime : 1624385701915 currentBootTime : 1624385701916 difference : 1,1624385933890
+159,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1624420801464
+160,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1624507201640
+161,UsageDataManager::changeDate,prevBootTime : 1624385701915 currentBootTime : 1624385701916,1624519453787
+162,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1624593601825
+163,UsageDataManager::changeDate,prevBootTime : 1624385701915 currentBootTime : 1624385701916,1624595534656
+164,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1624680002074
+165,UsageDataManager::changeDate,prevBootTime : 1624385701916 currentBootTime : 1624385701916,1624682566114
+166,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1624766402245
+167,UsageDataManager::changeDate,prevBootTime : 1624385701916 currentBootTime : 1624385701916,1624781843064
+168,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1624852801435
+169,UsageDataManager::changeDate,prevBootTime : 1624385701916 currentBootTime : 1624385701916,1624867087331
+170,DWBReceiver,android.intent.action.TIME_SET,1624936994844
+171,UsageDataManager::changeTime(),prevBootTime : 1624936888526 currentBootTime : 1624936888526,1624936994987
+172,UsageDataManager::timeChanged(),prevBootTime : 1624936888526 currentBootTime : 1624936888526 difference : 0,1624936994990
+173,DWBReceiver,android.intent.action.BOOT_COMPLETED,1624937075642
+174,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1624939201373
+175,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1625025601693
+176,UsageDataManager::changeDate,prevBootTime : 1624936888526 currentBootTime : 1624936888527,1625027160833
+177,DWBReceiver,android.intent.action.BOOT_COMPLETED,1625113855300
+178,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1625198401536
+179,UsageDataManager::changeDate,prevBootTime : 1625113773008 currentBootTime : 1625113773008,1625200697723
+180,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1625284801635
+181,UsageDataManager::changeDate,prevBootTime : 1625113773009 currentBootTime : 1625113773008,1625289785765
+182,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1625371201109
+183,DWBReceiver,android.intent.action.BOOT_COMPLETED,1625508545122
+184,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1625544001189
+185,UsageDataManager::changeDate,prevBootTime : 1625508450968 currentBootTime : 1625508450968,1625547194307
+186,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1625630401375
+187,UsageDataManager::changeDate,prevBootTime : 1625508450968 currentBootTime : 1625508450967,1625642489402
+188,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1625716800219
+189,DWBReceiver,android.intent.action.BOOT_COMPLETED,1625809557158
+190,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1625889601125
+191,UsageDataManager::changeDate,prevBootTime : 1625805380044 currentBootTime : 1625805380045,1625892877155
+192,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1625976002374
+193,UsageDataManager::changeDate,prevBootTime : 1625805380044 currentBootTime : 1625805380044,1625991534345
+194,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1626062401571
+195,UsageDataManager::changeDate,prevBootTime : 1625805380044 currentBootTime : 1625805380044,1626076644449
+196,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1626148800722
+197,UsageDataManager::changeDate,prevBootTime : 1625805380044 currentBootTime : 1625805380045,1626152461836
+198,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1626235201960
+199,UsageDataManager::changeDate,prevBootTime : 1625805380044 currentBootTime : 1625805380044,1626243747909
+200,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1626321602168
+201,UsageDataManager::changeDate,prevBootTime : 1625805380045 currentBootTime : 1625805380044,1626323324144
+202,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1626408001303
+203,UsageDataManager::changeDate,prevBootTime : 1625805380045 currentBootTime : 1625805380044,1626413326339
+204,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1626494401526
+205,UsageDataManager::changeDate,prevBootTime : 1625805380045 currentBootTime : 1625805380045,1626498187570
+206,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1626580801694
+207,UsageDataManager::changeDate,prevBootTime : 1625805380044 currentBootTime : 1625805380044,1626595775718
+208,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1626667200900
+209,UsageDataManager::changeDate,prevBootTime : 1625805380044 currentBootTime : 1625805380045,1626679913794
+210,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1626753601262
+211,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1626840002315
+212,UsageDataManager::changeDate,prevBootTime : 1625805380044 currentBootTime : 1625805380045,1626842194354
+213,DWBReceiver,com.samsung.android.forest.MIDNIGHT,1626926400488

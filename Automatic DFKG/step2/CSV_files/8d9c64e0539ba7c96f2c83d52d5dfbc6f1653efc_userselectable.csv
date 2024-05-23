@@ -1,0 +1,6 @@
+alias,is_selectable
+com.samsung.android.location_db_passwd,true
+com.sec.android.diagmonagent_diagmonsa,true
+com.sec.android.diagmonagent_jwtToken,true
+com.samsung.android.tadownloader_StorageCrypto,true
+com.samsung.android.dqagent_SA_SDK,true

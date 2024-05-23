@@ -1,0 +1,14 @@
+RecordId,formal,alias
+1,true,yes
+2,true,yep
+3,true,save
+4,true,save it
+5,true,yes save it
+6,true,yeah
+7,false,no
+8,false,nope
+9,false,cancel
+10,false,do not
+11,false,don't
+12,false,don't save
+13,false,don't save it

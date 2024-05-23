@@ -1,0 +1,11 @@
+RecordId,concept_name,regex_pattern
+1,viv_calculator_MixedValueKoreanArab,"(([0-9]{0,4}|[일이삼사오육칠팔구십백])[천만억조경])"
+2,viv_calculator_MixedValueChineseArab,"(([0-9]{0,4}|[0-9]\.[0-9]|[零一二三四五六七八九十])[千万亿兆](\d+\.\d+|\d+)?)+"
+3,viv_calculator_EnglishWordNumber,(((\d+\.)?\d+)\ (trillion|billion|million))
+4,viv_calculator_DegreesPattern,([\-\−]?(\d+\d.)?\d+\°)
+5,viv_calculator_UnicodeMinusPattern,[\-\−](\d+\.)?\d+
+6,viv_calculator_Fraction,\d+(\/|\∕)\d+
+7,viv_calculator_FollowUpRegex,[\+\-\*\/]?(asin|acos|atan|sinh|cosh|tanh|sin|cos|tan|!|sqrt|cbrt|log|ln|\^\d+|\d+\%|abs|unary\-|\d+|e|pi)
+8,viv_calculator_RegularExpression,(\(?(((sqrt|cbrt|ln|log|abs|asinh|acosh|atanh|sinh|cosh|tanh|asin|acos|atan|sin|cos|tan)(\([\-\−]?((\d+)?pi|(\d+\.)?\d+|e))\))|((sqrt|cbrt|ln|log|abs|asinh|acosh|atanh|sinh|cosh|tanh|asin|acos|atan|sin|cos|tan)(\ [\-\−]?((\d+)?\ ?pi|(\d+\.)?\d+|e))\ ?)|([\-\−]?((\d+\.)?\d+|e|pi)\^(\(?(\d+\.)?\d+|e|pi)\)?)|(\d+!)|((³√³√|∛∛|√√|³√|∛|√)\-?(\d+\.)?\d+)|(\d+(pi|π))|([\-\−]?((\d+\.)?\d+(\ and\ (a\ )?\d+\/\d+)?|e|pi)))\)?(\(?\s?[\+\-\*\/\×\÷\−\∕]\s?\(?(((sqrt|cbrt|ln|log|abs|asinh|acosh|atanh|sinh|cosh|tanh|asin|acos|atan|sin|cos|tan)(\([\-\−]?((\d+)?pi|(\d+\.)?\d+|e))\))|((sqrt|cbrt|ln|log|abs|asinh|acosh|atanh|sinh|cosh|tanh|asin|acos|atan|sin|cos|tan)(\ [\-\−]?((\d+)?\ ?pi|(\d+\.)?\d+|e))\ ?)|([\-\−]?((\d+\.)?\d+|e|pi)\^(\(?(\d+\.)?\d+|e|pi)\)?)|(\d+!)|((³√³√|∛∛|√√|³√|∛|√)\-?(\d+\.)?\d+)|(\d+(pi|π))|([\-\−]?((\d+\.)?\d+(\ and\ (a\ )?\d+\/\d+)?|e|pi)))\)?\)?)*)|(\d+的\d%)
+9,viv_money_MixedValueKoreanArab,"(([0-9]{0,4}|[일이삼사오육칠팔구십])[천만억])"
+10,viv_calculator_TextExpression,

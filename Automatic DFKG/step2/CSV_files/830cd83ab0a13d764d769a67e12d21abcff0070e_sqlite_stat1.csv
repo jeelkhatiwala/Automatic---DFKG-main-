@@ -1,0 +1,5 @@
+tbl,idx,stat
+size,,1
+journal,journal_timestamp_key_idx,391 5 1
+journal,sqlite_autoindex_journal_1,391 1
+android_metadata,,1

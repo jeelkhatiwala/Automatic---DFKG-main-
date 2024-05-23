@@ -1,0 +1,45 @@
+RecordId,formal,alias
+1,0,0
+2,0,zero
+3,0,dim
+4,0,minimize
+5,0,min
+6,0,minimum
+7,0,smallest
+8,1,1
+9,1,level 1
+10,1,1 level
+11,1,level one
+12,1,all the way
+13,2,2
+14,2,level 2
+15,2,2 levels
+16,2,level two
+17,3,3
+18,4,4
+19,5,5
+20,6,6
+21,7,7
+22,8,8
+23,9,9
+24,100,100
+25,100,max
+26,100,maximum
+27,100,highest
+28,100,maximize
+29,100,biggest
+30,100,largest
+31,10,ten
+32,20,twenty
+33,30,thirty
+34,40,forty
+35,50,fifty
+36,50,half
+37,50,half way
+38,50,mid way
+39,50,middle
+40,50,midway
+41,60,sixty
+42,70,seventy
+43,80,eighty
+44,90,ninety

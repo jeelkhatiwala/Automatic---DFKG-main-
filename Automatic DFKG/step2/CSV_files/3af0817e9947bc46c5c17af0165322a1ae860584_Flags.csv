@@ -1,0 +1,307 @@
+packageName,version,flagType,partitionId,user,name,intVal,boolVal,floatVal,stringVal,extensionVal,committed
+com.google.android.gms.usagereporting,214,0,0,,connectionless_timeout_seconds,15.0,,,,,1
+com.google.android.gms.usagereporting,214,0,0,,consent_configurations_list,,,,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EAMYAiACKAMwAzgDQANIA1ADEAESHhICeAAaGAoUCAMQAxgDIAMoAzADOANAAkgDUAMQAhIeEgJ4ABoYChQIAxADGAIgAigDMAM4A0ADSANQAxABEh4SAngAGhgKFAgDEAMYAiACKAMwAzgDQANIA1ADEAEK6wIKCERST1BfQk9YEt4CCghEUk9QX0JPWBI+EgJ4ABoYChQIAhADGAIgAigDMAM4A0ADSANQAhABIh4SAngBGhgKFAgCEAMYAyADKAMwAzgDQANIA1ACEAESHhICeAAaGAoUCAMQAxgDIAMoAzADOAJAA0gDUAMQARI+EgJ4ABoYChQIAhADGAIgAigDMAM4A0ADSANQAhABIh4SAngBGhgKFAgCEAMYAyADKAMwAzgDQANIA1ACEAESWBICeAAaGAoUCAIQAxgCIAIoAzADOANAA0gDUAIQARoYChQIAxADGAMgAygDMAM4AkADSANQAxABIh4SAngBGhgKFAgCEAMYAyADKAMwAzgDQANIA1ACEAESWBICeAAaGAoUCAIQAxgCIAIoAzADOANAA0gDUAIQARoYChQIAxADGAMgAygDMAM4AkADSANQAxABIh4SAngBGhgKFAgCEAMYAyADKAMwAzgDQANIA1ACEAEKTAoTV0lGSV9QTEFURk9STV9TVEFUUxI1ChNXSUZJX1BMQVRGT1JNX1NUQVRTEh4SAngBGhgKFAgCEAMYAyADKAMwAzgDQANIA1ACEAEKRgoDQVdQEj8KA0FXUBI4EgJ4ABoYChQIAxADGAMgAygDMAM4AkADSANQAxABGhgKFAgCEAMYAiACKAMwAzgDQANIA1ACEAEKYgoOR1JBUEhJQ1NfU1RBVFMSUAoOR1JBUEhJQ1NfU1RBVFMSPhICeAAaGAoUCAIQAxgCIAIoAzADOANAA0gDUAIQASIeEgJ4ARoYChQIAhADGAMgAygDMAM4A0ADSANQAhABCmoKEkRST1BfQk9YX0VBU1RXT1JMRBJUChJEUk9QX0JPWF9FQVNUV09STEQSPhICeAAaGAoUCAIQAxgCIAIoAzADOANAA0gDUAIQASIeEgJ4ARoYChQIAhADGAMgAygDMAM4A0ADSANQAhABCm4KBExCX0QSZgoETEJfRBI+EgJ4ABoYChQIAxADGAIgAigDMAM4A0ADSANQAxABIh4SAngBGhgKFAgC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,,1
+com.google.android.gms.usagereporting,214,0,0,,enable_anonymous_logging,,1.0,,,,1
+com.google.android.gms.usagereporting,214,0,0,,enable_secondary_user_activity,,1.0,,,,1
+com.google.android.gms.usagereporting,214,0,0,,force_multi_user_opted_out,,0.0,,,,1
+com.google.android.gms.usagereporting,214,0,0,,update_multi_user_checkbox,,1.0,,,,1
+com.google.android.gms.usagereporting,214,0,0,,use_clearcut_map,,1.0,,,,1
+com.google.android.gms.usagereporting,214,0,0,,use_connectionless,,1.0,,,,1
+com.google.android.gms.usagereporting,214,0,0,,use_facs,,0.0,,,,1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__ANDROID_GSA,,,,,b'\n\x06\x08d\x18\x00 \x01\n\x07\x08\xfa\x01\x18\x00 \x01\n\x07\x08\xf9\x01\x18\x00 \x01\n\x07\x08\xf3\x0b\x18\x00 \x01\n\x07\x08\xf4\x0b\x18\x00 \x01\n\x07\x08\xf5\x0b\x18\x00 \x01\n\x07\x08\x84\x01\x18\x00 \x01\n\x07\x08\x8d\x0c\x18\x00 \x01\n\x07\x08\xd0\x0b\x18\x00 \x01\n\x07\x08\x9b\x0c\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_AUTOFILL,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_CAR,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_COMMON,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_CONTEXT_MANAGER,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_CREDENTIAL_MANAGER,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_FACS_CACHE,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_FITNESS,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_GROWTH,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_GUNS,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_LOCATION,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_LOCATION_SHARING,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_MDI_SYNC,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_MOBILE_DATA_PLAN,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_NEARBY,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_NEARBY_MESSAGES,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_NEARBY_SHARING,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_PAY_SECURE_ELEMENT_SERVICE,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_PHENOTYPE,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_PLATFORM_CONFIGURATOR,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_VEHICLE,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CLIENT_LOGGING_GMSCORE_WALLET_TAP_AND_PAY,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__CONTEXT_MANAGER,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__GMSCORE_API_COUNTERS,,,,,b'\n\x05\x18\x01 \xe8\x07',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__LB_A,,,,,b'\n\x04\x18\x01 d',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__METALOG_COUNTERS,,,,,b'\n\x04\x18\x01 \x14',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__PHENOTYPE,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__SILK_NATIVE,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__ZEBEDEE,,,,,b'\n\x04\x18\x01 \n',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRulesV2__ZEBEDEE_COUNTERS,,,,,b'\n\x04\x18\x01 \n',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_AUTOFILL,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_CAR,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_COMMON,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_CONTEXT_MANAGER,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_CREDENTIAL_MANAGER,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_FACS_CACHE,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_FITNESS,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_GROWTH,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_GUNS,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_LOCATION,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_LOCATION_SHARING,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_MDI_SYNC,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_MOBILE_DATA_PLAN,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_NEARBY,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_NEARBY_MESSAGES,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_NEARBY_SHARING,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_PAY_SECURE_ELEMENT_SERVICE,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_PHENOTYPE,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_PLATFORM_CONFIGURATOR,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_VEHICLE,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__CLIENT_LOGGING_GMSCORE_WALLET_TAP_AND_PAY,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__GMSCORE_API_COUNTERS,,,,,b'\n\x05\x18\x01 \xe8\x07',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__LB_A,,,,,b'\n\x04\x18\x01 d',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__METALOG_COUNTERS,,,,,b'\n\x04\x18\x01 \x14',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__PHENOTYPE,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__SILK_NATIVE,,,,,b'\n\x04\x18\x00 \x01',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__ZEBEDEE,,,,,b'\n\x04\x18\x01 \n',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSamplingRules__ZEBEDEE_COUNTERS,,,,,b'\n\x04\x18\x01 \n',1
+com.google.android.gms.clearcut.public,229,0,0,,LogSampling__GMSCORE_API_COUNTERS,,,,1/1000,,1
+com.google.android.gms.clearcut.public,229,0,0,,LogSampling__LB_A,,,,1/100,,1
+com.google.android.gms.clearcut.public,229,0,0,,LogSampling__METALOG_COUNTERS,,,,1/20,,1
+com.google.android.gms.clearcut.public,229,0,0,,LogSampling__PHENOTYPE,,,,1/10,,1
+com.google.android.gms.permissions,212418000,0,0,,OperationsCollect__aggregated_operation_count_threshold,1.0,,,,,1
+com.google.android.gms.permissions,212418000,0,0,,OperationsCollect__all_stacktraces_allowed_percent,,,0.009999999776482582,,,1
+com.google.android.gms.permissions,212418000,0,0,,OperationsCollect__collect_stacktrace_for_all_operations,,0.0,,,,1
+com.google.android.gms.permissions,212418000,0,0,,OperationsCollect__enable_debug_operations_logging,,0.0,,,,1
+com.google.android.gms.permissions,212418000,0,0,,OperationsCollect__enable_gms_core_logger_logging,,0.0,,,,1
+com.google.android.gms.permissions,212418000,0,0,,OperationsCollect__enable_mls_check_for_location_ops_logging,,1.0,,,,1
+com.google.android.gms.permissions,212418000,0,0,,OperationsCollect__gms_core_logger_aggregation_period_seconds,3600.0,,,,,1
+com.google.android.gms.permissions,212418000,0,0,,OperationsCollect__gms_core_logger_clearcut_qos,0.0,,,,,1
+com.google.android.gms.permissions,212418000,0,0,,OperationsCollect__gms_core_logger_persistence_interval_seconds,120.0,,,,,1
+com.google.android.gms.permissions,212418000,0,0,,OperationsCollect__gms_core_logger_rotation_period_seconds,3024000.0,,,,,1
+com.google.android.gms.permissions,212418000,0,0,,OperationsCollect__gms_core_logger_sampling_rate,,,0.009999999776482582,,,1
+com.google.android.gms.permissions,212418000,0,0,,OperationsCollect__gms_core_logger_staggering_period_seconds,86400.0,,,,,1
+com.google.android.gms.permissions,212418000,0,0,,OperationsCollect__gms_core_logger_timebucket_length_seconds,60.0,,,,,1
+com.google.android.gms.permissions,212418000,0,0,,OperationsCollect__operation_frequency_allowed_percent,,,0.0020000000949949026,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__add_fid_to_extras_bundle,,0.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__add_flag_include_stopped_packages_to_intent,,0.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__cache_wifi_ssid_without_get_net_cap,,0.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__catch_alarm_cancel_npes,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__check_queue_on_restart_in_background_thread,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__clearcut_qos_tier,2.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__delete_s2d_ids_on_too_big_exception,,0.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__enable_checkbox_collection,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__enable_earthquake_topic_updates,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__enable_service_restart_alarm,0.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__get_gms_registration_token_on_update,,0.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__get_ssid_through_callback_and_cache_it,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__immutable_pending_intents,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__multi_user_aware_direct_boot_action,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__read_earthquake_topics_from_file,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__release_wakelock_in_background_thread,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__send_target_sdk_version_in_registrations,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__send_user_locked_status,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__service_restart_alarm_interval_seconds,1800.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__socket_connection_timeout_ms,20000.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__ssid_fallback_to_ip_address,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__use_anon_logger_for_client_streamz,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__use_broadcast_options_for_power_allowlist,,0.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__use_cached_ssid,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__use_log_verifier,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__use_network_change_callback_to_trigger_reconnect,,0.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__use_reflection_for_usage_stats_manager_methods,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmFeature__use_streamz_to_count_ssid_lookup,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmHeartbeat__count_downstream_as_heartbeats,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,GcmHeartbeat__defer_client_heartbeats,,0.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,NtsExecutionOptions__enable_multiuser_receiver_proxy_for_execution,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,NtsExecutionOptions__enable_sending_max_runtime_in_execution_requests,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,NtsExecutionOptions__recognize_plugged_devices_as_charging,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,enable_tcp_user_timeout,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,fast_slow_heartbeat_after_ratio_drop_upward_trigger,3.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,fast_slow_heartbeat_drop_ratio,,,0.75,,,1
+com.google.android.gms.gcm,1400,0,0,,fast_slow_heartbeat_fall_fast_trigger,3.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,fast_slow_heartbeat_fast_upward_trigger,3.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,fast_slow_heartbeat_initial_interval_ms,530000.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,fast_slow_heartbeat_initial_upward_trigger,3.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,fast_slow_heartbeat_interval_step_ms,60000.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,fast_slow_heartbeat_longest_interval_ms,1730000.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,fast_slow_heartbeat_shortest_interval_ms,110000.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,fast_slow_heartbeat_slow_upward_trigger,30.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_allow_direct_boot_mode,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_check_user_unlocked_throws_exception,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_count_outbound_as_activity,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_debug_log_size,50.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_direct_boot_feature,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_disable_adaptive_heartbeat,,,,0,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_doze_queue_mode,1.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_doze_whitelist_duration_ms,20000.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_drop_restricted_app_messages,,0.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_enable_aa_bucketing_clearcut_logging,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_enable_aia_registration_flow,1.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_enable_client_queue_clearcut_logging,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_enable_doze_queue_clearcut_logging,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_enable_gcm_client_tracing,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_enable_message_retry,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_enforce_quota_in_dnd_mode,,0.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_fallback_reconnect_on_mobile,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_forward_to_aia,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_high_priority_quotas,,,,"30,10,40,5",,1
+com.google.android.gms.gcm,1400,0,0,,gcm_include_aia,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_log_restricted_app_messages,,0.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_max_upstream_stanza_size,102400.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_selected_heartbeat_algorithm,1.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_set_cell_mcc_mnc_login_request,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_store_reconnect_delay,,0.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,gcm_suppressed_notifications_dnd,,,,511,,1
+com.google.android.gms.gcm,1400,0,0,,gtalk_fallback_mobile_hostports,,,,"alt1-mtalk.google.com:5228,alt2-mtalk.google.com:5228,alt3-mtalk.google.com:5228,alt4-mtalk.google.com:5228,alt5-mtalk.google.com:5228,alt6-mtalk.google.com:5228,alt7-mtalk.google.com:5228,alt8-mtalk.google.com:5228",,1
+com.google.android.gms.gcm,1400,0,0,,gtalk_fallback_wifi_hostports,,,,"alt1-mtalk.google.com:443,alt2-mtalk.google.com:443,alt3-mtalk.google.com:443,alt4-mtalk.google.com:443,alt5-mtalk.google.com:5228,alt6-mtalk.google.com:5228,alt7-mtalk.google.com:5228,alt8-mtalk.google.com:5228",,1
+com.google.android.gms.gcm,1400,0,0,,gtalk_nosync_heartbeat_ping_interval_ms,1680000.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,gtalk_rmq_ack_interval,2.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,nts.catch_exceptions_while_unpacking_tasks,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,nts.disable_redundant_preexecution_pm_query,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,nts.enable_doze_light_restrictions,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,nts.enable_network_callback_observer,,0.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,nts.enable_power_saver_restrictions,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,nts.enable_reachability_observer,,0.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,nts.enable_skipping_standalone_prewakeup_capacity_check,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,nts.max_gmscore_tasks_per_user,-1.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,nts.max_gmscore_tasks_per_user_busy,-1.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,nts.prohibited_target_api_level,30.0,,,,,1
+com.google.android.gms.gcm,1400,0,0,,nts.reachability_hostname_whitelist,,,,".google.com,.googleapis.com,.gstatic.com",,1
+com.google.android.gms.gcm,1400,0,0,,nts.reachability_scheme_whitelist,,,,"ping,tcp",,1
+com.google.android.gms.gcm,1400,0,0,,nts.use_required_uris_column,,0.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,nts.use_standalone_engine,,1.0,,,,1
+com.google.android.gms.gcm,1400,0,0,,tcp_user_timeout_millis,60000.0,,,,,1
+com.google.android.gms.phenotype,229,0,1,,ApiService__thread_count,2.0,,,,,1
+com.google.android.gms.phenotype,229,0,1,,ApiService__timeout_to_close_db_in_seconds,60.0,,,,,1
+com.google.android.gms.phenotype,229,0,1,,AppScopeConfig__all_apps_scope,,,,,b'\n\x19COLLECTION_BASIS_VERIFIER\n\x05ICING',1
+com.google.android.gms.phenotype,229,0,1,,Commit__enable_commit_to_current,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,ContentProvider__enable_committed_flags_dump,,0.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,Database__enable_database_schema_version_24,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,Database__enable_database_schema_version_25,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,DeviceScopeConfig__log_sources,,,,,b'\n\rBATTERY_STATS\n\nDISK_STATS\n\x08DROP_BOX\n\x12DROP_BOX_EASTWORLD\n\x11EASTWORLD_BATTERY\n\x11FINGERPRINT_STATS\n\x13GNSS_PLATFORM_STATS\n\x0eGRAPHICS_STATS\n\x1dIPCONNECTIVITY_PLATFORM_STATS\n\x0eLAUNCHER_STATS\n\x08NETSTATS\n\x12NOTIFICATION_STATS\n\nPROC_STATS\n\x0eSETTINGS_STATS\n\x08STORAGED\n\x16TELECOM_PLATFORM_STATS\n\x18TELEPHONY_PLATFORM_STATS\n\tWESTWORLD\n\x12WESTWORLD_METADATA\n\x13WIFI_PLATFORM_STATS',1
+com.google.android.gms.phenotype,229,0,1,,DimensionsApi__enable_log,,0.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,DimensionsApi__enable_set,,0.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,DirectBoot__enable_direct_boot,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,PackageConfig__experiment_injecting_packages,,,,,b'',1
+com.google.android.gms.phenotype,229,0,1,,PackageUpdateOptimization__allow_sending_broadcasts_to_not_running_apps,,0.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,PackageUpdateOptimization__include_stopped_packages_in_broadcast,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,PackageUpdateOptimization__min_timeout_seconds,14400.0,,,,,1
+com.google.android.gms.phenotype,229,0,1,,PackageUpdateOptimization__notify_all_uncommitted_timeout_seconds,86400.0,,,,,1
+com.google.android.gms.phenotype,229,0,1,,PackageUpdateOptimization__update_now_app_whitelist,,,,,b'\n\x16com.google.android.gms\n\x1acom.google.android.carrier',1
+com.google.android.gms.phenotype,229,0,1,,PackageUpdateOptimization__update_now_bucket_upper_bound,10.0,,,,,1
+com.google.android.gms.phenotype,229,0,1,,PhenotypeFeature__enable_broadcast_logging,,0.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,PhenotypeFeature__enable_committed_version_logging,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,PlatformBoot__boot_commit_packages,,,,,b'\n\x1cactivity_manager_native_boot\n\x11input_native_boot\n\rrollback_boot\n\x13runtime_native_boot\n\x13storage_native_boot\n\x1awindow_manager_native_boot',1
+com.google.android.gms.phenotype,229,0,1,,PlatformBoot__enable_device_config,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,PlatformBoot__enable_platform_boot,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,PlatformBoot__enable_rescue_party,,0.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,PlatformBoot__enable_tagged_puts,,0.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,Registration__enable_baseline_cl,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,Registration__enable_delete_runtime_properties,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,Registration__enable_heterodyne_info,,0.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,Registration__enable_registration_info_tracking,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,Registration__remove_registration_on_downgrades,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,Sync__cleanup_developer_db,,0.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,Sync__detect_flag_corruption6,,0.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,Sync__enable_device_based_sync4,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,Sync__garbage_collection_fetch_reasons,,,,,b'',1
+com.google.android.gms.phenotype,229,0,1,,Sync__guard_against_same_tokens_tag,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,Sync__prefer_unmetered,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,Sync__read_timeout_millis,60000.0,,,,,1
+com.google.android.gms.phenotype,229,0,1,,Sync__rebroadcast_min_interval_seconds,-1.0,,,,,1
+com.google.android.gms.phenotype,229,0,1,,Sync__remove_old_config_packages,,0.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,Sync__remove_request_config_tag,,0.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,Sync__send_registration_info2,,0.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,Sync__sync_on_checkin,,0.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,Sync__sync_on_delta_blacklist,,,,,b'',1
+com.google.android.gms.phenotype,229,0,1,,Sync__sync_on_flag_corruption,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,Sync__sync_on_nonsync_params_delta_blacklist,,,,,"b""\n'com.google.android.googlequicksearchbox""",1
+com.google.android.gms.phenotype,229,0,1,,Sync__unregister_config_packages,,,,,b'',1
+com.google.android.gms.phenotype,229,0,1,,UsePackageConfig__enable_auto_subpackage,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,UsePackageConfig__enable_experiment_injection,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,UsePackageConfig__enable_logging_config,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,UseScopeConfig__enable_app_scope,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,adaptive_window_start_seconds,14400.0,,,,,1
+com.google.android.gms.phenotype,229,0,1,,allow_cross_diversion_and_logging,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,connection_timeout_millis,60000.0,,,,,1
+com.google.android.gms.phenotype,229,0,1,,content_provider_3p_whitelist,,,,"com.google.android.gms.clearcut.public,com.google.android.gms.vision.sdk,com.google.android.gms.measurement,com.google.android.gms.icing,com.google.android.cruiser,org.chromium.net.cronet,com.google.android.gms.auth_account,com.google.android.gms.maps,com.google.android.gms.tflite",,1
+com.google.android.gms.phenotype,229,0,1,,enable_adaptive_poller,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,enable_schedule_on_register_delta,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,enable_sync_after,,1.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,enable_task_reachability,,0.0,,,,1
+com.google.android.gms.phenotype,229,0,1,,interval_seconds,86400.0,,,,,1
+com.google.android.gms.phenotype,229,0,1,,max_users_to_sync,10.0,,,,,1
+com.google.android.gms.phenotype,229,0,1,,ph_appcfg_com_d_google_d_android_d_gms,,,,,b'\n\x08GMS_CORE\n\x16GMSCORE_ANDROID_PRIMES',1
+com.google.android.gms.phenotype,229,0,1,,ph_pkgcfg_com_d_google_d_android_d_apps_d_internal_d_zebedee,,,,,b'\x1a\x02\x08\x00',1
+com.google.android.gms.phenotype,229,0,1,,ph_pkgcfg_com_d_google_d_android_d_gms_d_car,,,,,b'\x12#\x08\x00\x12\x1aCLIENT_LOGGING_GMSCORE_CAR\x12\x03CAR',1
+com.google.android.gms.phenotype,229,0,1,,ph_pkgcfg_com_d_google_d_android_d_gms_d_checkin_d_binary,,,,,b'\x12\x17\x08\x00\x12\x04TRON\x12\rTRON_COUNTERS',1
+com.google.android.gms.phenotype,229,0,1,,ph_pkgcfg_com_d_google_d_android_d_gms_d_contextmanager,,,,,b'\x12\x88\x01\x08\x00\x12\x13CLIENT_LOGGING_PROD\x12&CLIENT_LOGGING_GMSCORE_CONTEXT_MANAGER\x12\x11WELLBEING_ANDROID\x12\x1aWELLBEING_ANDROID_COUNTERS\x12\x18WELLBEING_ANDROID_PRIMES',1
+com.google.android.gms.phenotype,229,0,1,,ph_pkgcfg_com_d_google_d_android_d_gms_d_ipa,,,,,b'\x12\r\x08\x00\x12\tIPA_GCORE',1
+com.google.android.gms.phenotype,229,0,1,,ph_pkgcfg_com_d_google_d_android_d_gms_d_pay,,,,,b'\x12&\x08\x00\x12\x0fTAP_AND_PAY_APP\x12\x11TAP_AND_PAY_GCORE',1
+com.google.android.gms.phenotype,229,0,1,,ph_pkgcfg_com_d_google_d_android_d_gms_d_phenotype,,,,,b'\x12C\x08\x00\x12\tPHENOTYPE\x12\x12PHENOTYPE_COUNTERS\x12 CLIENT_LOGGING_GMSCORE_PHENOTYPE',1
+com.google.android.gms.phenotype,229,0,1,,ph_pkgcfg_com_d_google_d_android_d_gms_d_tapandpay,,,,,b'\x12&\x08\x00\x12\x0fTAP_AND_PAY_APP\x12\x11TAP_AND_PAY_GCORE',1
+com.google.android.gms.phenotype,229,0,1,,ph_pkgcfg_com_d_google_d_android_d_gms_d_telephonyspam,,,,,b'\x12<\x08\x00\x12\x0eANDROID_DIALER\x12\x10SCOOBY_EVENT_LOG\x12\x16SCOOBY_SPAM_REPORT_LOG',1
+com.google.android.gms.phenotype,229,0,1,,ph_pkgcfg_com_d_google_d_android_d_location,,,,,b'\x12\x1c\x08\x00\x12\x02LE\x12\x14ACTIVITY_RECOGNITION',1
+com.google.android.gms.phenotype,229,0,1,,ph_pkgcfg_com_d_google_d_android_d_platform_d_device_u_personalization_u_services,,,,,b'\x12\x13\x08\x00\x12\x0fAIAI_MATCHMAKER',1
+com.google.android.gms.phenotype,229,0,1,,ph_pkgcfg_com_d_google_d_android_d_projection_d_gearhead,,,,,b'\x12\x1b\x08\x00\x12\x17GEARHEAD_ANDROID_PRIMES',1
+com.google.android.gms.phenotype,229,0,1,,platform_settings_to_log,,,,,,1
+com.google.android.gms.phenotype,229,0,1,,sync_on_params_delta_blacklist,,,,"com.google.android.gms.phenotype,com.google.android.contacts,com.google.android.apps.links#com.google.android.apps.cerebra.links,com.google.android.apps.links#com.google.android.apps.cerebra.links.dogfood,com.google.android.gms.people",,1
+com.google.android.gms.phenotype,229,0,1,,use_http_url_connection,,1.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ApiTimeOut__pseudonymous_id_api_timeout_ms,250.0,,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutClientSideMonitoring__enabled,,0.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutFunnel__buffer_size,40960.0,,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutFunnel__discern_bad_request,,1.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutFunnel__enable_block_cache,,1.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutFunnel__enable_client_validation,,0.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutFunnel__enabled,,1.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutFunnel__fix_init,,1.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutFunnel__serialize_metadata,,1.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutFunnel__store_zwieback_cookie,,1.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutFunnel__use_memory_buffer,,0.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutLogOperation__applied_sampling_rate,,1.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutLogOperation__caller_restrictions,,,,,"b'\x08\x01\x12\x0c\n\x08ADSHIELD\x10j\x12\x14\n\x0fANDROID_WEBVIEW\x10\xa8\x04\x12\x0f\n\nARCORE_SDK\x10\x8a\x08\x12\x08\n\x04CAST\x10C\x12\x11\n\x0cBISKI_CLIENT\x10\xdf\x06\x12\x14\n\x0fCABRIO_CONSUMER\x10\xb0\x08\x12\x12\n\rCARRIER_SETUP\x10\xd0\x05\x12\x0c\n\x07CONCORD\x10\xfd\x03\x12\x19\n\x14CONNECTIVITY_MONITOR\x10\x8c\x06\x12\x1c\n\x17FIREBASE_INAPPMESSAGING\x10\xdb\x05\x12\x14\n\x0fFIREBASE_ML_SDK\x10\xcb\x05\x12\r\n\x08FIREPERF\x10\xce\x03\x12\x16\n\x11FIREPERF_AUTOPUSH\x10\xcd\x03\x12\x1b\n\x16FIREPERF_INTERNAL_HIGH\x10\xa4\x05\x12\x1a\n\x15FIREPERF_INTERNAL_LOW\x10\xa3\x05\x12%\n GOOGLE_PDF_VIEWER_ANDROID_PRIMES\x10\x9b\t\x12\t\n\x04GLAS\x10\xa4\t\x12\x0c\n\x07GMA_SDK\x10\xbe\x03\x12\x15\n\x10GMA_SDK_COUNTERS\x10\xbf\x03\x12\x10\n\x0cGMM_COUNTERS\x10M\x12\x1a\n\x15GMM_REALTIME_COUNTERS\x10\xca\x0b\x12\x0b\n\x07GMM_UE3\x10n\x12\x06\n\x02LE\x10\x11\x12\x0c\n\x08MAPS_API\x10O\x12\x16\n\x11MAPS_API_COUNTERS\x10\x8f\x01\x12\x12\n\rMODEM_METRICS\x10\xda\x06\x12\n\n\x05OMADM\x10\xe5\x06\x12\x15\n\x10ORNAMENT_ANDROID\x10\xf2\x07\x12\x0c\n\x07OVERLAY\x10\xd0\x08\x12\x1b\n\x16OVERLAY_ANDROID_PRIMES\x10\xec\x08\x12\x0f\n\nPDF_VIEWER\x10\xbe\x01\x12\x12\n\rPIXEL_HW_INFO\x10\xd2\x04\x12\x12\n\rPOWER_ANOMALY\x10\xbe\x06\x12\x1a\n\x15TETHERING_ENTITLEMENT\x10\xc7\x05\x12\n\n\x06VISION\x10d\x12\x13\n\x0eWFC_ACTIVATION\x10\xcd\x05""\x18\n\x13ANDROID_ML_PLATFORM\x10\x94\x0c""\x1e\n\x19TFLITE_INFERENCE_COUNTERS\x10\xf2\x0c'",1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutLogOperation__gracefully_handle_null_logstore,,0.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutLogOperation__log_3p_log_senders,,0.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutLogOperation__log_webview_version,,1.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutLogOperation__scrub_android_build_fingerprint,,0.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutLogOperation__switch_to_api_call,,0.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutLogOperation__webview_version_info_allowlist,,,,,b'\n\x08DROP_BOX\n\tWESTWORLD',1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutLogStore__catch_eofexception_read_logs,,0.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutLogStore__compression_algorithm_for_flat_file,,,,NONE,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutLogStore__disable_early_store_initialization,,1.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutLogStore__log_cap_policy,,,,,b'\x08\x80\x80@\x12\x0c\n\x05LB_AS\x10\x80\x80\x80\x06\x12\x18\n\x11GMAIL_SYNC_HEALTH\x10\x80\x80\x80\x04\x12\x14\n\rANDROID_GMAIL\x10\x80\x80\xc0\x04\x12\x12\n\x0bANDROID_GSA\x10\x80\x80\x80\x05\x12\x10\n\tPHENOTYPE\x10\x80\x80\xc0\x04\x12\x0b\n\x04TRON\x10\x80\x80\x80\x05\x12\x0b\n\x04LB_T\x10\x80\x80\xc0\x02\x12\x10\n\nCRONET_GMM\x10\x80\x80`\x12 \n\x19PAISA_USER_ANDROID_PRIMES\x10\x80\x80\x80\x04\x12\x11\n\nCHROMESYNC\x10\x80\x80\xc0\x04\x12\x0b\n\x04LB_D\x10\x80\x80\xc0\x01\x12\r\n\x06PHOTOS\x10\x80\x80\xc0\x02\x12\x16\n\x0fCONTEXT_MANAGER\x10\x80\x80\xc0\x04\x12\n\n\x03GCM\x10\x80\x80\x80\x02\x12\x13\n\x0cGMM_COUNTERS\x10\x80\x80\x80\x01\x12\x1b\n\x14ACTIVITY_RECOGNITION\x10\x80\x80\xc0\x02\x12\x16\n\x0fCAST_SENDER_SDK\x10\x80\x80\xc0\x04\x12\x13\n\x0cANDROID_AUTH\x10\x80\x80\x80\x02\x12\x1c\n\x15WIFI_ASSISTANT_PRIMES\x10\x80\x80\x80\x02\x12\x1e\n\x17PLATFORM_STATS_COUNTERS\x10\x80\x80\xc0\x02\x12\x0f\n\x08MAPS_API\x10\x80\x80\xa0\x02\x12\x17\n\x10CARRIER_SERVICES\x10\x80\x80\xa0\x02\x12\x12\n\x0bLB_COUNTERS\x10\x80\x80\x80\x02\x12\x1a\n\x13PEOPLE_AUTOCOMPLETE\x10\x80\x80\x80\x05\x12\x1a\n\x13TACHYON_LOG_REQUEST\x10\x80\x80\x80\x04\x12!\n\x1aANDROID_GSA_ANDROID_PRIMES\x10\x80\x80\xc0\x03\x12\x1f\n\x18PHOTOS_GO_ANDROID_PRIMES\x10\x80\x80\x80\t\x12\x17\n\x10FITNESS_GMS_CORE\x10\x80\x80\x80\x05\x12\x12\n\x0bMEDIA_STATS\x10\x80\x80\xc0\x02\x12\x14\n\rBATTERY_STATS\x10\x80\x80\xc0\x04\x12 \n\x19SEARCHLITE_ANDROID_PRIMES\x10\x80\x80\xc0\x06\x12\x10\n\tWESTWORLD\x10\x80\x80\x80\x03\x12\x0c\n\x05ICING\x10\x80\x80\xe0\x04\x12\x0f\n\x08DROP_BOX\x10\x80\x80\xc0\x07\x12\x1c\n\x15PHOTOS_ANDROID_PRIMES\x10\x80\x80\x80\x05\x12\x11\n\nGMM_PRIMES\x10\x80\x80\x80\x05\x12\x0e\n\x07GMM_UE3\x10\x80\x80\xc0\x03\x12\x16\n\x0fGMS_CORE_PEOPLE\x10\x80\x80\xc0\x04\x12\x18\n\x11IDENTITY_FRONTEND\x10\x80\x80\x80\x03\x12\x15\n\x0eGRAPHICS_STATS\x10\x80\x80\x80\x02\x12\x11\n\nPROC_STATS\x10\x80\x80\x80\x03\x12\x0f\n\x08FIREPERF\x10\x80\x80\xc0\x03\x12\x19\n\x12NOTIFICATION_STATS\x10\x80\x80\x80\x02\x12\r\n\x06PRESTO\x10\x80\x80\xc0\x01\x12\x17\n\x10METALOG_COUNTERS\x10\x80\x80\xc0\x01\x12\x0b\n\x04NOVA\x10\x80\x80\xc0\x07\x12\x0f\n\tTRANSLATE\x10\x80\x80`\x12\x1f\n\x18TRANSLATE_ANDROID_PRIMES\x10\x80\x80\x80\x01\x12\x0c\n\x05CHIME\x10\x80\x80\x80\x01\x12\x1c\n\x15CALENDAR_UNIFIED_SYNC\x10\x80\x80\x80\x03\x12\x0f\n\x08CALENDAR\x10\x80\x80\x80\x01\x12\x16\n\x0fCALENDAR_CLIENT\x10\x80\x80\x80\x02\x12\x1a\n\x13CLIENT_LOGGING_PROD\x10\x80\x80\xe0\x04\x12\x15\n\x0eWIFI_ASSISTANT\x10\x80\x80\x80\x05\x12\x1d\n\x16STREAMZ_PHOTOS_ANDROID\x10\x80\x80\xc0\t\x12\x10\n\tLATIN_IME\x10\x80\x80\xe0\x02\x12\x1b\n\x14MEETINGS_LOG_REQUEST\x10\x80\x80\xa0\x08\x12\x0c\n\x05DRIVE\x10\x80\x80\xa0\x04\x12\x11\n\nGEO_AR_LIB\x10\x80\x80\x80\x05\x12\n\n\x03CAR\x10\x80\x80\xc0\x02\x18\x00',1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutLogStore__max_entries_in_file_cache,400.0,,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutUploader__brotli_compression_level,10.0,,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutUploader__compression_strategy,,,,BROTLI_ONLY,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutUploader__disable_collect_for_debug,,1.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutUploader__disable_x_server_token_for_deidentified_loggers,,1.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutUploader__enable_incremental_upload_batch_generation,,1.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutUploader__enable_loading_native_brotli_lib,,1.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutUploader__enable_network_attribution,,1.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutUploader__enable_network_attribution_allowlist,,1.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutUploader__enable_new_uploader_loop,,0.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutUploader__enable_strict_id_checks_when_adding_funnel_snapshots,,0.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutUploader__log_upload_transport,,,,CRONET,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutUploader__network_attribution_allowlist,,,,,"b""\n'com.google.android.googlequicksearchbox\n\x1ccom.google.android.apps.maps\n)com.google.android.apps.inputmethod.latin""",1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutUploader__read_timeout_millis,60000.0,,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutUploader__reduce_calls_to_google_accounts,,1.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutUploader__skip_cookie_header_quoting,,0.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutUploader__switch_to_pseudonymous_api,,0.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,ClearcutUploader__use_system_clock_for_external_timestamp,,0.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,batch_server_url,,,,https://play.googleapis.com/log/batch,,1
+com.google.android.gms.playlog.uploader,229,0,0,,clearcut_debug_api_caller_whitelist,,,,"com.google.firebase.testing.fireperf.autopush,com.google.firebase.testing.fireperf,com.google.firebase.testing.fireperf.app.autopush,com.google.firebase.testing.fireperf.app,com.google.android.apps.internal.mobdog,com.google.android.apps.mobileutilities,com.google.android.gms.apitest,com.google.android.apps.work.clouddpc,com.google.android.apps.work.clouddpc.arc",,1
+com.google.android.gms.playlog.uploader,229,0,0,,connection_timeout_millis,30000.0,,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,force_upload_api_caller_allowlist,,,,,b'\n9com.google.android.apps.play.battlestar.playclientservice\n\x16com.google.android.gms',1
+com.google.android.gms.playlog.uploader,229,0,0,,log_file_age_cutoff_millis,604800000.0,,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,max_entries_in_file_cache,40.0,,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,max_log_requests_batched,100.0,,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,max_storage_size_bytes,10485760.0,,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,plc_bytes_lru_cache_size,100.0,,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,qos_default_task_interval_millis,3600000.0,,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,qos_default_task_prefer_charging,,1.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,qos_unmetered_or_daily_use_charging_aware_scheduler,,1.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,qos_unmetered_task_interval_millis,3600000.0,,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,qos_unmetered_task_prefer_charging,,1.0,,,,1
+com.google.android.gms.playlog.uploader,229,0,0,,timestamp_events_kill_switch,,0.0,,,,1

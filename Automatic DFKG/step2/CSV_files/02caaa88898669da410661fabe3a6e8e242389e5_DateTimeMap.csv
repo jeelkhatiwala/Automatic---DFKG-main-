@@ -1,0 +1,1554 @@
+type,word,wordgroup,wordvalue,flags,CultureId,numericvalue
+0,version,0,0,32,10,0
+1,:,0,0,0,10,1
+2,invierno,25,107,0,10,0
+2,primavera,25,108,0,10,0
+2,verano,25,109,0,10,0
+2,otoño,25,110,0,10,0
+1,am,4,37,0,10,0
+1,a m,4,37,0,10,0
+1,a.m.,4,37,0,10,0
+1,a.m,4,37,0,10,0
+1,pm,4,38,0,10,0
+1,p.m.,4,38,0,10,0
+1,p.m,4,38,0,10,0
+1,p m,4,38,0,10,0
+1,en punto,9,39,0,10,0
+1,horas,9,39,256,10,0
+1,a la,9,39,4,10,0
+1,a las,9,39,4,10,0
+1,de la,9,39,4,10,0
+1,de las,9,39,4,10,0
+1,a la una,9,39,64,10,0
+1,a las una,9,39,64,10,0
+1,de la una,9,39,64,10,0
+1,de las una,9,39,64,10,0
+1,un'ora,9,39,320,10,0
+1,un' ora,9,39,320,10,0
+1,a,9,40,36,10,0
+1,a los,9,40,36,10,0
+1,el,9,40,36,10,0
+1,la,9,40,36,10,0
+1,las,9,40,36,10,0
+1,los,9,40,36,10,0
+1,al,9,40,36,10,0
+1,y,9,40,2084,10,0
+1,para,9,40,4,10,0
+1,de,9,40,36,10,0
+1,del,9,40,36,10,0
+1,con,9,40,2081,10,0
+1,esta,1,3,0,10,0
+1,este,1,3,0,10,0
+1,siguiente,1,2,512,10,0
+1,el siguiente,1,2,512,10,0
+1,la siguiente,1,2,512,10,0
+1,próximo,1,2,0,10,0
+1,proximo,1,2,0,10,0
+1,próxima,1,2,0,10,0
+1,proxima,1,2,0,10,0
+1,el próximo,1,2,512,10,0
+1,el proximo,1,2,512,10,0
+1,la próxima,1,2,512,10,0
+1,la proxima,1,2,512,10,0
+1,que viene,1,2,0,10,0
+1,pasado,1,1,0,10,0
+1,pasada,1,1,0,10,0
+1,para las,7,69,0,10,0
+1,después,7,68,512,10,0
+1,despues,7,68,512,10,0
+1,más tarde,7,68,512,10,0
+1,mas tarde,7,68,512,10,0
+1,un cuarto,11,50,0,10,0
+1,y cuarto,11,50,0,10,0
+1,y un cuarto,11,50,0,10,0
+1,con 15,11,50,0,10,0
+1,falta 0.500 hora,11,51,0,10,0
+1,faltan 0.750 de hora,11,52,0,10,0
+1,cuarto,11,49,4,10,0
+1,la una,11,49,1,10,0
+1,las una,11,49,1,10,0
+1,esta noche,6,21,0,10,0
+1,minuto,2,64,8,10,0
+1,una minuto,2,64,72,10,0
+1,un minuto,2,64,72,10,0
+1,minutos,2,64,8,10,0
+1,hora,2,65,8,10,0
+1,una hora,2,65,72,10,0
+1,un hora,2,65,72,10,0
+1,segundo,2,41,8,10,0
+1,una segundo,2,41,72,10,0
+1,un segundo,2,41,72,10,0
+1,segundos,2,41,8,10,0
+1,esta mañana,4,15,0,10,0
+1,esta manana,4,15,0,10,0
+1,la mañana,4,15,0,10,0
+1,la manana,4,15,0,10,0
+1,cada mañana,4,15,2,10,0
+1,cada manana,4,15,2,10,0
+1,matutina,4,15,0,10,0
+1,matutinas,4,15,0,10,0
+1,matutino,4,15,0,10,0
+1,matinales,4,15,0,10,0
+1,matutinos,4,15,0,10,0
+1,noche,4,18,0,10,0
+1,nocturno,4,18,0,10,0
+1,nocturno,4,18,0,10,0
+1,nocturnos,4,18,0,10,0
+1,nocturnas,4,18,0,10,0
+1,tarde,4,16,0,10,0
+1,vespertinas,4,16,0,10,0
+1,vespertinos,4,16,0,10,0
+1,todo el día,4,72,0,10,0
+1,todo el dia,4,72,0,10,0
+1,desayuno,4,53,0,10,0
+1,bien temprano,4,53,0,10,0
+1,almuerzo,4,54,0,10,0
+1,lunch,4,55,0,10,0
+1,lonche,4,55,0,10,0
+1,comida,4,55,0,10,0
+1,cena,4,56,0,10,0
+1,merienda,4,56,0,10,0
+1,ayer,5,20,0,10,0
+1,mañana,5,19,0,10,0
+1,manana,5,19,0,10,0
+1,domingo,3,8,0,10,0
+1,dominical,3,8,0,10,0
+1,lunes,3,9,0,10,0
+1,martes,3,10,0,10,0
+1,miércoles,3,11,0,10,0
+1,miercoles,3,11,0,10,0
+1,jueves,3,12,0,10,0
+1,viernes,3,13,0,10,0
+1,sábado,3,14,0,10,0
+1,sabado,3,14,0,10,0
+2,esta,1,3,0,10,0
+2,este,1,3,0,10,0
+2,siguiente,1,2,512,10,0
+2,el siguiente,1,2,512,10,0
+2,la siguiente,1,2,512,10,0
+2,próximo,1,2,0,10,0
+2,proximo,1,2,0,10,0
+2,próxima,1,2,0,10,0
+2,proxima,1,2,0,10,0
+2,el próximo,1,2,512,10,0
+2,el proximo,1,2,512,10,0
+2,la próxima,1,2,512,10,0
+2,la proxima,1,2,512,10,0
+2,que viene,1,2,0,10,0
+2,pasado,1,1,0,10,0
+2,pasada,1,1,0,10,0
+2,domingo,3,8,0,10,0
+2,dominical,3,8,0,10,0
+2,lunes,3,9,0,10,0
+2,martes,3,10,0,10,0
+2,miércoles,3,11,0,10,0
+2,miercoles,3,11,0,10,0
+2,jueves,3,12,0,10,0
+2,viernes,3,13,0,10,0
+2,sábado,3,14,0,10,0
+2,sabado,3,14,0,10,0
+2,enero,8,25,0,10,0
+2,febrero,8,26,0,10,0
+2,marzo,8,27,0,10,0
+2,abril,8,28,0,10,0
+2,mayo,8,29,0,10,0
+2,junio,8,30,0,10,0
+2,julio,8,31,0,10,0
+2,agosto,8,32,0,10,0
+2,septiembre,8,33,0,10,0
+2,octubre,8,34,0,10,0
+2,noviembre,8,35,0,10,0
+2,diciembre,8,36,0,10,0
+2,ene.,8,25,0,10,0
+2,feb.,8,26,0,10,0
+2,mar.,8,27,0,10,0
+2,abr.,8,28,0,10,0
+2,may.,8,29,0,10,0
+2,jun.,8,30,0,10,0
+2,jul.,8,31,0,10,0
+2,ago.,8,32,0,10,0
+2,sep.,8,33,0,10,0
+2,oct.,8,34,0,10,0
+2,nov.,8,35,0,10,0
+2,dic.,8,36,0,10,0
+2,semana,2,4,0,10,0
+2,una semana,2,4,64,10,0
+2,un semana,2,4,64,10,0
+2,semanas,2,4,0,10,0
+2,mes,2,6,0,10,0
+2,una mes,2,6,64,10,0
+2,un mes,2,6,64,10,0
+2,meses,2,6,0,10,0
+2,año,2,7,0,10,0
+2,ano,2,7,0,10,0
+2,una año,2,7,64,10,0
+2,una ano,2,7,64,10,0
+2,un año,2,7,64,10,0
+2,un ano,2,7,64,10,0
+2,años,2,7,0,10,0
+2,anos,2,7,0,10,0
+2,fin de semana,2,5,0,10,0
+2,fines de semana,2,5,0,10,0
+2,día,2,66,8,10,0
+2,una día,2,66,64,10,0
+2,un día,2,66,64,10,0
+2,dia,2,66,8,10,0
+2,una dia,2,66,64,10,0
+2,un dia,2,66,64,10,0
+2,días,2,66,8,10,0
+2,dias,2,66,8,10,0
+2,esta mañana,4,15,0,10,0
+2,esta manana,4,15,0,10,0
+2,la mañana,4,15,0,10,0
+2,la manana,4,15,0,10,0
+2,a la mañana,4,15,0,10,0
+2,a la manana,4,15,0,10,0
+2,de la mañana,4,15,0,10,0
+2,de la manana,4,15,0,10,0
+2,cada mañana,4,15,2,10,0
+2,cada manana,4,15,2,10,0
+2,matutina,4,15,0,10,0
+2,matutinas,4,15,0,10,0
+2,matutino,4,15,0,10,0
+2,matinales,4,15,0,10,0
+2,matutinos,4,15,0,10,0
+2,tarde,4,16,0,10,0
+2,vespertinas,4,16,0,10,0
+2,vespertinos,4,16,0,10,0
+2,noche,4,18,0,10,0
+2,nocturno,4,18,0,10,0
+2,nocturno,4,18,0,10,0
+2,nocturnos,4,18,0,10,0
+2,nocturnas,4,18,0,10,0
+2,todo el día,4,72,0,10,0
+2,todo el dia,4,72,0,10,0
+2,ayer,5,20,0,10,0
+2,mañana,5,19,0,10,0
+2,manana,5,19,0,10,0
+2,el día después de mañana,5,57,0,10,0
+2,el dia despues de manana,5,57,0,10,0
+2,pasado mañana,5,57,0,10,0
+2,pasado manana,5,57,0,10,0
+2,anteayer,5,58,0,10,0
+2,antes de ayer,5,58,0,10,0
+2,antier,5,58,0,10,0
+2,hoy,6,22,0,10,0
+2,ahora,6,23,0,10,0
+2,ahorita,6,23,0,10,0
+2,pronto,6,46,0,10,0
+2,recientemente,6,47,0,10,0
+2,últimamente,6,47,0,10,0
+2,ultimamente,6,47,0,10,0
+2,reciente,6,47,0,10,0
+2,mediodía,9,44,0,10,0
+2,mediodia,9,44,0,10,0
+2,0.500 día,9,44,0,10,0
+2,0.500 dia,9,44,0,10,0
+2,medianoche,9,45,0,10,0
+2,a la medianoche,9,45,0,10,0
+2,de la medianoche,9,45,0,10,0
+2,0.500 noche,9,45,0,10,0
+2,horario de máxima audiencia,10,42,0,10,0
+2,horario de maxima audiencia,10,42,0,10,0
+2,madrugada,10,43,0,10,0
+1,en,7,73,4,10,0
+1,dentro,7,73,4,10,0
+2,a partir de,7,68,1,10,0
+2,desde,7,68,1,10,0
+2,de distancia,7,68,0,10,0
+2,antes,7,69,520,10,0
+2,hace,7,74,0,10,0
+2,anterior,7,69,512,10,0
+2,último,16,80,0,10,0
+2,ultimo,16,80,0,10,0
+2,última,16,80,0,10,0
+2,ultima,16,80,0,10,0
+1,gmt menos 12,15,70,-1200,10,0
+1,hora de la isla baker,15,70,-1200,10,0
+1,línea internacional de cambio de fecha,15,70,-1200,10,0
+1,linea internacional de cambio de fecha,15,70,-1200,10,0
+1,tiempo de la isla baker,15,70,-1200,10,0
+1,gmt menos 11,15,70,-1100,10,0
+1,hora de la isla midway,15,70,-1100,10,0
+1,hora de samoa,15,70,-1100,10,0
+1,tiempo de la isla midway,15,70,-1100,10,0
+1,tiempo de samoa,15,70,-1100,10,0
+1,gmt menos 10,15,70,-1000,10,0
+1,hora de hawai,15,70,-1000,10,0
+1,hora de las islas cook,15,70,-1000,10,0
+1,hora de tahití,15,70,-1000,10,0
+1,hora de tahiti,15,70,-1000,10,0
+1,tiempo de hawai,15,70,-1000,10,0
+1,tiempo de las islas cook,15,70,-1000,10,0
+1,tiempo de tahití,15,70,-1000,10,0
+1,tiempo de tahiti,15,70,-1000,10,0
+1,hora de las islas marquesas,15,70,-930,10,0
+1,tiempo de las islas marquesas,15,70,-930,10,0
+1,gmt menos 9,15,70,-900,10,0
+1,hora de alaska,15,70,-900,10,0
+1,tiempo de alaska,15,70,-900,10,0
+1,gmt menos 8,15,70,-800,10,0
+1,hora de baja california,15,70,-800,10,0
+1,hora de tijuana,15,70,-800,10,0
+1,hora del pacífico,15,70,-800,10,0
+1,hora del pacifico,15,70,-800,10,0
+1,hora del pacífico noroeste,15,70,-800,10,0
+1,hora del pacifico noroeste,15,70,-800,10,0
+1,tiempo de baja california,15,70,-800,10,0
+1,tiempo de tijuana,15,70,-800,10,0
+1,gmt menos 7,15,70,-700,10,0
+1,hora de arizona,15,70,-700,10,0
+1,hora de chihuahua,15,70,-700,10,0
+1,hora de la baja california,15,70,-700,10,0
+1,hora de la montaña,15,70,-700,10,0
+1,hora de la montana,15,70,-700,10,0
+1,hora de la zona del pacífico,15,70,-700,10,0
+1,hora de la zona del pacifico,15,70,-700,10,0
+1,hora de las montañas rocosas,15,70,-700,10,0
+1,hora de las montanas rocosas,15,70,-700,10,0
+1,hora de mazatlán,15,70,-700,10,0
+1,hora de mazatlan,15,70,-700,10,0
+1,tiempo de arizona,15,70,-700,10,0
+1,tiempo de chihuahua,15,70,-700,10,0
+1,tiempo de las montañas rocosas,15,70,-700,10,0
+1,tiempo de las montanas rocosas,15,70,-700,10,0
+1,tiempo de mazatlán,15,70,-700,10,0
+1,tiempo de mazatlan,15,70,-700,10,0
+1,gmt menos 6,15,70,-600,10,0
+1,hora central,15,70,-600,10,0
+1,hora central,15,70,-600,10,0
+1,hora de américa central,15,70,-600,10,0
+1,hora de america central,15,70,-600,10,0
+1,hora de ciudad de méxico,15,70,-600,10,0
+1,hora de ciudad de mexico,15,70,-600,10,0
+1,hora de guadalajara,15,70,-600,10,0
+1,hora de la isla de pascua,15,70,-600,10,0
+1,hora de las islas galápagos,15,70,-600,10,0
+1,hora de las islas galapagos,15,70,-600,10,0
+1,hora de monterrey,15,70,-600,10,0
+1,hora de saskatchewan,15,70,-600,10,0
+1,hora estándar central,15,70,-600,10,0
+1,hora estandar central,15,70,-600,10,0
+1,tiempo de américa central,15,70,-600,10,0
+1,tiempo de america central,15,70,-600,10,0
+1,tiempo de ciudad de méxico,15,70,-600,10,0
+1,tiempo de ciudad de mexico,15,70,-600,10,0
+1,tiempo de guadalajara,15,70,-600,10,0
+1,tiempo de la isla de pascua,15,70,-600,10,0
+1,tiempo de las islas galápagos,15,70,-600,10,0
+1,tiempo de las islas galapagos,15,70,-600,10,0
+1,tiempo de monterrey,15,70,-600,10,0
+1,tiempo de saskatchewan,15,70,-600,10,0
+1,gmt menos 5,15,70,-500,10,0
+1,hora de bogotá,15,70,-500,10,0
+1,hora de bogota,15,70,-500,10,0
+1,hora de colombia,15,70,-500,10,0
+1,hora de cuba,15,70,-500,10,0
+1,hora de ecuador,15,70,-500,10,0
+1,hora de indiana del este,15,70,-500,10,0
+1,hora de la habana,15,70,-500,10,0
+1,hora de lima,15,70,-500,10,0
+1,hora de perú,15,70,-500,10,0
+1,hora de peru,15,70,-500,10,0
+1,hora de quito,15,70,-500,10,0
+1,hora del este,15,70,-500,10,0
+1,hora del este,15,70,-500,10,0
+1,hora del este de américa,15,70,-500,10,0
+1,hora del este de america,15,70,-500,10,0
+1,hora del este de norteamérica,15,70,-500,10,0
+1,hora del este de norteamerica,15,70,-500,10,0
+1,hora del este norteamericano,15,70,-500,10,0
+1,tiempo de bogotá,15,70,-500,10,0
+1,tiempo de bogota,15,70,-500,10,0
+1,tiempo de colombia,15,70,-500,10,0
+1,tiempo de cuba,15,70,-500,10,0
+1,tiempo de ecuador,15,70,-500,10,0
+1,tiempo de indiana del este,15,70,-500,10,0
+1,tiempo de lima,15,70,-500,10,0
+1,tiempo de perú,15,70,-500,10,0
+1,tiempo de peru,15,70,-500,10,0
+1,tiempo de quito,15,70,-500,10,0
+1,hora de caracas,15,70,-430,10,0
+1,hora de venezuela,15,70,-430,10,0
+1,tiempo de caracas,15,70,-430,10,0
+1,tiempo de venezuela,15,70,-430,10,0
+1,gmt menos 4,15,70,-400,10,0
+1,hora de asunción,15,70,-400,10,0
+1,hora de asuncion,15,70,-400,10,0
+1,hora de bolivia,15,70,-400,10,0
+1,hora de chile,15,70,-400,10,0
+1,hora de georgetown,15,70,-400,10,0
+1,hora de guyana,15,70,-400,10,0
+1,hora de la amazonia,15,70,-400,10,0
+1,hora de la paz,15,70,-400,10,0
+1,hora de la república dominicana,15,70,-400,10,0
+1,hora de la republica dominicana,15,70,-400,10,0
+1,hora de las islas malvinas,15,70,-400,10,0
+1,hora de manaus,15,70,-400,10,0
+1,hora de paraguay,15,70,-400,10,0
+1,hora de san juan,15,70,-400,10,0
+1,hora de santiago de chile,15,70,-400,10,0
+1,hora de santo domingo,15,70,-400,10,0
+1,hora del atlántico,15,70,-400,10,0
+1,hora del atlantico,15,70,-400,10,0
+1,hora del caribe oriental,15,70,-400,10,0
+1,tiempo de asunción,15,70,-400,10,0
+1,tiempo de asuncion,15,70,-400,10,0
+1,tiempo de bolivia,15,70,-400,10,0
+1,tiempo de chile,15,70,-400,10,0
+1,tiempo de georgetown,15,70,-400,10,0
+1,tiempo de guyana,15,70,-400,10,0
+1,tiempo de la paz,15,70,-400,10,0
+1,tiempo de la república dominicana,15,70,-400,10,0
+1,tiempo de la republica dominicana,15,70,-400,10,0
+1,tiempo de las islas malvinas,15,70,-400,10,0
+1,tiempo de manaus,15,70,-400,10,0
+1,tiempo de paraguay,15,70,-400,10,0
+1,tiempo de san juan,15,70,-400,10,0
+1,tiempo de santiago de chile,15,70,-400,10,0
+1,tiempo de santo domingo,15,70,-400,10,0
+1,tiempo del caribe oriental,15,70,-400,10,0
+1,hora de terranova,15,70,-330,10,0
+1,tiempo de terranova,15,70,-330,10,0
+1,gmt menos 3,15,70,-300,10,0
+1,hora de argentina,15,70,-300,10,0
+1,hora de brasilia,15,70,-300,10,0
+1,hora de buenos aires,15,70,-300,10,0
+1,hora de cayena,15,70,-300,10,0
+1,hora de groenlandia,15,70,-300,10,0
+1,hora de la guyana francesa,15,70,-300,10,0
+1,hora de montevideo,15,70,-300,10,0
+1,hora de surinám,15,70,-300,10,0
+1,hora de surinam,15,70,-300,10,0
+1,hora de uruguay,15,70,-300,10,0
+1,tiempo de argentina,15,70,-300,10,0
+1,tiempo de brasilia,15,70,-300,10,0
+1,tiempo de buenos aires,15,70,-300,10,0
+1,tiempo de cayena,15,70,-300,10,0
+1,tiempo de groenlandia,15,70,-300,10,0
+1,tiempo de la guyana francesa,15,70,-300,10,0
+1,tiempo de montevideo,15,70,-300,10,0
+1,tiempo de surinám,15,70,-300,10,0
+1,tiempo de surinam,15,70,-300,10,0
+1,tiempo de uruguay,15,70,-300,10,0
+1,gmt menos 2,15,70,-200,10,0
+1,hora de las islas fernando de noronha,15,70,-200,10,0
+1,hora del atlántico central,15,70,-200,10,0
+1,hora del atlantico central,15,70,-200,10,0
+1,tiempo de las islas fernando de noronha,15,70,-200,10,0
+1,tiempo del atlántico central,15,70,-200,10,0
+1,tiempo del atlantico central,15,70,-200,10,0
+1,gmt menos 1,15,70,-100,10,0
+1,hora de cabo verde ,15,70,-100,10,0
+1,hora de groenlandia oriental,15,70,-100,10,0
+1,hora de la isla de cabo verde ,15,70,-100,10,0
+1,hora de las azores,15,70,-100,10,0
+1,hora de las islas azores,15,70,-100,10,0
+1,tiempo de cabo verde,15,70,-100,10,0
+1,tiempo de groenlandia oriental,15,70,-100,10,0
+1,tiempo de la isla de cabo verde,15,70,-100,10,0
+1,tiempo de las islas azores,15,70,-100,10,0
+1,gmt,15,70,0,10,0
+1,hora canaria,15,70,0,10,0
+1,hora de canarias,15,70,0,10,0
+1,hora de casablanca,15,70,0,10,0
+1,hora de dublín,15,70,0,10,0
+1,hora de dublin,15,70,0,10,0
+1,hora de edimburgo,15,70,0,10,0
+1,hora de europa occidental,15,70,0,10,0
+1,hora de gran bretaña,15,70,0,10,0
+1,hora de gran bretana,15,70,0,10,0
+1,hora de inglaterra,15,70,0,10,0
+1,hora de las canarias,15,70,0,10,0
+1,hora de las islas canarias,15,70,0,10,0
+1,hora de las palmas,15,70,0,10,0
+1,hora de las palmas de gran canaria,15,70,0,10,0
+1,hora de lisboa,15,70,0,10,0
+1,hora de londres,15,70,0,10,0
+1,hora de marruecos,15,70,0,10,0
+1,hora de monrovia,15,70,0,10,0
+1,hora de portugal,15,70,0,10,0
+1,hora de rabat,15,70,0,10,0
+1,hora de reikiavik,15,70,0,10,0
+1,hora de santa cruz de tenerife,15,70,0,10,0
+1,hora de tánger,15,70,0,10,0
+1,hora de tanger,15,70,0,10,0
+1,hora de zulú,15,70,0,10,0
+1,hora de zulu,15,70,0,10,0
+1,hora del meridiano de greenwich,15,70,0,10,0
+1,hora del reino unido,15,70,0,10,0
+1,hora universal coordinada,15,70,0,10,0
+1,hora zulú,15,70,0,10,0
+1,hora zulu,15,70,0,10,0
+1,tiemipo de dublín,15,70,0,10,0
+1,tiemipo de dublin,15,70,0,10,0
+1,tiempo de casablanca,15,70,0,10,0
+1,tiempo de edimburgo,15,70,0,10,0
+1,tiempo de europa occidental,15,70,0,10,0
+1,tiempo de gran bretaña,15,70,0,10,0
+1,tiempo de gran bretana,15,70,0,10,0
+1,tiempo de inglaterra,15,70,0,10,0
+1,tiempo de las canarias,15,70,0,10,0
+1,tiempo de las islas canarias,15,70,0,10,0
+1,tiempo de las palamas,15,70,0,10,0
+1,tiempo de las palmas de gran canaria,15,70,0,10,0
+1,tiempo de lisboa,15,70,0,10,0
+1,tiempo de londres,15,70,0,10,0
+1,tiempo de marruecos,15,70,0,10,0
+1,tiempo de monrovia,15,70,0,10,0
+1,tiempo de portugal,15,70,0,10,0
+1,tiempo de rabat,15,70,0,10,0
+1,tiempo de reikiavik,15,70,0,10,0
+1,tiempo de santa cruz de tenerife,15,70,0,10,0
+1,tiempo de tánger,15,70,0,10,0
+1,tiempo de tanger,15,70,0,10,0
+1,tiempo de zulú,15,70,0,10,0
+1,tiempo de zulu,15,70,0,10,0
+1,tiempo del meridiano de greenwich,15,70,0,10,0
+1,tiempo del reino unido,15,70,0,10,0
+1,tiempo medio de greenwich,15,70,0,10,0
+1,tiempo universal coordinado,15,70,0,10,0
+1,utc,15,70,0,10,0
+1,gmt más 1,15,70,100,10,0
+1,gmt mas 1,15,70,100,10,0
+1,hora de áfrica central occidental,15,70,100,10,0
+1,hora de africa central occidental,15,70,100,10,0
+1,hora de áfrica occidental,15,70,100,10,0
+1,hora de africa occidental,15,70,100,10,0
+1,hora de alemania,15,70,100,10,0
+1,hora de ámsterdam,15,70,100,10,0
+1,hora de amsterdam,15,70,100,10,0
+1,hora de argelia,15,70,100,10,0
+1,hora de barcelona,15,70,100,10,0
+1,hora de belgrado,15,70,100,10,0
+1,hora de berlín,15,70,100,10,0
+1,hora de berlin,15,70,100,10,0
+1,hora de berna,15,70,100,10,0
+1,hora de bratislava,15,70,100,10,0
+1,hora de bruselas,15,70,100,10,0
+1,hora de budapest,15,70,100,10,0
+1,hora de copenhague,15,70,100,10,0
+1,hora de españa,15,70,100,10,0
+1,hora de espana,15,70,100,10,0
+1,hora de estocolmo,15,70,100,10,0
+1,hora de europa central,15,70,100,10,0
+1,hora de francia,15,70,100,10,0
+1,hora de irlanda,15,70,100,10,0
+1,hora de italia,15,70,100,10,0
+1,hora de liubliana,15,70,100,10,0
+1,hora de madrid,15,70,100,10,0
+1,hora de milán,15,70,100,10,0
+1,hora de milan,15,70,100,10,0
+1,hora de parís,15,70,100,10,0
+1,hora de paris,15,70,100,10,0
+1,hora de praga,15,70,100,10,0
+1,hora de roma,15,70,100,10,0
+1,hora de sarajevo,15,70,100,10,0
+1,hora de slopie,15,70,100,10,0
+1,hora de varsovia,15,70,100,10,0
+1,hora de viena,15,70,100,10,0
+1,hora de zagreb,15,70,100,10,0
+1,hora española,15,70,100,10,0
+1,hora espanola,15,70,100,10,0
+1,hora peninsular,15,70,100,10,0
+1,tiempo de áfrica central occidental,15,70,100,10,0
+1,tiempo de africa central occidental,15,70,100,10,0
+1,tiempo de áfrica occidental,15,70,100,10,0
+1,tiempo de africa occidental,15,70,100,10,0
+1,tiempo de alemania,15,70,100,10,0
+1,tiempo de ámsterdam,15,70,100,10,0
+1,tiempo de amsterdam,15,70,100,10,0
+1,tiempo de argelia,15,70,100,10,0
+1,tiempo de barcelona,15,70,100,10,0
+1,tiempo de belgrado,15,70,100,10,0
+1,tiempo de berlín,15,70,100,10,0
+1,tiempo de berlin,15,70,100,10,0
+1,tiempo de berna,15,70,100,10,0
+1,tiempo de bratislava,15,70,100,10,0
+1,tiempo de bruselas,15,70,100,10,0
+1,tiempo de budapest,15,70,100,10,0
+1,tiempo de copenhague,15,70,100,10,0
+1,tiempo de españa,15,70,100,10,0
+1,tiempo de espana,15,70,100,10,0
+1,tiempo de estocolmo,15,70,100,10,0
+1,tiempo de europa central,15,70,100,10,0
+1,tiempo de francia,15,70,100,10,0
+1,tiempo de irlanda,15,70,100,10,0
+1,tiempo de italia,15,70,100,10,0
+1,tiempo de liubliana,15,70,100,10,0
+1,tiempo de madrid,15,70,100,10,0
+1,tiempo de milán,15,70,100,10,0
+1,tiempo de milan,15,70,100,10,0
+1,tiempo de parís,15,70,100,10,0
+1,tiempo de paris,15,70,100,10,0
+1,tiempo de praga,15,70,100,10,0
+1,tiempo de roma,15,70,100,10,0
+1,tiempo de sarajevo,15,70,100,10,0
+1,tiempo de slopie,15,70,100,10,0
+1,tiempo de varsovia,15,70,100,10,0
+1,tiempo de viena,15,70,100,10,0
+1,tiempo de zagreb,15,70,100,10,0
+1,tiempo peninsular,15,70,100,10,0
+1,gmt más 2,15,70,200,10,0
+1,gmt mas 2,15,70,200,10,0
+1,hora de áfrica central,15,70,200,10,0
+1,hora de africa central,15,70,200,10,0
+1,hora de europa del este,15,70,200,10,0
+1,hora de europa oriental,15,70,200,10,0
+1,hora de israel,15,70,200,10,0
+1,hora de jerusalén,15,70,200,10,0
+1,hora de jerusalen,15,70,200,10,0
+1,hora de sudáfrica,15,70,200,10,0
+1,hora de sudafrica,15,70,200,10,0
+1,hora de tel aviv,15,70,200,10,0
+1,hora del este de europa ,15,70,200,10,0
+1,tiempo de áfrica central,15,70,200,10,0
+1,tiempo de africa central,15,70,200,10,0
+1,tiempo de europa del este,15,70,200,10,0
+1,tiempo de europa oriental,15,70,200,10,0
+1,tiempo de israel,15,70,200,10,0
+1,tiempo de jerusalén,15,70,200,10,0
+1,tiempo de jerusalen,15,70,200,10,0
+1,tiempo de sudáfrica,15,70,200,10,0
+1,tiempo de sudafrica,15,70,200,10,0
+1,tiempo de tel aviv,15,70,200,10,0
+1,tiempo del este de europa,15,70,200,10,0
+1,gmt más 3,15,70,300,10,0
+1,gmt mas 3,15,70,300,10,0
+1,hora de áfrica del este,15,70,300,10,0
+1,hora de africa del este,15,70,300,10,0
+1,hora de áfrica oriental,15,70,300,10,0
+1,hora de africa oriental,15,70,300,10,0
+1,hora de arabia,15,70,300,10,0
+1,hora de arabia saudí,15,70,300,10,0
+1,hora de arabia saudi,15,70,300,10,0
+1,hora de arabia saudíta,15,70,300,10,0
+1,hora de arabia saudita,15,70,300,10,0
+1,hora del este de áfrica,15,70,300,10,0
+1,hora del este de africa,15,70,300,10,0
+1,hora del océano índico,15,70,300,10,0
+1,hora del oceano indico,15,70,300,10,0
+1,tiempo de áfrica del este,15,70,300,10,0
+1,tiempo de africa del este,15,70,300,10,0
+1,tiempo de áfrica oriental,15,70,300,10,0
+1,tiempo de africa oriental,15,70,300,10,0
+1,tiempo de arabia,15,70,300,10,0
+1,tiempo de arabia saudíta,15,70,300,10,0
+1,tiempo de arabia saudita,15,70,300,10,0
+1,tiempo de irán,15,70,300,10,0
+1,tiempo de iran,15,70,300,10,0
+1,tiempo del este de áfrica,15,70,300,10,0
+1,tiempo del este de africa,15,70,300,10,0
+1,tiempo del océano índico,15,70,300,10,0
+1,tiempo del oceano indico,15,70,300,10,0
+1,hora de irán,15,70,330,10,0
+1,hora de iran,15,70,330,10,0
+1,hora de teherán,15,70,330,10,0
+1,hora de teheran,15,70,330,10,0
+1,tiempo de irán,15,70,330,10,0
+1,tiempo de iran,15,70,330,10,0
+1,tiempo de teherán,15,70,330,10,0
+1,tiempo de teheran,15,70,330,10,0
+1,gmt más 4,15,70,400,10,0
+1,gmt mas 4,15,70,400,10,0
+1,hora de armenia,15,70,400,10,0
+1,hora de azerbaiyán,15,70,400,10,0
+1,hora de azerbaiyan,15,70,400,10,0
+1,hora de georgia,15,70,400,10,0
+1,hora de las islas mauricio,15,70,400,10,0
+1,hora de las islas seychelles,15,70,400,10,0
+1,hora de moscú,15,70,400,10,0
+1,hora de moscu,15,70,400,10,0
+1,hora de reunión,15,70,400,10,0
+1,hora de reunion,15,70,400,10,0
+1,hora de volgogrado,15,70,400,10,0
+1,hora del golfo,15,70,400,10,0
+1,tiempo de armenia,15,70,400,10,0
+1,tiempo de georgia,15,70,400,10,0
+1,tiempo de las islas mauricio,15,70,400,10,0
+1,tiempo de las islas seychelles,15,70,400,10,0
+1,tiempo de moscú,15,70,400,10,0
+1,tiempo de moscu,15,70,400,10,0
+1,tiempo de reunión,15,70,400,10,0
+1,tiempo de reunion,15,70,400,10,0
+1,tiempo de volgogrado,15,70,400,10,0
+1,tiempo de zerbaiyán,15,70,400,10,0
+1,tiempo de zerbaiyan,15,70,400,10,0
+1,tiempo del golfo,15,70,400,10,0
+1,hora de afganistán,15,70,430,10,0
+1,hora de afganistan,15,70,430,10,0
+1,tiempo de afganistán,15,70,430,10,0
+1,tiempo de afganistan,15,70,430,10,0
+1,gmt más 5,15,70,500,10,0
+1,gmt mas 5,15,70,500,10,0
+1,hora de calcuta,15,70,500,10,0
+1,hora de delhi,15,70,500,10,0
+1,hora de india,15,70,500,10,0
+1,hora de la india,15,70,500,10,0
+1,hora de las maldivas,15,70,500,10,0
+1,hora de pakistán,15,70,500,10,0
+1,hora de pakistan,15,70,500,10,0
+1,hora de tayikistán,15,70,500,10,0
+1,hora de tayikistan,15,70,500,10,0
+1,hora de turkmenistán,15,70,500,10,0
+1,hora de turkmenistan,15,70,500,10,0
+1,hora de uzbekistán,15,70,500,10,0
+1,hora de uzbekistan,15,70,500,10,0
+1,tiempo de calculta,15,70,500,10,0
+1,tiempo de delhi,15,70,500,10,0
+1,tiempo de india,15,70,500,10,0
+1,tiempo de la india,15,70,500,10,0
+1,tiempo de las maldivas,15,70,500,10,0
+1,tiempo de pakistán,15,70,500,10,0
+1,tiempo de pakistan,15,70,500,10,0
+1,tiempo de tayikistán,15,70,500,10,0
+1,tiempo de tayikistan,15,70,500,10,0
+1,tiempo de turkmenistán,15,70,500,10,0
+1,tiempo de turkmenistan,15,70,500,10,0
+1,tiempo de uzbekistán,15,70,500,10,0
+1,tiempo de uzbekistan,15,70,500,10,0
+1,hora de sri lanka,15,70,530,10,0
+1,tiempo de sri lanka,15,70,530,10,0
+1,hora de nepal,15,70,545,10,0
+1,tiempo de nepal,15,70,545,10,0
+1,gmt más 6,15,70,600,10,0
+1,gmt mas 6,15,70,600,10,0
+1,hora de bangladesh,15,70,600,10,0
+1,hora de bután,15,70,600,10,0
+1,hora de butan,15,70,600,10,0
+1,hora de kirguistán,15,70,600,10,0
+1,hora de kirguistan,15,70,600,10,0
+1,hora del territorio británico del océano índico,15,70,600,10,0
+1,hora del territorio britanico del oceano indico,15,70,600,10,0
+1,tiempo de bangladesh,15,70,600,10,0
+1,tiempo de bután,15,70,600,10,0
+1,tiempo de butan,15,70,600,10,0
+1,tiempo de kirguistán,15,70,600,10,0
+1,tiempo de kirguistan,15,70,600,10,0
+1,tiempo del territorio británico del océano índico,15,70,600,10,0
+1,tiempo del territorio britanico del oceano indico,15,70,600,10,0
+1,hora de myanmar,15,70,630,10,0
+1,tiempo de myanmar,15,70,630,10,0
+1,gmt más 7,15,70,700,10,0
+1,gmt mas 7,15,70,700,10,0
+1,hora de indochina,15,70,700,10,0
+1,hora de krasnoyarsk,15,70,700,10,0
+1,hora de la isla navidad,15,70,700,10,0
+1,hora de tailandia,15,70,700,10,0
+1,tiempo de indochina,15,70,700,10,0
+1,tiempo de krasnoyarsk,15,70,700,10,0
+1,tiempo de la isla navidad,15,70,700,10,0
+1,tiempo de tailandia,15,70,700,10,0
+1,gmt más 8,15,70,800,10,0
+1,gmt mas 8,15,70,800,10,0
+1,hora de australia occidental,15,70,800,10,0
+1,hora de brunei,15,70,800,10,0
+1,hora de china,15,70,800,10,0
+1,hora de hong kong,15,70,800,10,0
+1,hora de indonesia central,15,70,800,10,0
+1,hora de las filipinas,15,70,800,10,0
+1,hora de las islas filipinas,15,70,800,10,0
+1,hora de malasia,15,70,800,10,0
+1,hora de occidente,15,70,800,10,0
+1,hora de pekín,15,70,800,10,0
+1,hora de pekin,15,70,800,10,0
+1,hora de singapur,15,70,800,10,0
+1,hora occidental,15,70,800,10,0
+1,tiempo de australia occidental,15,70,800,10,0
+1,tiempo de brunei,15,70,800,10,0
+1,tiempo de china,15,70,800,10,0
+1,tiempo de hong kong,15,70,800,10,0
+1,tiempo de indonesia central,15,70,800,10,0
+1,tiempo de las filipinas,15,70,800,10,0
+1,tiempo de las islas filipinas,15,70,800,10,0
+1,tiempo de malasia,15,70,800,10,0
+1,tiempo de occidentel,15,70,800,10,0
+1,tiempo de pekín,15,70,800,10,0
+1,tiempo de pekin,15,70,800,10,0
+1,tiempo de singapur,15,70,800,10,0
+1,tiempo occidental,15,70,800,10,0
+1,hora de border village,15,70,845,10,0
+1,hora de caiguna,15,70,845,10,0
+1,hora de eucla,15,70,845,10,0
+1,hora del centro occidental,15,70,845,10,0
+1,tiempo de border village,15,70,845,10,0
+1,tiempo de caiguna,15,70,845,10,0
+1,tiempo de eucla,15,70,845,10,0
+1,tiempo del centro occidental,15,70,845,10,0
+1,gmt más 9,15,70,900,10,0
+1,gmt mas 9,15,70,900,10,0
+1,hora de corea,15,70,900,10,0
+1,hora de indonesia oriental,15,70,900,10,0
+1,"hora de irtusk, rusia",15,70,900,10,0
+1,hora de japón,15,70,900,10,0
+1,hora de japon,15,70,900,10,0
+1,hora de seúl,15,70,900,10,0
+1,hora de seul,15,70,900,10,0
+1,hora de tokio,15,70,900,10,0
+1,tiempo de corea,15,70,900,10,0
+1,tiempo de indonesia oriental,15,70,900,10,0
+1,"tiempo de irtusk, rusia",15,70,900,10,0
+1,tiempo de japón,15,70,900,10,0
+1,tiempo de japon,15,70,900,10,0
+1,tiempo de seúl,15,70,900,10,0
+1,tiempo de seul,15,70,900,10,0
+1,tiempo de tokio,15,70,900,10,0
+1,hora de australia central,15,70,930,10,0
+1,tiempo de australia central,15,70,930,10,0
+1,gmt más 10,15,70,1000,10,0
+1,gmt mas 10,15,70,1000,10,0
+1,hora de australia oriental,15,70,1000,10,0
+1,hora de papúa nueva guinea,15,70,1000,10,0
+1,hora de papua nueva guinea,15,70,1000,10,0
+1,hora de vladivostok,15,70,1000,10,0
+1,tiempo de australia oriental,15,70,1000,10,0
+1,tiempo de papúa nueva guinea,15,70,1000,10,0
+1,tiempo de papua nueva guinea,15,70,1000,10,0
+1,tiempo de vladivostok,15,70,1000,10,0
+1,hora de la isla lord howe,15,70,1030,10,0
+1,hora de lord howe,15,70,1030,10,0
+1,tiempo de la isla lord howe,15,70,1030,10,0
+1,tiempo de lord howe,15,70,1030,10,0
+1,gmt más 11,15,70,1100,10,0
+1,gmt mas 11,15,70,1100,10,0
+1,hora de las islas salomón,15,70,1100,10,0
+1,hora de las islas salomon,15,70,1100,10,0
+1,tiempo de las islas salomón,15,70,1100,10,0
+1,tiempo de las islas salomon,15,70,1100,10,0
+1,hora de la isla de norfolk,15,70,1130,10,0
+1,tiempo de la isla de norfolk,15,70,1130,10,0
+1,gmt más 12,15,70,1200,10,0
+1,gmt mas 12,15,70,1200,10,0
+1,hora de kamchatka,15,70,1200,10,0
+1,hora de las islas fiji,15,70,1200,10,0
+1,hora de las islas fiyi,15,70,1200,10,0
+1,hora de las islas marshall,15,70,1200,10,0
+1,hora de nueva zelanda,15,70,1200,10,0
+1,hora universal coordinada más 12:00,15,70,1200,10,0
+1,hora universal coordinada mas 12:00,15,70,1200,10,0
+1,tiempo de kamchatka,15,70,1200,10,0
+1,tiempo de las islas fiji,15,70,1200,10,0
+1,tiempo de las islas marshall,15,70,1200,10,0
+1,tiempo de nueva zelanda,15,70,1200,10,0
+1,hora de chatham,15,70,1245,10,0
+1,tiempo de chatham,15,70,1245,10,0
+1,gmt más 13,15,70,1300,10,0
+1,gmt mas 13,15,70,1300,10,0
+1,hora de tonga,15,70,1300,10,0
+1,tiempo de tonga,15,70,1300,10,0
+1,gmt más 14,15,70,1400,10,0
+1,gmt mas 14,15,70,1400,10,0
+1,hora de kiribati,15,70,1400,10,0
+1,hora de las islas de la línea,15,70,1400,10,0
+1,hora de las islas de la linea,15,70,1400,10,0
+1,tiempo de kiribati,15,70,1400,10,0
+1,tiempo de las islas de la línea,15,70,1400,10,0
+1,tiempo de las islas de la linea,15,70,1400,10,0
+2,año nuevo,14,71,1,10,0
+2,ano nuevo,14,71,1,10,0
+2,día de año nuevo,14,71,1,10,0
+2,día de ano nuevo,14,71,1,10,0
+2,dia de año nuevo,14,71,1,10,0
+2,dia de ano nuevo,14,71,1,10,0
+2,día de los reyes magos,14,71,2,10,0
+2,dia de los reyes magos,14,71,2,10,0
+2,día de los santos reyes,14,71,2,10,0
+2,dia de los santos reyes,14,71,2,10,0
+2,reyes magos,14,71,2,10,0
+2,día de la constitución,14,71,3,10,0
+2,dia de la constitucion,14,71,3,10,0
+2,día de la constitución mexicana,14,71,3,10,0
+2,dia de la constitucion mexicana,14,71,3,10,0
+2,día de la bandera,14,71,4,10,0
+2,dia de la bandera,14,71,4,10,0
+2,natalicio de don benito juárez,14,71,5,10,0
+2,natalicio de don benito juarez,14,71,5,10,0
+2,jueves santo,14,71,6,10,0
+2,viernes santo,14,71,7,10,0
+2,día del niño,14,71,8,10,0
+2,dia del nino,14,71,8,10,0
+2,día del trabajo,14,71,9,10,0
+2,dia del trabajo,14,71,9,10,0
+2,día internacional del trabajo,14,71,9,10,0
+2,dia internacional del trabajo,14,71,9,10,0
+2,batalla de puebla,14,71,10,10,0
+2,aniversario de la batalla de puebla,14,71,10,10,0
+2,cinco de mayo,14,71,10,10,0
+2,día de las madres,14,71,11,10,0
+2,dia de las madres,14,71,11,10,0
+2,día de la madre,14,71,11,10,0
+2,dia de la madre,14,71,11,10,0
+2,día del padre,14,71,12,10,0
+2,dia del padre,14,71,12,10,0
+2,día de los padres,14,71,12,10,0
+2,dia de los padres,14,71,12,10,0
+2,día de la independencia,14,71,13,10,0
+2,dia de la independencia,14,71,13,10,0
+2,día de muertos,14,71,14,10,0
+2,dia de muertos,14,71,14,10,0
+2,día de los muertos,14,71,14,10,0
+2,dia de los muertos,14,71,14,10,0
+2,día de los fieles difuntos,14,71,14,10,0
+2,dia de los fieles difuntos,14,71,14,10,0
+2,día de la revolución mexicana,14,71,15,10,0
+2,dia de la revolucion mexicana,14,71,15,10,0
+2,día de la revolución,14,71,15,10,0
+2,dia de la revolucion,14,71,15,10,0
+2,transmisión de poder ejecutivo federal,14,71,16,10,0
+2,transmision de poder ejecutivo federal,14,71,16,10,0
+2,transmisión del poder ejecutivo federal,14,71,16,10,0
+2,transmision del poder ejecutivo federal,14,71,16,10,0
+2,día de la virgen de guadalupe,14,71,17,10,0
+2,dia de la virgen de guadalupe,14,71,17,10,0
+2,noche buena,14,71,18,10,0
+2,nochebuena,14,71,18,10,0
+2,vispera de navidad,14,71,18,10,0
+2,navidad,14,71,19,10,0
+2,todos los santos,14,71,20,10,0
+2,día de todos los santos,14,71,20,10,0
+2,dia de todos los santos,14,71,20,10,0
+2,día de andalucía,14,71,21,10,0
+2,dia de andalucia,14,71,21,10,0
+2,día de aragón,14,71,22,10,0
+2,dia de aragon,14,71,22,10,0
+2,miércoles de ceniza,14,71,23,10,0
+2,miercoles de ceniza,14,71,23,10,0
+2,asunción de la virgen,14,71,24,10,0
+2,asuncion de la virgen,14,71,24,10,0
+2,día de asturias,14,71,25,10,0
+2,dia de asturias,14,71,25,10,0
+2,día de las islas baleares,14,71,26,10,0
+2,dia de las islas baleares,14,71,26,10,0
+2,día del país vasco-euskadiko eguna,14,71,27,10,0
+2,dia del pais vasco-euskadiko eguna,14,71,27,10,0
+2,día del libro,14,71,28,10,0
+2,dia del libro,14,71,28,10,0
+2,día de las islas canarias,14,71,29,10,0
+2,dia de las islas canarias,14,71,29,10,0
+2,día de cantabria,14,71,30,10,0
+2,dia de cantabria,14,71,30,10,0
+2,día de castilla y león,14,71,31,10,0
+2,dia de castilla y leon,14,71,31,10,0
+2,día de castilla la mancha,14,71,32,10,0
+2,dia de castilla la mancha,14,71,32,10,0
+2,día de cataluña-diada de catalunya,14,71,33,10,0
+2,dia de cataluna-diada de catalunya,14,71,33,10,0
+2,inicio del horario de verano,14,71,34,10,0
+2,horario de verano,14,71,34,10,0
+2,comienza el horario de verano,14,71,34,10,0
+2,fin del horario de verano,14,71,35,10,0
+2,horario de invierno,14,71,35,10,0
+2,termina el horario de verano,14,71,35,10,0
+2,día de la tierra,14,71,36,10,0
+2,dia de la tierra,14,71,36,10,0
+2,pascua,14,71,37,10,0
+2,día de pascua,14,71,37,10,0
+2,dia de pascua,14,71,37,10,0
+2,domingo de resurrección,14,71,37,10,0
+2,domingo de resurreccion,14,71,37,10,0
+2,día de extremadura,14,71,38,10,0
+2,dia de extremadura,14,71,38,10,0
+2,halloween,14,71,39,10,0
+2,noche de brujas,14,71,39,10,0
+2,inmaculada concepción,14,71,40,10,0
+2,inmaculada concepcion,14,71,40,10,0
+2,día internacional de la mujer,14,71,41,10,0
+2,dia internacional de la mujer,14,71,41,10,0
+2,día de la comunidad de madrid,14,71,42,10,0
+2,dia de la comunidad de madrid,14,71,42,10,0
+2,día de los santos inocentes,14,71,43,10,0
+2,dia de los santos inocentes,14,71,43,10,0
+2,día de los inocentes,14,71,43,10,0
+2,dia de los inocentes,14,71,43,10,0
+2,día de la región de murcia,14,71,44,10,0
+2,dia de la region de murcia,14,71,44,10,0
+2,día de navarra,14,71,45,10,0
+2,dia de navarra,14,71,45,10,0
+2,nochevieja,14,71,46,10,0
+2,víspera de año nuevo,14,71,46,10,0
+2,vispera de ano nuevo,14,71,46,10,0
+2,vispera del dia de ano nuevo,14,71,46,10,0
+2,día de la virgen del pilar,14,71,47,10,0
+2,dia de la virgen del pilar,14,71,47,10,0
+2,día de la rioja,14,71,48,10,0
+2,dia de la rioja,14,71,48,10,0
+2,día de san josé,14,71,49,10,0
+2,dia de san jose,14,71,49,10,0
+2,día de santiago apóstol,14,71,50,10,0
+2,dia de santiago apostol,14,71,50,10,0
+2,día de la comunidad valenciana,14,71,51,10,0
+2,dia de la comunidad valenciana,14,71,51,10,0
+2,día de san valentín,14,71,52,10,0
+2,dia de san valentin,14,71,52,10,0
+2,aniversario de la expropiación petrolera,14,71,53,10,0
+2,aniversario de la expropiacion petrolera,14,71,53,10,0
+2,día de la candelaria,14,71,54,10,0
+2,dia de la candelaria,14,71,54,10,0
+2,thanksgiving,14,71,55,10,0
+2,día de acción de gracias,14,71,55,10,0
+2,dia de accion de gracias,14,71,55,10,0
+2,acción de gracias,14,71,55,10,0
+2,accion de gracias,14,71,55,10,0
+2,día de la raza,14,71,56,10,0
+2,dia de la raza,14,71,56,10,0
+2,natalicio de don miguel hidalgo,14,71,57,10,0
+2,día de la secretaria,14,71,58,10,0
+2,dia de la secretaria,14,71,58,10,0
+2,día de los abuelos,14,71,59,10,0
+2,dia de los abuelos,14,71,59,10,0
+2,sábado de gloria,14,71,60,10,0
+2,sabado de gloria,14,71,60,10,0
+2,día del ejército,14,71,61,10,0
+2,dia del ejercito,14,71,61,10,0
+2,domingo de ramos,14,71,62,10,0
+2,informe presidencial,14,71,63,10,0
+2,grito de dolores,14,71,64,10,0
+2,grito de independencia,14,71,64,10,0
+2,día del estudiante,14,71,65,10,0
+2,dia del estudiante,14,71,65,10,0
+2,día del maestro,14,71,66,10,0
+2,dia del maestro,14,71,66,10,0
+2,día de los niños héroes,14,71,67,10,0
+2,dia de los ninos heroes,14,71,67,10,0
+2,día de la primavera,14,71,68,10,0
+2,dia de la primavera,14,71,68,10,0
+2,día de las bromas de abril,14,71,69,10,0
+2,dia de las bromas de abril,14,71,69,10,0
+2,día de cristóbal colón,14,71,70,10,0
+2,dia de cristobal colon,14,71,70,10,0
+2,día de elecciones,14,71,71,10,0
+2,dia de elecciones,14,71,71,10,0
+2,día de la marmota,14,71,72,10,0
+2,dia de la marmota,14,71,72,10,0
+2,cumpleaños de john f. kennedy,14,71,73,10,0
+2,cumpleanos de john f. kennedy,14,71,73,10,0
+2,cumpleaños de lincoln,14,71,74,10,0
+2,cumpleanos de lincoln,14,71,74,10,0
+2,día de martin luther king jr,14,71,75,10,0
+2,dia de martin luther king jr,14,71,75,10,0
+2,día de los caídos,14,71,76,10,0
+2,dia de los caidos,14,71,76,10,0
+2,día de los patriotas,14,71,77,10,0
+2,dia de los patriotas,14,71,77,10,0
+2,día de san patricio,14,71,78,10,0
+2,dia de san patricio,14,71,78,10,0
+2,día de impuestos,14,71,79,10,0
+2,dia de impuestos,14,71,79,10,0
+2,día de dar gracias,14,71,80,10,0
+2,dia de dar gracias,14,71,80,10,0
+2,día de los veteranos,14,71,81,10,0
+2,dia de los veteranos,14,71,81,10,0
+2,cumpleaños de washington,14,71,82,10,0
+2,cumpleanos de washington,14,71,82,10,0
+2,día de los presidentes,14,71,82,10,0
+2,dia de los presidentes,14,71,82,10,0
+2,día del cáncer,14,71,83,10,0
+2,dia del cancer,14,71,83,10,0
+2,día mundial del cáncer,14,71,83,10,0
+2,dia mundial del cancer,14,71,83,10,0
+2,día mundial contra el cáncer,14,71,83,10,0
+2,dia mundial contra el cancer,14,71,83,10,0
+2,feria de sevilla,14,71,84,10,0
+2,feria de abril,14,71,84,10,0
+2,tomatina,14,71,85,10,0
+2,tomatina festival,14,71,85,10,0
+2,la tomatina,14,71,85,10,0
+2,festival de la tomatina,14,71,85,10,0
+2,virgen de los ángeles,14,71,86,10,0
+2,virgen de los angeles,14,71,86,10,0
+2,virgen de los ángeles day,14,71,86,10,0
+2,virgen de los angeles day,14,71,86,10,0
+2,día de la virgen de los ángeles,14,71,86,10,0
+2,dia de la virgen de los angeles,14,71,86,10,0
+2,día del trabajador,14,71,87,10,0
+2,dia del trabajador,14,71,87,10,0
+2,black friday,14,71,201,10,0
+2,viernes negro,14,71,201,10,0
+2,ramzan,14,71,55,10,0
+2,ramadan,14,71,55,10,0
+2,ramadhan,14,71,55,10,0
+2,ramzan al-Mubarak,14,71,55,10,0
+2,ramadhan al-Mubarak,14,71,55,10,0
+3,año nuevo,13,1,0,10,0
+3,ano nuevo,13,1,0,10,0
+3,día de año nuevo,13,1,0,10,0
+3,día de ano nuevo,13,1,0,10,0
+3,dia de año nuevo,13,1,0,10,0
+3,dia de ano nuevo,13,1,0,10,0
+3,día de los reyes magos,13,2,0,10,0
+3,dia de los reyes magos,13,2,0,10,0
+3,día de los santos reyes,13,2,0,10,0
+3,dia de los santos reyes,13,2,0,10,0
+3,reyes magos,13,2,0,10,0
+3,día de la constitución,13,3,0,10,0
+3,dia de la constitucion,13,3,0,10,0
+3,día de la constitución mexicana,13,3,0,10,0
+3,dia de la constitucion mexicana,13,3,0,10,0
+3,día de la bandera,13,4,0,10,0
+3,dia de la bandera,13,4,0,10,0
+3,natalicio de don benito juárez,13,5,0,10,0
+3,natalicio de don benito juarez,13,5,0,10,0
+3,jueves santo,13,6,0,10,0
+3,viernes santo,13,7,0,10,0
+3,día del niño,13,8,0,10,0
+3,dia del nino,13,8,0,10,0
+3,día del trabajo,13,9,0,10,0
+3,dia del trabajo,13,9,0,10,0
+3,día internacional del trabajo,13,9,0,10,0
+3,dia internacional del trabajo,13,9,0,10,0
+3,batalla de puebla,13,10,0,10,0
+3,aniversario de la batalla de puebla,13,10,0,10,0
+3,cinco de mayo,13,10,0,10,0
+3,día de las madres,13,11,0,10,0
+3,dia de las madres,13,11,0,10,0
+3,día de la madre,13,11,0,10,0
+3,dia de la madre,13,11,0,10,0
+3,día del padre,13,12,0,10,0
+3,dia del padre,13,12,0,10,0
+3,día de los padres,13,12,0,10,0
+3,dia de los padres,13,12,0,10,0
+3,día de la independencia,13,13,0,10,0
+3,dia de la independencia,13,13,0,10,0
+3,día de muertos,13,14,0,10,0
+3,dia de muertos,13,14,0,10,0
+3,día de los muertos,13,14,0,10,0
+3,dia de los muertos,13,14,0,10,0
+3,día de los fieles difuntos,13,14,0,10,0
+3,dia de los fieles difuntos,13,14,0,10,0
+3,día de la revolución mexicana,13,15,0,10,0
+3,dia de la revolucion mexicana,13,15,0,10,0
+3,día de la revolución,13,15,0,10,0
+3,dia de la revolucion,13,15,0,10,0
+3,transmisión de poder ejecutivo federal,13,16,0,10,0
+3,transmision de poder ejecutivo federal,13,16,0,10,0
+3,transmisión del poder ejecutivo federal,13,16,0,10,0
+3,transmision del poder ejecutivo federal,13,16,0,10,0
+3,día de la virgen de guadalupe,13,17,0,10,0
+3,dia de la virgen de guadalupe,13,17,0,10,0
+3,noche buena,13,18,0,10,0
+3,nochebuena,13,18,0,10,0
+3,vispera de navidad,13,18,0,10,0
+3,navidad,13,19,0,10,0
+3,todos los santos,13,20,0,10,0
+3,día de todos los santos,13,20,0,10,0
+3,dia de todos los santos,13,20,0,10,0
+3,día de andalucía,13,21,0,10,0
+3,dia de andalucia,13,21,0,10,0
+3,día de aragón,13,22,0,10,0
+3,dia de aragon,13,22,0,10,0
+3,miércoles de ceniza,13,23,0,10,0
+3,miercoles de ceniza,13,23,0,10,0
+3,asunción de la virgen,13,24,0,10,0
+3,asuncion de la virgen,13,24,0,10,0
+3,día de asturias,13,25,0,10,0
+3,dia de asturias,13,25,0,10,0
+3,día de las islas baleares,13,26,0,10,0
+3,dia de las islas baleares,13,26,0,10,0
+3,día del país vasco-euskadiko eguna,13,27,0,10,0
+3,dia del pais vasco-euskadiko eguna,13,27,0,10,0
+3,día del libro,13,28,0,10,0
+3,dia del libro,13,28,0,10,0
+3,día de las islas canarias,13,29,0,10,0
+3,dia de las islas canarias,13,29,0,10,0
+3,día de cantabria,13,30,0,10,0
+3,dia de cantabria,13,30,0,10,0
+3,día de castilla y león,13,31,0,10,0
+3,dia de castilla y leon,13,31,0,10,0
+3,día de castilla la mancha,13,32,0,10,0
+3,dia de castilla la mancha,13,32,0,10,0
+3,día de cataluña-diada de catalunya,13,33,0,10,0
+3,dia de cataluna-diada de catalunya,13,33,0,10,0
+3,inicio del horario de verano,13,34,0,10,0
+3,horario de verano,13,34,0,10,0
+3,comienza el horario de verano,13,34,0,10,0
+3,fin del horario de verano,13,35,0,10,0
+3,horario de invierno,13,35,0,10,0
+3,termina el horario de verano,13,35,0,10,0
+3,día de la tierra,13,36,0,10,0
+3,dia de la tierra,13,36,0,10,0
+3,pascua,13,37,0,10,0
+3,día de pascua,13,37,0,10,0
+3,dia de pascua,13,37,0,10,0
+3,domingo de resurrección,13,37,0,10,0
+3,domingo de resurreccion,13,37,0,10,0
+3,día de extremadura,13,38,0,10,0
+3,dia de extremadura,13,38,0,10,0
+3,halloween,13,39,0,10,0
+3,noche de brujas,13,39,0,10,0
+3,inmaculada concepción,13,40,0,10,0
+3,inmaculada concepcion,13,40,0,10,0
+3,día internacional de la mujer,13,41,0,10,0
+3,dia internacional de la mujer,13,41,0,10,0
+3,día de la comunidad de madrid,13,42,0,10,0
+3,dia de la comunidad de madrid,13,42,0,10,0
+3,día de los santos inocentes,13,43,0,10,0
+3,dia de los santos inocentes,13,43,0,10,0
+3,día de los inocentes,13,43,0,10,0
+3,dia de los inocentes,13,43,0,10,0
+3,día de la región de murcia,13,44,0,10,0
+3,dia de la region de murcia,13,44,0,10,0
+3,día de navarra,13,45,0,10,0
+3,dia de navarra,13,45,0,10,0
+3,nochevieja,13,46,0,10,0
+3,víspera de año nuevo,13,46,0,10,0
+3,vispera de ano nuevo,13,46,0,10,0
+3,vispera del dia de ano nuevo,13,46,0,10,0
+3,día de la virgen del pilar,13,47,0,10,0
+3,dia de la virgen del pilar,13,47,0,10,0
+3,día de la rioja,13,48,0,10,0
+3,dia de la rioja,13,48,0,10,0
+3,día de san josé,13,49,0,10,0
+3,dia de san jose,13,49,0,10,0
+3,día de santiago apóstol,13,50,0,10,0
+3,dia de santiago apostol,13,50,0,10,0
+3,día de la comunidad valenciana,13,51,0,10,0
+3,dia de la comunidad valenciana,13,51,0,10,0
+3,día de san valentín,13,52,0,10,0
+3,dia de san valentin,13,52,0,10,0
+3,aniversario de la expropiación petrolera,13,53,0,10,0
+3,aniversario de la expropiacion petrolera,13,53,0,10,0
+3,día de la candelaria,13,54,0,10,0
+3,dia de la candelaria,13,54,0,10,0
+3,thanksgiving,13,55,0,10,0
+3,día de acción de gracias,13,55,0,10,0
+3,dia de accion de gracias,13,55,0,10,0
+3,acción de gracias,13,55,0,10,0
+3,accion de gracias,13,55,0,10,0
+3,día de la raza,13,56,0,10,0
+3,dia de la raza,13,56,0,10,0
+3,natalicio de don miguel hidalgo,13,57,0,10,0
+3,día de la secretaria,13,58,0,10,0
+3,dia de la secretaria,13,58,0,10,0
+3,día de los abuelos,13,59,0,10,0
+3,dia de los abuelos,13,59,0,10,0
+3,sábado de gloria,13,60,0,10,0
+3,sabado de gloria,13,60,0,10,0
+3,día del ejército,13,61,0,10,0
+3,dia del ejercito,13,61,0,10,0
+3,domingo de ramos,13,62,0,10,0
+3,informe presidencial,13,63,0,10,0
+3,grito de dolores,13,64,0,10,0
+3,grito de independencia,13,64,0,10,0
+3,día del estudiante,13,65,0,10,0
+3,dia del estudiante,13,65,0,10,0
+3,día del maestro,13,66,0,10,0
+3,dia del maestro,13,66,0,10,0
+3,día de los niños héroes,13,67,0,10,0
+3,dia de los ninos heroes,13,67,0,10,0
+3,día de la primavera,13,68,0,10,0
+3,dia de la primavera,13,68,0,10,0
+3,día de las bromas de abril,13,69,0,10,0
+3,dia de las bromas de abril,13,69,0,10,0
+3,día de cristóbal colón,13,70,0,10,0
+3,dia de cristobal colon,13,70,0,10,0
+3,día de elecciones,13,71,0,10,0
+3,dia de elecciones,13,71,0,10,0
+3,día de la marmota,13,72,0,10,0
+3,dia de la marmota,13,72,0,10,0
+3,cumpleaños de john f. kennedy,13,73,0,10,0
+3,cumpleanos de john f. kennedy,13,73,0,10,0
+3,cumpleaños de lincoln,13,74,0,10,0
+3,cumpleanos de lincoln,13,74,0,10,0
+3,día de martin luther king jr,13,75,0,10,0
+3,dia de martin luther king jr,13,75,0,10,0
+3,día de los caídos,13,76,0,10,0
+3,dia de los caidos,13,76,0,10,0
+3,día de los patriotas,13,77,0,10,0
+3,dia de los patriotas,13,77,0,10,0
+3,día de san patricio,13,78,0,10,0
+3,dia de san patricio,13,78,0,10,0
+3,día de impuestos,13,79,0,10,0
+3,dia de impuestos,13,79,0,10,0
+3,día de dar gracias,13,80,0,10,0
+3,dia de dar gracias,13,80,0,10,0
+3,día de los veteranos,13,81,0,10,0
+3,dia de los veteranos,13,81,0,10,0
+3,cumpleaños de washington,13,82,0,10,0
+3,cumpleanos de washington,13,82,0,10,0
+3,día de los presidentes,13,82,0,10,0
+3,dia de los presidentes,13,82,0,10,0
+3,día del cáncer,13,83,0,10,0
+3,dia del cancer,13,83,0,10,0
+3,día mundial del cáncer,13,83,0,10,0
+3,dia mundial del cancer,13,83,0,10,0
+3,día mundial contra el cáncer,13,83,0,10,0
+3,dia mundial contra el cancer,13,83,0,10,0
+3,feria de sevilla,13,84,0,10,0
+3,feria de abril,13,84,0,10,0
+3,tomatina,13,85,0,10,0
+3,tomatina festival,13,85,0,10,0
+3,la tomatina,13,85,0,10,0
+3,festival de la tomatina,13,85,0,10,0
+3,virgen de los ángeles,13,86,0,10,0
+3,virgen de los angeles,13,86,0,10,0
+3,virgen de los ángeles day,13,86,0,10,0
+3,virgen de los angeles day,13,86,0,10,0
+3,día de la virgen de los ángeles,13,86,0,10,0
+3,dia de la virgen de los angeles,13,86,0,10,0
+3,día del trabajador,13,87,0,10,0
+3,dia del trabajador,13,87,0,10,0
+3,black friday,13,201,0,10,0
+3,viernes negro,13,201,0,10,0
+3,ramzan,13,55,0,10,0
+3,ramadan,13,55,0,10,0
+3,ramadhan,13,55,0,10,0
+3,ramzan al-Mubarak,13,55,0,10,0
+3,ramadhan al-Mubarak,13,55,0,10,0
+1,dt_delete_protector,100,100,0,0,0
+3,cada,1,0,0,10,0
+3,todos,1,0,0,10,0
+3,repita,1,0,0,10,0
+3,repetido,1,0,0,10,0
+3,siempre,1,0,0,10,0
+3,que se repita,1,0,0,10,0
+3,que recurra,1,0,0,10,0
+3,que ocurra,1,0,0,10,0
+3,todos los,1,0,0,10,0
+3,todas,1,0,0,10,0
+3,día,2,0,0,10,0
+3,dia,2,0,0,10,0
+3,días,2,0,1,10,0
+3,dias,2,0,1,10,0
+3,diario,2,0,2,10,0
+3,a diario,2,0,2,10,0
+3,diariamente,2,0,2,10,0
+3,diarios,2,0,2,10,0
+3,semana,3,0,0,10,0
+3,semanas,3,0,1,10,0
+3,semanalmente,3,0,2,10,0
+3,semanal,3,0,2,10,0
+3,semanales,3,0,2,10,0
+3,días hábiles,4,0,1,10,0
+3,dias habiles,4,0,1,10,0
+3,día hábil,4,0,0,10,0
+3,dia habil,4,0,0,10,0
+3,días de la semana,4,0,1,10,0
+3,dias de la semana,4,0,1,10,0
+3,día de la semana,4,0,0,10,0
+3,dia de la semana,4,0,0,10,0
+3,días de semana,4,0,1,10,0
+3,dias de semana,4,0,1,10,0
+3,día de semana,4,0,0,10,0
+3,dia de semana,4,0,0,10,0
+3,fin de semana,5,0,0,10,0
+3,fines de semana,5,0,1,10,0
+3,domingo,6,1,0,10,0
+3,dominical,6,1,0,10,0
+3,domingos,6,1,1,10,0
+3,lunes,6,2,0,10,0
+3,los lunes,6,2,1,10,0
+3,martes,6,3,0,10,0
+3,los martes,6,3,1,10,0
+3,miércoles,6,4,0,10,0
+3,miercoles,6,4,0,10,0
+3,los miércoles,6,4,1,10,0
+3,los miercoles,6,4,1,10,0
+3,jueves,6,5,0,10,0
+3,los jueves,6,5,1,10,0
+3,viernes,6,6,0,10,0
+3,los viernes,6,6,1,10,0
+3,sábado,6,7,0,10,0
+3,sabado,6,7,0,10,0
+3,sábados,6,7,1,10,0
+3,sabados,6,7,1,10,0
+3,cuarto,7,4,0,10,0
+3,día 1,7,1,0,10,0
+3,dia 1,7,1,0,10,0
+3,días 1,7,1,0,10,0
+3,dias 1,7,1,0,10,0
+3,día 2,7,2,0,10,0
+3,dia 2,7,2,0,10,0
+3,días 2,7,2,0,10,0
+3,dias 2,7,2,0,10,0
+3,día 3,7,3,0,10,0
+3,dia 3,7,3,0,10,0
+3,días 3,7,3,0,10,0
+3,dias 3,7,3,0,10,0
+3,día 4,7,4,0,10,0
+3,dia 4,7,4,0,10,0
+3,día cuarto,7,4,0,10,0
+3,dia cuarto,7,4,0,10,0
+3,días cuarto,7,4,0,10,0
+3,dias cuarto,7,4,0,10,0
+3,días 4,7,4,0,10,0
+3,dias 4,7,4,0,10,0
+3,día 5,7,5,0,10,0
+3,dia 5,7,5,0,10,0
+3,días 5,7,5,0,10,0
+3,dias 5,7,5,0,10,0
+3,día 6,7,6,0,10,0
+3,dia 6,7,6,0,10,0
+3,días 6,7,6,0,10,0
+3,dias 6,7,6,0,10,0
+3,día 7,7,7,0,10,0
+3,dia 7,7,7,0,10,0
+3,días 7,7,7,0,10,0
+3,dias 7,7,7,0,10,0
+3,día 8,7,8,0,10,0
+3,dia 8,7,8,0,10,0
+3,días 8,7,8,0,10,0
+3,dias 8,7,8,0,10,0
+3,día 9,7,9,0,10,0
+3,dia 9,7,9,0,10,0
+3,días 9,7,9,0,10,0
+3,dias 9,7,9,0,10,0
+3,día 10,7,10,0,10,0
+3,dia 10,7,10,0,10,0
+3,días 10,7,10,0,10,0
+3,dias 10,7,10,0,10,0
+3,día 11,7,11,0,10,0
+3,dia 11,7,11,0,10,0
+3,días 11,7,11,0,10,0
+3,dias 11,7,11,0,10,0
+3,día 12,7,12,0,10,0
+3,dia 12,7,12,0,10,0
+3,días 12,7,12,0,10,0
+3,dias 12,7,12,0,10,0
+3,día 13,7,13,0,10,0
+3,dia 13,7,13,0,10,0
+3,días 13,7,13,0,10,0
+3,dias 13,7,13,0,10,0
+3,día 14,7,14,0,10,0
+3,dia 14,7,14,0,10,0
+3,días 14,7,14,0,10,0
+3,dias 14,7,14,0,10,0
+3,día 15,7,15,0,10,0
+3,dia 15,7,15,0,10,0
+3,días 15,7,15,0,10,0
+3,dias 15,7,15,0,10,0
+3,día 16,7,16,0,10,0
+3,dia 16,7,16,0,10,0
+3,días 16,7,16,0,10,0
+3,dias 16,7,16,0,10,0
+3,día 17,7,17,0,10,0
+3,dia 17,7,17,0,10,0
+3,días 17,7,17,0,10,0
+3,dias 17,7,17,0,10,0
+3,día 18,7,18,0,10,0
+3,dia 18,7,18,0,10,0
+3,días 18,7,18,0,10,0
+3,dias 18,7,18,0,10,0
+3,día 19,7,19,0,10,0
+3,dia 19,7,19,0,10,0
+3,días 19,7,19,0,10,0
+3,dias 19,7,19,0,10,0
+3,día 20,7,20,0,10,0
+3,dia 20,7,20,0,10,0
+3,días 20,7,20,0,10,0
+3,dias 20,7,20,0,10,0
+3,día 21,7,21,0,10,0
+3,dia 21,7,21,0,10,0
+3,días 21,7,21,0,10,0
+3,dias 21,7,21,0,10,0
+3,día 22,7,22,0,10,0
+3,dia 22,7,22,0,10,0
+3,días 22,7,22,0,10,0
+3,dias 22,7,22,0,10,0
+3,día 23,7,23,0,10,0
+3,dia 23,7,23,0,10,0
+3,días 23,7,23,0,10,0
+3,dias 23,7,23,0,10,0
+3,día 24,7,24,0,10,0
+3,dia 24,7,24,0,10,0
+3,días 24,7,24,0,10,0
+3,dias 24,7,24,0,10,0
+3,día 25,7,25,0,10,0
+3,dia 25,7,25,0,10,0
+3,días 25,7,25,0,10,0
+3,dias 25,7,25,0,10,0
+3,día 26,7,26,0,10,0
+3,dia 26,7,26,0,10,0
+3,días 26,7,26,0,10,0
+3,dias 26,7,26,0,10,0
+3,día 27,7,27,0,10,0
+3,dia 27,7,27,0,10,0
+3,días 27,7,27,0,10,0
+3,dias 27,7,27,0,10,0
+3,día 28,7,28,0,10,0
+3,dia 28,7,28,0,10,0
+3,días 28,7,28,0,10,0
+3,dias 28,7,28,0,10,0
+3,día 29,7,29,0,10,0
+3,dia 29,7,29,0,10,0
+3,días 29,7,29,0,10,0
+3,dias 29,7,29,0,10,0
+3,día 30,7,30,0,10,0
+3,dia 30,7,30,0,10,0
+3,días 30,7,30,0,10,0
+3,dias 30,7,30,0,10,0
+3,día 31,7,31,0,10,0
+3,dia 31,7,31,0,10,0
+3,días 31,7,31,0,10,0
+3,dias 31,7,31,0,10,0
+3,último,8,0,0,10,0
+3,ultimo,8,0,0,10,0
+3,fin,8,0,0,10,0
+3,mes,9,0,0,10,0
+3,meses,9,0,1,10,0
+3,mensualmente,9,0,2,10,0
+3,mensual,9,0,2,10,0
+3,enero,10,1,0,10,0
+3,ene,10,1,0,10,0
+3,febrero,10,2,0,10,0
+3,feb,10,2,0,10,0
+3,marzo,10,3,0,10,0
+3,mar,10,3,0,10,0
+3,abril,10,4,0,10,0
+3,abr,10,4,0,10,0
+3,mayo,10,5,0,10,0
+3,may,10,5,0,10,0
+3,junio,10,6,0,10,0
+3,jun,10,6,0,10,0
+3,julio,10,7,0,10,0
+3,jul,10,7,0,10,0
+3,agosto,10,8,0,10,0
+3,ago,10,8,0,10,0
+3,septiembre,10,9,0,10,0
+3,sep,10,9,0,10,0
+3,octubre,10,10,0,10,0
+3,oct,10,10,0,10,0
+3,noviembre,10,11,0,10,0
+3,nov,10,11,0,10,0
+3,diciembre,10,12,0,10,0
+3,dic,10,12,0,10,0
+3,año,11,0,0,10,0
+3,ano,11,0,0,10,0
+3,años,11,0,1,10,0
+3,anos,11,0,1,10,0
+3,anualmente,11,0,2,10,0
+3,anual,11,0,2,10,0
+3,a,12,0,4,10,0
+3,al,12,0,0,10,0
+3,hasta,12,0,0,10,0
+3,el,15,0,4,10,0
+3,los,15,0,4,10,0
+3,del,15,0,4,10,0
+3,de,15,0,4,10,0
+3,y,15,0,4,10,0
+3,en,15,0,4,10,0
+3,invierno,17,0,2,10,0
+3,primavera,17,1,2,10,0
+3,verano,17,2,2,10,0
+3,otoño,17,3,2,1,0
+3,1.250,17,4,2,10,0
+3,2.250,17,5,2,10,0
+3,3.250,17,6,2,10,0
+3,4.250,17,7,2,10,0
+3,1. 0.500,17,8,2,10,0
+3,1. 0.500,17,9,2,10,0
+4,de,1,0,1,10,0
+4,del,1,0,1,10,0
+4,desde,1,0,0,10,0
+4,que inicie,1,0,0,10,0
+4,que empiece,1,0,0,10,0
+4,que comience,1,0,0,10,0
+4,entre,1,0,0,10,0
+4,a,2,0,0,10,0
+4,al,2,0,0,10,0
+4,a la,2,0,0,10,0
+4,a las,2,0,0,10,0
+4,hasta,2,0,0,10,0
+4,y termine,2,0,0,10,0
+4,y acabe,2,0,0,10,0
+4,y concluya,2,0,0,10,0
+4,y,2,0,1,10,0

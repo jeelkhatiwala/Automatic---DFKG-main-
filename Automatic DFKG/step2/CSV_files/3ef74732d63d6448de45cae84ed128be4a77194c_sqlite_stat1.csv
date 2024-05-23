@@ -1,0 +1,56 @@
+tbl,idx,stat
+contacts,contacts_has_phone_index,9000 500
+contacts,contacts_name_raw_contact_id_index,9000 1
+contacts,contacts_contact_last_updated_timestamp_index,9000 10
+raw_contacts,raw_contacts_contact_id_index,10000 2
+raw_contacts,raw_contact_sort_key2_index,10000 2
+raw_contacts,raw_contact_sort_key1_index,10000 2
+raw_contacts,raw_contacts_source_id_account_id_index,10000 1 1
+name_lookup,name_lookup_raw_contact_id_index,35000 4
+name_lookup,name_lookup_index,35000 2 2 2 1
+name_lookup,sqlite_autoindex_name_lookup_1,35000 3 2 1
+phone_lookup,phone_lookup_index,3500 3 2 1
+phone_lookup,phone_lookup_min_match_index,3500 3 2 2
+phone_lookup,phone_lookup_data_id_min_match_index,3500 2 2
+data,data_mimetype_data1_index,60000 5000 2
+data,data_raw_contact_id,60000 10
+groups,groups_source_id_account_id_index,50 2 2 1 1
+nickname_lookup,nickname_lookup_index,500 2 1
+status_updates,,100
+stream_items,,500
+stream_item_photos,,50
+accounts,,3
+pre_authorized_uris,,1
+visible_contacts,,2000
+photo_files,,50
+default_directory,,1500
+mimetypes,mime_type,18 1
+data_usage_stat,data_usage_stat_index,20 2 1
+sec_data_usage_stat,sec_data_usage_stat_index,20 2 1
+metadata_sync,metadata_sync_index,10000 1 1
+emergency,,30
+dialer_keypad_lookup,,10000
+agg_exceptions,,10
+settings,,10
+packages,,0
+directories,,3
+v1_settings,,0
+android_metadata,,1
+_sync_state,sqlite_autoindex__sync_state_1,2 1 1
+_sync_state_metadata,,1
+properties,sqlite_autoindex_properties_1,4 1
+metadata_sync_state,metadata_sync_state_index,2 1 1
+search_index_docsize,,9000
+search_index_content,,9000
+search_index_stat,,1
+search_index_segments,,450
+search_index_segdir,sqlite_autoindex_search_index_segdir_1,9 5 1
+trash_search_index_docsize,,9000
+trash_search_index_content,,9000
+trash_search_index_stat,,1
+trash_search_index_segments,,450
+trash_search_index_segdir,sqlite_autoindex_search_index_segdir_1,9 5 1
+presence,presenceIndex,1 1
+presence,presenceIndex2,1 1
+agg_presence,,1
+speed_dial,,50

@@ -1,0 +1,10 @@
+downloadable_id,downloadable_item,downloadable_category,downloadable_data1,downloadable_data2,downloadable_data3,downloadable_data4,downloadable_data5
+28,NotAllowedVoiceRecognition,1,00:1B:52,0C:D9:C1,90:03:B7,38:C0:96,BC:6A:29
+29,NotAllowedVoiceRecognition,2,64:D4:BD,30:14:4A,68:84:70,00:0B:24,00:24:0B
+30,NotAllowedVoiceRecognition,3,08:76:95,00:05:C9,00:17:CA,00:26:7E,04:98:F3
+31,NotAllowedVoiceRecognition,4,9C:28:BF,,,,
+32,AllowedScoSniffMode,1,117,40976,40991,,
+33,AllowedScoSniffMode,2,117,42241,42250,,
+34,ExceptSLCTimeout,1,00:0D:18,00:17:53,,,
+35,AvoidInBandRingtone,1,FF:FF:FF,,,,
+36,AvoidAlertingCarkit,1,E0:75:0A,04:76:6E,64:D4:BD,,

@@ -1,0 +1,18 @@
+RecordId,formal,alias
+1,RestOfTheDay,all day
+2,RestOfTheDay,all day today
+3,RestOfTheDay,later
+4,RestOfTheDay,later tonight
+5,RestOfTheDay,later on tonight
+6,RestOfTheDay,later today
+7,RestOfTheDay,rest of the day
+8,RestOfTheDay,the rest of the day
+9,SleepTime,sleep time
+10,SleepTime,sleeptime
+11,Tonight,all night
+12,Tonight,tonight
+13,Workhours,office hours
+14,Workhours,officehours
+15,Workhours,work hours
+16,Workhours,workday
+17,Workhours,workhours

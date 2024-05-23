@@ -1,0 +1,2 @@
+adminUid,uid,accessType,pinLen,pkgName,allowAllPkgs,slotId,containerState,loginRetry,loginExpiration
+10105,0,LOCK_STATE,6,com.samsung.android.kgclient,0,0,0,0,0

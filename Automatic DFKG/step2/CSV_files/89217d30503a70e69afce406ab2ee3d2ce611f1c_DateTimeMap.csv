@@ -1,0 +1,743 @@
+type,word,wordgroup,wordvalue,flags,CultureId,numericvalue
+0,version,0,0,3,22,0
+1,am,4,37,0,22,0
+1,a.m.,4,37,0,22,0
+1,pm,4,38,0,22,0
+1,p.m.,4,38,0,22,0
+1,à,9,40,36,22,0
+1,a,9,40,36,22,0
+1,ao,9,40,36,22,0
+1,às,9,40,36,22,0
+1,as,9,40,36,22,0
+1,de,9,40,36,22,0
+1,da,9,40,36,22,0
+1,do,9,40,36,22,0
+1,das,9,40,36,22,0
+2,em o,9,40,36,22,0
+1,o,9,40,36,22,0
+1,e,9,40,2085,22,0
+1,esta,1,3,0,22,0
+1,desta,1,3,0,22,0
+1,dessa,1,3,0,22,0
+1,hoje de,1,3,0,22,0
+1,hoje à,1,3,0,22,0
+1,próxima,1,2,0,22,0
+1,a próxima,1,2,512,22,0
+1,próximo,1,2,0,22,0
+1,o próximo,1,2,512,22,0
+1,passada,1,1,0,22,0
+1,a passada,1,1,512,22,0
+1,passado,1,1,0,22,0
+1,o passado,1,1,512,22,0
+1,depois,7,68,512,22,0
+1,para,7,69,8196,22,0
+1,pra,7,69,8196,22,0
+1,pras,7,69,8196,22,0
+1,pro,7,69,8196,22,0
+1,até,7,69,0,22,0
+1,à uma,11,49,1,22,0
+1,uma de,11,49,1,22,0
+1,uma da,11,49,1,22,0
+1,uma,11,49,1,22,0
+1,pra uma,7,69,64,22,0
+1,para uma,7,69,64,22,0
+1,para a uma,7,69,64,22,0
+1,pras uma,7,69,64,22,0
+1,hoje à noite,6,21,0,22,0
+1,esta noite,6,21,0,22,0
+1,minuto,2,64,0,22,0
+1,uma minuto,2,64,64,22,0
+1,um minuto,2,64,64,22,0
+1,minutos,2,64,0,22,0
+1,hora,2,65,0,22,0
+1,uma hora,2,65,64,22,0
+1,um hora,2,65,64,22,0
+1,horas,2,65,0,22,0
+1,segundo,2,41,0,22,0
+1,uma segundo,2,41,64,22,0
+1,um segundo,2,41,64,22,0
+1,segundos,2,41,0,22,0
+1,manhã,4,15,0,22,0
+1,noite,4,18,0,22,0
+1,tarde,4,16,0,22,0
+1,o dia todo,4,72,0,22,0
+1,o dia inteiro,4,72,0,22,0
+1,café da manhã,4,53,0,22,0
+1,o café da manhã,4,53,0,22,0
+1,brunch,4,54,0,22,0
+1,o brunch,4,54,0,22,0
+1,almoço,4,55,0,22,0
+1,a hora do almoço,4,55,0,22,0
+1,janta,4,56,0,22,0
+1,a hora da janta,4,56,0,22,0
+1,ontem,5,20,0,22,0
+1,amanhã,5,19,0,22,0
+1,domingo,3,8,0,22,0
+1,segunda,3,9,0,22,0
+1,segunda-feira,3,9,0,22,0
+1,terça,3,10,0,22,0
+1,terça-feira,3,10,0,22,0
+1,quarta,3,11,0,22,0
+1,quarta-feira,3,11,0,22,0
+1,quinta,3,12,0,22,0
+1,quinta-feira,3,12,0,22,0
+1,sexta,3,13,0,22,0
+1,sexta-feira,3,13,0,22,0
+1,sábado,3,14,0,22,0
+2,esta,1,3,0,22,0
+1,desta,1,3,0,22,0
+1,dessa,1,3,0,22,0
+2,hoje de,1,3,0,22,0
+2,hoje à,1,3,0,22,0
+2,próxima,1,2,0,22,0
+2,a próxima,1,2,512,22,0
+2,próximo,1,2,0,22,0
+2,o próximo,1,2,512,22,0
+2,passada,1,1,0,22,0
+2,a passada,1,1,512,22,0
+2,passado,1,1,0,22,0
+2,o passado,1,1,512,22,0
+2,seguinte,1,2,512,22,0
+2,anterior,1,1,512,22,0
+2,domingo,3,8,0,22,0
+2,segunda,3,9,2,22,0
+2,segunda-feira,3,9,0,22,0
+2,terça,3,10,3,22,0
+2,terça-feira,3,10,0,22,0
+2,quarta,3,11,4,22,0
+2,quarta-feira,3,11,0,22,0
+2,quinta,3,12,5,22,0
+2,quinta-feira,3,12,0,22,0
+2,sexta,3,13,6,22,0
+2,sexta-feira,3,13,0,22,0
+2,sábado,3,14,0,22,0
+2,janeiro,8,25,0,22,0
+2,fevereiro,8,26,0,22,0
+2,março,8,27,0,22,0
+2,abril,8,28,0,22,0
+2,maio,8,29,0,22,0
+2,junho,8,30,0,22,0
+2,julho,8,31,0,22,0
+2,agosto,8,32,0,22,0
+2,setembro,8,33,0,22,0
+2,outubro,8,34,0,22,0
+2,novembro,8,35,0,22,0
+2,dezembro,8,36,0,22,0
+2,jan.,8,25,0,22,0
+2,fev.,8,26,0,22,0
+2,mar.,8,27,0,22,0
+2,abr.,8,28,0,22,0
+2,maio,8,29,0,22,0
+2,jun.,8,30,0,22,0
+2,jul.,8,31,0,22,0
+2,ago.,8,32,0,22,0
+2,set.,8,33,0,22,0
+2,out.,8,34,0,22,0
+2,nov.,8,35,0,22,0
+2,dez.,8,36,0,22,0
+2,semana,2,4,0,22,0
+2,uma semana,2,4,64,22,0
+2,um semana,2,4,64,22,0
+2,semanas,2,4,0,22,0
+2,mês,2,6,0,22,0
+2,uma mês,2,6,64,22,0
+2,um mês,2,6,64,22,0
+2,meses,2,6,0,22,0
+2,ano,2,7,0,22,0
+2,uma ano,2,7,64,22,0
+2,um ano,2,7,64,22,0
+2,anos,2,7,0,22,0
+2,fim de semana,2,5,0,22,0
+2,dia,2,66,0,22,0
+2,uma dia,2,66,64,22,0
+2,um dia,2,66,64,22,0
+2,dias,2,66,0,22,0
+2,manhã,4,15,0,22,0
+2,tarde,4,16,0,22,0
+2,noite,4,18,0,22,0
+2,o dia todo,4,72,0,22,0
+2,o dia inteiro,4,72,0,22,0
+2,ontem,5,20,0,22,0
+2,amanhã,5,19,0,22,0
+2,depois de amanhã,5,57,0,22,0
+2,antes de ontem,5,58,0,22,0
+2,hoje,6,22,0,22,0
+2,que vem,1,2,0,22,0
+2,agora,6,23,0,22,0
+2,em breve,6,46,0,22,0
+2,brevemente,6,46,0,22,0
+2,recentemente,6,47,0,22,0
+2,não há muito tempo,6,47,0,22,0
+2,recente,6,47,0,22,0
+2,meio-dia,9,44,0,22,0
+2,meia-noite,9,45,0,22,0
+2,horário nobre,10,42,0,22,0
+2,em,7,73,0,22,0
+2,per,7,73,0,22,0
+2,por,7,73,0,22,0
+2,pela,7,73,0,22,0
+2,pelo,7,73,0,22,0
+2,daqui,7,73,0,22,0
+2,dentro,7,73,0,22,0
+2,de aqui,7,73,0,22,0
+2,mais tarde,7,68,0,22,0
+2,a partir de,7,68,0,22,0
+2,a partir do,7,68,0,22,0
+2,atrás,7,69,0,22,0
+2,antes,7,69,512,22,0
+2,última,16,80,0,22,0
+2,último,16,80,0,22,0
+1,hora da ilha baker,15,70,-1200,22,0
+1,horário da ilha baker,15,70,-1200,22,0
+1,gmt menos 12,15,70,-1200,22,0
+1,gmt menos 11,15,70,-1100,22,0
+1,horário padrão de samoa,15,70,-1100,22,0
+1,hora padrão de samoa,15,70,-1100,22,0
+1,hora de samoa,15,70,-1100,22,0
+1,horário de samoa,15,70,-1100,22,0
+1,hora da ilha cook,15,70,-1000,22,0
+1,horário da ilha cook,15,70,-1000,22,0
+1,gmt menos 10,15,70,-1000,22,0
+1,horário padrão do havaí,15,70,-1000,22,0
+1,hora padrão do havaí,15,70,-1000,22,0
+1,hora do havaí,15,70,-1000,22,0
+1,horário do havaí,15,70,-1000,22,0
+1,hora padrão do havaí - aleuta,15,70,-1000,22,0
+1,horário padrão do havaí - aleuta,15,70,-1000,22,0
+1,hora do taiti,15,70,-1000,22,0
+1,horário do taiti,15,70,-1000,22,0
+1,hora das ilhas marquesas,15,70,-930,22,0
+1,horário das ilhas marquesas,15,70,-930,22,0
+1,horário padrão do alasca,15,70,-900,22,0
+1,hora padrão do alasca,15,70,-900,22,0
+1,gmt menos 9,15,70,-900,22,0
+1,horário do alasca,15,70,-900,22,0
+1,hora do alasca,15,70,-900,22,0
+1,horário padrão do pacífico,15,70,-800,22,0
+1,hora padrão do pacífico,15,70,-800,22,0
+1,gmt menos 8,15,70,-800,22,0
+1,hora do pacífico,15,70,-800,22,0
+1,horário do pacífico,15,70,-800,22,0
+1,gmt menos 7,15,70,-700,22,0
+1,horário padrão das montanha,15,70,-700,22,0
+1,hora padrão das montanha,15,70,-700,22,0
+1,horário padrão central,15,70,-600,22,0
+1,hora padrão central,15,70,-600,22,0
+1,gmt menos 6 ,15,70,-600,22,0
+1,horário central,15,70,-600,22,0
+1,hora central,15,70,-600,22,0
+1,horário padrão da ilha de páscoa,15,70,-600,22,0
+1,hora padrão da ilha de páscoa,15,70,-600,22,0
+1,hora de galápagos,15,70,-600,22,0
+1,horário de galápagos,15,70,-600,22,0
+1,hora da colombia,15,70,-500,22,0
+1,horário da colombia,15,70,-500,22,0
+1,horário padrão de cuba,15,70,-500,22,0
+1,hora padrão de cuba,15,70,-500,22,0
+1,horário de cuba,15,70,-500,22,0
+1,hora de cuba,15,70,-500,22,0
+1,gmt menos 5,15,70,-500,22,0
+1,hora padrão do leste,15,70,-500,22,0
+1,horário padrão do leste,15,70,-500,22,0
+1,horário do equador,15,70,-500,22,0
+1,hora do equador,15,70,-500,22,0
+1,horário do peru,15,70,-500,22,0
+1,hora do peru,15,70,-500,22,0
+1,hora padrão da venezuela,15,70,-430,22,0
+1,horário padrão da venezuela,15,70,-430,22,0
+1,hora da venezuela,15,70,-430,22,0
+1,horário da venezuela,15,70,-430,22,0
+1,gmt menos 4,15,70,-400,22,0
+1,hora padrão da amazônia,15,70,-400,22,0
+1,horário padrão da amazônia,15,70,-400,22,0
+1,hora padrão do atlântico,15,70,-400,22,0
+1,horário padrão do atlântico,15,70,-400,22,0
+1,hora do atlântico,15,70,-400,22,0
+1,horário do atlântico,15,70,-400,22,0
+1,hora da bolívia,15,70,-400,22,0
+1,horário da bolívia,15,70,-400,22,0
+1,hora padrão do chile,15,70,-400,22,0
+1,horário padrão do chile,15,70,-400,22,0
+1,hora do chile,15,70,-400,22,0
+1,horário do chile,15,70,-400,22,0
+1,horário do leste do caribe,15,70,-400,22,0
+1,hora do leste do caribe,15,70,-400,22,0
+1,horário das ilhas falkland,15,70,-400,22,0
+1,hora das ilhas falkland,15,70,-400,22,0
+1,horário da guiana,15,70,-400,22,0
+1,hora da guiana,15,70,-400,22,0
+1,horário do paraguai,15,70,-400,22,0
+1,hora do paraguai,15,70,-400,22,0
+1,hora padrão de terra nova,15,70,-330,22,0
+1,horário padrão de terra nova,15,70,-330,22,0
+1,hora de terra nova,15,70,-330,22,0
+1,horário de terra nova,15,70,-330,22,0
+1,gmt menos 4,15,70,-300,22,0
+1,hora da argentina,15,70,-300,22,0
+1,horário da argentina,15,70,-300,22,0
+1,hora de brasília,15,70,-300,22,0
+1,horário de brasília,15,70,-300,22,0
+1,horário da guiana francesa,15,70,-300,22,0
+1,horário da guiana francesa,15,70,-300,22,0
+1,hora de suriname,15,70,-300,22,0
+1,horário de suriname,15,70,-300,22,0
+1,hora padrão do uruguai,15,70,-300,22,0
+1,horário padrão do uruguai,15,70,-300,22,0
+1,hora do uruguai,15,70,-300,22,0
+1,horário do uruguai,15,70,-300,22,0
+1,hora de fernando de noronha,15,70,-200,22,0
+1,horário de fernando de noronha,15,70,-200,22,0
+1,gmt menos 2,15,70,-200,22,0
+1,gmt menos 1,15,70,-100,22,0
+1,hora padrão de açores,15,70,-100,22,0
+1,horário padrão de  açores,15,70,-100,22,0
+1,hora de açores,15,70,-100,22,0
+1,horário de açores,15,70,-100,22,0
+1,hora de cabo verde ,15,70,-100,22,0
+1,horário de cabo verde ,15,70,-100,22,0
+1,hora do leste da groenlândia,15,70,-100,22,0
+1,horário do leste da groenlândia,15,70,-100,22,0
+1,tempo universal coordenado,15,70,0,22,0
+1,tempo médio de greenwich,15,70,0,22,0
+1,horário de londres,15,70,0,22,0
+1,hora de londres,15,70,0,22,0
+1,horário do reino unido,15,70,0,22,0
+1,hora do reino unido,15,70,0,22,0
+1,gmt 0,15,70,0,22,0
+1,horário da europa ocidental,15,70,0,22,0
+1,hora da europa ocidental,15,70,0,22,0
+1,hora zulu,15,70,0,22,0
+1,horário zulu,15,70,0,22,0
+1,gmt mais 1,15,70,100,22,0
+1,hora da europa central ,15,70,100,22,0
+1,horário da europa central ,15,70,100,22,0
+1,hora padrão da irlanda,15,70,100,22,0
+1,horário padrão da irlanda,15,70,100,22,0
+1,hora da irlanda,15,70,100,22,0
+1,horário da irlanda,15,70,100,22,0
+1,hora da europa central ,15,70,100,22,0
+1,horário da europa central ,15,70,100,22,0
+1,horário da áfrica ocidental,15,70,100,22,0
+1,hora da áfrica ocidental,15,70,100,22,0
+1,hora da áfrica central,15,70,200,22,0
+1,horário da áfrica central,15,70,200,22,0
+1,gmt mais 2,15,70,200,22,0
+1,horário do leste europeu,15,70,200,22,0
+1,hora do leste europeu,15,70,200,22,0
+1,horário da europa oriental,15,70,200,22,0
+1,hora da  europeu oriental,15,70,200,22,0
+1,hora de israel,15,70,200,22,0
+1,horário da israel,15,70,200,22,0
+1,hora padrão de israel,15,70,200,22,0
+1,horário padrão  da israel,15,70,200,22,0
+1,hora da áfrica do sul,15,70,200,22,0
+1,horário da áfrica do sul,15,70,200,22,0
+1,hora padrão da áfrica do sul,15,70,200,22,0
+1,horário da áfrica do sul,15,70,200,22,0
+1,hora da arábia saudíta,15,70,300,22,0
+1,horário da arábia saudíta,15,70,300,22,0
+1,hora padrão da arábia saudíta,15,70,300,22,0
+1,horário padrão da arábia saudíta,15,70,300,22,0
+1,gmt mais 3,15,70,300,22,0
+1,hora da áfrica oriental,15,70,300,22,0
+1,horário da áfrica oriental,15,70,300,22,0
+1,hora  do oceano índico,15,70,300,22,0
+1,horário do oceano índico,15,70,300,22,0
+1,hora padrão do irã,15,70,330,22,0
+1,horário padrão do irã,15,70,330,22,0
+1,hora do irã,15,70,330,22,0
+1,horário do irã,15,70,330,22,0
+1,hora de arménia,15,70,400,22,0
+1,horário de arménia,15,70,400,22,0
+1,hora do azerbaijão,15,70,400,22,0
+1,horário do azerbaijão,15,70,400,22,0
+1,hora de georgia,15,70,400,22,0
+1,horário de georgia,15,70,400,22,0
+1,hora  padrão de georgia,15,70,400,22,0
+1,horário  padrão de georgia,15,70,400,22,0
+1,gmt mais 4,15,70,400,22,0
+1,hora padrão do golfo,15,70,400,22,0
+1,horário  padrão do golfo,15,70,400,22,0
+1,hora de maurícia,15,70,400,22,0
+1,horário de maurícia,15,70,400,22,0
+1,hora da ilha maurícia,15,70,400,22,0
+1,horário da ilha maurícia,15,70,400,22,0
+1,hora de moscou,15,70,400,22,0
+1,horário de moscou,15,70,400,22,0
+1,hora de reunião ,15,70,400,22,0
+1,horário de reunião ,15,70,400,22,0
+1,hora da ilha reunião,15,70,400,22,0
+1,horário da ilha reunião,15,70,400,22,0
+1,hora de seychelles,15,70,400,22,0
+1,horário de  seychelles,15,70,400,22,0
+1,hora de  volgogrado,15,70,400,22,0
+1,horário de  volgogrado,15,70,400,22,0
+1,hora do afeganistão,15,70,430,22,0
+1,horário do afeganistão,15,70,430,22,0
+1,gmt mais 4,15,70,500,22,0
+1,hora de maldivas ,15,70,500,22,0
+1,horário de maldivas ,15,70,500,22,0
+1,hora da república das maldivas ,15,70,500,22,0
+1,horário da república das maldivas ,15,70,500,22,0
+1,hora do paquistão,15,70,500,22,0
+1,horário do paquistão,15,70,500,22,0
+1,hora padrão do paquistão,15,70,500,22,0
+1,horário padrão do paquistão,15,70,500,22,0
+1,hora do tajiquistão,15,70,500,22,0
+1,horário do tajiquistão,15,70,500,22,0
+1,hora de turquemenistão,15,70,500,22,0
+1,horário de turquemenistão,15,70,500,22,0
+1,hora de uzbequistão,15,70,500,22,0
+1,horário de uzbequistão,15,70,500,22,0
+1,hora da índia,15,70,500,22,0
+1,horário da índia,15,70,500,22,0
+1,hora padrão  da índia,15,70,530,22,0
+1,horário padrão  da índia,15,70,530,22,0
+1,hora de sri lanka,15,70,530,22,0
+1,horário de sri lanka,15,70,530,22,0
+1,hora de nepal,15,70,545,22,0
+1,horário de nepal,15,70,545,22,0
+1,hora de bangladesh,15,70,600,22,0
+1,horário de bangladesh,15,70,600,22,0
+1,hora padrão de bangladesh,15,70,600,22,0
+1,horário padrão de bangladesh,15,70,600,22,0
+1,hora de  butão,15,70,600,22,0
+1,horário de  butão,15,70,600,22,0
+1,gmt mais 6,15,70,600,22,0
+1,horário do território britânico do oceano índico,15,70,600,22,0
+1,hora do território britânico do oceano índico,15,70,600,22,0
+1,horário do quirguizistão,15,70,600,22,0
+1,hora do quirguizistão,15,70,600,22,0
+1,hora padrão de myanmar,15,70,630,22,0
+1,horário padrão de myanmar,15,70,630,22,0
+1,hora padrão da república da união de myanmar,15,70,630,22,0
+1,horário padrão da república da união de myanmar,15,70,630,22,0
+1,hora padrão da birmânia,15,70,630,22,0
+1,horário padrão da birmânia,15,70,630,22,0
+1,hora de myanmar,15,70,630,22,0
+1,horário de myanmar,15,70,630,22,0
+1,hora da república da união de myanmar,15,70,630,22,0
+1,horário da república da união de myanmar,15,70,630,22,0
+1,hora de birmânia,15,70,630,22,0
+1,horário de birmânia,15,70,630,22,0
+1,gmt mais 7,15,70,700,22,0
+1,hora da ilha christmas,15,70,700,22,0
+1,horário da  ilha christmas,15,70,700,22,0
+1,hora da indochina,15,70,700,22,0
+1,horário da indochina,15,70,700,22,0
+1,hora de krasnoyarsk,15,70,700,22,0
+1,horário de krasnoyarsk,15,70,700,22,0
+1,hora da tailândia,15,70,700,22,0
+1,horário da tailândia,15,70,700,22,0
+1,hora padrão da tailândia,15,70,700,22,0
+1,horário padrão da tailândia,15,70,700,22,0
+1,horário da austrália ocidental,15,70,800,22,0
+1,hora da austrália ocidental,15,70,800,22,0
+1,horário padrão da austrália ocidental,15,70,800,22,0
+1,hora padrão da austrália ocidental,15,70,800,22,0
+1,horário de brunei,15,70,800,22,0
+1,hora de brunei,15,70,800,22,0
+1,horário da indonésia central,15,70,800,22,0
+1,hora da indonésia central,15,70,800,22,0
+1,gmt mais 8,15,70,800,22,0
+1,horário padrão da china,15,70,800,22,0
+1,hora padrão da  china,15,70,800,22,0
+1,horário da china,15,70,800,22,0
+1,hora da  china,15,70,800,22,0
+1,horário de hong kong,15,70,800,22,0
+1,hora de hong kong,15,70,800,22,0
+1,hora padrão da malásia,15,70,800,22,0
+1,horário padrão da malásia,15,70,800,22,0
+1,hora da malásia,15,70,800,22,0
+1,horário da malásia,15,70,800,22,0
+1,hora da filipinas,15,70,800,22,0
+1,horário da filipinas,15,70,800,22,0
+1,hora da república das filipinas,15,70,800,22,0
+1,horário da república das filipinas,15,70,800,22,0
+1,hora da filipinas,15,70,800,22,0
+1,horário da filipinas,15,70,800,22,0
+1,hora da república das  filipinas,15,70,800,22,0
+1,horário da república das  filipinas,15,70,800,22,0
+1,hora padrão de singapura,15,70,800,22,0
+1,horário padrão de singapura,15,70,800,22,0
+1,hora de singapura,15,70,800,22,0
+1,horário de singapura,15,70,800,22,0
+1,horário padrão ocidental,15,70,800,22,0
+1,hora padrão ocidental,15,70,800,22,0
+1,horário padrão do ocidente central,15,70,845,22,0
+1,hora padrão do ocidente central,15,70,845,22,0
+1,gmt mais 9,15,70,900,22,0
+1,horário da indonésia oriental,15,70,900,22,0
+1,hora da indonésia  oriental,15,70,900,22,0
+1,horário de irkutsk,15,70,900,22,0
+1,hora de irkutsk,15,70,900,22,0
+1,horário do japão,15,70,900,22,0
+1,hora do japão,15,70,900,22,0
+1,horário padrão do japão,15,70,900,22,0
+1,hora padrão do japão,15,70,900,22,0
+1,horário da coréia,15,70,900,22,0
+1,hora da coréia,15,70,900,22,0
+1,horário  padrão da coréia,15,70,900,22,0
+1,hora padrão da coréia,15,70,900,22,0
+1,horário da austrália central,15,70,930,22,0
+1,hora da austrália central,15,70,930,22,0
+1,horário padrão da austrália central,15,70,930,22,0
+1,hora padrão da austrália central,15,70,930,22,0
+1,horário da austrália oriental,15,70,1000,22,0
+1,hora da austrália oriental,15,70,1000,22,0
+1,horário padrão da austrália oriental,15,70,1000,22,0
+1,hora padrão da austrália oriental,15,70,1000,22,0
+1,gmt mais 9,15,70,1000,22,0
+1,horário de papua-nova guiné,15,70,1000,22,0
+1,hora de papua-nova guiné,15,70,1000,22,0
+1,hora de vladivostok,15,70,1000,22,0
+1,horário de vladivostok,15,70,1000,22,0
+1,hora padrão de lord howe,15,70,1030,22,0
+1,horário padrão de lord howe,15,70,1030,22,0
+1,hora padrão da ilha de lord howe,15,70,1030,22,0
+1,horário padrão da ilha de lord howe,15,70,1030,22,0
+1,hora da ilha de lord howe,15,70,1030,22,0
+1,horário da ilha de lord howe,15,70,1030,22,0
+1,horário das ilhas salomão,15,70,1100,22,0
+1,hora das ilhas salomão,15,70,1100,22,0
+1,gmt mais 11,15,70,1100,22,0
+1,hora de norfolk,15,70,1130,22,0
+1,horário de norfolk,15,70,1130,22,0
+1,hora das ilhas fiji,15,70,1200,22,0
+1,horário das ilhas fiji,15,70,1200,22,0
+1,hora de kamchatka,15,70,1200,22,0
+1,horário de kamchatka,15,70,1200,22,0
+1,gmt mais 12,15,70,1200,22,0
+1,hora das ilhas marshall,15,70,1200,22,0
+1,horário das ilhas marshall,15,70,1200,22,0
+1,hora da nova zelândia,15,70,1200,22,0
+1,horário da nova zelândia,15,70,1200,22,0
+1,hora padrão da nova zelândia,15,70,1200,22,0
+1,horário padrão da nova zelândia,15,70,1200,22,0
+1,hora padrão de chatham,15,70,1245,22,0
+1,horário padrão de chatham,15,70,1245,22,0
+1,hora de tonga,15,70,1300,22,0
+1,horário de tonga,15,70,1300,22,0
+1,gmt mais 13,15,70,1300,22,0
+1,hora das ilhas da linha,15,70,1400,22,0
+1,horário das ilhas da linha,15,70,1400,22,0
+1,gmt mais 14,15,70,1400,22,0
+2,christmas,14,71,1,22,0
+2,christmas day,14,71,1,22,0
+2,xmas,14,71,1,22,0
+2,natal,14,71,1,22,0
+2,xmas day,14,71,1,22,0
+2,thanksgiving,14,71,2,22,0
+2,thanksgiving day,14,71,2,22,0
+2,memorial day,14,71,3,22,0
+2,advent,14,71,4,22,0
+2,ano - novo,14,71,5,22,0
+2,tiradentes,14,71,6,22,0
+2,dia do trabalho,14,71,7,22,0
+2,dia do trabalhador,14,71,7,22,0
+2,dia da independência,14,71,8,22,0
+2,dia da independência do brasil,14,71,8,22,0
+2,independência do brasil,14,71,8,22,0
+2,dia de nossa senhora,14,71,9,22,0
+2,dia de nossa senhora aparecida,14,71,9,22,0
+2,dia das crianças,14,71,10,22,0
+2,dia de finados,14,71,11,22,0
+2,finados,14,71,11,22,0
+2,proclamação da república,14,71,12,22,0
+2,carnaval,14,71,13,22,0
+2,quarta-feira de cinzas,14,71,14,22,0
+2,sexta-feira santa,14,71,15,22,0
+2,sexta-feira da paixão,14,71,15,22,0
+2,paixão de cristo,14,71,15,22,0
+2,páscoa,14,71,16,22,0
+2,corpus christi,14,71,17,22,0
+2,corpo de deus,14,71,17,22,0
+2,consciência negra,14,71,18,22,0
+2,dia da consciência negra,14,71,18,22,0
+1,dt_delete_protector,100,100,0,0,0
+3,toda,1,0,0,22,0
+3,todo,1,0,0,22,0
+3,cada,1,0,0,22,0
+3,dia,2,0,0,22,0
+3,diariamente,2,0,2,22,0
+3,diária,2,0,2,22,0
+3,diário,2,0,2,22,0
+3,dias,2,0,1,22,0
+3,semana,3,0,0,22,0
+3,semanalmente,3,0,2,22,0
+3,semanal,3,0,2,22,0
+3,semanas,3,0,1,22,0
+3,dia da semana,4,0,0,22,0
+3,dia de semana,4,0,0,22,0
+3,dias da semana,4,0,1,22,0
+3,dias de semana,4,0,1,22,0
+3,final de semana,5,0,0,22,0
+3,fim de semana,5,0,0,22,0
+3,fins de semana,5,0,1,22,0
+3,finais de semana,5,0,1,22,0
+3,domingo,6,1,0,22,0
+3,domingos,6,1,1,22,0
+3,segunda-feira,6,2,0,22,0
+3,segundas,6,2,1,22,0
+3,segundas-feiras,6,2,1,22,0
+3,terça-feira,6,3,0,22,0
+3,terças,6,3,1,22,0
+3,terças-feiras,6,3,1,22,0
+3,quarta-feira,6,4,0,22,0
+3,quartas,6,4,1,22,0
+3,quartas-feiras,6,4,1,22,0
+3,quinta-feira,6,5,0,22,0
+3,quintas,6,5,1,22,0
+3,quintas-feiras,6,5,1,22,0
+3,sexta-feira,6,6,0,22,0
+3,sextas,6,6,1,22,0
+3,sextas-feiras,6,6,1,22,0
+3,sábado,6,7,0,22,0
+3,sábados,6,7,1,22,0
+3,segunda,7,2,32,22,0
+3,terça,7,3,32,22,0
+3,quarta,7,4,32,22,0
+3,quinta,7,5,32,22,0
+3,sexta,7,6,32,22,0
+3,último,8,0,0,22,0
+3,última,8,0,0,22,0
+3,mês,9,0,0,22,0
+3,mensal,9,0,2,22,0
+3,mensalmente,9,0,2,22,0
+3,meses,9,0,1,22,0
+3,janeiro,10,1,0,22,0
+3,mês de janeiro,10,1,0,22,0
+3,jan,10,1,0,22,0
+3,fevereiro,10,2,0,22,0
+3,mês de fevereiro,10,2,0,22,0
+3,fev,10,2,0,22,0
+3,março,10,3,0,22,0
+3,mês de março,10,3,0,22,0
+3,mar,10,3,0,22,0
+3,abril,10,4,0,22,0
+3,mês de abril,10,4,0,22,0
+3,abr,10,4,0,22,0
+3,maio,10,5,0,22,0
+3,mês de maio,10,5,0,22,0
+3,junho,10,6,0,22,0
+3,mês de junho,10,6,0,22,0
+3,jun,10,6,0,22,0
+3,julho,10,7,0,22,0
+3,mês de julho,10,7,0,22,0
+3,jul,10,7,0,22,0
+3,agosto,10,8,0,22,0
+3,mês de agosto,10,8,0,22,0
+3,ago,10,8,0,22,0
+3,setembro,10,9,0,22,0
+3,mês de setembro,10,9,0,22,0
+3,set,10,9,0,22,0
+3,outubro,10,10,0,22,0
+3,mês de outubro,10,10,0,22,0
+3,out,10,10,0,22,0
+3,novembro,10,11,0,22,0
+3,mês de novembro,10,11,0,22,0
+3,nov,10,11,0,22,0
+3,dezembro,10,12,0,22,0
+3,mês de dezembro,10,12,0,22,0
+3,dez,10,12,0,22,0
+3,ano,11,0,0,22,0
+3,anual,11,0,2,22,0
+3,anualmente,11,0,2,22,0
+3,anos,11,0,1,22,0
+3,a,12,0,0,22,0
+3,ao,12,0,0,22,0
+4,a partir de,1,0,0,22,0
+4,a partir da,1,0,0,22,0
+4,a partir das,1,0,0,22,0
+4,a partir do,1,0,0,22,0
+4,de,1,0,1,22,0
+4,da,1,0,1,22,0
+4,das,1,0,1,22,0
+4,do,1,0,1,22,0
+4,começa,1,0,0,22,0
+4,inicia,1,0,0,22,0
+4,começando,1,0,0,22,0
+4,iniciando,1,0,0,22,0
+4,começa à,1,0,0,22,0
+4,inicia à,1,0,0,22,0
+4,começa às,1,0,0,22,0
+4,inicia às,1,0,0,22,0
+4,começa ao,1,0,0,22,0
+4,inicia ao,1,0,0,22,0
+4,começando à,1,0,0,22,0
+4,iniciando à,1,0,0,22,0
+4,começando às,1,0,0,22,0
+4,iniciando às,1,0,0,22,0
+4,começando ao,1,0,0,22,0
+4,iniciando ao,1,0,0,22,0
+4,começa no,1,0,0,22,0
+4,inicia no,1,0,0,22,0
+4,começando no,1,0,0,22,0
+4,iniciando no,1,0,0,22,0
+4,começa nos,1,0,0,22,0
+4,inicia nos,1,0,0,22,0
+4,começando nos,1,0,0,22,0
+4,iniciando nos,1,0,0,22,0
+4,começa na,1,0,0,22,0
+4,inicia na,1,0,0,22,0
+4,começando na,1,0,0,22,0
+4,iniciando na,1,0,0,22,0
+4,entre,1,0,0,22,0
+4,entre a,1,0,0,22,0
+4,entre as,1,0,0,22,0
+4,entre o,1,0,0,22,0
+4,até,2,0,1,22,0
+4,a,2,0,1,22,0
+4,a,2,0,1,22,0
+4,ao,2,0,1,22,0
+4,à,2,0,1,22,0
+4,às,2,0,1,22,0
+4,e,2,0,1,22,0
+4,até à,2,0,0,22,0
+4,até às,2,0,0,22,0
+4,até ao,2,0,0,22,0
+4,até o,2,0,0,22,0
+4,termina,2,0,0,22,0
+4,acaba,2,0,0,22,0
+4,terminando,2,0,0,22,0
+4,acabando,2,0,0,22,0
+4,terminando à,2,0,0,22,0
+4,acabando à,2,0,0,22,0
+4,terminando às,2,0,0,22,0
+4,acabando às,2,0,0,22,0
+4,termina à,2,0,0,22,0
+4,acaba à,2,0,0,22,0
+4,termina às,2,0,0,22,0
+4,acaba às,2,0,0,22,0
+4,termina ao,2,0,0,22,0
+4,acaba ao,2,0,0,22,0
+4,terminando ao,2,0,0,22,0
+4,acabando ao,2,0,0,22,0
+4,termina no,2,0,0,22,0
+4,acaba no,2,0,0,22,0
+4,terminando no,2,0,0,22,0
+4,acabando no,2,0,0,22,0
+4,termina na,2,0,0,22,0
+4,acaba na,2,0,0,22,0
+4,terminando na,2,0,0,22,0
+4,acabando na,2,0,0,22,0
+4,e terminando,2,0,0,22,0
+4,e acabando,2,0,0,22,0
+4,e termina,2,0,0,22,0
+4,e acaba,2,0,0,22,0
+4,e termina no,2,0,0,22,0
+4,e acaba no,2,0,0,22,0
+4,e terminando no,2,0,0,22,0
+4,e acabando no,2,0,0,22,0
+4,e termina na,2,0,0,22,0
+4,e acaba na,2,0,0,22,0
+4,e terminando na,2,0,0,22,0
+4,e acabando na,2,0,0,22,0
+4,termina em,2,0,0,22,0
+4,acaba em,2,0,0,22,0
+4,terminando em,2,0,0,22,0
+4,acabando em,2,0,0,22,0
+4,e termina em,2,0,0,22,0
+4,e acaba em,2,0,0,22,0
+4,e terminando em,2,0,0,22,0
+4,e acabando em,2,0,0,22,0

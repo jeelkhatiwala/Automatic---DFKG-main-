@@ -1,0 +1,7 @@
+packageName,user,version,patchable
+com.google.android.gms.usagereporting,,214,
+com.google.android.gms.clearcut.public,,229,
+com.google.android.gms.permissions,,212418000,
+com.google.android.gms.gcm,,1400,
+com.google.android.gms.phenotype,,229,
+com.google.android.gms.playlog.uploader,,229,

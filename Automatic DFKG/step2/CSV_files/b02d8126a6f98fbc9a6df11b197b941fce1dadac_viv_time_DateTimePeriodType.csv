@@ -1,0 +1,7 @@
+RecordId,formal,alias
+1,Millisecond,millisecond
+2,Millisecond,ms
+3,Minute,min
+4,Minute,minute
+5,Second,sec
+6,Second,second

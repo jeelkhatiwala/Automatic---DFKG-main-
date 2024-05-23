@@ -1,0 +1,3 @@
+_id,user_id,id_type,profile_last_update_usec,is_blocked,is_hidden,has_invited,has_reported_invite_joined,reg_state_change_time_millis,server_sync_state,server_sync_dirty_count,last_active_timestamp_millis,last_precall_entry_timestamp_millis,last_full_history_entry_timestamp_millis,is_explicitly_marked_not_spam
+1,heisenbergcarro@gmail.com,16,1624603410985471,0,0,0,0,0,0,0,0,0,0,0
+2,+18056377243,1,0,0,0,0,0,0,0,0,0,0,0,0

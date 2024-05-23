@@ -1,0 +1,607 @@
+key,value
+Social_Live_In_App_Notice_Message,%s‘s LIVE video ended due to Community Guidelines violations
+Social_Live_In_App_Violation_Message,Your LIVE video was closed due to Community Guidelines violation.
+Social_live_In_App_Message_Title,LIVE
+complete_user_task_1,Congratulations on earning the upgrade to [Superfan]. The medal award is valid until 23:59:59 today.
+complete_user_task_2,Congratulations on upgrading to [Coach].
+complete_user_task_3,Congratulations on upgrading to [Football Ambassador].
+const_string_key,{0}
+donate_some_money,{0:user} donated {1}
+error_prompts_4006052,Daily gifting limit (accumulated amount in last 24 hours) reached. Try again later.
+error_prompts_43006,Failed to send gift. No coins deduction.
+exhibition_anchor_guide,"The gift pavilion is open, come and see which gifts are lit this week"
+exhibition_user_guide,"The gift pavilion is open, light up gifts to enjoy the naming privilege~"
+extra_diamonds,Diamonds + {0}%
+guest_live_violation_ban_forever,You're banned from going LIVE as a guest due to multiple violations to the Community Guidelines.
+guest_live_violation_ban_temporary,Your guest LIVE access is suspended until {0} on {1}.
+guest_live_violation_details_multiple,Your LIVE content has multiple violations flagged within the last 90 days. Continued violations can result in a permanent ban to your guest LIVE access.
+guest_live_violation_details_title_age,Guest LIVE access suspended for not meeting age requirement
+guest_live_violation_details_title_ban,Guest LIVE access suspended for violating our Community Guidelines
+guest_live_violation_details_title_close,Your guest LIVE video was stopped for violating our Community Guidelines
+guest_live_violation_details_title_suicide,Your guest LIVE video was stopped for violating our Community Guidelines
+live_chat_message,{0:user}{1:string}
+live_doodle_gift_send_message_to_anchor,{0:user} sent the host {1} doodle gifts
+live_doodle_gift_send_message_to_anyone,{0:user} sent {1} a doodle gift
+live_gifr_5272,Care
+live_gift_33,Legendary
+live_gift_37,Panda
+live_gift_38,Rainbow Puke
+live_gift_39,Big Love
+live_gift_5092,Sun Cream
+live_gift_5172,Concert
+live_gift_5212,Bravo
+live_gift_5232,Drama Queen
+live_gift_5236,Cupid
+live_gift_5237,Shiba Inu
+live_gift_5246,Hot air balloon
+live_gift_5249,Little heart
+live_gift_5253,Make It Rain
+live_gift_5261,Test
+live_gift_5269,TikTok
+live_gift_5270,Candy
+live_gift_5271,Rose
+live_gift_5273,Diamond ring of love
+live_gift_5274,Kiss
+live_gift_5275,Dubai
+live_gift_5276,US Dollar
+live_gift_5277,Golden sports car
+live_gift_5278,Romantic carriage
+live_gift_5279,Yacht
+live_gift_5281,Rose
+live_gift_5282,Heart
+live_gift_5283,Diamond ring of love
+live_gift_5284,Kiss
+live_gift_5285,Dubai
+live_gift_5286,Cash rain
+live_gift_5287,Golden sports car
+live_gift_5288,Romantic carriage
+live_gift_5289,Yacht
+live_gift_5291,Marhaba
+live_gift_5292,Coffee
+live_gift_5293,Sceptre
+live_gift_5294,Oud
+live_gift_5295,Merhaba
+live_gift_5297,Tea
+live_gift_5298,Marhaba
+live_gift_5299,Coffee
+live_gift_5300,Sceptre
+live_gift_5301,Oud
+live_gift_5302,Merhaba
+live_gift_5303,Tea
+live_gift_5304,Happy New Year
+live_gift_5306,Happy New Year
+live_gift_5307,Flamingo
+live_gift_5319,Blue Bead
+live_gift_5320,Baklava
+live_gift_5321,Papaya Salad
+live_gift_5322,Elephant
+live_gift_5323,Durian
+live_gift_5324,Instant Noodles
+live_gift_5325,Tulip Box
+live_gift_5326,Shiba Inu
+live_gift_5327,Heart
+live_gift_5328,Kiss
+live_gift_5329,Diamond ring of love
+live_gift_5330,Yacht
+live_gift_5331,Cash gun
+live_gift_5332,Cash rain
+live_gift_5333,Coffee
+live_gift_5334,Snack
+live_gift_5335,TikTok Talent
+live_gift_5336,Make it rain
+live_gift_5337,Diamond King
+live_gift_5338,Unicorn Fantasy
+live_gift_5339,Red Sports Car
+live_gift_5340,Castle Fantasy
+live_gift_5341,Mask
+live_gift_5342,Instant Noodles
+live_gift_5343,Papaya Salad
+live_gift_5344,Durian
+live_gift_5345,Elephant
+live_gift_5346,Red Sports Car
+live_gift_5348,Unicorn Fantasy
+live_gift_5349,Castle Fantasy
+live_gift_5351,TikTok Talent
+live_gift_5352,Gingerbread
+live_gift_5353,Russian Crepes
+live_gift_5354,Mishka Bear
+live_gift_5355,Sweet Sheep
+live_gift_5356,Magic Cow
+live_gift_5457,Eid Adha
+live_gift_5458,Eid Adha
+live_gift_5459,Orang Utan
+live_gift_5460,Trophy
+live_gift_5461,Batik Clothes
+live_gift_5462,Tempe Tofu
+live_gift_5463,Instant Noodle
+live_gift_5464,Ice Tea
+live_gift_5465,Mishka Bear
+live_gift_5466,Tea
+live_gift_5467,Rose
+live_gift_5468,Coffee
+live_gift_5469,Mask
+live_gift_5470,Heart
+live_gift_5471,Mishka Bear
+live_gift_5472,TikTok Talent
+live_gift_5473,Make it Rain
+live_gift_5474,Diamond King
+live_gift_5475,Unicorn Fantasy
+live_gift_5476,Red Sports Car
+live_gift_5477,Yacht
+live_gift_5478,Castle Fantasy
+live_gift_5479,Coffee
+live_gift_5480,Heart
+live_gift_5481,Kiss
+live_gift_5482,Shiba Inu
+live_gift_5483,Unicorn Fantasy
+live_gift_5485,Blue Bead
+live_gift_5486,Mishka Bear
+live_gift_5487,Finger Heart
+live_gift_5488,LOVE Balloon
+live_gift_5489,Carousel
+live_gift_5490,Brigadeiro
+live_gift_5491,Ya Dom
+live_gift_5492,Cha Yen
+live_gift_5493,Shark!
+live_gift_5494,Applause
+live_gift_5495,Football
+live_gift_5496,Perfect
+live_gift_5497,Espresso
+live_gift_5498,Pizza
+live_gift_5499,Tuk Tuk
+live_gift_5500,Thumbs-up
+live_gift_5501,Applaud
+live_gift_5502,Crown
+live_gift_5503,Fireworks
+live_gift_5504,You're a star
+live_gift_5505,Love Rain
+live_gift_5506,Here for it Placard
+live_gift_5507,Lipstick
+live_gift_5508,Slippers
+live_gift_5509,Sunglasses
+live_gift_5510,Goodnight
+live_gift_5511,Doner Kebap
+live_gift_5512,Plus One
+live_gift_5513,Treasure Chest
+live_gift_5514,Birds
+live_gift_5516,Orang-utan
+live_gift_5517,Durian
+live_gift_5518,Instant Noodles
+live_gift_5519,Make It Rain
+live_gift_5520,Rose
+live_gift_5521,Heart
+live_gift_5522,Plus one
+live_gift_5523,Fire
+live_gift_5524,Tsar
+live_gift_5525,Feather
+live_gift_5526,Expert
+live_gift_5527,Devilish
+live_gift_5528,Witch
+live_gift_5529,Pumpkin
+live_gift_5530,Lipstick
+live_gift_5531,Red Sports Car
+live_gift_5532,TikTok Talent
+live_gift_5533,Present
+live_gift_5534,Fire
+live_gift_5535,Secure the Bag
+live_gift_5536,Confetti
+live_gift_5537,Flowers
+live_gift_5538,Hearts
+live_gift_5539,Bday Cake
+live_gift_5540,Disco Ball
+live_gift_5541,Luxury Candle
+live_gift_5544,Diamond Crown
+live_gift_5545,Gold Microphone
+live_gift_5546,Crystal Heart
+live_gift_5547,Russian Crepes
+live_gift_5548,Castle Fantasy
+live_gift_5549,Ballet Dancer
+live_gift_5550,Light
+live_gift_5551,Sweets
+live_gift_5552,Fireworks
+live_gift_5553,Magic Cow
+live_gift_5554,Sweet Sheep
+live_gift_5555,date
+live_gift_5556,Diamond Crown
+live_gift_5557,Give me five
+live_gift_5558,Yacht
+live_gift_5559,Crystal Heart
+live_gift_5560,Gold Microphone
+live_gift_5561,Diamond Crown
+live_gift_5562,Gold Microphone
+live_gift_5563,Crystal Heart
+live_gift_5564,Applause
+live_gift_5565,Trophy
+live_gift_5566,Mishka Bear
+live_gift_5567,Red Sports Car
+live_gift_5568,Mask
+live_gift_5569,Diamond ring of love
+live_gift_5570,Yacht
+live_gift_5571,Castle Fantasy
+live_gift_5572,Rose
+live_gift_5573,Coffee
+live_gift_5574,Fireworks
+live_gift_5575,Lipstick
+live_gift_5576,Heart
+live_gift_5577,Kiss
+live_gift_5578,Red Sports Car
+live_gift_5579,Yacht
+live_gift_5580,Rose
+live_gift_5581,Diamond Ring of love
+live_gift_5582,Mishika Bear
+live_gift_5583,Fire
+live_gift_5584,Feijoada
+live_gift_5585,Confetti
+live_gift_5586,Hearts
+live_gift_5587,Gold Mine
+live_gift_5588,Nasi Lemak
+live_gift_5589,Wau
+live_gift_5590,Roti Canai
+live_gift_5591,Tea
+live_gift_5592,Gift Box
+live_gift_5593,Gingerbread Heart
+live_gift_5594,Cow
+live_gift_5595,Hi
+live_gift_5596,Sports Car
+live_gift_5597,Sushi Set
+live_gift_5598,Diamond Heart necklace
+live_gift_5599,Gold necklace
+live_gift_5600,Mic Drop
+live_gift_5601,Mic Drop
+live_gift_5602,thumbs-up
+live_gift_5603,Fireworks
+live_gift_5604,Diamond Crown
+live_gift_5605,Make it Rain
+live_gift_5606,happy ballon
+live_gift_5612,Candy Cane
+live_gift_5613,Happy Holiday
+live_gift_5614,Santa Hat
+live_gift_5615,Holiday Gifts
+live_gift_5616,Love You 2021
+live_gift_5617,Happy New Year
+live_gift_5618,2021 With You
+live_gift_5619,Candy Cane
+live_gift_5620,Santa Hat
+live_gift_5621,Happy Holidays
+live_gift_5622,Holiday Gifts
+live_gift_5623,sent Love You 2021
+live_gift_5624,Happy New Year
+live_gift_5626,sent 2021 With You
+live_gift_5627,Towards a romantic 2021
+live_gift_5630,Chocolate
+live_gift_5631,Power hug
+live_gift_5632,Baguette
+live_gift_5633,Rooster emblem
+live_gift_5634,Beret
+live_gift_5635,Kitten with TikTok Collar
+live_gift_5636,Travel
+live_gift_5637,Thai Style BBQ 
+live_gift_5638,Balloon Gift Box
+live_gift_5639,Chocolate
+live_gift_5640,Greeting Card
+live_gift_5641,Bunch
+live_gift_5644,Bungeo-ppang
+live_gift_5645,Tteokbokki
+live_gift_5646,Ketupat
+live_gift_5647,Kuih Raya
+live_gift_5648,Duit Raya 
+live_gift_5650,Mic
+live_gift_5651,Garland 
+live_gift_5652,Ferris Wheel
+live_gift_5654,Pearl
+live_gift_5655,Rose
+live_gift_5656,Flowers
+live_gift_5657,Lollipop
+live_gift_5658,Perfume
+live_gift_5659,Paper Crane
+live_gift_5660,Hand Hearts
+live_gift_5661,Air Dancer
+live_gift_5662,Necklace
+live_gift_5663,Heels
+live_gift_5664,Pearl
+live_gift_5665,Jet plane
+live_gift_5667,Happy Songkarn
+live_gift_5668,Thai Perfume
+live_gift_5669,Beach is calling
+live_gift_5670,Songkarn Splash
+live_gift_5671,Hanging Star Boxes
+live_gift_5672,Ramadan Mubarak
+live_gift_5673,Kolak
+live_gift_5674,Drum
+live_gift_5675,Helal
+live_gift_5676,Lantern
+live_gift_5677,Turkish delight
+live_gift_5678,Easter Eggs
+live_gift_5679,Boss
+live_gift_5680,Disco ball
+live_gift_5681,Pelita Raya
+live_gift_5682,Candy
+live_gift_5683,Music Player
+live_gift_5684,Space
+live_gift_5685,Note
+live_gift_5686,Dance Together
+live_gift_5687,Rising Star
+live_gift_5688,Disco Ball
+live_gift_5689,Laughing
+live_gift_5690,Amazing
+live_gift_5691,Party
+live_gift_5692,Hilarious
+live_gift_5693,Flowers
+live_gift_5694,Love
+live_gift_5703,Three colored dumplings
+live_gift_5704,Carp streamer
+live_gift_5705,Rising Star
+live_gift_5706,Chocolate
+live_gift_5707,Love you
+live_gift_5708,Love Tag
+live_gift_5711,Fireball
+live_gift_5712,Trophy
+live_gift_5713,Crown
+live_gift_5714,Magic stick
+live_gift_5718,Present
+live_gift_5719,Fire
+live_gift_5720,Cake
+live_gift_5725,Fans' Applause
+live_gift_5726,Knee sliding
+live_gift_5727,Fan cheer
+live_gift_5728,Goal Celebration
+live_gift_5729,Butterfly
+live_gift_5730,Treehouse
+live_gift_5731,Coral
+live_gift_5732,Submarine
+live_gift_5733,Phone
+live_gift_5734,Goggles
+live_gift_5735,Halo-Halo
+live_gift_5736,Sasakazari
+live_gift_5737,Flowers
+live_gift_5738,Heart
+live_gift_5739,Money Gun
+live_gift_5740,Headphones
+live_gift_5741,Goal
+live_gift_5742,BUKO
+live_gift_5743,Hibiscus
+live_gift_5744,Guarana
+live_gift_5745,Cat Paws
+live_gift_5746,Daruma
+live_gift_5754,Penlight
+live_gift_copywriting_37,Panda
+live_gift_copywriting_38,Rainbow Puke
+live_gift_copywriting_5246,Hot air balloon
+live_gift_copywriting_5640,Greeting Card
+live_gift_copywriting_5651,Garland 
+live_gift_copywriting_5655,Rose
+live_gift_copywriting_5656,Flowers
+live_gift_dicoball,Disco ball
+live_gift_pallet_send_message_5643,donated
+live_gift_send_message_to_anchor,{0:user} sent {1} {2:gift}
+live_gift_send_message_to_anyone,{0:user} sent {1} {2} {3:gift}
+live_gift_send_message_to_anyuser,{0:user} sent {1:user} {2} {3:gift}
+live_im_welcome_anchor,You're now LIVE! Have fun interacting with viewers and remember to create a safe viewing experience by following our Community Guidelines.
+live_im_welcome_message,Welcome to TikTok LIVE! Have fun interacting with the host and other viewers in real-time and remember to create a safe viewing experience by following our Community Guidelines.
+live_notify_jump_tip,Go to {0}'s Live room?
+live_notify_jump_tip_2,Go to {0}'s live room?
+live_plain_text,{0:string}
+live_prop_1,Candy
+live_review_copywriter_Infringement_of_copyright,Inaccurate information or impersonation
+live_review_copywriter_against_community_policy,Against Community Policy
+live_review_copywriter_against_live_policy,Violates community guidelines
+live_review_copywriter_avatar_nickname,Avatar/nickname violation
+live_review_copywriter_ban_letter_0,Your live stream has broken the rules on ‘’{}“ and has been disconnected. Tap here to view penalty information >>>
+live_review_copywriter_bullying_harassment,Bullying or harassment
+live_review_copywriter_chat_ban_warn_format,Your comment on LIVE was reported for violating our Community Guidelines. Commenting on LIVE may be revoked after multiple reports of misconduct.
+live_review_copywriter_close_letter_0,Your live stream has broken the rules on {0} and has been disconnected. Tap here to view penalty information >>>
+live_review_copywriter_close_letter_1,Your live stream has broken the rules on {0} and has been disconnected.
+live_review_copywriter_close_letter_3,Your live stream has broken the rules on {0} and has been disconnected.
+live_review_copywriter_close_room_international,Your livestream contains a {0:pref} violation and has been terminated. Tap here to see details>>>
+live_review_copywriter_commercial_advertisement,Commercial Advertisement
+live_review_copywriter_controversial_content,Controversial content
+live_review_copywriter_copywrite_risk,Copyright infringement
+live_review_copywriter_cover_fail_notice_with_reason,The cover photo you uploaded contains a {0} violation. Upload a different cover photo.
+live_review_copywriter_cover_reset_notice_with_reason,The cover photo you uploaded contains a {0} violation and has been restored. Upload a different cover photo.
+live_review_copywriter_danger_to_minors,Danger to minors
+live_review_copywriter_danger_to_minors_age_requirements,Danger to minors - age requirements
+live_review_copywriter_dangerous_behivavior,Dangerous behavior
+live_review_copywriter_dangerous_individuals_or_organizations,Dangerous individuals or organizations
+live_review_copywriter_discomforting_content,Discomforting Content
+live_review_copywriter_disturbing_content,Disturbing content
+live_review_copywriter_dress_not_fit,Inappropriate clothing
+live_review_copywriter_false_information_or_spam,False information or spam
+live_review_copywriter_harassment_or_bullying,Harassment or bullying
+live_review_copywriter_hate_speech,Hate speech
+live_review_copywriter_hate_speech_live,Hate speech
+live_review_copywriter_illegal_content,Illegal Content
+live_review_copywriter_illegal_or_unlawful_activity,Illegal or unlawful activity
+live_review_copywriter_inaccurate_information_or_impersonation,Inaccurate information or impersonation
+live_review_copywriter_juvenile_behavior,Misbehavior of teenagers
+live_review_copywriter_juvenile_content,Does not meet age requirements
+live_review_copywriter_live_violation,LIVE violation
+live_review_copywriter_live_violation_detail,Your LIVE video contains {0}. Make necessary changes to your video to avoid suspension.
+live_review_copywriter_nudity_or_sexual_conduct,Nudity or sexual conduct
+live_review_copywriter_ok,OK
+live_review_copywriter_see_through_look,See-through Look
+live_review_copywriter_selfinjury_suicide,Self-injury or suicide
+live_review_copywriter_send_notice,Your live stream contains “{0}”. Please adjust content immediately to avoid suspension.
+live_review_copywriter_send_notice_international,Your live broadcast contains “{0}”. Please adjust content immediately to avoid suspension.
+live_review_copywriter_serious_porn,Serious Pornography
+live_review_copywriter_underage_children,Minors
+live_review_copywriter_unsuitable_clothing,Unsuitable Clothing
+live_review_copywriter_violation_of_community_guidelines,Violation of Community Guidelines
+live_review_copywriter_violence_or_harm,Violence or harm
+live_review_copywriter_violent_bloody,Violence or graphic content
+live_review_copywriter_violent_or_graphic_content,Violent or graphic content
+live_review_copywriter_vulgar_porn,Vulgar content
+live_review_copywriter_vulgarity_pornography,Vulgarity/Pornography
+live_room_enter_toast,{0:user} joined
+live_room_message_system_message,[System message]: {0:string}
+live_user_blocked,"Sorry, you are currently banned. You can live stream again in: {0:pref}"
+medals_multiple,Posting Badge * {0} days
+pm_main_follow_message_viewer,followed the host
+pm_mt_LIVE_HRpopup,"LIVE rankings have launched! The value of the gifts you give or receive during LIVE may be used to create a ranking of the most popular gift givers and receivers. If you are on the ranking, your username, profile picture, and the total gifts you gave and received will be displayed. You can choose not to take part in the LIVE rankings by opting out via your settings."
+pm_mt_LIVE_HRpopuptitle,Participate in LIVE rankings and get seen by more viewers
+pm_mt_LIVE_popupok,OK
+pm_mt_LIVE_popupoption,View settings
+pm_mt_LIVE_rankingoptout,Rankings
+pm_mt_LIVE_rankingpush,"Account updates: Introducing LIVE rankings! Get recognized as a top host or viewer and get more attention or rewards. To manage this feature, go to LIVE > Settings or Share>Settings."
+pm_mt_LIVE_vieweroption,Allow your username and gift information to be shown on features with ranking lists.
+pm_mt_bulletscreen1,{0:string}  is placing an order
+pm_mt_bulletscreen2,{0:string} and {1:string} others are placing orders
+pm_mt_congratopone,Congratulations {0:string} for becoming the Top host of the hour!
+pm_mt_congratopthree,Congratulations {0:string} for becoming the Top 3 host of the hour!
+pm_mt_congratoptwo,Congratulations {0:string} for becoming the Top 2 host of the hour!
+pm_mt_donated_new,donated {0}
+pm_mt_donation_message,{0} donated through sticker
+pm_mt_gifting_daily_limit,Daily gifting limit reached. Try again tomorrow.
+pm_mt_gifting_guide_first-time,Express your support with a gift!
+pm_mt_gifting_guide_first_time,Show your support with a gift!
+pm_mt_gifting_guide_hi,Hi %s
+pm_mt_gifting_guide_non_first-time,Show your support and send a {0:string} to {1:string}
+pm_mt_gifting_guide_non_first_time,Show your support and send a {0:string} to {1:string}
+pm_mt_guidance_coming_viewers,We're notifying viewers that you're LIVE!
+pm_mt_guidance_coming_viewers_second,Keep going! We're letting more viewers know you're LIVE.
+pm_mt_guidance_connection,Invite another host and Go LIVE Together!
+pm_mt_guidance_connection_button,Invite
+pm_mt_guidance_interaction,{0:user} joined. Interact with viewers and greet them when they join!
+pm_mt_guidance_interaction_first,{0:user} joined. Say hi and connect with new viewers!
+pm_mt_guidance_interaction_second,Say hi and connect with new viewers!
+pm_mt_hostormod_blocked_toast,{0:user} was blocked by moderator {1:user}
+pm_mt_hostormod_unmuted_toast,{0:user} was unmuted
+pm_mt_hourlyname,Top {0:string}
+pm_mt_hourlytophosts,Hourly top hosts
+pm_mt_invite_host,Invite another host and Go LIVE Together!
+pm_mt_keep_it_up,More likes can attract viewers. Keep it up!
+pm_mt_leading,Leading by {0:string} diamonds
+pm_mt_lineupended,Your LIVE Lineup has ended	
+pm_mt_lineupstarted,Your LIVE Lineup has started
+pm_mt_live_allowyourname,Allow your username and gift information to be shown on features with ranking lists.
+pm_mt_live_amazing,Amazing
+pm_mt_live_appeal_update_message_adjust,It was determined that your content violated our Community Guidelines and your account is temporarily banned from going LIVE.Tap here to see details>>>
+pm_mt_live_appeal_update_message_adjustment,It was determined that your content violated our Community Guidelines and your account is temporarily banned from going LIVE until {yy-mm-dd mm-ss}.
+pm_mt_live_diamands,{0:string} diamonds needed to be an hourly top host
+pm_mt_live_enterfromtopic,{0:user} joined from {1:string} Topic
+pm_mt_live_flowers,Flowers
+pm_mt_live_hilarious,Hilarious
+pm_mt_live_hourlyranking, Hourly ranking
+pm_mt_live_laughing,Laughing
+pm_mt_live_love,Love
+pm_mt_live_needed,{0:string} diamonds needed to be a top 3 host
+pm_mt_live_nonetopic,None
+pm_mt_live_party,Party
+pm_mt_live_rankings,Rankings
+pm_mt_live_reach,{0:string} diamonds to reach {1:string}
+pm_mt_live_reaction,Reaction
+pm_mt_live_room_block_host_announce,{0:user} was blocked by the host
+pm_mt_live_room_moderator_added_announce,{0:user} is a moderator for this LIVE broadcast
+pm_mt_live_room_moderator_count_limit,Moderator count reached
+pm_mt_live_room_moderator_removed_announce,{0:user} is no longer a moderator for this LIVE broadcast
+pm_mt_live_room_mute_host_announce,{0:user} was muted by the host
+pm_mt_live_room_mute_moderator_announce,{0:user} was muted by moderator {1:user}
+pm_mt_live_room_unmute_host_announce,{0:user} was unmuted by the host
+pm_mt_live_room_unmute_moderator_announce,{0:user} was unmuted by moderator {1:user}
+pm_mt_live_thishostisnot,This host isn't participating in hourly ranking.
+pm_mt_live_topic1,Anime
+pm_mt_live_topic10,Art
+pm_mt_live_topic11,Learn
+pm_mt_live_topic12,DIY
+pm_mt_live_topic13,Fitness & Sports
+pm_mt_live_topic14,Animals & Pets
+pm_mt_live_topic15,Auto & Vehicle
+pm_mt_live_topic16,Home & Garden
+pm_mt_live_topic17,Technology
+pm_mt_live_topic18,Mobile Legends
+pm_mt_live_topic19,Free Fire
+pm_mt_live_topic2,Chat
+pm_mt_live_topic20,ROBLOX
+pm_mt_live_topic21,Fandom
+pm_mt_live_topic22,Pop Culture
+pm_mt_live_topic23,Relationships
+pm_mt_live_topic24,LIVE Match
+pm_mt_live_topic25,Football
+pm_mt_live_topic26,Entertainment
+pm_mt_live_topic3,Dance
+pm_mt_live_topic4,Food
+pm_mt_live_topic5,Gaming
+pm_mt_live_topic6,Daily Life
+pm_mt_live_topic7,Music
+pm_mt_live_topic8,Outdoors
+pm_mt_live_topic9,Beauty & Fashion
+pm_mt_live_topone,Top1 {0:string}
+pm_mt_live_topthree,Top3 {0:string}
+pm_mt_live_toptwo,Top2 {0:string}
+pm_mt_live_violation_reason_copyright,Infringement of copyright or intellectual property
+pm_mt_live_warning_tag_injury,The actions in this LIVE video could result in serious injury.
+pm_mt_mask_potentiallydistressingcontent_content,Some people may find this LIVE video to be disturbing because it may contain {content}.
+pm_mt_mask_potentiallydistressingcontent_title,Potentially distressing content
+pm_mt_masklayer_1,imagery showing human on human violence in a fictional setting
+pm_mt_masklayer_2,imagery showing a mutilated body in a medical context 
+pm_mt_masklayer_3,imagery showing the process of body modification 
+pm_mt_masklayer_4,imagery showing scary makeup or special effects
+pm_mt_masklayer_5,imagery showing human excretion or similar content
+pm_mt_masklayer_6,imagery showing childbirth
+pm_mt_masklayer_7,imagery showing animal excretion or similar content
+pm_mt_masklayer_8,imagery showing animal slaughter in a religious or ritual setting
+pm_mt_matchrule,Learn to play and win the match!
+pm_mt_matchrule1,View
+pm_mt_msg_host,{0:user} sent you likes
+pm_mt_msg_viewer,{0:user} sent likes to the host
+pm_mt_prelivesettings_mods_addedyou_toast_im,{0:user} added you as a moderator 
+pm_mt_recharge_daily_limit,Daily recharge limit reached. Try again tomorrow.
+pm_mt_recharge_weekly_limit,Weekly recharge limit reached. Try again next week.
+pm_mt_remaining,5m remaining for your LIVE Lineup
+pm_mt_reminder_alcohol,alcohol
+pm_mt_reminder_tobacco,tobacco
+pm_mt_rethink_comment_banner,Your comment may violate our Community Guidelines. We ask you to consider what you say before posting.
+pm_mt_rethink_question_banner,Your question may violate our Community Guidelines. We ask you to consider what you say before posting.
+pm_mt_tag_healthdisclaimer,Consuming substances featured in this LIVE video could harm your health.
+pm_mt_tag_potentiallydangerousaction,The actions in this LIVE video could result in serious injury or adverse health effects.
+pm_mt_tag_potentiallydangerousactiontrainedprofessionals,The actions in this LIVE video are performed by professionals or supervised by professionals. Do not attempt.
+pm_mt_tobetopone,{0:string} diamonds to be top 1
+pm_mt_tobetopten,{0:string} diamonds to be top 10
+pm_mt_toptenrecom,Top 10 hosts will be recommended to more viewers
+pm_mt_toreachtop,{0:string} diamonds to reach top {1:string}
+pm_mt_viewer_blocked_toast,{0:user} was blocked
+pm_mt_viewer_muted_toast,{0:user} was muted
+pm_mt_viewer_unmuted_toast,You were unmuted
+pm_mt_warning_cohost_1,We limited the ability for others to find {username}'s LIVE video for 10 minutes because they received a content warning.
+pm_mt_warning_cohost_2,We limited the ability for others to find {username}'s LIVE video because they received a content warning.
+pm_mt_warning_cohost_title,This LIVE video is limited
+pm_mt_warning_healthwarning_1,Consuming {content} could harm your health and influence minors. We limited the ability for others to find your LIVE video for 10 minutes.
+pm_mt_warning_healthwarning_2,Consuming {content} could harm your health and influence minors. We limited the ability for others to find your LIVE video.
+pm_mt_warning_healthwarning_title,Health warning
+pm_mt_warning_injurywarning_1,Your actions could result in serious injury or adverse health effects. We limited the ability for others to find your LIVE video for 10 minutes.
+pm_mt_warning_injurywarning_2,Your actions could result in serious injury or adverse health effects. We limited the ability for others to find your LIVE video
+pm_mt_warning_injurywarning_title,Injury warning
+pm_mt_warning_sensitivecontentwarning_1,Some people may find your LIVE video to be disturbing because it may contain {content}. We limited the ability for others to find your LIVE video for 10 minutes.
+pm_mt_warning_sensitivecontentwarning_2,Some people may find your LIVE video to be disturbing because it may contain {content}. We limited the ability for others to find your LIVE video.
+pm_mt_warning_sensitivecontentwarning_title,Sensitive content warning
+policy_category_1,Adult nudity and sexual activity
+policy_category_10,Dangerous acts
+policy_category_2,Minor safety
+policy_category_3,Illegal activities and regulated goods
+policy_category_4,"Suicide, self-harm and dangerous acts"
+policy_category_5,Violent and graphic content
+policy_category_6,Harassment and bullying
+policy_category_7,Integrity and authenticity
+policy_category_8,Hate speech
+policy_category_9,Dangerous individuals and organizations
+reason_explain_1,"We do not allow sexually explicit or gratifying content on TikTok, including animated content of this nature. Sexualized content carries many risks, such as triggering legal penalties in some jurisdictions and causing harm to our users through sharing non-consensual imagery. Also, overtly sexual content can be offensive within certain cultures. We do allow exceptions around nudity and sexually explicit content for educational, documentary, scientific, or artistic purposes."
+reason_explain_10,We do not promote participation in activities that could lead to harm. We also do not permit users to encourage others to take part in dangerous activities.
+reason_explain_2,"We are deeply committed to child safety and have zero tolerance for predatory or grooming behavior toward minors. We do not allow content that depicts or disseminates child abuse, child nudity, or sexual exploitation of children in both digital and real world format, and we report such content to relevant legal authorities. We also do not allow content depicting minors engaged in delinquent behavior."
+reason_explain_3,"We prohibit the trade, sale, promotion, and use of certain regulated goods, as well as the depiction or promotion of criminal activities. Some content may be removed if it relates to activities or goods that are illegal or regulated in the majority of the region or world, even if the activities or goods in question are legal in the jurisdiction of posting. We allow exceptions for content that provides value to the public, such as educational, scientific, artistic, and newsworthy content."
+reason_explain_5,"We do not allow content that is excessively gruesome or shocking, especially that promotes or glorifies abject violence or suffering. We do allow exceptions for certain circumstances, for example, content that is newsworthy or meant to raise awareness about issues. When we identify a genuine risk of violence or threat to public safety, we ban the account and work with relevant legal authorities as necessary and when appropriate."
+reason_explain_6,"Users should feel safe to express themselves without fear of being shamed, humiliated, bullied, or harassed. We deeply understand the psychological distress that abusive content can have on individuals, and we do not tolerate abusive content or behavior on our platform."
+reason_explain_7,"Content that is intended to deceive or mislead any of our community members endangers our trust-based community. We do not allow such content on our platform. This includes activities such as spamming, impersonation, and disinformation campaigns."
+reason_explain_8,"We do not tolerate content that attacks or incites violence against an individual or a group of individuals on the basis of protected attributes. We do not allow content that includes hate speech, and we remove it from our platform. We also suspend or ban accounts that have multiple hate speech violations."
+reason_explain_9,"We do not allow dangerous individuals or organizations to use our platform to promote terrorism, crime, or other types of behavior that could cause harm. When there is a credible threat to public safety, we handle the issue by banning the account and cooperating with relevant legal authorities."
+reason_explain_general,"Our Community Guidelines apply to everyone, and to everything shared on TikTok. They provide general guidance on what is and what is not allowed on the platform."
+recharge_daily_limit_new,Daily recharge limit (accumulated amount in last 24 hours) reached. Try again later.
+recharge_weekly_limit_new,Weekly recharge limit (accumulated amount in last 168 hours) reached. Try again later.
+room_message_when_shield,System message: Your live stream has broken the rules on {0:string} and has been disconnected. Please adjust your behavior immediately and submit for verification.
+room_message_when_titleviolate,Your nickname has violated the rules on {0:string} and has been reset. Please change it immediately.
+roses_multiple,Rose * {0}
+share_add_intimacy,{0:user} shared this. Point +{1:string}
+violatioin_reason,Violation reasons
+violatioin_reason_detail,Violation: {0:pref}
+wb_gift_guide,Send me a {0}
+webcast_aweme_gift_send_message,{0:user} sent {1:gift} {2:string}
+webcast_chat_display_text,{0:user}{1:string}
+webcast_room_enter_tip,{0:user} joined via {1:pref} {2:string}

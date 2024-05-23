@@ -1,0 +1,40 @@
+RecordId,formal,alias
+1,Bedtime,bed
+2,Bedtime,bed time
+3,Bedtime,bedtime
+4,BreakfastTime,breakfast
+5,BreakfastTime,breakfast time
+6,Dawn,dawn
+7,DinnerTime,dinner
+8,DinnerTime,dinner time
+9,DinnerTime,dinnertime
+10,Noon,noon
+11,Noon,high noon
+12,Midnight,midnight
+13,Midnight,mid-night
+14,Midnight,mid night
+15,HappyHour,happy hour
+16,HappyHour,happyhour
+17,LunchTime,lunch
+18,LunchTime,lunch time
+19,LunchTime,lunchtime
+20,MidAfternoon,mid afternoon
+21,MidAfternoon,mid-afternoon
+22,MidAfternoon,midafternoon
+23,MidDay,mid day
+24,MidDay,mid-day
+25,MidDay,midday
+26,MidMorning,mid morning
+27,MidMorning,mid-morning
+28,MidMorning,midmorning
+29,Now,at the moment
+30,Now,at this moment
+31,Now,now
+32,Now,right now
+33,Now,this instant
+34,TeaTime,tea time
+35,TeaTime,teatime
+36,ThisTime,this time
+37,TopOfHour,the top of the hour
+38,TopOfHour,top of the hour
+39,Twilight,twilight

@@ -1,0 +1,47 @@
+RecordId,formal,alias
+1,true,yes
+2,true,okay
+3,true,ok
+4,true,yeah
+5,true,delete
+6,true,delete it
+7,true,remove
+8,true,remove it
+9,true,yes please
+10,true,okay delete it
+11,true,yes delete it
+12,true,yep
+13,true,yup
+14,true,yeah
+15,true,of course
+16,true,do it
+17,true,please do it
+18,true,go ahead
+19,true,certainly
+20,true,absolutely
+21,true,definitely
+22,true,indeed
+23,true,sure
+24,true,sure thing
+25,true,all right
+26,true,okay
+27,true,positive
+28,false,no
+29,false,cancel
+30,false,cancel to delete
+31,false,nope
+32,false,nop
+33,false,don't delete
+34,false,do not delete
+35,false,never
+36,false,no way
+37,false,not at all
+38,false,nay
+39,false,forget it
+40,false,reject
+41,false,decline
+42,false,please don't
+43,false,ignore
+44,false,avoid
+45,false,negative
+46,false,"don""t delete"

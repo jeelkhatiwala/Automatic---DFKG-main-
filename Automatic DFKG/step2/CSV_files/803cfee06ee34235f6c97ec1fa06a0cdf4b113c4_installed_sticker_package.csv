@@ -1,0 +1,6 @@
+package_name,is_preloaded,tray_on_resource,tray_off_resource,tray_on_resource_id,tray_off_resource_id,content_name,content_type,cp_name,main_description,main_order
+com.samsung.android.app.camera.sticker.facearexpression.preload,true,,,2131231608,2131231608,Not_Applicable,Not_Applicable,Not_Applicable,Face decorations,1
+com.samsung.android.app.camera.sticker.facear.preload,true,,,2131231608,2131231608,Not_Applicable,Not_Applicable,Not_Applicable,Face decorations,2
+com.samsung.android.app.camera.sticker.facearframe.preload,true,,,2131231609,2131231609,Not_Applicable,Not_Applicable,Not_Applicable,Frames,3
+com.samsung.android.app.camera.sticker.stamp.preload,true,,,2131231610,2131231611,Not_Applicable,Not_Applicable,Not_Applicable,Stamps,4
+com.samsung.android.app.camera.sticker.watermark.preload,true,,,2131231612,2131231613,Not_Applicable,Not_Applicable,Not_Applicable,Default description,5

@@ -1,0 +1,5 @@
+_id,package_name,sticker_name,thumbnail_resource,thumbnail_resource_id,scene_type,description,sub_order
+1,com.samsung.android.app.camera.sticker.facearavatar.preload,croco,,2130903040,"3D,avatar,supported_basic,supported_mask,supported_motionfigure,sound",Crocro,1
+2,com.samsung.android.app.camera.sticker.facearavatar.preload,sloth,,2130903041,"3D,avatar,supported_basic,supported_mask,supported_motionfigure,sound",Cooki,2
+3,com.samsung.android.app.camera.sticker.facearavatar.preload,beaver,,2130903042,"3D,avatar,supported_basic,supported_mask,supported_motionfigure,sound",Bobby,3
+4,com.samsung.android.app.camera.sticker.facearavatar.preload,bird,,2130903043,"3D,avatar,supported_basic,supported_mask,supported_motionfigure,sound",Lisa,4

@@ -1,0 +1,12 @@
+_id,data_key,data_value,category
+1,com.amap.android.location,-1,SYSTEMNLP
+2,com.tencent.android.location,-1,SYSTEMNLP
+3,com.baidu.map.location,-1,SYSTEMNLP
+4,com.baidu.BaiduMap,-1,FGSCAN_ALLOWLIST
+5,com.autonavi.minimap,-1,FGSCAN_ALLOWLIST
+6,com.tencent.map,-1,THROTTLING_ALLOWLIST
+7,com.sec.location.nsflp2,-1,THROTTLING_ALLOWLIST
+8,com.android.angryGps,-1,THROTTLING_ALLOWLIST
+9,com.sec.timezone,-1,THROTTLING_ALLOWLIST
+10,com.autonavi.minimap,-1,THROTTLING_ALLOWLIST
+11,jp.co.nttdocomo.lcsapp,-1,THROTTLING_ALLOWLIST

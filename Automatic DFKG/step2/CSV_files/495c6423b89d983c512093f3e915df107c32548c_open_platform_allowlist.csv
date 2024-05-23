@@ -1,0 +1,4 @@
+_id,item,category,data1,data2,data3,data4,data5
+4,com.google.android.apps.tachyon,,include:SKC;KTC;LUC;KOO;,,default:200;SKC:900;KTC:900;LUC:900,,
+5,com.skt.prod.together,,include:SKC;KOO,,SKC:100,,
+6,com.kt.narle,,include:KTC,,KTC:300,,

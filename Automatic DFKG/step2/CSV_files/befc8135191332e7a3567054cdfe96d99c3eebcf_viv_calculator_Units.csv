@@ -1,0 +1,263 @@
+RecordId,formal,alias
+1,Millimeter,m i l l i m e t e r
+2,Millimeter,m m
+3,Millimeter,m i l l i m e t e r s
+4,Millimeter,m i l l i m e t r e s
+5,Millimeter,밀 리 미 터
+6,Millimeter,미 리
+7,Centimeter,c e n t i m e t e r
+8,Centimeter,c m
+9,Centimeter,c e n t i m e t e r s
+10,Centimeter,c e n t i m e t r e s
+11,Centimeter,센 티 미 터
+12,Centimeter,센 티
+13,Centimeter,센 치 미 터
+14,Centimeter,센 치
+15,Meter,m e t e r
+16,Meter,m
+17,Meter,m e t e r s
+18,Meter,m e t r e s
+19,Meter,미 터
+20,Meter,메 다
+21,Kilometer,k i l o m e t e r
+22,Kilometer,k m
+23,Kilometer,k i l o m e t e r s
+24,Kilometer,k i l o m e t r e s
+25,Kilometer,킬 로 미 터
+26,Inch,i n c h
+27,Inch,i n c h e s
+28,Inch,인 치
+29,Foot,f o o t
+30,Foot,f e e t
+31,Foot,피 트
+32,Yard,y a r d
+33,Yard,y a r d s
+34,Yard,야 드
+35,Mile,m i l e
+36,Mile,m i l e s
+37,Mile,마 일
+38,NauticalMile,n a u t i c a l m i l e
+39,NauticalMile,n a u t i c a l m i l e
+40,NauticalMile,n a u t i c a l m i l e s
+41,NauticalMile,노 티 컬 마 일
+42,NauticalMile,나 우 티 컬 마 일
+43,NauticalMile,노 티 컬 마 일
+44,NauticalMile,나 우 티 컬 마 일
+45,NauticalMile,나 우 티 컬 마 일
+46,NauticalMile,해 리
+47,Mil,밀
+48,Li,리
+49,Ja,자
+50,SquareCentimeter,s q u a r e c e n t i m e t e r
+51,SquareCentimeter,s q u a r e c e n t i m e t r e
+52,SquareCentimeter,s q u a r e c e n t i m e t e r s
+53,SquareCentimeter,제 곱 센 티
+54,SquareCentimeter,제 곱 센 치
+55,SquareCentimeter,제 곱 센 티 미 터
+56,SquareCentimeter,제 곱 센 치 미 터
+57,SquareCentimeter,제 곱 센 티
+58,SquareCentimeter,제 곱 센 치
+59,SquareCentimeter,제 곱 센 티 미 터
+60,SquareCentimeter,제 곱 센 치 미 터
+61,SquareCentimeter,평 방 센 티 미 터
+62,SquareCentimeter,평 방 센 티 미 터
+63,SquareMeter,s q u a r e m e t e r
+64,SquareMeter,s q u a r e m e t e r
+65,SquareMeter,s q u a r e m e t e r s
+66,SquareMeter,제 곱 미 터
+67,SquareMeter,제 곱 메 다
+68,SquareMeter,제 곱 미 터
+69,SquareMeter,제 곱 메 다
+70,SquareMeter,평 방 미 터
+71,SquareMeter,평 방 미 터
+72,SquareInch,s q u a r e i n c h
+73,SquareInch,s q u a r e i n c h
+74,SquareInch,s q u a r e i n c h e s
+75,SquareInch,제 곱 인 치
+76,SquareInch,제 곱 인 치
+77,SquareFoot,s q u a r e f o o t
+78,SquareFoot,s q u a r e f o o t
+79,SquareFoot,s q u a r e f e e t
+80,SquareFoot,제 곱 피 트
+81,SquareFoot,제 곱 피 트
+82,SquareFoot,스 퀘 어 피 트
+83,SquareFoot,스 퀘 어 피 트
+84,Acre,a c r e
+85,Acre,a c r e s
+86,Acre,에 이 커
+87,Hectare,h e c t a r e
+88,Hectare,h e c t a r e s
+89,Hectare,헥 타 르
+90,Are,a r e
+91,Are,a r e s
+92,Are,아 르
+93,Pyeong,평
+94,Pyeong,평 수
+95,CubicCentimeter,c u b i c c e n t i m e t e r
+96,CubicCentimeter,c u b i c c e n t i m e t e r
+97,CubicCentimeter,c u b i c c e n t i m e t r e s
+98,CubicCentimeter,세 제 곱 센 티 미 터
+99,CubicCentimeter,세 제 곱 센 치 미 터
+100,CubicCentimeter,세 제 곱 센 티 미 터
+101,CubicCentimeter,세 제 곱 센 치 미 터
+102,CubicCentimeter,세 제 곱 센 티 미 터
+103,CubicCentimeter,세 제 곱 센 치 미 터
+104,CubicCentimeter,입 방 센 티 미 터
+105,CubicCentimeter,입 방 센 치 미 터
+106,CubicCentimeter,입 방 센 티 미 터
+107,CubicCentimeter,입 방 센 치 미 터
+108,CubicCentimeter,씨 씨
+109,CubicCentimeter,c c
+110,CubicCentimeter,c c
+111,CubicMeter,c u b i c m e t e r
+112,CubicMeter,c u b i c m e t e r
+113,CubicMeter,세 제 곱 미 터
+114,CubicMeter,세 제 곱 메 다
+115,CubicMeter,입 방 미 터
+116,CubicMeter,세 제 곱 미 터
+117,CubicMeter,세 제 곱 메 다
+118,CubicMeter,입 방 미 터
+119,CubicMeter,세 제 곱 미 터
+120,CubicInch,c u b i c i n c h
+121,CubicInch,c u b i c i n c h
+122,CubicInch,세 제 곱 인 치
+123,CubicInch,입 방 인 치
+124,CubicInch,입 방 인 치
+125,CubicFoot,c u b i c f o o t
+126,CubicFoot,c u b i c f o o t
+127,CubicFoot,세 제 곱 피 트
+128,CubicFoot,입 방 피 트
+129,CubicFoot,입 방 피 트
+130,Gallon,g a l l o n
+131,Gallon,g a l l o n s
+132,Gallon,갤 런
+133,Gallon,갤 런 유 에 스
+134,Gallon,갤 런 유 에 스
+135,Gallon,유 에 스 갤 런
+136,Gallon,유 에 스 갤 런
+137,Gallon,갤 런 u s
+138,Gallon,갤 런 u s
+139,Liter,l i t e r
+140,Liter,l i t r e
+141,Liter,l i t r e s
+142,Liter,l i t e r s
+143,Liter,l
+144,Liter,리 터
+145,Milliliter,m i l l i l i t e r
+146,Milliliter,m i l l i l i t r e
+147,Milliliter,m l
+148,Milliliter,미 리 리 터
+149,Milliliter,밀 리 리 터
+150,UKGallon,u k g a l l o n
+151,UKGallon,u k g a l l o n
+152,UKGallon,g a l l o n u k
+153,UKGallon,u k g a l l o n s
+154,UKGallon,g a l l o n s u k
+155,UKGallon,갤 런 유 케 이
+156,UKGallon,갤 런 유 케 이
+157,UKGallon,유 케 이 갤 런
+158,UKGallon,유 케 이 갤 런
+159,UKGallon,갤 런 u k
+160,UKGallon,갤 런 u k
+161,Mal,말
+162,Doe,되
+163,Fahrenheit,f a h r e n h e i t
+164,Fahrenheit,화 씨
+165,Fahrenheit,파 렌 하 이 트
+166,Celsius,c e l s i u s
+167,Celsius,섭 씨
+168,Celsius,셀 시 우 스
+169,Kelvin,k e l v i n
+170,Kelvin,캘 빈
+171,Kelvin,켈 빈
+172,Gram,g r a m
+173,Gram,g r a m s
+174,Gram,g
+175,Gram,그 램
+176,Gram,그 람
+177,Kilogram,k i l o g r a m
+178,Kilogram,k i l o g r a m s
+179,Kilogram,k g
+180,Kilogram,키 로 그 램
+181,Kilogram,키 로 그 람
+182,Kilogram,킬 로 그 램
+183,Kilogram,킬 로 그 람
+184,Ounce,o u n c e
+185,Ounce,o u n c e s
+186,Ounce,온 스
+187,Ounce,온 즈
+188,Pound,p o u n d
+189,Pound,p o u n d s
+190,Pound,파 운 드
+191,USTon,u s t o n
+192,USTon,u s t o n
+193,USTon,t o n u s
+194,USTon,u s t o n s
+195,USTon,t o n s u s
+196,USTon,숏 톤
+197,USTon,숏 톤
+198,USTon,톤 유 에 스
+199,USTon,톤 유 에 스
+200,USTon,유 에 스 톤
+201,USTon,유 에 스 톤
+202,USTon,톤 u s
+203,USTon,톤 u s
+204,UKTon,u k t o n
+205,UKTon,u k t o n
+206,UKTon,t o n u k
+207,UKTon,u k t o n s
+208,UKTon,t o n s u k
+209,UKTon,롱 톤
+210,UKTon,롱 톤
+211,UKTon,톤 유 케 이
+212,UKTon,톤 유 케 이
+213,UKTon,유 케 이 톤
+214,UKTon,유 케 이 톤
+215,UKTon,톤 u k
+216,UKTon,톤 u k
+217,Metric Ton,m e t r i c t o n
+218,Metric Ton,m e t r i c t o n
+219,Metric Ton,t o n m e t r i c
+220,Metric Ton,t o n s m e t r i c
+221,Metric Ton,톤
+222,Metric Ton,불 톤
+223,Metric Ton,미 터 톤
+224,Metric Ton,미 터 톤
+225,Metric Ton,t o n
+226,Metric Ton,t o n
+227,Metric Ton,t o n s
+228,Metric Ton,t o n s
+229,Geun,근
+230,Don,돈
+231,Bit,b i t
+232,Bit,비 트
+233,Byte,b y t e
+234,Byte,b y t e s
+235,Byte,바 이 트
+236,KiloByte,k i l o b y t e
+237,KiloByte,k i l o b y t e s
+238,KiloByte,k b
+239,KiloByte,킬 로 바 이 트
+240,KiloByte,킬 로 바 이 트
+241,MegaByte,m e g a b y t e
+242,MegaByte,m e g a b y t e s
+243,MegaByte,m b
+244,MegaByte,메 가
+245,MegaByte,메 가 바 이 트
+246,MegaByte,메 가 바 이 트
+247,GigaByte,g i g a b y t e
+248,GigaByte,g i g a b y t e s
+249,GigaByte,g b
+250,GigaByte,기 가
+251,GigaByte,기 가 바 이 트
+252,GigaByte,기 가 바 이 트
+253,TeraByte,t e r a b y t e
+254,TeraByte,t e r a b y t e s
+255,TeraByte,t b
+256,TeraByte,테 라
+257,TeraByte,테 라 바 이 트
+258,TeraByte,테 라 바 이 트
+259,Kilo,k i l o
+260,Kilo,킬 로
+261,Kilo,키 로
+262,Degrees,도

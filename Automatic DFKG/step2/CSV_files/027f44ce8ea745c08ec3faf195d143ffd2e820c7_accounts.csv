@@ -1,0 +1,11 @@
+_id,account_name,account_type,data_set,sec_supports_uploading
+1,vnd.sec.contact.phone,vnd.sec.contact.phone,,1
+2,primary.sim.account_name,vnd.sec.contact.sim,,1
+3,heisenbergcarro@gmail.com,com.google,,1
+4,vnd.sec.contact.agg.account_name,vnd.sec.contact.agg.account_type,,0
+5,HeisenbergW4,com.twitter.android.auth.login,,0
+7,Duo,com.google.android.apps.tachyon,,0
+15,Reddit for Android,com.reddit.account,,0
+18,HeisenbergCarro,com.reddit.account,,0
+19,WhatsApp,com.whatsapp,,0
+20,Signal,org.thoughtcrime.securesms,,0

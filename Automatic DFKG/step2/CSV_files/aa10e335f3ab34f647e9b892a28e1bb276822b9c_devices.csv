@@ -1,0 +1,3 @@
+_id,netType,deviceType,deviceName,wifiP2pMac,btMac,bleMac,contactHash,contactCrc,timeStamp,uuid,cloudId,boardVisibility,deviceOrder,vdProductType,upnpOcfInfo,isSShare,RegisterDialogShowed,WidgetEnabled,WidgetShown,hasAppLinkerPkg,manufacturerData,deviceColor,favorite,pluginTypes
+1,4,18,CAR MULTIMEDIA,,34:C7:31:F8:61:3B,,,,1626977876169,,,1,0,,0,,,,,,,,0,
+2,4,18,Bose SoundTouch CE2D10,,2C:6B:7D:1D:21:A7,,,,1624816061717,,,1,-1,,0,,,,,,,,0,

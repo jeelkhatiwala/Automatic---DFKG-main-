@@ -1,0 +1,553 @@
+RecordId,formal,alias
+1,$route,c u r r e n c y c o d e
+2,AED,a e d
+3,AED,d i r h a m
+4,AED,d i r h a m s
+5,AED,u n i t e d a r a b e m i r a t e s d i r h a m
+6,AED,u n i t e d a r a b e m i r a t e s d i r h a m s
+7,AFN,a f g h a n a f g h a n i
+8,AFN,a f n
+9,ALL,a l b a n i a n l e k
+10,ALL,a l b a n i a n l e k s
+11,ALL,a l l
+12,AMD,a m d
+13,AMD,a r m e n i a n d r a m
+14,AMD,a r m e n i a n d r a m s
+15,ANG,a n g
+16,ANG,n e t h e r l a n d s a n t i l l e a n g u i l d e r
+17,ANG,n e t h e r l a n d s a n t i l l e a n g u i l d e r s
+18,AOA,a n g o l a n k w a n z a
+19,AOA,a n g o l a n k w a n z a s
+20,AOA,a o a
+21,ARS,a r g e n t i n e p e s o
+22,ARS,a r g e n t i n e p e s o s
+23,ARS,a r s
+24,AUD,a u d
+25,AUD,a u s t r a l i a n d o l l a r
+26,AUD,a u s t r a l i a n d o l l a r s
+27,AWG,a r u b a n f l o r i n
+28,AWG,a r u b a n f l o r i n s
+29,AWG,a w g
+30,AZN,a z e r b a i j a n i m a n a t
+31,AZN,a z e r b a i j a n i m a n a t s
+32,AZN,a z n
+33,BAM,b a m
+34,BAM,b o s n i a a n d h e r z e g o v i n a c o n v e r t i b l e m a r k
+35,BAM,b o s n i a a n d h e r z e g o v i n a c o n v e r t i b l e m a r k s
+36,BBD,b a r b a d o s d o l l a r
+37,BBD,b a r b a d o s d o l l a r s
+38,BBD,b b d
+39,BDT,b a n g l a d e s h i t a k a
+40,BDT,b a n g l a d e s h i t a k a s
+41,BDT,b d t
+42,BGN,b g n
+43,BGN,b u l g a r i a n l e v
+44,BGN,b u l g a r i a n l e v s
+45,BHD,b a h r a i n i d i n a r
+46,BHD,b a h r a i n i d i n a r s
+47,BHD,b h d
+48,BIF,b i f
+49,BIF,b u r u n d i a n f r a n c
+50,BIF,b u r u n d i a n f r a n c s
+51,BMD,b e r m u d i a n d o l l a r
+52,BMD,b e r m u d i a n d o l l a r s
+53,BMD,b m d
+54,BND,b n d
+55,BND,b r u n e i d o l l a r
+56,BND,b r u n e i d o l l a r s
+57,BOB,b o b
+58,BOB,b o l i v i a n o
+59,BOB,b o l i v i a n o s
+60,BRL,b r a z i l i a n r e a l
+61,BRL,b r l
+62,BSD,b a h a m i a n d o l l a r
+63,BSD,b a h a m i a n d o l l a r s
+64,BSD,b s d
+65,BTN,b h u t a n e s e n g u l t r u m
+66,BTN,b t n
+67,BWP,b o t s w a n a p u l a
+68,BWP,b o t s w a n a p u l a s
+69,BWP,b w p
+70,BYR,b e l a r u s i a n r u b l e
+71,BYR,b e l a r u s i a n r u b l e s
+72,BYR,b y r
+73,BZD,b e l i z e d o l l a r
+74,BZD,b e l i z e d o l l a r s
+75,BZD,b z d
+76,CAD,c a d
+77,CAD,c a n a d i a n d o l l a r
+78,CAD,c a n a d i a n d o l l a r s
+79,CAD,캐 나 다
+80,CAD,캐 나 다 달 러
+81,CAD,캐 나 다 달 라
+82,CAD,캐 나 다 돈
+83,CDF,c d f
+84,CDF,c o n g o l e s e f r a n c
+85,CDF,c o n g o l e s e f r a n c s
+86,CHF,c h f
+87,CHF,f r a n c
+88,CHF,f r a n c s
+89,CHF,s f r
+90,CHF,s w i s s f r a n c
+91,CHF,s w i s s f r a n c s
+92,CHF,스 위 스
+93,CHF,프 랑
+94,CHF,스 위 스 프 랑
+95,CLP,c h i l e a n p e s o
+96,CLP,c h i l e a n p e s o s
+97,CLP,c l p
+98,CLP,칠 레
+99,CLP,칠 레 페 소
+100,CLP,칠 레 돈
+101,CNY,c n y
+102,CNY,옌
+103,CNY,위 안
+104,CNY,위 안 화
+105,CNY,중 국
+106,CNY,중 국 돈
+107,CNY,중 국 돈
+108,COP,c o l o m b i a n p e s o
+109,COP,c o l o m b i a n p e s o s
+110,COP,c o p
+111,COP,콜 롬 비 아
+112,COP,콜 롬 비 아 페 소
+113,COP,콜 롬 비 아 돈
+114,CRC,c o s t a r i c a n c o l o n
+115,CRC,c o s t a r i c a n c o l o n s
+116,CRC,c r c
+117,CUC,c u b a n c o n v e r t i b l e p e s o
+118,CUC,c u b a n c o n v e r t i b l e p e s o s
+119,CUC,c u c
+120,CUP,c u b a n p e s o
+121,CUP,c u b a n p e s o s
+122,CUP,c u p
+123,CVE,c a p e v e r d e e s c u d o
+124,CVE,c a p e v e r d e e s c u d o s
+125,CVE,c v e
+126,CZK,c z e c h k o r u n a
+127,CZK,c z e c h k o r u n a s
+128,CZK,c z k
+129,DJF,d j f
+130,DJF,d j i b o u t i a n f r a n c
+131,DJF,d j i b o u t i a n f r a n c s
+132,DKK,d a n i s h k r o n e
+133,DKK,d a n i s h k r o n e s
+134,DKK,d k k
+135,DOP,d o m i n i c a n p e s o
+136,DOP,d o m i n i c a n p e s o s
+137,DOP,d o p
+138,DZD,a l g e r i a n d i n a r
+139,DZD,a l g e r i a n d i n a r s
+140,DZD,d z d
+141,EGP,e g p
+142,EGP,e g y p t i a n p o u n d
+143,EGP,e g y p t i a n p o u n d s
+144,EGP,l e
+145,ERN,e r i t r e a n n a k f a
+146,ERN,e r i t r e a n n a k f a s
+147,ERN,e r n
+148,ETB,e t b
+149,ETB,e t h i o p i a n b i r r
+150,ETB,e t h i o p i a n b i r r s
+151,EUR,e u r
+152,EUR,e u r o
+153,EUR,e u r o s
+154,EUR,유 럽
+155,EUR,유 로
+156,EUR,유 로 화
+157,FJD,f i j i d o l l a r
+158,FJD,f i j i d o l l a r s
+159,FJD,f j d
+160,FJD,피 지
+161,FJD,피 지 달 러
+162,FJD,피 지 달 라
+163,FJD,피 지 돈
+164,FKP,f a l k l a n d i s l a n d s p o u n d
+165,FKP,f a l k l a n d i s l a n d s p o u n d s
+166,FKP,f k p
+167,GBP,b r i t a i n
+168,GBP,g b p
+169,GBP,p o u n d
+170,GBP,p o u n d s
+171,GBP,영 국
+172,GBP,파 운 드
+173,GBP,파 운 드 화
+174,GEL,g e l
+175,GEL,g e o r g i a n l a r i
+176,GEL,g e o r g i a n l a r i s
+177,GHS,g h a n a i a n c e d i
+178,GHS,g h a n a i a n c e d i s
+179,GHS,g h s
+180,GIP,g i b r a l t a r p o u n d
+181,GIP,g i b r a l t a r p o u n d s
+182,GIP,g i p
+183,GMD,g a m b i a n d a l a s i
+184,GMD,g m d
+185,GNF,g n f
+186,GNF,g u i n e a n f r a n c
+187,GNF,g u i n e a n f r a n c s
+188,GTQ,g t q
+189,GTQ,g u a t e m a l a n q u e t z a l
+190,GTQ,g u a t e m a l a n q u e t z a l s
+191,GYD,g u y a n e s e d o l l a r
+192,GYD,g u y a n e s e d o l l a r s
+193,GYD,g y d
+194,HKD,h k d
+195,HKD,h o n g k o n g d o l l a r
+196,HKD,h o n g k o n g d o l l a r s
+197,HKD,홍 콩
+198,HKD,홍 콩 달 러
+199,HKD,홍 콩 달 라
+200,HKD,홍 콩 돈
+201,HNL,h n l
+202,HNL,h o n d u r a n l e m p i r a
+203,HNL,h o n d u r a n l e m p i r a s
+204,HRK,c r o a t i a n k u n a
+205,HRK,c r o a t i a n k u n a s
+206,HRK,h r k
+207,HTG,h a i t i a n g o u r d e
+208,HTG,h a i t i a n g o u r d e s
+209,HTG,h t g
+210,HUF,h u f
+211,HUF,h u n g a r i a n f o r i n t
+212,HUF,h u n g a r i a n f o r i n t s
+213,IDR,i d r
+214,IDR,i n d o n e s i a n r u p i a h
+215,IDR,i n d o n e s i a n r u p i a h s
+216,ILS,i l s
+217,ILS,i s r a e l i n e w s h e k e l
+218,ILS,i s r a e l i n e w s h e k e l s
+219,INR,i n d i a n r u p e e
+220,INR,i n d i a n r u p e e s
+221,INR,i n r
+222,INR,루 피
+223,INR,인 도
+224,IQD,i q d
+225,IQD,i r a q i d i n a r
+226,IQD,i r a q i d i n a r s
+227,IRR,i r a n i a n r i a l
+228,IRR,i r a n i a n r i a l s
+229,IRR,i r r
+230,ISK,i c e l a n d i c k r ó n a
+231,ISK,i c e l a n d i c k r ó n a s
+232,ISK,i s k
+233,JMD,j a m a i c a n d o l l a r
+234,JMD,j a m a i c a n d o l l a r s
+235,JMD,j m d
+236,JMD,자 메 이 카
+237,JMD,자 메 이 카 달 러
+238,JMD,자 메 이 카 달 라
+239,JOD,j o d
+240,JOD,j o r d a n i a n d i n a r
+241,JOD,j o r d a n i a n d i n a r s
+242,JPY,j p y
+243,JPY,y e n
+244,JPY,일 본
+245,JPY,엔
+246,JPY,앤
+247,JPY,엔 화
+248,KES,k e n y a n s h i l l i n g
+249,KES,k e n y a n s h i l l i n g s
+250,KES,k e s
+251,KGS,k g s
+252,KGS,k y r g y z s t a n i s o m
+253,KGS,k y r g y z s t a n i s o m s
+254,KHR,c a m b o d i a n r i e l
+255,KHR,c a m b o d i a n r i e l s
+256,KHR,k h r
+257,KMF,c o m o r o f r a n c
+258,KMF,c o m o r o f r a n c s
+259,KMF,k m f
+260,KPW,k p w
+261,KPW,n o r t h k o r e a n w o n
+262,KRW,k r w
+263,KRW,원
+264,KRW,한 국
+265,KRW,한 국 돈
+266,KRW,한 국 돈
+267,KRW,원 화
+268,KWD,k u w a i t i d i n a r
+269,KWD,k u w a i t i d i n a r s
+270,KWD,k w d
+271,KYD,c a y m a n i s l a n d s d o l l a r
+272,KYD,c a y m a n i s l a n d s d o l l a r s
+273,KYD,k y d
+274,KZT,k a z a k h s t a n i t e n g e
+275,KZT,k a z a k h s t a n i t e n g e s
+276,KZT,k z t
+277,LAK,l a k
+278,LAK,l a o k i p
+279,LAK,l a o k i p s
+280,LBP,l b p
+281,LBP,l e b a n e s e p o u n d
+282,LBP,l e b a n e s e p o u n d s
+283,LKR,l k r
+284,LKR,s r i l a n k a n r u p e e
+285,LKR,s r i l a n k a n r u p e e s
+286,LRD,l i b e r i a n d o l l a r
+287,LRD,l i b e r i a n d o l l a r s
+288,LRD,l r d
+289,LSL,l e s o t h o l o t i
+290,LSL,l e s o t h o l o t i s
+291,LSL,l s l
+292,LTL,l i t h u a n i a n l i t a s
+293,LTL,l t l
+294,LYD,l i b y a n d i n a r
+295,LYD,l i b y a n d i n a r s
+296,LYD,l y d
+297,MAD,m a d
+298,MAD,m o r o c c a n d i r h a m
+299,MAD,m o r o c c a n d i r h a m s
+300,MDL,m d l
+301,MDL,m o l d o v a n l e u
+302,MDL,m o l d o v a n l e u s
+303,MGA,m a l a g a s y a r i a r i e s
+304,MGA,m a l a g a s y a r i a r y
+305,MGA,m g a
+306,MKD,m a c e d o n i a n d e n a r
+307,MKD,m a c e d o n i a n d e n a r s
+308,MKD,m k d
+309,MMK,m m k
+310,MMK,m y a n m a k y a t
+311,MMK,m y a n m a k y a t s
+312,MNT,m n t
+313,MNT,m o n g o l i a n t u g r i k
+314,MNT,m o n g o l i a n t u g r i k s
+315,MOP,m a c a n e s e p a t a c a
+316,MOP,m a c a n e s e p a t a c a s
+317,MOP,m o p
+318,MRO,m a u r i t a n i a n o u g u i y a
+319,MRO,m a u r i t a n i a n o u g u i y a s
+320,MRO,m r o
+321,MUR,m a u r i t i a n r u p e e
+322,MUR,m a u r i t i a n r u p e e s
+323,MUR,m u r
+324,MVR,m a l d i v i a n r u f i y a a
+325,MVR,m a l d i v i a n r u f i y a a s
+326,MVR,m v r
+327,MWK,m a l a w i a n k w a c h a
+328,MWK,m a l a w i a n k w a c h a s
+329,MWK,m w k
+330,MXN,m e x i c a n p e s o
+331,MXN,m e x i c a n p e s o s
+332,MXN,m x n
+333,MXN,p e s o
+334,MXN,p e s o s
+335,MXN,페 소
+336,MXN,멕 시 코
+337,MYR,m a l a y s i a n d o l l a r
+338,MYR,m a l a y s i a n d o l l a r s
+339,MYR,m a l a y s i a n r i n g g i t
+340,MYR,m a l a y s i a n r i n g g i t s
+341,MYR,m y r
+342,MZN,m o z a m b i c a n m e t i c a l
+343,MZN,m o z a m b i c a n m e t i c a l s
+344,MZN,m z n
+345,NAD,n a d
+346,NAD,n a m i b i a n d o l l a r
+347,NAD,n a m i b i a n d o l l a r s
+348,NGN,n g n
+349,NGN,n i g e r i a n n a i r a
+350,NGN,n i g e r i a n n a i r a s
+351,NIO,n i c a r a g u a n c ó r d o b a
+352,NIO,n i c a r a g u a n c ó r d o b a s
+353,NIO,n i o
+354,NOK,n o k
+355,NOK,n o r w e g i a n k r o n e
+356,NOK,n o r w e g i a n k r o n e s
+357,NPR,n e p a l e s e r u p e e
+358,NPR,n e p a l e s e r u p e e s
+359,NPR,n p r
+360,NZD,n e w z e a l a n d d o l l a r
+361,NZD,n e w z e a l a n d d o l l a r s
+362,NZD,n z d
+363,NZD,뉴 질 랜 드
+364,NZD,뉴 질 랜 드 달 러
+365,NZD,뉴 질 랜 드 달 라
+366,NZD,뉴 질 랜 드 돈
+367,OMR,o m a n i r i a l
+368,OMR,o m a n i r i a l s
+369,OMR,o m r
+370,PAB,p a b
+371,PAB,p a n a m a n i a n b a l b o a
+372,PAB,p a n a m a n i a n b a l b o a s
+373,PEN,p e n
+374,PEN,p e r u v i a n n u e v o s o l
+375,PEN,p e r u v i a n n u e v o s o l s
+376,PGK,p a p u a n e w g u i n e a n k i n a
+377,PGK,p a p u a n e w g u i n e a n k i n a s
+378,PGK,p g k
+379,PHP,p h i l i p p i n e p e s o
+380,PHP,p h i l i p p i n e p e s o s
+381,PHP,p h p
+382,PKR,p a k i s t a n i r u p e e
+383,PKR,p a k i s t a n i r u p e e s
+384,PKR,p k r
+385,PLN,p l n
+386,PLN,p o l i s h z ł o t y
+387,PYG,p a r a g u a y a n g u a r a n í
+388,PYG,p a r a g u a y a n g u a r a n í s
+389,PYG,p y g
+390,QAR,q a r
+391,QAR,q a t a r i r i y a l
+392,QAR,q a t a r i r i y a l s
+393,RON,r o m a n i a n n e w l e u
+394,RON,r o m a n i a n n e w l e u s
+395,RON,r o n
+396,RSD,r s d
+397,RSD,s e r b i a n d i n a r
+398,RSD,s e r b i a n d i n a r s
+399,RUB,r u b
+400,RUB,r u b l e
+401,RUB,r u b l e s
+402,RUB,r u s s i a n r u b l e
+403,RUB,r u s s i a n r u b l e s
+404,RUB,루 블
+405,RUB,러 시 아
+406,RWF,r w a n d a n f r a n c
+407,RWF,r w a n d a n f r a n c s
+408,RWF,r w f
+409,SAR,s a r
+410,SAR,s a u d i r i y a l
+411,SAR,s a u d i r i y a l s
+412,SBD,s b d
+413,SBD,s o l o m o n i s l a n d s d o l l a r
+414,SBD,s o l o m o n i s l a n d s d o l l a r s
+415,SCR,s c r
+416,SCR,s e y c h e l l e s r u p e e
+417,SCR,s e y c h e l l e s r u p e e s
+418,SDG,s d g
+419,SDG,s u d a n e s e p o u n d
+420,SDG,s u d a n e s e p o u n d s
+421,SEK,s e k
+422,SEK,s w e d i s h k r o n a
+423,SEK,s w e d i s h k r o n o r
+424,SGD,s g d
+425,SGD,s i n g a p o r e d o l l a r
+426,SGD,s i n g a p o r e d o l l a r s
+427,SGD,싱 가 포 르 달 러
+428,SGD,싱 가 포 르 달 라
+429,SGD,싱 가 폴 달 러
+430,SGD,싱 가 폴 달 라
+431,SGD,싱 가 포 르 돈
+432,SGD,싱 가 포 르
+433,SGD,싱 가 폴
+434,SHP,s a i n t h e l e n a p o u n d
+435,SHP,s a i n t h e l e n a p o u n d s
+436,SHP,s h p
+437,SLL,s i e r r a l e o n e a n l e o n e
+438,SLL,s i e r r a l e o n e a n l e o n e s
+439,SLL,s l l
+440,SOS,s o m a l i s h i l l i n g
+441,SOS,s o m a l i s h i l l i n g s
+442,SOS,s o s
+443,SRD,s r d
+444,SRD,s u r i n a m e s e d o l l a r
+445,SRD,s u r i n a m e s e d o l l a r s
+446,SSP,s o u t h s u d a n e s e p o u n d
+447,SSP,s o u t h s u d a n e s e p o u n d s
+448,SSP,s s p
+449,STD,s t d
+450,STD,s ã o t o m é a n d p r í n c i p e d o b r a
+451,STD,s ã o t o m é a n d p r í n c i p e d o b r a s
+452,SYP,s y p
+453,SYP,s y r i a n p o u n d
+454,SYP,s y r i a n p o u n d s
+455,SZL,s w a z i l i l a n g e n i
+456,SZL,s w a z i l i l a n g e n i s
+457,SZL,s z l
+458,THB,t h a i b a h t
+459,THB,t h a i b a h t s
+460,THB,t h b
+461,TJS,t a j i k i s t a n i s o m o n i
+462,TJS,t a j i k i s t a n i s o m o n i s
+463,TJS,t j s
+464,TMT,t m t
+465,TMT,t u r k m e n i s t a n i m a n a t
+466,TMT,t u r k m e n i s t a n i m a n a t s
+467,TND,t n d
+468,TND,t u n i s i a n d i n a r
+469,TND,t u n i s i a n d i n a r s
+470,TOP,t o n g a n p a ʻ a n g a
+471,TOP,t o n g a n p a ʻ a n g a s
+472,TOP,t o p
+473,TRY,l i r a
+474,TRY,t r y
+475,TRY,t u r k i s h l i r a
+476,TRY,t u r k i s h l i r a s
+477,TTD,t r i n i d a d a n d t o b a g o d o l l a r
+478,TTD,t r i n i d a d a n d t o b a g o d o l l a r s
+479,TTD,t t d
+480,TWD,n e w t a i w a n d o l l a r
+481,TWD,n e w t a i w a n d o l l a r s
+482,TWD,t w d
+483,TWD,대 만 달 러
+484,TWD,대 만 달 라
+485,TWD,대 만 돈
+486,TWD,대 만
+487,TZS,t a n z a n i a n s h i l l i n g
+488,TZS,t a n z a n i a n s h i l l i n g s
+489,TZS,t z s
+490,UAH,u a h
+491,UAH,u k r a i n i a n h r y v n i a
+492,UAH,u k r a i n i a n h r y v n i a s
+493,UGX,u g a n d a n s h i l l i n g
+494,UGX,u g a n d a n s h i l l i n g s
+495,UGX,u g x
+496,USD,b u c k
+497,USD,b u c k s
+498,USD,d o l l a r
+499,USD,d o l l a r s
+500,USD,u s d
+501,USD,달 러
+502,USD,불
+503,USD,미 국
+504,USD,미 국 달 러
+505,USD,미 국 달 러
+506,USD,미 국 돈
+507,USD,미 국 돈
+508,USD,달 라
+509,USD,미 국 달 라
+510,USD,미 국 달 라
+511,USD,u s 달 러
+512,USD,u s 달 러
+513,USD,u s 달 라
+514,USD,u s 달 러
+515,USD,u s d o l l a r
+516,UYU,u r u g u a y a n p e s o
+517,UYU,u r u g u a y a n p e s o s
+518,UYU,u y u
+519,UZS,u z b e k i s t a n s o m
+520,UZS,u z b e k i s t a n s o m s
+521,UZS,u z s
+522,VEF,v e f
+523,VEF,v e n e z u e l a n b o l í v a r
+524,VEF,v e n e z u e l a n b o l í v a r s
+525,VND,v i e t n a m e s e d o n g
+526,VND,v i e t n a m e s e d o n g s
+527,VND,v n d
+528,VUV,v a n u a t u v a t u
+529,VUV,v a n u a t u v a t u s
+530,VUV,v u v
+531,WST,s a m o a n t a l a
+532,WST,s a m o a n t a l a s
+533,WST,w s t
+534,XCD,e a s t c a r i b b e a n d o l l a r
+535,XCD,e a s t c a r i b b e a n d o l l a r s
+536,XCD,x c d
+537,YER,y e m e n i r i a l
+538,YER,y e m e n i r i a l s
+539,YER,y e r
+540,ZAR,s o u t h a f r i c a n r a n d
+541,ZAR,s o u t h a f r i c a n r a n d s
+542,ZAR,z a r
+543,ZMW,z a m b i a n k w a c h a
+544,ZMW,z a m b i a n k w a c h a s
+545,ZMW,z m w
+546,ZWD,z i m b a b w e d o l l a r
+547,ZWD,z i m b a b w e d o l l a r s
+548,ZWD,z w d
+549,ZWD,짐 바 브 웨 달 러
+550,ZWD,짐 바 브 웨 달 러
+551,ZWD,짐 바 브 웨 돈
+552,ZWD,짐 바 브 웨

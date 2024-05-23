@@ -1,0 +1,6 @@
+app_id,name,timestamp,metadata_fingerprint,data,realtime
+com.google.android.youtube,_e,1626978512890,-7898240203179917891,b'\n\n\n\x02_o\x12\x04auto\n\t\n\x03_et\x18\x82\x96#\n\x19\n\x03_sc\x12\x12WatchWhileActivity\n\x0f\n\x03_si\x18\xfc\x96\xac\xb9\x96\xe7\xbe\xc2C\n\x11\n\rga_safelisted\x18\x01 \xf9\x82\xb2\xe5\xac/',0
+com.reddit.frontpage,invalid_token_request,1626981097227,1951940178309409857,b'\n\x18\n\x14invalid_token_header\x18\x01\n\t\n\x02_o\x12\x03app\n\x1b\n\rgql_operation\x12\nBadgeCount \xd2\xb5\xa4\x80\xa9/',0
+com.reddit.frontpage,invalid_token_request,1626981816684,1951940178309409857,b'\n\x18\n\x14invalid_token_header\x18\x01\n\t\n\x02_o\x12\x03app\n\x1b\n\rgql_operation\x12\nBadgeCount \x8b\xbe\x85\xfd\xac/',0
+com.reddit.frontpage,invalid_token_request,1626981816745,1951940178309409857,"b""\n\x18\n\x14invalid_token_header\x18\x01\n\t\n\x02_o\x12\x03app\n'\n\rgql_operation\x12\x16UsernameAndExperiments \xec\xb2\xb1\xfd\xac/""",0
+com.reddit.frontpage,UnknownHostException_GA_URL_error,1626981816748,1951940178309409857,"b'\n\x18\n\x0bApp_Version\x12\t2021.24.0\n]\n\rError_message\x12LUnable to resolve host ""gql.reddit.com"": No address associated with hostname\n\x1a\n\x10App_Version_Code\x12\x06333951\n\x17\n\x13Duration_of_request\x18#\n\t\n\x02_o\x12\x03app\n\x1d\n\x03URL\x12\x16UsernameAndExperiments \xac\xb6\xa2\x8b\xa9/'",0

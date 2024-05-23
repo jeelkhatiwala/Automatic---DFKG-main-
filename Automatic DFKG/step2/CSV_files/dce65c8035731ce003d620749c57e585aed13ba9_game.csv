@@ -1,0 +1,9 @@
+_id,package_name,category,user_id
+1,com.sec.android.app.samsungapps,3,0
+2,com.samsung.android.game.gametools,3,0
+3,com.samsung.android.game.gamehome,3,0
+4,com.sec.android.app.myfiles,10,0
+5,com.android.vending,10,0
+6,com.sec.android.app.clockpackage,10,0
+7,com.sec.android.app.popupcalculator,10,0
+8,com.ea.game.nfs14_row,1,0

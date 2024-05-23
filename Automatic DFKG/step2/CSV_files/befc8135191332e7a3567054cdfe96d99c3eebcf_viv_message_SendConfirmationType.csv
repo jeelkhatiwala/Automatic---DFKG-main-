@@ -1,0 +1,136 @@
+RecordId,formal,alias
+1,true,응
+2,true,예
+3,true,예 예
+4,true,예 스
+5,true,네
+6,true,네 네
+7,true,엉
+8,true,어
+9,true,어 그 래
+10,true,어 해 줘
+11,true,옙
+12,true,넵
+13,true,해
+14,true,다 음
+15,true,좋 아
+16,true,그 래
+17,true,그 래 그 래
+18,true,그 래 주 세 요
+19,true,그 래 줘
+20,true,그 래 해 줘
+21,true,그 래 요
+22,true,그 래 주 세 요
+23,true,그 래 줘
+24,true,그 럴 게
+25,true,확 인
+26,true,응 응
+27,true,응 그 래
+28,true,응 해 줘
+29,true,응 보 내
+30,true,응 보 내 줘
+31,true,응 전 송 해 줘
+32,true,보 내
+33,true,진 행 해
+34,true,보 내 줘
+35,true,보 내 봐
+36,true,보 내 줘 요
+37,true,보 낼 래
+38,true,발 신 해
+39,true,실 행
+40,true,실 행 해
+41,true,보 내 기
+42,true,메 시 지 보 내
+43,true,발 신 해 줘
+44,true,이 거 보 내
+45,true,보 내 줄 래
+46,true,보 내 줘 봐
+47,true,전 송
+48,true,계 속
+49,true,계 속 해
+50,true,맞 아
+51,true,전 송 해
+52,true,전 송 해 줘
+53,true,전 송 하 자
+54,true,발 송
+55,true,발 송 해
+56,true,발 송 해 줘
+57,true,오 키
+58,true,오 케 이
+59,true,오 케 바 리
+60,true,당 근
+61,true,당 근 이 지
+62,true,고 고
+63,true,동 의
+64,true,그 래 고 마 워
+65,true,그 래 보 내
+66,false,아 니
+67,false,아 냐
+68,false,아 니 아 니
+69,false,아 니 아 니 야
+70,false,아 니 취 소
+71,false,아 니 취 소 해
+72,false,아 니 취 소 해 줘
+73,false,아 니 하 지 마
+74,false,아 니 다
+75,false,아 니 요
+76,false,아 니 야
+77,false,아 니 야 됐 어
+78,false,아 니 야 아 니 야
+79,false,아 니 야 취 소
+80,false,아 니 에 요
+81,false,안 해
+82,false,안 할 래
+83,false,하 지 마
+84,false,취 소
+85,false,취 소 해
+86,false,취 소 해 줘
+87,false,취 소 할 게
+88,false,취 소 할 래
+89,false,취 소 할 거 야
+90,false,안 할 꺼 야
+91,false,안 보 내
+92,false,안 보 내
+93,false,안 보 낼 래
+94,false,안 보 낼 래
+95,false,보 내 지 마
+96,false,안 할 꺼 야
+97,false,안 할 거 야
+98,false,안 할 거 야
+99,false,보 내 지 마
+100,false,노
+101,false,노 노
+102,false,놉
+103,false,싫 어 요
+104,false,됐 다
+105,false,됐 어
+106,false,하 지 마
+107,false,캔 슬
+108,false,종 료
+109,false,싫 다
+110,false,싫 어
+111,false,싫 어 요
+112,false,싫 은 데
+113,false,중 지
+114,false,노 노
+115,false,끝 내
+116,false,중 단
+117,false,안 해
+118,false,안 돼
+119,false,안 한 다
+120,false,안 한 다 고
+121,false,안 할 거 야
+122,false,안 할 래
+123,false,거 절
+124,false,아 니 오
+125,false,그 만
+126,false,그 만 해
+127,false,끝 내
+128,false,멈 춰
+129,false,스 탑
+130,false,스 톱
+131,false,조 용
+132,false,조 용 히 해
+133,false,전 송 취 소
+134,false,발 송 취 소
+135,false,문 자 보 내 는 거 취 소 해 줘

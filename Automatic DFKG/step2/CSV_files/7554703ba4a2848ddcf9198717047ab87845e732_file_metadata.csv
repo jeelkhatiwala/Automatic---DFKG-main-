@@ -1,0 +1,5 @@
+_id,namespace,name,gc_priority,reservation_state,last_access_millis,reserved_size,source,superpack_name,superpack_version,validation_count
+2,manifests,captions_v1-20200112,0,0,0,0,https://storage.googleapis.com/captions/captions_v1_20200112_manifest.json,captions_v1,20200112,0
+3,captions_v1,captions_v1_20200112_punctuation,0,1,1626981817198,454547,https://storage.googleapis.com/captions/captions_v1_20200112_punctuation.zip,captions_v1,20200112,0
+4,captions_v1,captions_v1_20200112_sound,0,1,1626981817200,3587621,https://storage.googleapis.com/captions/captions_v1_20200112_sound.zip,captions_v1,20200112,0
+5,captions_v1,captions_v1_20200112_asr,0,1,1626981817204,55910425,https://storage.googleapis.com/captions/captions_v1_20200112_asr.zip,captions_v1,20200112,0

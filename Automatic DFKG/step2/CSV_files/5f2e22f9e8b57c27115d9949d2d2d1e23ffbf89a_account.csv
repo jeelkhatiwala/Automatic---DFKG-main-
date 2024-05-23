@@ -1,0 +1,2 @@
+_id,account_name,storage_version,sync_status,morning_customized_time,afternoon_customized_time,evening_customized_time,account_state,need_sync_snooze_preset,was_last_sync_error
+1,heisenbergcarro@gmail.com,0,,28800000,46800000,64800000,,0,0

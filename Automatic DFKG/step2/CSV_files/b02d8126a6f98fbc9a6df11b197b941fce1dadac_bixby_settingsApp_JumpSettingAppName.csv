@@ -1,0 +1,193 @@
+RecordId,formal,alias
+1,WifiSetting,wifi
+2,WifiSetting,wi-fi
+3,WifiSetting,wi fi
+4,WifiSetting,wifi setting
+5,WifiSetting,wireless router
+6,WifiSetting,wireless
+7,WifiSetting,wlan
+8,WifiSetting,wifi
+9,BluetoothSetting,bluetooth setting
+10,BluetoothSetting,bluetooth
+11,HotspotSetting,hotspot
+12,HotspotSetting,hot spot
+13,HotspotSetting,hotspot setting
+14,HotspotSetting,mobile hotspot
+15,HotspotSetting,mobile hotspot and tethering
+16,NFCSetting,nfc setting
+17,NFCSetting,nfc
+18,NFCSetting,nfc and payment
+19,AODSetting,aod setting
+20,AODSetting,aod
+21,AODSetting,always on display
+22,EdgeSetting,edge
+23,EdgeSetting,edge
+24,EdgeSetting,edge screen
+25,LockScreenSetting,lockscreen
+26,LockScreenSetting,lock screen
+27,LockScreenSetting,screen lock
+28,RingtoneScreenSetting,ringtone
+29,RingtoneScreenSetting,ringtones
+30,MainSetting,settings
+31,MainSetting,mainsetting
+32,MainSetting,phone
+33,DataUsageSetting,data usage
+34,LocationSetting,location
+35,LocationSetting,gps
+36,LocationSetting,locations
+37,SoundVibrateSetting,sound and vibration
+38,SoundVibrateSetting,sound and vibration
+39,SoundVibrateSetting,sound
+40,SoundVibrateSetting,sound mode
+41,SoundVibrateSetting,sound mode
+42,SoundVibrateSetting,vibrate
+43,SoundVibrateSetting,vibration
+44,SoundVibrateSetting,sound and vibrate
+45,VibratePatternSetting,vibrate pattern
+46,VibratePatternSetting,vibrate patterns
+47,VibratePatternSetting,vibration pattern
+48,VibratePatternSetting,vibration patterns
+49,NoDisturbSetting,do not disturb
+50,NoDisturbSetting,dnd
+51,DisplaySetting,display setting
+52,DisplaySetting,display
+53,BlueLightSetting,blue light
+54,ScreenModeSetting,screen mode
+55,FullScreenAppsSetting,full screen
+56,StatusBarSetting,status bar
+57,NavigationBarSetting,navigation bar
+58,ScreenTimeOutSetting,screen time out
+59,ScreenTimeOutSetting,screen timeout
+60,ScreenTimeOutSetting,time out screen
+61,ScreenTimeOutSetting,timeout screen
+62,ScreenSaverSetting,screen saver
+63,ScreenSaverSetting,screensaver
+64,AdvancedFeaturesSetting,advanced features
+65,AdvancedFeaturesSetting,advanced features
+66,AdvancedFeaturesSetting,advanced features
+67,AdvancedFeaturesSetting,advance
+68,OneHandModeSetting,one handmode
+69,OneHandModeSetting,one hand mode
+70,OneHandModeSetting,onehand mode
+71,OneHandModeSetting,one-hand mode
+72,OneHandModeSetting,one handed mode
+73,OneHandModeSetting,onehanded mode
+74,OneHandModeSetting,one-handed mode
+75,FingerSensorGesturesSetting,finger sensor gestures
+76,FingerSensorGesturesSetting,finger sensor gesture
+77,SmartCaptureSetting,smart capture
+78,SwipeToCaptureSetting,swipe to capture
+79,DirectCallSetting,direct call
+80,SmartAlertSetting,smart alert
+81,EasyMuteSetting,easy mute
+82,DualMessengerSetting,dual messenger
+83,DualMessengerSetting,dual messages
+84,SwipeToCallOrSendMessagesSetting,swipe to call or send message
+85,SwipeToCallOrSendMessagesSetting,swipe to call or send messages
+86,SendSOSMessagesSetting,send sos messages
+87,SendSOSMessagesSetting,send sos message
+88,SendSOSMessagesSetting,sos message
+89,SendSOSMessagesSetting,sos messages
+90,DirectShareSetting,direct share
+91,VideoEnhancerSetting,video enhancer
+92,ApplicationMenuSetting,application menu
+93,ApplicationMenuSetting,application
+94,CloudAndAccountsSetting,cloud and accounts
+95,CloudAndAccountsSetting,cloud and account
+96,AccountSetting,account
+97,AccountSetting,accounts
+98,GeneralManagementSetting,general management
+99,ScreenKeyboardSetting,on screen keyboard
+100,ScreenKeyboardSetting,onscreen keyboard
+101,ScreenKeyboardSetting,on-screen keyboard
+102,ScreenKeyboardSetting,screen keyboard
+103,ScreenKeyboardSetting,keyboard
+104,ResetSetting,reset
+105,AboutDeviceSetting,about device
+106,AboutDeviceSetting,about phone
+107,AboutDeviceSetting,android system status
+108,BiometricsAndSecuritySetting,biometrics and security
+109,BiometricsAndSecuritySetting,biometrics
+110,BiometricsAndSecuritySetting,security
+111,StatusSetting,status
+112,FingerprintsSetting,finger prints
+113,FingerprintsSetting,fingerprints
+114,FingerprintsSetting,finger prints
+115,SimStatusSetting,sim status
+116,SimStatusSetting,sim card information
+117,FaceRecognitionSetting,face recognition
+118,FaceRecognitionSetting,facial recognition
+119,FaceRecognitionSetting,face recognition
+120,IrisSetting,iris
+121,IrisSetting,iris
+122,FactoryDataResetSetting,factory data reset
+123,FactoryDataResetSetting,factory reset
+124,FactoryDataResetSetting,restore factory
+125,FactoryDataResetSetting,reset factory
+126,FactoryDataResetSetting,reset to factory
+127,ResetAllSettingsToDefaultSetting,reset all settings to default
+128,ResetAllSettingsToDefaultSetting,reset all settings to their defaults
+129,ResetAllSettingsToDefaultSetting,reset all settings to their default
+130,ResetAllSettingsToDefaultSetting,reset my phone to factory default
+131,HardPressSetting,hard press home button
+132,HardPressSetting,hard press home button
+133,HardPressSetting,hard press home
+134,NotificationSoundsSetting,notification sounds
+135,NotificationSoundsSetting,notification sound
+136,FontStyleSetting,font style
+137,SideKeySetting,side key
+138,SideKeySetting,side button
+139,SideKeySetting,bixby button
+140,SideKeySetting,bixby key
+141,VolumeSetting,volume
+142,SoftwareUpdateSetting,software update
+143,SamsungKeyboardSetting,samsung keyboard
+144,Not_Supported_Name,s pen
+145,Not_Supported_Name,s-pen
+146,Not_Supported_Name,screen security
+147,Not_Supported_Name,security
+148,Not_Supported_Name,imei
+149,Not_Supported_Name,imei number
+150,Not_Supported_Name,ip
+151,Not_Supported_Name,ip address
+152,Not_Supported_Name,screen sensitivity
+153,Not_Supported_Name,sensitivity screen
+154,Not_Supported_Name,wifi direct
+155,Not_Supported_Name,wi-fi direct
+156,Not_Supported_Name,date and time
+157,Not_Supported_Name,connections
+158,Not_Supported_Name,passwords
+159,Not_Supported_Name,audio
+160,Not_Supported_Name,phone visibility
+161,Not_Supported_Name,mirror link
+162,Not_Supported_Name,mirrorlink
+163,Not_Supported_Name,vpn
+164,Not_Supported_Name,virtual private network
+165,Not_Supported_Name,sound quality and effects
+166,Not_Supported_Name,sound effects
+167,Not_Supported_Name,answering and ending calls
+168,Not_Supported_Name,answering calls
+169,Not_Supported_Name,ending calls
+170,Not_Supported_Name,language and input
+171,Not_Supported_Name,language
+172,Not_Supported_Name,notifications
+173,Not_Supported_Name,dns
+174,Not_Supported_Name,system
+175,Not_Supported_Name,font size
+176,Not_Supported_Name,accounts and backup
+177,Not_Supported_Name,do not disturb exceptions
+178,Not_Supported_Name,hide notifications
+179,Not_Supported_Name,screen resolution
+180,Not_Supported_Name,smart stay
+181,Not_Supported_Name,text-to-speech
+182,Not_Supported_Name,backup and restore
+183,Not_Supported_Name,legal information
+184,Not_Supported_Name,software information
+185,Not_Supported_Name,iris
+186,Not_Supported_Name,up time
+187,Not_Supported_Name,device information
+188,Not_Supported_Name,temporary mute
+189,Not_Supported_Name,voice mail
+190,Not_Supported_Name,vibration intensity
+191,Not_Supported_Name,easy mode
+192,AODSetting,aod settings

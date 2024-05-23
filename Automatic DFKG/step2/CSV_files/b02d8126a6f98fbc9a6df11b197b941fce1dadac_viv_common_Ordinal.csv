@@ -1,0 +1,123 @@
+RecordId,formal,alias
+1,-1,last
+2,-2,second to last
+3,1,1st
+4,1,first
+5,2,2nd
+6,2,second
+7,3,3rd
+8,3,third
+9,4,4th
+10,4,fourth
+11,5,5th
+12,5,fifth
+13,6,6th
+14,6,sixth
+15,7,7th
+16,7,seventh
+17,8,8th
+18,8,eighth
+19,9,9th
+20,9,ninth
+21,10,10th
+22,10,tenth
+23,11,11th
+24,11,eleventh
+25,12,12th
+26,12,twelfth
+27,13,13th
+28,13,thirteenth
+29,14,14th
+30,14,fourteenth
+31,15,15th
+32,15,fifteenth
+33,16,16th
+34,16,sixteenth
+35,17,17th
+36,17,seventeenth
+37,18,18th
+38,18,eighteenth
+39,19,19th
+40,19,nineteenth
+41,20,20th
+42,20,twentieth
+43,21,21st
+44,21,twenty first
+45,22,22nd
+46,22,twenty second
+47,23,23th
+48,23,twenty third
+49,24,24th
+50,24,twenty fourth
+51,25,25th
+52,25,twenty fifth
+53,26,26th
+54,26,twenty sixth
+55,27,27th
+56,27,twenty seventh
+57,28,28th
+58,28,twenty eighth
+59,29,29th
+60,29,twenty ninth
+61,30,30th
+62,30,thirtieth
+63,31,31st
+64,31,thirty first
+65,32,32nd
+66,32,thirty second
+67,33,33rd
+68,33,thirty third
+69,34,34th
+70,34,thirty fourth
+71,35,35th
+72,35,thirty fifth
+73,36,36th
+74,36,thirty sixth
+75,37,37th
+76,37,thirty seventh
+77,38,38th
+78,38,thirty eighth
+79,39,39th
+80,39,thirty ninth
+81,40,40th
+82,40,fortieth
+83,41,41st
+84,41,forty first
+85,42,42nd
+86,42,forty second
+87,43,43th
+88,43,forty third
+89,44,44th
+90,44,forty fourth
+91,45,45th
+92,45,forty fifth
+93,46,46th
+94,46,forty sixth
+95,47,47th
+96,47,forty seventh
+97,48,48th
+98,48,forty eighth
+99,49,49th
+100,49,forty ninth
+101,50,50th
+102,50,fiftieth
+103,51,51st
+104,51,fifty first
+105,52,52nd
+106,52,fifty second
+107,53,53th
+108,53,fifty third
+109,54,54th
+110,54,fifty fourth
+111,55,55th
+112,55,fifty fifth
+113,56,56th
+114,56,fifty sixth
+115,57,57th
+116,57,fifty seventh
+117,58,58th
+118,58,fifty eighth
+119,59,59th
+120,59,fifty ninth
+121,60,60th
+122,60,sixtieth

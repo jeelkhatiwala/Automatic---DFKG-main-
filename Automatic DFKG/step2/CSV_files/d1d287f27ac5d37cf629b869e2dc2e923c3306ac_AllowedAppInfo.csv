@@ -1,0 +1,5 @@
+uid,package_name,unsupported_countries,unsupported_sales,minimum_supported_unihal_version,maximum_supported_unihal_version,minimum_supported_app_version,maximum_supported_app_version,allowed,enabled,segmentation_mode,mode_arguments,installed,reserved1,reserved2,reserved3,reserved4,reserved5
+2,com.google.android.apps.tachyon,"[SD, SY, CN]",,1.01,0.0,1000,0,1,0,0,,0,,,,,
+3,com.sds.meeting,"[SD, SY, CN]",,1.01,0.0,1000,0,1,0,0,,0,,,,,
+4,com.cisco.webex.meetings,"[CU, IR, SD, SY, UA, RU]",,1.01,0.0,1000,0,1,0,0,,0,,,,,
+5,us.zoom.videomeetings,"[SD, SY]",,1.01,0.0,1000,0,1,0,0,,0,,,,,

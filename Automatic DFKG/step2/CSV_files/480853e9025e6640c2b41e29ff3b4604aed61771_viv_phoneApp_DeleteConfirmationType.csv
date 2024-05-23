@@ -1,0 +1,59 @@
+RecordId,formal,alias
+1,true,예
+2,true,옙
+3,true,네
+4,true,넵
+5,true,응
+6,true,어
+7,true,엉
+8,true,동 의
+9,true,맞 아
+10,true,좋 아
+11,true,오 케 이
+12,true,확 인
+13,true,계 속
+14,true,다 음
+15,true,진 행 해
+16,true,실 행 해
+17,true,삭 제
+18,true,삭 제 해
+19,true,삭 제 해 줘
+20,true,지 워
+21,true,지 워 줘
+22,true,제 거
+23,true,제 거 해
+24,true,제 거 해 줘
+25,true,응 지 워
+26,true,응 삭 제 해
+27,true,없 애 줘
+28,true,그 래
+29,true,응 삭 제 해 줘
+30,false,아 니
+31,false,아 니 야
+32,false,아 니 오
+33,false,아 니 요
+34,false,아 니 하 지 마
+35,false,하 지 마
+36,false,안 해
+37,false,안 할 래
+38,false,취 소
+39,false,취 소 할 거 야
+40,false,취 소 할 래
+41,false,취 소 해 줘
+42,false,캔 슬
+43,false,됐 어
+44,false,중 단
+45,false,종 료
+46,false,중 지
+47,false,그 만 해
+48,false,하 지 마
+49,false,끝 내
+50,false,안 해
+51,false,노
+52,false,노 노
+53,false,싫 어
+54,false,싫 어 요
+55,false,삭 제 취 소
+56,false,삭 제 하 지 마
+57,false,삭 제 하 지 마
+58,false,삭 제 중 지

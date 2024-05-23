@@ -1,0 +1,29 @@
+_id,log_time,log_date,log
+29,2021-06-11 15:53:06,1623441186,BBC_Utility>>checkIfDeviceTbaseCapable() called
+30,2021-06-11 15:53:06,1623441186,BBC_Utility>>checkIfDeviceTbaseCapable() isTbaseCapable : false
+31,2021-06-11 15:53:06,1623441186,BBCAgentService>>TBaseCapable status : 0/0/0/0
+32,2021-06-11 15:53:06,1623441186,"BBCAgentService>>Tima fail,  do not trigger recovery"
+33,2021-06-22 01:35:37,1624340137,BBC_Utility>>checkIfDeviceTbaseCapable() called
+34,2021-06-22 01:35:37,1624340137,BBC_Utility>>checkIfDeviceTbaseCapable() isTbaseCapable : false
+35,2021-06-22 01:35:37,1624340137,BBCAgentService>>TBaseCapable status : 0/0/0/0
+36,2021-06-22 01:35:37,1624340137,"BBCAgentService>>Tima fail,  do not trigger recovery"
+37,2021-06-22 14:17:53,1624385873,BBC_Utility>>checkIfDeviceTbaseCapable() called
+38,2021-06-22 14:17:53,1624385873,BBC_Utility>>checkIfDeviceTbaseCapable() isTbaseCapable : false
+39,2021-06-22 14:17:53,1624385873,BBCAgentService>>TBaseCapable status : 0/0/0/0
+40,2021-06-22 14:17:53,1624385873,"BBCAgentService>>Tima fail,  do not trigger recovery"
+41,2021-06-28 23:24:34,1624937074,BBC_Utility>>checkIfDeviceTbaseCapable() called
+42,2021-06-28 23:24:34,1624937074,BBC_Utility>>checkIfDeviceTbaseCapable() isTbaseCapable : false
+43,2021-06-28 23:24:34,1624937074,BBCAgentService>>TBaseCapable status : 0/0/0/0
+44,2021-06-28 23:24:34,1624937074,"BBCAgentService>>Tima fail,  do not trigger recovery"
+45,2021-07-01 00:30:54,1625113854,BBC_Utility>>checkIfDeviceTbaseCapable() called
+46,2021-07-01 00:30:54,1625113854,BBC_Utility>>checkIfDeviceTbaseCapable() isTbaseCapable : false
+47,2021-07-01 00:30:54,1625113854,BBCAgentService>>TBaseCapable status : 0/0/0/0
+48,2021-07-01 00:30:54,1625113854,"BBCAgentService>>Tima fail,  do not trigger recovery"
+49,2021-07-05 14:09:03,1625508543,BBC_Utility>>checkIfDeviceTbaseCapable() called
+50,2021-07-05 14:09:03,1625508543,BBC_Utility>>checkIfDeviceTbaseCapable() isTbaseCapable : false
+51,2021-07-05 14:09:03,1625508543,BBCAgentService>>TBaseCapable status : 0/0/0/0
+52,2021-07-05 14:09:03,1625508543,"BBCAgentService>>Tima fail,  do not trigger recovery"
+53,2021-07-09 01:45:55,1625809555,BBC_Utility>>checkIfDeviceTbaseCapable() called
+54,2021-07-09 01:45:55,1625809555,BBC_Utility>>checkIfDeviceTbaseCapable() isTbaseCapable : false
+55,2021-07-09 01:45:55,1625809555,BBCAgentService>>TBaseCapable status : 0/0/0/0
+56,2021-07-09 01:45:55,1625809555,"BBCAgentService>>Tima fail,  do not trigger recovery"

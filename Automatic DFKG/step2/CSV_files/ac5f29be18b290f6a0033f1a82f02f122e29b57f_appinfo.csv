@@ -1,0 +1,494 @@
+package_name,app_title
+com.samsung.android.provider.filterprovider,Filter Provider
+com.sec.android.app.DataCreate,Automation Test
+com.android.cts.priv.ctsshim,com.android.cts.priv.ctsshim
+com.samsung.android.smartswitchassistant,com.samsung.android.smartswitchassistant
+com.sec.vsim.ericssonnsds.webapp,NSDSWebApp
+com.upside.consumer.android,GetUpside
+com.sec.android.app.setupwizardlegalprovider,SetupWizardLegalProvider
+com.google.android.youtube,YouTube
+com.samsung.android.app.galaxyfinder,Finder
+com.vzw.apnlib,com.vzw.apnlib
+com.sec.location.nsflp2,Samsung Location SDK
+com.samsung.android.themestore,Galaxy Themes
+com.sec.android.app.chromecustomizations,ChromeCustomizations
+com.samsung.android.app.aodservice,AlwaysOnDisplay
+com.samsung.android.app.cocktailbarservice,Edge panels
+com.android.internal.display.cutout.emulation.corner,Corner cutout
+com.google.android.ext.services,Android Services Library
+com.android.internal.display.cutout.emulation.double,Double cutout
+com.microsoft.appmanager,Your Phone Companion
+com.android.providers.telephony,Dialer Storage
+com.sec.android.app.ve.vebgm,Select background music
+com.sec.android.app.parser,DRParser Mode
+com.android.dynsystem,Dynamic System Updates
+com.samsung.internal.systemui.navbar.gestural_no_hint_wide_back,Gestural Navigation Bar
+com.samsung.android.networkstack,NetworkStackOverlay
+com.android.theme.icon.pebble,Pebble
+com.google.android.googlequicksearchbox,Google
+com.samsung.android.calendar,Calendar
+com.samsung.android.timezone.updater,Time Zone Updater
+com.android.providers.calendar,Calendar storage
+com.osp.app.signin,Samsung account
+com.samsung.android.aremoji,AR Emoji
+com.samsung.clipboardsaveservice,ClipboardSaveService
+com.sec.automation,TetheringAutomation
+com.samsung.android.service.airviewdictionary,Translate
+com.android.providers.media,com.android.providers.media
+com.google.android.onetimeinitializer,Google One Time Init
+com.google.android.ext.shared,Android Shared Library
+com.android.internal.systemui.navbar.gestural_wide_back,Gestural Navigation Bar
+com.android.wallpapercropper,com.android.wallpapercropper
+com.android.theme.icon.vessel,Vessel
+com.napko.RealDash,RealDash
+com.orto.usa,Orto Vehicle History
+com.samsung.android.wallpaper.res,com.samsung.android.wallpaper.res
+com.android.theme.color.cinnamon,Cinnamon
+com.samsung.android.smartmirroring,Smart View
+com.skms.android.agent,SKMSAgentService
+com.tmobile.tuesdays,Tuesdays
+com.samsung.android.mapsagent,Application recommendations
+com.sec.android.app.safetyassurance,Send SOS Messages
+com.samsung.android.incallui,Call
+com.samsung.android.knox.containercore,Work profile
+com.samsung.android.service.livedrawing,Live messages
+com.samsung.android.service.tagservice,Tags
+com.android.theme.icon_pack.rounded.systemui,Rounded
+com.sec.factory.camera,FactoryCamera
+com.samsung.sree,Samsung Global Goals
+com.android.theme.icon.taperedrect,Tapered Rect
+com.sec.usbsettings,USBSettings
+com.antispycell.free,Anti Spy Mobile FREE
+com.samsung.android.easysetup,Nearby device scanning
+com.android.externalstorage,External Storage
+com.samsung.android.aware.service,Quick Share
+com.sec.android.easyonehand,EasyOneHand
+com.sec.factory,DeviceTest
+com.android.htmlviewer,HTML Viewer
+com.samsung.android.vtcamerasettings,Video call effects
+com.whatsapp,WhatsApp
+com.android.companiondevicemanager,Companion Device Manager
+com.android.mms.service,MmsService
+com.samsung.android.rubin.app,Customization Service
+com.android.providers.downloads,Download Manager
+com.diotek.sec.lookup.dictionary,Dictionary
+com.sec.android.cover.ledcover,LED Cover Service
+com.sec.android.easyMover.Agent,Smart Switch Agent
+com.samsung.android.mdx.quickboard,Media and devices
+com.android.theme.icon_pack.rounded.android,Rounded
+vendor.qti.hardware.cacert.server,CACertApp
+com.wsomacp,Configuration message
+com.sec.android.Cdfs,CDFS MODE Launcher
+com.samsung.faceservice,FaceService
+com.samsung.gpuwatchapp,GPUWatch
+com.carfax.consumer,CARFAX
+app.cartomizer,Cartomizer
+com.netflix.partner.activation,PartnerNetflixActivation
+com.qualcomm.qti.gpudrivers.msmnile.api30,Adreno Graphics Drivers
+com.monotype.android.font.foundation,Foundation
+com.sec.android.widgetapp.easymodecontactswidget,Favorite Contacts
+com.samsung.android.knox.pushmanager,KnoxPushManager
+com.samsung.android.MtpApplication,MTP application
+com.sec.android.app.factorykeystring,DeviceKeystring
+com.sec.android.app.samsungapps,Galaxy Store
+com.sec.android.emergencymode.service,EmergencyManagerService
+com.android.theme.icon_pack.circular.themepicker,Circular
+com.google.android.configupdater,ConfigUpdater
+com.sec.android.app.wlantest,WlanTest
+com.samsung.android.accessibility.talkback,TalkBack
+com.sec.android.smartfpsadjuster,SmartFPSAdjuster
+com.google.android.overlay.modules.permissioncontroller,com.google.android.overlay.modules.permissioncontroller
+com.samsung.android.app.settings.bixby,SettingsBixby
+com.sec.android.app.billing,Samsung Checkout
+com.sec.epdgtestapp,EpdgTestApp
+com.samsung.android.timezone.data_R,Samsung Time Zone Data
+com.samsung.android.game.gamehome,Game Launcher
+com.sec.android.app.desktoplauncher,Samsung DeX home
+catching.cheatingspouseapp.app,Cheating Spouse
+com.sec.android.daemonapp,Weather
+com.google.ar.core,Google Play Services for AR
+com.sec.sve,SecVideoEngineService
+com.sec.enterprise.knox.attestation,com.sec.enterprise.knox.attestation
+com.android.providers.downloads.ui,Downloads
+com.android.pacprocessor,PacProcessor
+com.android.simappdialog,Sim App Dialog
+com.samsung.android.knox.attestation,com.samsung.android.knox.attestation
+com.samsung.systemui.bixby2,SystemUIBixby2
+com.samsung.android.secsoundpicker,SecSoundPicker
+com.dsi.ant.service.socket,ANT Radio Service
+com.samsung.internal.systemui.navbar.sec_gestural,Gestural Navigation Bar
+com.microsoft.skydrive,OneDrive
+com.samsung.android.SettingsReceiver,Settings
+com.samsung.android.sume.nn.service,SumeNN
+com.android.internal.display.cutout.emulation.hole,Punch Hole cutout
+com.android.internal.display.cutout.emulation.tall,Tall cutout
+com.sec.android.app.soundalive,SoundAlive
+com.samsung.android.privateshare,Private Share
+com.sec.android.provider.badge,BadgeProvider
+com.android.certinstaller,Certificate installer
+com.samsung.android.securitylogagent,SecurityLogAgent
+com.android.theme.color.black,Black
+com.android.carrierconfig,com.android.carrierconfig
+com.android.theme.color.green,Green
+com.samsung.android.app.watchmanager,Galaxy Wearable
+com.android.theme.color.ocean,Ocean
+com.samsung.android.knox.containeragent,Work profile
+com.android.theme.color.space,Space
+com.reddit.frontpage,Reddit
+com.android.internal.systemui.navbar.threebutton,3 Button Navigation Bar
+com.samsung.SMT,Samsung text-to-speech engine
+com.samsung.cmh,CMHProvider
+com.samsung.mlp,mlp
+com.samsung.ssu,Network unlock
+android,Android System
+com.android.hotwordenrollment.xgoogle,Google Assistant
+com.samsung.knox.keychain,Knox Key Chain
+com.samsung.android.sm.devicesecurity,Device security
+com.google.android.overlay.modules.cellbroadcastreceiver,com.google.android.overlay.modules.cellbroadcastreceiver
+com.android.theme.icon_pack.rounded.launcher,Rounded
+com.samsung.android.providers.carrier,Configuration update
+com.samsung.internal.systemui.navbar.sec_gestural_no_hint,Gestural Navigation Bar
+com.dsi.ant.sample.acquirechannels,ANT + DUT
+com.samsung.android.aircommandmanager,FACM
+com.samsung.android.net.wifi.wifiguider,Wi-Fi Tips
+com.samsung.android.bixby.service,Bixby dictation
+com.samsung.android.service.stplatform,SmartThings Framework
+com.samsung.android.smartface,SmartFaceService
+com.android.egg,Android R Easter Egg
+com.android.mtp,MTP Host
+com.android.nfc,NFC
+com.android.ons,com.android.ons
+com.android.stk,SIM toolkit
+com.samsung.android.messaging,Messages
+com.samsung.android.camerasdkservice,SCameraService
+com.android.backupconfirm,com.android.backupconfirm
+com.samsung.klmsagent,KLMS Agent
+com.instagram.android,Instagram
+com.samsung.android.app.tips,Tips
+com.google.tango.measure,Measure
+com.samsung.android.smartfitting,SmartFittingService
+com.sec.android.app.SecSetupWizard,Samsung setup wizard
+com.samsung.android.app.telephonyui,Call settings
+com.samsung.android.wifi.softap.resources,com.samsung.android.wifi.softap.resources
+com.samsung.android.samsungpositioning,SamsungPositioning
+com.android.statementservice,Intent Filter Verification Service
+com.google.android.as,Device Personalization Services
+com.google.android.gm,Gmail
+com.samsung.android.bixby.agent,Bixby Voice
+com.google.android.apps.tachyon,Duo
+com.google.android.overlay.gmsconfig.common,com.google.android.overlay.gmsconfig.common
+org.thoughtcrime.securesms,Signal
+com.sec.android.app.hwmoduletest,HwModuleTest
+com.android.settings.intelligence,Settings Suggestions
+com.sec.bcservice,com.sec.bcservice
+com.sec.modem.settings,SilentLogging
+com.monotype.android.font.samsungone,SamsungOne
+com.gydala.allcars,All Cars
+com.android.internal.systemui.navbar.gestural_extra_wide_back,Gestural Navigation Bar
+com.microsoft.office.outlook,Outlook
+com.google.android.permissioncontroller,Permission controller
+com.samsung.android.digitalkey,Samsung Digital Key
+com.sec.android.app.servicemodeapp,Service mode
+com.sec.android.preloadinstaller,Application Installer
+com.google.android.setupwizard,Android Setup
+com.samsung.android.tadownloader,TADownloader
+com.beenverified.android,Background Check BeenVerified
+com.sec.android.gallery3d,Gallery
+com.android.providers.settings,Settings Storage
+com.samsung.accessibility,Accessibility
+com.sec.imsservice,IMS Service
+com.android.sharedstoragebackup,com.android.sharedstoragebackup
+com.google.android.music,Google Play Music
+com.samsung.android.mobileservice,Samsung Group Sharing
+com.android.printspooler,Print Spooler
+com.android.hotwordenrollment.okgoogle,Google Assistant
+com.androidrocker.voicechanger,Voice Changer
+com.sec.android.systemupdate,SystemUpdate
+com.samsung.android.mdx.kit,MDE Service Framework
+com.android.theme.icon_pack.filled.settings,Filled
+com.samsung.storyservice,Gallery stories
+com.android.dreams.basic,Basic Daydreams
+com.samsung.internal.systemui.navbar.gestural_no_hint_extra_wide_back,Gestural Navigation Bar
+com.android.se,SecureElementApplication
+com.android.inputdevices,Input Devices
+com.samsung.android.wifi.resources,com.samsung.android.wifi.resources
+com.google.android.overlay.gmsconfig.photos,com.google.android.overlay.gmsconfig.photos
+com.samsung.android.kgclient,Device Services
+com.samsung.knox.securefolder,Secure Folder
+com.sec.providers.assisteddialing,Assisted Dialing
+com.android.bips,Default Print Service
+com.samsung.android.game.gametools,Game Booster
+com.samsung.desktopsystemui,Samsung DeX System UI
+com.samsung.android.app.simplesharing,Link Sharing
+com.samsung.android.app.contacts,Contacts
+com.samsung.gamedriver.sm8150,Samsung SM8150 GameDriver
+com.samsung.android.cmfa.framework,CMFA Framework
+com.samsung.android.service.peoplestripe,People
+com.samsung.android.da.daagent,Dual Messenger
+com.google.android.captiveportallogin,CaptivePortalLogin
+com.android.theme.icon_pack.circular.settings,Circular
+com.samsung.android.brightnessbackupservice,BrightnessBNR
+com.samsung.android.app.reminder,Reminder
+com.ea.game.nfs14_row,NFS No Limits
+com.samsung.android.networkstack.tethering.inprocess.overlay,com.samsung.android.networkstack.tethering.inprocess.overlay
+com.twitter.android,Twitter
+com.test.LTEfunctionality,com.test.LTEfunctionality
+com.samsung.android.smartcallprovider,Smart Call
+com.samsung.android.app.smartcapture,Samsung capture
+com.sec.android.desktopmode.uiservice,Samsung DeX
+com.google.android.apps.docs,Drive
+com.google.android.apps.maps,Maps
+com.flatfish.cal.privacy,Calculator
+com.google.android.modulemetadata,Main components
+com.dsi.ant.plugins.antplus,ANT+ Plugins Service
+com.samsung.android.app.taskedge,Tasks
+com.samsung.android.dynamiclock,Wallpaper services
+com.samsung.advp.imssettings,IMS Settings
+com.samsung.android.location,slocation
+com.sec.android.inputmethod,Samsung Keyboard (deprecated)
+com.android.cellbroadcastreceiver,Wireless emergency alerts
+com.sec.android.app.clockpackage,Clock
+com.sec.android.RilServiceModeApp,Service mode RIL
+com.google.android.webview,Android System WebView
+com.samsung.android.mdecservice,Call & text on other devices
+com.android.theme.icon.teardrop,Teardrop
+com.google.android.overlay.modules.documentsui,com.google.android.overlay.modules.documentsui
+com.google.android.networkstack,Network manager
+com.android.server.telecom,Phone
+com.google.android.syncadapters.contacts,Google Contacts Sync
+com.android.cellbroadcastservice,Cell Broadcast Service
+com.sec.imslogger,ImsLogger
+com.android.theme.icon_pack.rounded.themepicker,Rounded
+com.android.keychain,Key Chain
+com.samsung.android.ardrawing,AR Doodle
+com.android.chrome,Chrome
+com.samsung.android.ipsgeofence,Samsung Visit In
+com.samsung.android.app.readingglass,Magnify
+com.samsung.android.opencalendar,Subscription calendars
+com.samsung.android.themecenter,Galaxy Themes Service
+com.android.theme.icon_pack.filled.systemui,Filled
+com.samsung.android.server.wifi.mobilewips,MobileWips
+com.google.android.packageinstaller,Package installer
+com.google.android.gms,Google Play services
+com.google.android.gsf,Google Services Framework
+com.google.android.tts,Google Text-to-speech Engine
+android.autoinstalls.config.samsung,ConfigAPK
+com.samsung.android.coldwalletservice,Samsung Blockchain Keystore
+com.android.wifi.resources,System Wi-Fi Resources
+com.samsung.android.container,ContainerService
+com.android.calllogbackup,Call Log Backup/Restore
+com.google.android.partnersetup,Google Partner Setup
+com.samsung.android.spdfnote,Write on PDF
+com.sec.android.diagmonagent,DiagMonAgent
+com.autotrader.android,Autotrader
+com.android.localtransport,com.android.localtransport
+com.google.android.videos,Google TV
+com.samsung.android.app.ledbackcover,LED Cover
+com.google.android.overlay.gmsconfig.gsa,com.google.android.overlay.gmsconfig.gsa
+com.samsung.android.biometrics.app.setting,com.samsung.android.biometrics.app.setting
+com.sec.spp.push,Samsung Push Service
+com.android.carrierdefaultapp,CarrierDefaultApp
+com.dsi.ant.server,ANT+ HAL service
+com.android.theme.font.notoserifsource,Noto Serif / Source Sans Pro
+com.sec.android.app.myfiles,My Files
+com.android.theme.icon_pack.filled.android,Filled
+com.android.proxyhandler,ProxyHandler
+com.android.internal.display.cutout.emulation.waterfall,Waterfall cutout
+com.samsung.android.allshare.service.fileshare,Wi-Fi Direct
+com.netflix.mediaclient,Netflix
+com.samsung.android.app.routines,Bixby Routines
+com.android.theme.icon_pack.circular.systemui,Circular
+com.sec.android.app.dexonpc,DeX for PC
+com.sec.android.mimage.photoretouching,Photo Editor
+com.sec.android.app.launcher,One UI Home
+com.zhiliaoapp.musically,TikTok
+com.google.android.overlay.modules.permissioncontroller.forframework,com.google.android.overlay.modules.permissioncontroller.forframework
+com.sec.android.app.apex,Samsung ApexService
+com.cargurus.mobileApp,CarGurus
+com.google.android.feedback,Market Feedback Agent
+app.greyshirts.sslcapture,Packet Capture
+com.google.android.printservice.recommendation,Print Service Recommendation Service
+com.google.android.apps.photos,Photos
+com.google.android.syncadapters.calendar,Google Calendar Sync
+com.android.managedprovisioning,Work Setup
+com.samsung.android.setting.multisound,Separate app sound
+com.spotify.music,Spotify
+com.samsung.android.arzone,AR Zone
+com.samsung.android.authfw,Authentication Framework
+com.sec.android.app.sbrowser,Samsung Internet
+com.google.android.documentsui,Files
+com.microsoft.office.officehubrow,Office
+com.android.dreams.phototable,Photo Screensavers
+com.google.mainline.telemetry,Support components
+com.samsung.safetyinformation,Safety information
+com.samsung.android.dialer,Phone
+com.samsung.android.dqagent,DQA
+com.samsung.app.highlightplayer,Create movie
+com.sec.android.app.ringtoneBR,ringtonebackup
+com.samsung.android.game.gos,Game Optimizing Service
+com.samsung.android.forest,Digital Wellbeing
+com.sec.android.app.vepreload,Video Editor
+com.android.providers.partnerbookmarks,com.android.providers.partnerbookmarks
+com.samsung.internal.systemui.navbar.gestural_no_hint_narrow_back,Gestural Navigation Bar
+com.samsung.android.hdmapp,HdmApp
+com.sem.factoryapp,SEMFactoryApp
+com.samsung.android.app.camera.sticker.facearavatar.preload,Crocro and friends
+com.android.wallpaper.livepicker,Live Wallpaper Picker
+com.samsung.android.beaconmanager,SmartThings
+com.samsung.internal.systemui.navbar.gestural_no_hint,Gestural Navigation Bar
+com.sec.enterprise.mdm.services.simpin,Enterprise Sim Pin Service
+com.android.apps.tag,Tags
+com.facebook.orca,Messenger
+com.samsung.android.stickercenter,StickerCenter
+com.samsung.android.oneconnect,SmartThings
+com.samsung.android.providers.media,Sec Media Storage
+com.sec.android.app.popupcalculator,Calculator
+com.sec.android.soagent,Software update
+com.sec.android.autodoodle.service,AutoDoodle
+com.sec.android.app.quicktool,Tools
+com.samsung.android.mdm,MDMApp
+com.samsung.android.mdx,Link to Windows Service
+com.samsung.android.scs,Samsung Core Services
+com.samsung.android.voc,Samsung Members
+com.sec.android.app.shealth,Samsung Health
+com.venmo,Venmo
+com.sec.unifiedwfc,Wi-Fi Calling
+com.android.theme.icon.squircle,Squircle
+com.sec.penup,PENUP
+com.sec.phone,com.sec.phone
+com.samsung.android.appseparation,Separated Apps
+com.samsung.android.bixby.wakeup,Voice wake-up
+com.samsung.android.honeyboard,Samsung Keyboard
+com.samsung.android.samsungpass,Samsung Pass
+com.google.android.networkstack.permissionconfig,com.android.server.NetworkPermissionConfig
+com.samsung.vklayer.sm8150,Samsung SM8150 VKLayer
+com.samsung.android.app.notes.addons,Samsung Notes Add-ons
+com.android.storagemanager,Storage Manager
+com.samsung.android.scloud,Samsung Cloud
+com.samsung.android.app.soundpicker,Sound picker
+com.samsung.android.app.sharelive,Quick Share
+com.sec.app.RilErrorNotifier,RilNotifier
+com.samsung.android.spayfw,Samsung Pay Framework
+com.android.bookmarkprovider,Bookmark Provider
+com.linkedin.android,LinkedIn
+com.android.settings,Settings
+com.qualcomm.qti.smq,QTR
+com.samsung.app.newtrim,Video trimmer
+com.samsung.android.dsms,Dsms
+com.samsung.android.fast,Secure Wi-Fi
+com.samsung.android.lool,Device care
+com.samsung.android.spay,Samsung Pay
+com.samsung.android.app.notes,Samsung Notes
+com.sec.android.app.bluetoothtest,BluetoothTest
+com.sec.android.sdhms,Samsung Device Health Manager Service
+com.samsung.android.app.spage,Samsung Free
+com.android.theme.icon_pack.filled.launcher,Filled
+com.samsung.android.knox.analytics.uploader,Knox Analytics Uploader
+com.samsung.android.sm.policy,SCPM Client
+com.android.networkstack.tethering.inprocess,Tethering
+com.sec.android.emergencylauncher,Launcher
+com.samsung.android.localeoverlaymanager,Locale Overlay Manager
+com.samsung.android.motionphoto.viewer,Motion photo viewer
+com.google.android.projection.gearhead,Android Auto
+com.sec.hearingadjust,Adapt Sound
+com.sec.android.easyMover,Smart Switch
+com.google.android.apps.turbo,Device Health Services
+com.samsung.android.bluelightfilter,Eye comfort shield
+com.samsung.android.bbc.bbcagent,BBCAgent
+com.samsung.android.visionintelligence,Bixby Vision
+com.samsung.android.app.earphonetypec,Samsung USB-C headset
+com.samsung.android.singletake.service,Single take
+com.samsung.android.callbgprovider,CallBGProvider
+com.knox.vpn.proxyhandler,KnoxVpnPacProcessor
+com.android.cts.ctsshim,com.android.cts.ctsshim
+com.samsung.android.livestickers,DECO PIC
+com.samsung.android.app.watchmanagerstub,Wearable Manager Installer
+com.samsung.android.svcagent,SVC Agent
+com.sec.mhs.smarttethering,Auto Hotspot
+com.samsung.android.svoiceime,Samsung voice input
+com.samsung.android.mateagent,Samsung Galaxy Friends
+com.android.theme.icon_pack.circular.launcher,Circular
+com.samsung.android.networkdiagnostic,NetworkDiagnostic
+com.samsung.android.service.aircommand,Air command
+com.samsung.android.shortcutbackupservice,ShortcutBNR
+com.qualcomm.qti.services.secureui,Secure UI Service
+com.samsung.android.mcfserver,Samsung Multi Connectivity
+com.android.vpndialogs,VpnDialogs
+com.samsung.ucs.agent.ese,com.samsung.ucs.agent.ese
+com.samsung.InputEventApp,com.samsung.InputEventApp
+com.samsung.android.networkstack.tethering.overlay,com.samsung.android.networkstack.tethering.overlay
+com.samsung.android.providers.contacts,Contacts Storage
+com.android.phone,Phone
+com.android.shell,Shell
+com.android.theme.icon_pack.filled.themepicker,Filled
+com.android.wallpaperbackup,com.android.wallpaperbackup
+com.android.providers.blockednumber,Blocked Numbers Storage
+com.samsung.android.app.omcagent,Configuration update
+com.duckduckgo.mobile.android,DuckDuckGo
+com.hiya.star,Hiya Service
+com.google.android.overlay.modules.cellbroadcastservice,com.google.android.overlay.modules.cellbroadcastservice
+com.android.providers.userdictionary,User Dictionary
+com.android.providers.media.module,Media Storage
+com.sec.enterprise.knox.cloudmdm.smdms,Knox Enrollment Service
+com.google.android.apps.carrier.carrierwifi,Google Wi-Fi Provisioner
+com.android.emergency,Emergency information
+com.wssyncmldm,Software update
+com.android.hotspot2.osulogin,OsuLogin
+com.samsung.ims.smk,SimMobilityKit
+com.google.android.gms.location.history,Google Location History
+com.android.internal.systemui.navbar.gestural,Gestural Navigation Bar
+gov.vdh.exposurenotification,COVIDWISE
+com.android.location.fused,Fused Location
+com.android.theme.color.orchid,Orchid
+com.samsung.android.app.appsedge,Apps
+com.samsung.android.samsungpassautofill,Autofill with Samsung Pass
+com.sec.epdg,com.sec.epdg
+com.android.systemui,System UI
+com.sec.android.app.personalization,Perso
+com.android.theme.color.purple,Purple
+com.sec.factory.cameralyzer,Cameralyzer
+com.android.bluetoothmidiservice,Bluetooth MIDI Service
+com.samsung.android.sdk.handwriting,HandwritingService
+com.samsung.aasaservice,AASAservice
+com.samsung.android.service.pentastic,Glance
+com.sec.android.app.setupwizard,Setup Wizard
+com.samsung.android.smartsuggestions,SamsungSmartSuggestions
+com.android.traceur,System Tracing
+com.samsung.android.allshare.service.mediashare,Nearby Service
+com.instantcheckmate.app,Instant Checkmate
+com.sec.android.provider.emergencymode,EmergencyProvider
+com.samsung.android.cameraxservice,SCameraXService
+com.sec.android.app.applinker,AppLinker
+com.samsung.android.cidmanager,CIDManager
+com.lemurmonitors.bluedriver,BlueDriver
+com.sec.android.app.camera,Camera
+com.app.tgtg,TooGoodToGo
+com.android.bluetooth,Bluetooth
+com.samsung.android.app.clipboardedge,Clipboard edge
+com.qualcomm.timeservice,com.qualcomm.timeservice
+com.qualcomm.atfwd,com.qualcomm.atfwd
+com.qualcomm.embms,com.qualcomm.embms
+com.samsung.ipservice,IPService
+com.sec.android.app.magnifier,Magnifier
+com.samsung.sec.android.application.csc,CSC
+com.samsung.android.sdm.config,Configuration update
+com.android.theme.icon.roundedrect,Rounded Rectangle
+com.sec.hiddenmenu,IOTHiddenMenu
+com.samsung.android.app.dressroom,Wallpapers
+com.android.internal.systemui.navbar.gestural_narrow_back,Gestural Navigation Bar
+com.samsung.android.app.dofviewer,Portrait
+com.android.theme.icon_pack.rounded.settings,Rounded
+com.samsung.android.tapack.authfw,AuthFw TaPack
+com.samsung.android.bio.face.service,Face
+com.samsung.android.bixby.agent.dummy,Bixby Voice Stub
+com.snapchat.android,Snapchat
+com.samsung.android.mcfds,MCFDeviceContinuity
+com.samsung.android.video,Video Player
+android.auto_generated_rro_vendor__,android.auto_generated_rro_vendor__
+com.android.theme.icon_pack.circular.android,Circular
+com.google.android.apps.restore,Android Setup
+com.facebook.katana,Facebook
+com.facebook.appmanager,Facebook App Manager
+com.facebook.services,Facebook Services
+com.facebook.system,Facebook App Installer
+com.android.vending,Google Play Store

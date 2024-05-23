@@ -1,0 +1,8 @@
+package,class,position,fixed,mode
+com.samsung.android.dialer,com.samsung.android.dialer.DialtactsActivity,0,1,1
+com.samsung.android.messaging,com.android.mms.ui.ConversationComposer,1,1,1
+com.sec.android.app.sbrowser,com.sec.android.app.sbrowser.SBrowserMainActivity,2,1,1
+com.android.settings,com.android.settings.Settings,3,1,1
+com.samsung.android.dialer,com.samsung.android.dialer.DialtactsActivity,0,1,0
+com.samsung.android.messaging,com.android.mms.ui.ConversationComposer,1,1,0
+com.sec.android.app.sbrowser,com.sec.android.app.sbrowser.SBrowserMainActivity,2,1,0

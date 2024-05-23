@@ -1,0 +1,2 @@
+_id,user_id,uid,snapshot_version,should_create_snapshot,active_root_of_trust,public_key,cert_path,cert_serial,secret_types,counter_id,server_params
+1,0,10103,7,0,GoogleCloudKeyVaultServiceV1,,,,100,6167339977428993665,b'\x01\xaf6LW\xe4\xb8\xb8~\xa2\xcdD\x91\xdc\x81\x8f3'

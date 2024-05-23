@@ -1,0 +1,61 @@
+RecordId,formal,alias
+1,RestOfTheDay,하 루 내 내
+2,RestOfTheDay,하 루 내 내
+3,RestOfTheDay,하 루 종 일
+4,RestOfTheDay,하 루 종 일
+5,RestOfTheDay,남 은 하 루
+6,RestOfTheDay,남 은 하 루
+7,RestOfTheDay,남 은 시 간
+8,RestOfTheDay,남 은 시 간
+9,Tonight,오 늘 밤
+10,Tonight,투 나 잇
+11,SleepTime,수 면 시 간
+12,SleepTime,수 면 시 간
+13,SleepTime,잠 자 는 시 간
+14,SleepTime,잠 자 는 시 간
+15,Workhours,업 무 시 간
+16,Workhours,업 무 시 간
+17,Workhours,근 무 시 간
+18,Workhours,근 무 시 간
+19,Workhours,일 하 는 시 간
+20,Workhours,일 하 는 시 간
+21,MorningCommute,출 근
+22,MorningCommute,출 근 시 간
+23,MorningCommute,출 근 시 간
+24,MorningCommute,출 근 하 기
+25,MorningCommute,출 근 하 기
+26,MorningCommute,출 근 할 때
+27,MorningCommute,출 근 할 때
+28,MorningCommute,출 근 길
+29,MorningCommute,출 근 길
+30,EveningCommute,퇴 근
+31,EveningCommute,퇴 근 시 간
+32,EveningCommute,퇴 근 시 간
+33,EveningCommute,퇴 근 하 기
+34,EveningCommute,퇴 근 하 기
+35,EveningCommute,퇴 근 할 때
+36,EveningCommute,퇴 근 할 때
+37,EveningCommute,퇴 근 길
+38,EveningCommute,퇴 근 길
+39,x-Am,오 전
+40,x-Am,오 전 시 간
+41,x-Am,오 전 시 간
+42,x-Am,a . m
+43,x-Am,a . m .
+44,x-Am,a m
+45,x-Pm,오 후
+46,x-Pm,오 후 시 간
+47,x-Pm,오 후 시 간
+48,x-Pm,p . m
+49,x-Pm,p . m .
+50,x-Pm,p m
+51,x-WeekendException,주 말 아 침
+52,x-WeekendException,주 말 아 침
+53,x-WeekendException,주 말 점 심
+54,x-WeekendException,주 말 점 심
+55,x-WeekendException,주 말 저 녁
+56,x-WeekendException,주 말 저 녁
+57,x-WeekendException,주 말 오 전
+58,x-WeekendException,주 말 오 전
+59,x-WeekendException,주 말 오 후
+60,x-WeekendException,주 말 오 후

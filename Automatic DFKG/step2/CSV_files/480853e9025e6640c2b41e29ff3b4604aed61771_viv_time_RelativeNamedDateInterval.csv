@@ -1,0 +1,14 @@
+RecordId,formal,alias
+1,Century,세 기
+2,Month,달
+3,Quarter,분 기
+4,Week,주
+5,Week,주 일
+6,Year,해
+7,Year,년
+8,Year,년 도
+9,Year,연 도
+10,LeapYear,윤 년
+11,Weekstart,주 초
+12,Weekday,평 일
+13,Weekday,주 중

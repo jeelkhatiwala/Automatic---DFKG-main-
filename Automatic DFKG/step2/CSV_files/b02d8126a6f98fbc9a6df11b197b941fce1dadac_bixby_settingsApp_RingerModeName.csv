@@ -1,0 +1,14 @@
+RecordId,formal,alias
+1,ringer_mode_sound,sound
+2,ringer_mode_sound,bell sound
+3,ringer_mode_sound,sound mode
+4,ringer_mode_sound,bell sound mode
+5,ringer_mode_vibrate,vibration
+6,ringer_mode_vibrate,manner
+7,ringer_mode_vibrate,vibrate mode
+8,ringer_mode_vibrate,manner mode
+9,ringer_mode_vibrate,vibrate
+10,ringer_mode_silent,mute
+11,ringer_mode_silent,silent
+12,ringer_mode_silent,silent mode
+13,ringer_mode_silent,mute mode

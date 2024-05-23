@@ -1,0 +1,27 @@
+queryString,packageName,tagType,timePeriodDays,count,isSuggested
+Screenshots,gallery,bucket_display_name,30,10,0
+image,gallery,media_type,30,30,0
+cars,gallery,scenetag,30,7,0
+electronics,gallery,scenetag,365,1,0
+sports_cars,gallery,scenetag,1,1,0
+toy_cars,gallery,scenetag,1,1,0
+toys,gallery,scenetag,1,1,0
+Camera,gallery,bucket_display_name,1,1,0
+phones_and_tablets,gallery,scenetag,1,1,0
+Neutral,gallery,expressionstag,7,1,0
+glasses,gallery,scenetag,7,1,0
+people,gallery,scenetag,7,1,0
+selfie,gallery,sef_file_type,7,1,0
+Blacksburg,gallery,addr,1,1,0
+Southside,gallery,addr,7,2,0
+night_scenes,gallery,scenetag,7,1,0
+scenery,gallery,scenetag,365,12,0
+streets,gallery,scenetag,365,3,0
+Newport,gallery,addr,7,5,0
+mountains,gallery,scenetag,7,3,0
+Myrtle Beach,gallery,addr,30,7,0
+North Myrtle Beach,gallery,addr,30,8,0
+documents,gallery,scenetag,365,1,0
+food,gallery,scenetag,1,1,0
+trucks,gallery,scenetag,7,1,0
+video,gallery,media_type,1,1,0

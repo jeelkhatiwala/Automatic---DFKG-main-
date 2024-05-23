@@ -1,0 +1,5 @@
+tag,work_spec_id
+com.samsung.android.networkdiagnostic.core.background.UserAgreementWorker,6a1eb883-2fbc-4efa-a60e-6792ffff10e1
+UserAgreementMonitoring,6a1eb883-2fbc-4efa-a60e-6792ffff10e1
+com.samsung.android.networkdiagnostic.core.background.LocationAgreementWorker,b8c557cc-a79d-4f30-af58-ef08c0620749
+LocationAgreementMonitoring,b8c557cc-a79d-4f30-af58-ef08c0620749

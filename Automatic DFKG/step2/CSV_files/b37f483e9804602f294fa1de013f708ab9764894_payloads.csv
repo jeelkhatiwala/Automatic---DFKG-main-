@@ -1,0 +1,5 @@
+id,type,time,data,metadata
+7,preference_forms,1625788800000,"{""preference_forms"":[]}","{""sdk_version"":""14.1.1"",""country"":""US"",""language"":""en""}"
+8,app_config,1483228800000,{},"{""sdk_version"":""14.1.1"",""country"":""US"",""language"":""en""}"
+9,in_app_messages,1624924800000,"{""in_app_messages"":[],""frequency_constraints"":[]}","{""sdk_version"":""14.1.1"",""country"":""US"",""language"":""en""}"
+10,app_config:android,1483228800000,"{""airship_config"":{""analytics_url"":""https:\/\/combine.urbanairship.com"",""device_api_url"":""https:\/\/device-api.urbanairship.com"",""wallet_url"":""https:\/\/wallet-api.urbanairship.com""}}","{""sdk_version"":""14.1.1"",""country"":""US"",""language"":""en""}"

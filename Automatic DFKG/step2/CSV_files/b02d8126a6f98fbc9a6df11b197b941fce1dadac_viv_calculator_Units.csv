@@ -1,0 +1,293 @@
+RecordId,formal,alias
+1,Millimeter,millimeter
+2,Millimeter,mm
+3,Millimeter,millimeters
+4,Millimeter,millimetres
+5,Millimeter,millimetre
+6,Centimeter,centimeter
+7,Centimeter,cm
+8,Centimeter,centimeters
+9,Centimeter,centimetres
+10,Centimeter,centimetre
+11,Meter,meter
+12,Meter,m
+13,Meter,meters
+14,Meter,metres
+15,Meter,metre
+16,Kilometer,kilometer
+17,Kilometer,km
+18,Kilometer,kilometers
+19,Kilometer,kilometres
+20,Kilometer,kilometre
+21,Inch,inch
+22,Inch,inches
+23,Foot,foot
+24,Foot,feet
+25,Foot,ft
+26,Yard,yard
+27,Yard,yards
+28,Yard,yd
+29,Mile,mile
+30,Mile,miles
+31,Mile,mi
+32,NauticalMile,nauticalmile
+33,NauticalMile,nautical mile
+34,NauticalMile,nautical miles
+35,NauticalMile,nm
+36,SquareCentimeter,squarecentimeter
+37,SquareCentimeter,square centimeter
+38,SquareCentimeter,square centimetre
+39,SquareCentimeter,square centimeters
+40,SquareCentimeter,square centimetres
+41,SquareCentimeter,sq cm
+42,SquareCentimeter,centimeter squared
+43,SquareCentimeter,centimetre squared
+44,SquareCentimeter,centimeter square
+45,SquareCentimeter,centimetre square
+46,SquareCentimeter,cm²
+47,SquareCentimeter,centimeters square
+48,SquareCentimeter,centimetres square
+49,SquareCentimeter,centimeters squared
+50,SquareCentimeter,centimetres squared
+51,SquareCentimeter,squared centimeters
+52,SquareCentimeter,squared centimetres
+53,SquareCentimeter,squared centimeter
+54,SquareCentimeter,squared centimetre
+55,SquareCentimeter,square cm
+56,SquareMeter,squaremeter
+57,SquareMeter,square meter
+58,SquareMeter,square metre
+59,SquareMeter,square meters
+60,SquareMeter,square metres
+61,SquareMeter,sq m
+62,SquareMeter,meter squared
+63,SquareMeter,metre squared
+64,SquareMeter,meter square
+65,SquareMeter,metre square
+66,SquareMeter,meters squared
+67,SquareMeter,m²
+68,SquareInch,squareinch
+69,SquareInch,square inch
+70,SquareInch,square inches
+71,SquareInch,sq in
+72,SquareInch,in²
+73,SquareInch,square in
+74,SquareInch,squared inch
+75,SquareInch,squared inches
+76,SquareInch,squared in
+77,SquareFoot,squarefoot
+78,SquareFoot,square foot
+79,SquareFoot,square feet
+80,SquareFoot,sq ft
+81,SquareFoot,ft²
+82,SquareFoot,squared foot
+83,SquareFoot,squared feet
+84,SquareFoot,foot square
+85,SquareFoot,foot squared
+86,SquareFoot,feet square
+87,SquareFoot,feet squared
+88,Acre,acre
+89,Acre,acres
+90,Acre,ac
+91,Hectare,hectare
+92,Hectare,hectares
+93,Hectare,ha
+94,Are,are
+95,Are,ares
+96,Are,a
+97,CubicCentimeter,cubiccentimeter
+98,CubicCentimeter,cubic centimeter
+99,CubicCentimeter,cubic centimeters
+100,CubicCentimeter,cubic centimetre
+101,CubicCentimeter,cubic centimetres
+102,CubicCentimeter,cc
+103,CubicCentimeter,cm³
+104,CubicMeter,cubicmeter
+105,CubicMeter,cubic meter
+106,CubicMeter,cubic meters
+107,CubicMeter,cubic metres
+108,CubicMeter,cubic metre
+109,CubicMeter,m³
+110,CubicInch,cubicinch
+111,CubicInch,cubic inch
+112,CubicInch,cubic inches
+113,CubicInch,in³
+114,CubicFoot,cubicfoot
+115,CubicFoot,cubic foot
+116,CubicFoot,cubic feet
+117,CubicFoot,ft³
+118,FluidOunce,fluidounce
+119,FluidOunce,fluid ounce
+120,FluidOunce,fluid ounces
+121,FluidOunce,o
+122,FluidOunce,fl oz
+123,Teaspoon,teaspoon
+124,Teaspoon,teaspoons
+125,Teaspoon,tea spoon
+126,Teaspoon,tea spoons
+127,Teaspoon,tsp
+128,Tablespoon,tablespoon
+129,Tablespoon,table spoon
+130,Tablespoon,tablespoons
+131,Tablespoon,table spoons
+132,Tablespoon,tbsp
+133,Cup,cup
+134,Cup,cups
+135,Pint,pint
+136,Pint,pints
+137,Pint,pt
+138,Quart,quart
+139,Quart,quarts
+140,Quart,qt
+141,Gallon,gallon
+142,Gallon,gallons
+143,Gallon,us gallon
+144,Gallon,gallon us
+145,Gallon,us gallons
+146,Gallon,gallons us
+147,Gallon,gal
+148,Liter,liter
+149,Liter,litre
+150,Liter,litres
+151,Liter,liters
+152,Liter,l
+153,Milliliter,milliliter
+154,Milliliter,millilitre
+155,Milliliter,ml
+156,Milliliter,milliliters
+157,Milliliter,millilitres
+158,Milliliter,milliliter
+159,Fahrenheit,fahrenheit
+160,Fahrenheit,f
+161,Fahrenheit,°f
+162,Celsius,celsius
+163,Celsius,°c
+164,Celsius,centigrade
+165,Kelvin,kelvin
+166,Kelvin,k
+167,Kelvin,kelvins
+168,Milligram,milligram
+169,Milligram,milligrams
+170,Milligram,mg
+171,Gram,gram
+172,Gram,grams
+173,Gram,g
+174,Kilogram,kilogram
+175,Kilogram,kilograms
+176,Kilogram,kg
+177,Kilogram,kilo
+178,Kilogram,kilos
+179,Kilogram,kilo grams
+180,Kilogram,kgs
+181,Metric Ton,metricton
+182,Metric Ton,metric ton
+183,Metric Ton,ton
+184,Metric Ton,tons
+185,Metric Ton,metric tons
+186,Ounce,ounce
+187,Ounce,ounces
+188,Ounce,oz
+189,Pound,pound
+190,Pound,pounds
+191,Pound,lb
+192,Pound,lbs
+193,USTon,uston
+194,USTon,us ton
+195,USTon,ton us
+196,USTon,us tons
+197,USTon,tons us
+198,Bit,bit
+199,Bit,bits
+200,Byte,byte
+201,Byte,bytes
+202,KiloByte,kilobyte
+203,KiloByte,kilobytes
+204,KiloByte,kb
+205,KiloByte,kilobyte
+206,KiloByte,kbs
+207,MegaByte,megabyte
+208,MegaByte,megabytes
+209,MegaByte,mb
+210,MegaByte,megabyte
+211,MegaByte,mbs
+212,GigaByte,gigabyte
+213,GigaByte,gigabytes
+214,GigaByte,gb
+215,GigaByte,gigabyte
+216,GigaByte,gig
+217,GigaByte,gbs
+218,TeraByte,terabyte
+219,TeraByte,terabytes
+220,TeraByte,tb
+221,TeraByte,terabyte
+222,TeraByte,tbs
+223,Mil,mil
+224,Mil,mils
+225,Knot,knot
+226,Knot,knots
+227,UKGallon,ukgallon
+228,UKGallon,uk gallon
+229,UKGallon,gallon uk
+230,UKGallon,uk gallons
+231,UKGallon,gallons uk
+232,UKTon,ukton
+233,UKTon,uk ton
+234,UKTon,ton uk
+235,UKTon,uk tons
+236,UKTon,tons uk
+237,Stone,stone
+238,Stone,stones
+239,Unsupported,joule
+240,Unsupported,joules
+241,Unsupported,kilo joule
+242,Unsupported,kilojoule
+243,Unsupported,kilojoules
+244,Unsupported,joule
+245,Unsupported,joules
+246,Unsupported,ampere
+247,Unsupported,amperes
+248,Unsupported,kiloampere
+249,Unsupported,kilo amperes
+250,Unsupported,amps
+251,Unsupported,ampere
+252,Unsupported,amperes
+253,Unsupported,newton
+254,Unsupported,newtons
+255,Unsupported,newton
+256,Unsupported,newtons
+257,Unsupported,calories
+258,Unsupported,kilocalories
+259,Unsupported,hertz
+260,Unsupported,kilohertz
+261,Unsupported,ohms
+262,Unsupported,kiloohms
+263,Unsupported,kilopascals
+264,Unsupported,mole
+265,Unsupported,watt
+266,Unsupported,grains
+267,Unsupported,dime
+268,Unsupported,pennies
+269,Unsupported,furlong
+270,Unsupported,furlongs
+271,Unsupported,exabyte
+272,Unsupported,zettabyte
+273,Unsupported,petabyte
+274,Unsupported,kilometers per hour
+275,Unsupported,kmph
+276,Unsupported,miles per hour
+277,Unsupported,mph
+278,Unsupported,meters per second
+279,Unsupported,pounds per square inch
+280,Unsupported,inches of mercury
+281,Unsupported,mercury inches
+282,Unsupported,psi
+283,Unsupported,pascal
+284,Unsupported,pascals
+285,Unsupported,millibar
+286,Unsupported,millibars
+287,Unsupported,bar
+288,Unsupported,bars
+289,Degrees,degree
+290,Degrees,degrees
+291,Radians,radian
+292,Radians,radians

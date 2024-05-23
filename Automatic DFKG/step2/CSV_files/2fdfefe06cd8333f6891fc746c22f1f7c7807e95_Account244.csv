@@ -1,0 +1,2 @@
+Account_id,accountHolderName,forceFullSync,lastSyncTime,folderSyncClipTime,documentSyncClipTime,lastSyncChangeStamp,syncInProgress,lastSyncSequenceNumber,offlinePolicyEnabled,lastOfflineEnabledState,lastForceSyncLevel,gokartLastSyncSequenceNumber,features
+1,heisenbergcarro@gmail.com,1,0,9223372036854775807,9223372036854775807,0,0,0,,,,,"{""doclist.folder_colors"":true,""prioritydocs.force_full_sync"":true,""genoa.editors.only_sync_drive_space"":true}"

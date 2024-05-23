@@ -1,0 +1,10 @@
+_id,package_id,account_id,sourceid,version,dirty,title,title_res,notes,system_id,deleted,group_visible,should_sync,auto_add,favorites,group_is_read_only,sync1,sync2,sync3,sync4,custom_ringtone,group_order,creation_time,sec_custom_vibration,sec_custom_alert,sec_custom_dormant_group,sec_call_background
+1,,1,c6c49d1e-c130-4b67-a9c8-b5365f5469a8,1,0,Family,,,Family,0,1,1,0,0,1,,,,,,,1611196544646,,,0,
+2,,1,47d5e8fb-af1e-4418-943f-024e3b099b29,1,0,Friends,,,Friends,0,1,1,0,0,1,,,,,,,1611196544646,,,0,
+3,,1,21d775dd-e5df-4c40-9729-b0edbd8ea7c6,1,0,Coworkers,,,Coworkers,0,1,1,0,0,1,,,,,,,1611196544646,,,0,
+4,,1,9a7734c4-fc81-4c8c-a922-288dcd676a60,1,0,ICE,,,,0,1,1,0,0,1,,,,,,1.0,1611196544646,,,0,
+5,,3,6,3,0,My Contacts,,,Contacts,0,1,1,1,0,1,,,,,,,0,,,0,
+6,,3,6e11ef2d0e1ddfc8,2,0,Starred in Android,,,,0,1,1,0,1,1,,bdFV1GJrJUE=,1617477919226000,,,,0,,,0,
+7,,3,d,1,0,Friends,,,Friends,0,0,1,0,0,1,,,,,,,0,,,0,
+8,,3,e,1,0,Family,,,Family,0,0,1,0,0,1,,,,,,,0,,,0,
+9,,3,f,1,0,Coworkers,,,Coworkers,0,0,1,0,0,1,,,,,,,0,,,0,

@@ -1,0 +1,15 @@
+RecordId,formal,alias
+1,AllLog,all
+2,MissedLog,missed
+3,MissedLog,miss
+4,RejectedLog,rejected
+5,RejectedLog,declined
+6,VoiceLog,voice
+7,VideoLog,video
+8,DialledLog,dialled
+9,DialledLog,dialed
+10,DialledLog,outgoing
+11,ReceivedLog,received
+12,ReceivedLog,answered
+13,ReceivedLog,incoming
+14,VoiceMailLog,voice mail

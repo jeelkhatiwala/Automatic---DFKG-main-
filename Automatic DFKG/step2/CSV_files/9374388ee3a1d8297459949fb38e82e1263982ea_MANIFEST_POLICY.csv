@@ -1,0 +1,7 @@
+_ID,KEY,VALUE,EXTRA1,EXTRA2,EXTRA3
+6,version,1,,,
+7,policyduration,1209600,,,
+8,atleastvisit,3,,,
+9,indays,1209600,,,
+10,nextevent,1209600,,,
+11,maxeventsperday,3,,,

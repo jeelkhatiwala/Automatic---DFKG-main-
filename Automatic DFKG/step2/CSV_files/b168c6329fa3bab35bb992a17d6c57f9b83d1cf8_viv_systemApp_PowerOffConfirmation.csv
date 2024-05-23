@@ -1,0 +1,35 @@
+RecordId,formal,alias
+1,true,yes
+2,true,ok
+3,true,okay
+4,true,power off
+5,true,yeah
+6,true,yes please
+7,true,of course
+8,true,do it
+9,true,please do it
+10,true,go ahead
+11,true,certainly
+12,true,absolutely
+13,true,definitely
+14,true,indeed
+15,true,sure
+16,true,sure thing
+17,true,all right
+18,true,okay
+19,true,true
+20,true,precisely
+21,true,right on
+22,false,no
+23,false,cancel
+24,false,nope
+25,false,never
+26,false,no way
+27,false,not at all
+28,false,nay
+29,false,reject
+30,false,decline
+31,false,don’t
+32,false,please don’t
+33,false,ignore
+34,false,avoid

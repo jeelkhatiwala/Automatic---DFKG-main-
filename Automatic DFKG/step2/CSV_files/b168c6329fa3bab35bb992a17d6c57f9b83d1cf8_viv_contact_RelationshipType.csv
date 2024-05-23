@@ -1,0 +1,51 @@
+RecordId,formal,alias
+1,$route,relationship type
+2,$route,type of relationship
+3,Assistant,assistant
+4,Assistant,assistants
+5,Brother,brother
+6,Brother,brothers
+7,Child,child
+8,Child,childs
+9,Child,children
+10,Child,childrens
+11,DomesticPartner,domestic partner
+12,DomesticPartner,domestic partners
+13,Father,dad
+14,Father,dads
+15,Father,daddy
+16,Father,daddys
+17,Father,father
+18,Father,fathers
+19,Father,pop
+20,Father,pops
+21,Father,poppa
+22,Father,poppas
+23,Friend,friend
+24,Friend,friends
+25,Friend,best friend
+26,Friend,best friends
+27,Manager,manager
+28,Manager,managers
+29,Manager,boss
+30,Manager,employer
+31,Manager,employers
+32,Mother,ma
+33,Mother,mom
+34,Mother,moms
+35,Mother,momma
+36,Mother,mommas
+37,Mother,mama
+38,Mother,mamas
+39,Mother,mother
+40,Mother,mothers
+41,Parent,parent
+42,Parent,parents
+43,Partner,partner
+44,Partner,partners
+45,Relative,relative
+46,Relative,relatives
+47,Sister,sister
+48,Sister,sisters
+49,Spouse,spouse
+50,Spouse,spouses

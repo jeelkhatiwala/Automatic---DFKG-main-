@@ -1,0 +1,9 @@
+FILENAME,OFFSET,SIZE,FORVRAMDISK,BITMAP
+/data/app/~~IJZX10sAKKtSI87rDrY-_Q==/com.sec.android.app.popupcalculator-rTrqa31KpRxUg2ri3goSEA==/base.apk,0,100,0,b'\x01\x00\x00\x00\x00?\xfe\xff\xff\xff\x7f\x00\x00\x00\x80\xff\xff\xff\x7f\x00\x00\x00\x00\x00\x80\xff\xff\xff\x80\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\x01\x1f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x1f\x00\x0f\x0f\x00\x00\xc0\xff\x7f'
+/data/resource-cache/vendor@overlay@NavigationBarMode3Button@NavigationBarMode3ButtonOverlay.apk@idmap,0,1,0,b'\x01'
+/data/app/~~IJZX10sAKKtSI87rDrY-_Q==/com.sec.android.app.popupcalculator-rTrqa31KpRxUg2ri3goSEA==/oat/arm64/base.art,0,5,0,b'\xff\xff\xff\xff?'
+/data/app/~~IJZX10sAKKtSI87rDrY-_Q==/com.sec.android.app.popupcalculator-rTrqa31KpRxUg2ri3goSEA==/oat/arm64/base.vdex,0,68,0,b'\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\x00\x00\x00\x00\xff\xff\xff\xff\xff\xff\x00\x00\x00\x00\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\x07'
+/data/app/~~IJZX10sAKKtSI87rDrY-_Q==/com.sec.android.app.popupcalculator-rTrqa31KpRxUg2ri3goSEA==/oat/arm64/base.odex,0,3,0,b'\xff\x80\x03'
+/data/app/~~IJZX10sAKKtSI87rDrY-_Q==/com.sec.android.app.popupcalculator-rTrqa31KpRxUg2ri3goSEA==/oat/arm64/base.odex,-1,0,2,
+/data/app/~~IJZX10sAKKtSI87rDrY-_Q==/com.sec.android.app.popupcalculator-rTrqa31KpRxUg2ri3goSEA==/oat/arm64/base.vdex,-1,0,2,
+/data/app/~~IJZX10sAKKtSI87rDrY-_Q==/com.sec.android.app.popupcalculator-rTrqa31KpRxUg2ri3goSEA==/oat/arm64/base.art,-1,0,2,

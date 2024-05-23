@@ -1,0 +1,367 @@
+flags,word,value,confidence,CultureId
+262400,un,1,1000,12
+256,et un,1,1000,12
+256,-et-un,1,1000,12
+256,-un,1,1000,12
+264,une,1,800,12
+256,-une,1,800,12
+256,et une,1,800,12
+256,-et-une,1,800,12
+258,premier,1,1000,12
+258,première,1,1000,12
+258,premières,1,1000,12
+258,unième,1,1000,12
+258,-unième,1,1000,12
+262,1er,1,1000,12
+256,deux,2,1000,12
+256,-deux,2,1000,12
+258,deuxième,2,1000,12
+258,deuxièmes,2,1000,12
+258,-deuxième,2,1000,12
+258,second,2,1000,12
+258,seconde,2,1000,12
+262,2ème,2,1000,12
+262,2e,2,1000,12
+256,trois,3,1000,12
+256,-trois,3,1000,12
+258,troisième,3,1000,12
+258,troisièmes,3,1000,12
+258,-troisième,3,1000,12
+262,3ème,3,1000,12
+262,3e,3,1000,12
+256,quatre,4,1000,12
+256,-quatre,4,1000,12
+258,quatrième,4,1000,12
+258,quatrièmes,4,1000,12
+258,-quatrième,4,1000,12
+262,4ème,4,1000,12
+262,4e,4,1000,12
+256,cinq,5,1000,12
+256,-cinq,5,1000,12
+258,cinquième,5,1000,12
+258,cinquièmes,5,1000,12
+258,-cinquième,5,1000,12
+262,5ème,5,1000,12
+262,5e,5,1000,12
+256,six,6,1000,12
+256,-six,6,1000,12
+258,sixième,6,1000,12
+258,sixièmes,6,1000,12
+258,-sixième,6,1000,12
+262,6ème,6,1000,12
+262,6e,6,1000,12
+2097408,sept,7,1000,12
+256,-sept,7,1000,12
+258,le sept,7,1000,12
+258,septième,7,1000,12
+258,septièmes,7,1000,12
+258,-septième,7,1000,12
+262,7ème,7,1000,12
+262,7e,7,1000,12
+256,huit,8,1000,12
+256,-huit,8,1000,12
+258,huitième,8,1000,12
+258,huitièmes,8,1000,12
+258,-huitième,8,1000,12
+262,8ème,8,1000,12
+262,8e,8,1000,12
+256,neuf,9,1000,12
+256,-neuf,9,1000,12
+258,neuvième,9,1000,12
+258,neuvièmes,9,1000,12
+258,-neuvième,9,1000,12
+262,9ème,9,1000,12
+262,9e,9,1000,12
+1536,dix,10,1000,12
+1538,dixième,10,1000,12
+1538,dixièmes,10,1000,12
+1542,10ème,10,1000,12
+1542,10e,10,1000,12
+512,onze,11,1000,12
+514,onzième,11,1000,12
+514,onzièmes,11,1000,12
+518,11ème,11,1000,12
+518,11e,11,1000,12
+512,douze,12,1000,12
+514,douzième,12,1000,12
+514,douzièmes,12,1000,12
+518,12ème,12,1000,12
+518,12e,12,1000,12
+576,douzaine,12,1000,12
+576,douzaines,12,1000,12
+512,treize,13,1000,12
+514,treizième,13,1000,12
+514,treizièmes,13,1000,12
+518,13ème,13,1000,12
+518,13e,13,1000,12
+512,quatorze,14,1000,12
+514,quatorzième,14,1000,12
+514,quatorzièmes,14,1000,12
+518,14ème,14,1000,12
+518,14e,14,1000,12
+512,quinze,15,1000,12
+514,quinzième,15,1000,12
+514,quinzièmes,15,1000,12
+518,15ème,15,1000,12
+518,15e,15,1000,12
+512,seize,16,1000,12
+514,seizième,16,1000,12
+514,seizièmes,16,1000,12
+518,16ème,16,1000,12
+518,16e,16,1000,12
+512,dix-sept,17,1000,12
+514,dix-septième,17,1000,12
+514,dix-septièmes,17,1000,12
+2097664,dix sept,17,1000,12
+514,dix septième,17,1000,12
+514,dix septièmes,17,1000,12
+518,17ème,17,1000,12
+518,17e,17,1000,12
+512,dix-huit,18,1000,12
+514,dix-huitième,18,1000,12
+514,dix-huitièmes,18,1000,12
+512,dix huit,18,1000,12
+514,dix huitième,18,1000,12
+514,dix huitièmes,18,1000,12
+518,18ème,18,1000,12
+518,18e,18,1000,12
+512,dix-neuf,19,1000,12
+514,dix-neuvième,19,1000,12
+514,dix-neuvièmes,19,1000,12
+512,dix neuf,19,1000,12
+514,dix neuvième,19,1000,12
+514,dix neuvièmes,19,1000,12
+518,19ème,19,1000,12
+518,19e,19,1000,12
+512,vingt,20,1000,12
+514,vingtième,20,1000,12
+514,vingtièmes,20,1000,12
+1542,20ème,20,1000,12
+1542,20e,20,1000,12
+2097664,vingt sept,27,1000,12
+512,trente,30,1000,12
+514,trentième,30,1000,12
+514,trentièmes,30,1000,12
+1542,30ème,30,1000,12
+1542,30e,30,1000,12
+512,quarante,40,1000,12
+514,quarantième,40,1000,12
+514,quarantièmes,40,1000,12
+1542,40ème,40,1000,12
+1542,40e,40,1000,12
+512,cinquante,50,1000,12
+514,cinquantième,50,1000,12
+514,cinquantièmes,50,1000,12
+1542,50ème,50,1000,12
+1542,50e,50,1000,12
+512,soixante,60,1000,12
+512,soissante,60,1000,12
+514,soixantième,60,1000,12
+514,soixantièmes,60,1000,12
+1542,60ème,60,1000,12
+1542,60e,60,1000,12
+512,soixante-dix,70,1000,12
+512,soixante dix,70,1000,12
+512,septante,70,1000,12
+514,soixante-dixième,70,1000,12
+514,soixante-dixièmes,70,1000,12
+514,soixante dixième,70,1000,12
+514,soixante dixièmes,70,1000,12
+514,septantième,70,1000,12
+514,septantièmes,70,1000,12
+1542,70ème,70,1000,12
+1542,70e,70,1000,12
+512,soixante-et-onze,71,1000,12
+514,soixante-et-onzième,71,1000,12
+514,soixante-et-onzièmes,71,1000,12
+512,soixante et onze,71,1000,12
+514,soixante et onzième,71,1000,12
+514,soixante et onzièmes,71,1000,12
+512,soixante-douze,72,1000,12
+514,soixante-douzième,72,1000,12
+514,soixante-douzièmes,72,1000,12
+512,soixante douze,72,1000,12
+514,soixante douzième,72,1000,12
+514,soixante douzièmes,72,1000,12
+512,soixante-treize,73,1000,12
+514,soixante-treizième,73,1000,12
+514,soixante-treizièmes,73,1000,12
+512,soixante treize,73,1000,12
+514,soixante treizième,73,1000,12
+514,soixante treizièmes,73,1000,12
+512,soixante-quatorze,74,1000,12
+514,soixante-quatorzième,74,1000,12
+514,soixante-quatorzièmes,74,1000,12
+512,soixante quatorze,74,1000,12
+514,soixante quatorzième,74,1000,12
+514,soixante quatorzièmes,74,1000,12
+512,soixante-quinze,75,1000,12
+514,soixante-quinzième,75,1000,12
+514,soixante-quinzièmes,75,1000,12
+512,soixante quinze,75,1000,12
+514,soixante quinzième,75,1000,12
+514,soixante quinzièmes,75,1000,12
+512,soixante-seize,76,1000,12
+514,soixante-seizième,76,1000,12
+514,soixante-seizièmes,76,1000,12
+512,soixante seize,76,1000,12
+514,soixante seizième,76,1000,12
+514,soixante seizièmes,76,1000,12
+512,soixante-dix-sept,77,1000,12
+514,soixante-dix-septième,77,1000,12
+514,soixante-dix-septièmes,77,1000,12
+512,soixante dix sept,77,1000,12
+514,soixante dix septième,77,1000,12
+514,soixante dix septièmes,77,1000,12
+512,soixante-dix-huit,78,1000,12
+514,soixante-dix-huitième,78,1000,12
+514,soixante-dix-huitièmes,78,1000,12
+512,soixante dix huit,78,1000,12
+514,soixante dix huitième,78,1000,12
+514,soixante dix huitièmes,78,1000,12
+512,soixante-dix-neuf,79,1000,12
+514,soixante-dix-neuvième,79,1000,12
+514,soixante-dix-neuvièmes,79,1000,12
+512,soixante dix neuf,79,1000,12
+514,soixante dix neuvième,79,1000,12
+514,soixante dix neuvièmes,79,1000,12
+512,quatre-vingts,80,1000,12
+512,quatre-vingt,80,1000,12
+512,quatre vingts,80,1000,12
+512,quatre vingt,80,1000,12
+512,octante,80,1000,12
+512,huitante,80,1000,12
+514,quatre-vingtième,80,1000,12
+514,quatre-vingtièmes,80,1000,12
+514,quatre vingtième,80,1000,12
+514,quatre vingtièmes,80,1000,12
+514,octantième,80,1000,12
+514,octantièmes,80,1000,12
+514,huitantième,80,1000,12
+514,huitantièmes,80,1000,12
+1542,80ème,80,1000,12
+1542,80e,80,1000,12
+512,quatre-vingt-dix,90,1000,12
+512,quatre vingt dix,90,1000,12
+512,nonante,90,1000,12
+514,quatre-vingt-dixième,90,1000,12
+514,quatre-vingt-dixièmes,90,1000,12
+514,quatre vingt dixième,90,1000,12
+514,quatre vingt dixièmes,90,1000,12
+514,nonantième,90,1000,12
+514,nonantièmes,90,1000,12
+1542,90ème,90,1000,12
+1542,90e,90,1000,12
+512,quatre-vingt-onze,91,1000,12
+514,quatre-vingt-onzième,91,1000,12
+514,quatre-vingt-onzièmes,91,1000,12
+512,quatre vingt onze,91,1000,12
+514,quatre vingt onzième,91,1000,12
+514,quatre vingt onzièmes,91,1000,12
+512,quatre-vingt-et-onze,91,1000,12
+514,quatre-vingt-et-onzième,91,1000,12
+514,quatre-vingt-et-onzièmes,91,1000,12
+512,quatre vingt et onze,91,1000,12
+514,quatre vingt et onzième,91,1000,12
+514,quatre vingt et onzièmes,91,1000,12
+512,quatre-vingt-douze,92,1000,12
+514,quatre-vingt-douzième,92,1000,12
+514,quatre-vingt-douzièmes,92,1000,12
+512,quatre vingt douze,92,1000,12
+514,quatre vingt douzième,92,1000,12
+514,quatre vingt douzièmes,92,1000,12
+512,quatre-vingt-treize,93,1000,12
+514,quatre-vingt-treizième,93,1000,12
+514,quatre-vingt-treizièmes,93,1000,12
+512,quatre vingt treize,93,1000,12
+514,quatre vingt treizième,93,1000,12
+514,quatre vingt treizièmes,93,1000,12
+512,quatre-vingt-quatorze,94,1000,12
+514,quatre-vingt-quatorzième,94,1000,12
+514,quatre-vingt-quatorzièmes,94,1000,12
+512,quatre vingt quatorze,94,1000,12
+514,quatre vingt quatorzième,94,1000,12
+514,quatre vingt quatorzièmes,94,1000,12
+512,quatre-vingt-quinze,95,1000,12
+514,quatre-vingt-quinzième,95,1000,12
+514,quatre-vingt-quinzièmes,95,1000,12
+512,quatre vingt quinze,95,1000,12
+514,quatre vingt quinzième,95,1000,12
+514,quatre vingt quinzièmes,95,1000,12
+512,quatre-vingt-seize,96,1000,12
+514,quatre-vingt-seizième,96,1000,12
+514,quatre-vingt-seizièmes,96,1000,12
+512,quatre vingt seize,96,1000,12
+514,quatre vingt seizième,96,1000,12
+514,quatre vingt seizièmes,96,1000,12
+512,quatre-vingt-dix-sept,97,1000,12
+514,quatre-vingt-dix-septième,97,1000,12
+514,quatre-vingt-dix-septièmes,97,1000,12
+512,quatre vingt dix sept,97,1000,12
+514,quatre vingt dix septième,97,1000,12
+514,quatre vingt dix septièmes,97,1000,12
+512,quatre-vingt-dix-huit,98,1000,12
+514,quatre-vingt-dix-huitième,98,1000,12
+514,quatre-vingt-dix-huitièmes,98,1000,12
+512,quatre vingt dix huit,98,1000,12
+514,quatre vingt dix huitième,98,1000,12
+514,quatre vingt dix huitièmes,98,1000,12
+512,quatre-vingt-dix-neuf,99,1000,12
+514,quatre-vingt-dix-neuvième,99,1000,12
+514,quatre-vingt-dix-neuvièmes,99,1000,12
+512,quatre vingt dix neuf,99,1000,12
+514,quatre vingt dix neuvième,99,1000,12
+514,quatre vingt dix neuvièmes,99,1000,12
+64,cent,100,1000,12
+64,cents,100,1000,12
+66,centaines,100,1000,12
+1094,centième,100,1000,12
+1094,100ème,100,1000,12
+1094,100e,100,1000,12
+16384,sept cent,700,1000,12
+192,mille,1000,1000,12
+192,milles,1000,1000,12
+192,million,1000000,1000,12
+192,millions,1000000,1000,12
+192,milliard,1000000000,1000,12
+192,milliards,1000000000,1000,12
+32,1 demi-heure,500,1000,12
+32,un demi,500,1000,12
+32,une demi,500,1000,12
+32,demi,500,1000,12
+32,demie,500,1000,12
+32,moitié,500,1000,12
+32,1/2,500,1000,12
+32,un et demi,1500,1000,12
+32,un tiers,333,1000,12
+32,1/3,333,1000,12
+32,deux tiers,667,1000,12
+32,2/3,667,1000,12
+32,un quart,250,1000,12
+32,quart,250,1000,12
+32,quarts,250,1000,12
+32,1/4,250,1000,12
+32,trois quarts,750,1000,12
+32,trois-quart,750,1000,12
+32,trois quart,750,1000,12
+32,3/4,750,1000,12
+1280,zéro,0,1000,12
+1284,0,0,1000,12
+32,point,0,1000,12
+32,.,0,1000,12
+8,et,0,1000,12
+16,négatif,0,1000,12
+131088,moins,0,1000,12
+16,-,0,1000,12
+1179648,dernier,0,1000,12
+1179648,dernière,0,1000,12
+1179648,pénultième,1,1000,12
+1179648,pénultièmes,1,1000,12
+1179648,avant-dernier,1,1000,12
+1179648,avant-dernière,1,1000,12
+1179648,avant dernier,1,1000,12
+1179648,avant dernière,1,1000,12
+1179648,avant avant-dernier,2,1000,12
+1179648,avant avant-dernière,2,1000,12
+1179648,avant avant dernier,2,1000,12
+1179648,avant avant dernière,2,1000,12

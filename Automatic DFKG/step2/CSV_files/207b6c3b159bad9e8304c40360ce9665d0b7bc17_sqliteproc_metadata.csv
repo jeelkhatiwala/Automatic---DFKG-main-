@@ -1,0 +1,4 @@
+_id,table_name,hash,index_hash
+1,locus_pocus,bd63cbbea0627432ca52a015ec3a08ce7e4628c2,cb0b4fd8c3c2c2462e57f7a089048e2c4d020ebb
+2,records,fc36218cfd5874e0eb4145f5fef530bcab42407e,234f37fe6494d6838a0e8befb48f4b88b31f3263
+3,__database__,bd63cbbea0627432ca52a015ec3a08ce7e4628c2-fc36218cfd5874e0eb4145f5fef530bcab42407e-,

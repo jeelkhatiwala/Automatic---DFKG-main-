@@ -1,0 +1,41 @@
+_id,name,timestamp
+1,AE:AppsEdge.Data createItem reset,1611196542457
+2,AE:AppsEdge.Data createDefaultItem(),1611196542514
+3,AE:AppsEdge.DBHelper addSingleItem : position=0 type=0 appsInfo : 0@com.samsung.android.messaging/com.android.mms.ui.ConversationComposer&0,1611196542532
+4,"AE:AppsEdge.DBHelper addAppInfo : info = 0@com.samsung.android.messaging/com.android.mms.ui.ConversationComposer&0, rowId = 1, categoryId = 1",1611196542552
+5,"AE:AppsEdge.DBHelper insertPosition : type = 0, id_by_type = 1, position = 0, rowId = 1",1611196542585
+6,AE:AppsEdge.DBHelper addSingleItem : position=1 type=4 appsInfo : 4@2;0;com.google.android.youtube/.app.honeycomb.Shell$HomeActivity:0&0;com.sec.android.app.sbrowser/.SBrowserMainActivity:0&0,1611196542600
+7,"AE:AppsEdge.DBHelper addAppInfo : info = 4@2;0;com.google.android.youtube/.app.honeycomb.Shell$HomeActivity:0&0;com.sec.android.app.sbrowser/.SBrowserMainActivity:0&0, rowId = 2, categoryId = 1",1611196542614
+8,"AE:AppsEdge.DBHelper insertPosition : type = 4, id_by_type = 2, position = 1, rowId = 2",1611196542621
+9,AE:AppsEdge.DBHelper insertAppPairItem,1611196542629
+10,AE:AppsEdge.DBHelper addSingleItem : position=2 type=0 appsInfo : 0@com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity&0,1611196542643
+11,"AE:AppsEdge.DBHelper addAppInfo : info = 0@com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity&0, rowId = 3, categoryId = 1",1611196542647
+12,"AE:AppsEdge.DBHelper insertPosition : type = 0, id_by_type = 3, position = 2, rowId = 3",1611196542679
+13,AE:AppsEdge.DBHelper addSingleItem : position=3 type=0 appsInfo : 0@com.android.chrome/com.google.android.apps.chrome.Main&0,1611196542706
+14,"AE:AppsEdge.DBHelper addAppInfo : info = 0@com.android.chrome/com.google.android.apps.chrome.Main&0, rowId = 4, categoryId = 1",1611196542731
+15,"AE:AppsEdge.DBHelper insertPosition : type = 0, id_by_type = 4, position = 3, rowId = 4",1611196542760
+16,"AE:AppsEdge.Data resetItem, isFirstLaunch = false",1617477832882
+17,AE:AppsEdge.DBHelper addSingleItem : position=0 type=0 appsInfo : 0@com.samsung.android.messaging/com.android.mms.ui.ConversationComposer&0,1617477832934
+18,"AE:AppsEdge.DBHelper addAppInfo : info = 0@com.samsung.android.messaging/com.android.mms.ui.ConversationComposer&0, rowId = 1, categoryId = 1",1617477832955
+19,"AE:AppsEdge.DBHelper insertPosition : type = 0, id_by_type = 1, position = 0, rowId = 1",1617477832977
+20,AE:AppsEdge.DBHelper addSingleItem : position=1 type=4 appsInfo : 4@2;0;com.google.android.youtube/.app.honeycomb.Shell$HomeActivity:0&0;com.sec.android.app.sbrowser/.SBrowserMainActivity:0&0,1617477832989
+21,"AE:AppsEdge.DBHelper addAppInfo : info = 4@2;0;com.google.android.youtube/.app.honeycomb.Shell$HomeActivity:0&0;com.sec.android.app.sbrowser/.SBrowserMainActivity:0&0, rowId = 2, categoryId = 1",1617477833014
+22,"AE:AppsEdge.DBHelper insertPosition : type = 4, id_by_type = 2, position = 1, rowId = 2",1617477833028
+23,AE:AppsEdge.DBHelper insertAppPairItem,1617477833046
+24,AE:AppsEdge.DBHelper addSingleItem : position=2 type=0 appsInfo : 0@com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity&0,1617477833057
+25,"AE:AppsEdge.DBHelper addAppInfo : info = 0@com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity&0, rowId = 3, categoryId = 1",1617477833071
+26,"AE:AppsEdge.DBHelper insertPosition : type = 0, id_by_type = 3, position = 2, rowId = 3",1617477833112
+27,AE:AppsEdge.DBHelper addSingleItem : position=3 type=0 appsInfo : 0@com.android.chrome/com.google.android.apps.chrome.Main&0,1617477833123
+28,"AE:AppsEdge.DBHelper addAppInfo : info = 0@com.android.chrome/com.google.android.apps.chrome.Main&0, rowId = 4, categoryId = 1",1617477833146
+29,"AE:AppsEdge.DBHelper insertPosition : type = 0, id_by_type = 4, position = 3, rowId = 4",1617477833191
+30,AE:AppsEdge.Data resetDefaultItem(),1617477833197
+31,AE:AppsEdge.DBHelper insertAppPairItem,1622773581592
+32,AE:AppsEdge.DBHelper insertAppPairItem,1623012451333
+33,AE:AppsEdge.DBHelper insertAppPairItem,1623441163219
+34,AE:AppsEdge.DBHelper insertAppPairItem,1624340109432
+35,AE:AppsEdge.DBHelper insertAppPairItem,1624385816345
+36,AE:AppsEdge.DBHelper insertAppPairItem,1624936976373
+37,AE:AppsEdge.DBHelper insertAppPairItem,1624936980652
+38,AE:AppsEdge.DBHelper insertAppPairItem,1625113819640
+39,AE:AppsEdge.DBHelper insertAppPairItem,1625508513030
+40,AE:AppsEdge.DBHelper insertAppPairItem,1625809522030

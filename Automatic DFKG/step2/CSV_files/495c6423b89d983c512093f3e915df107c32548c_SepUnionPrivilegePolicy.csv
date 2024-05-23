@@ -1,0 +1,7 @@
+_id,item,category,data1,data2,data3,data4,data5
+7,ai.nreal.nebula.service,type1,LGT#LUC,SM-G981N#SM-G986N#SM-G988N#SM-N981N#SM-N986N#SM-F916N#SM-G991N#SM-G996N#SM-G998N#SM-F926N,virtual_display#thread_schedule#start_activity#inject_input,,
+8,ai.nreal.nebula.service.jp.ss,type1,KDI,SCG06,virtual_display#thread_schedule#start_activity#inject_input,,
+9,com.pvr.dev.pvrservice,type1,SIM_OPERATOR#46003#46011#46012,SM-G981N#SM-G986N#SM-G988N,thread_schedule,,
+10,com.pvr.dev.pvrservice,type1,LGT#LUC,SM-G981N#SM-G986N#SM-G988N,thread_schedule,,
+11,com.pvr.pvrservice,type1,SIM_OPERATOR#46003#46011#46012,SM-G981N#SM-G986N#SM-G988N,thread_schedule,,
+12,com.pvr.pvrservice,type1,LGT#LUC,SM-G981N#SM-G986N#SM-G988N#SM-N981N#SM-N986N#SM-F916N#SM-G991N#SM-G996N#SM-G998N#SM-F926N,thread_schedule,,

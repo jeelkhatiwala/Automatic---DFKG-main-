@@ -1,0 +1,279 @@
+RecordId,formal,alias
+1,Etc/GMT-0,g r e e n w i c h
+2,Etc/GMT-0,g r e e n w i c h m e a n
+3,Etc/GMT-0,g m t
+4,Etc/GMT-0,u t c
+5,Etc/GMT-0,u n i v e r s a l
+6,Etc/GMT-0,c o o r d i n a t e d u n i v e r s a l
+7,Etc/GMT-0,a z o r e s s u m m e r t i m e
+8,Etc/GMT-0,e a s t e r n g r e e n l a n d s u m m e r t i m e
+9,Etc/GMT-0,g r e e n w i c h m e a n t i m e
+10,Etc/GMT-0,c o o r d i n a t e d u n i v e r s a l t i m e
+11,Etc/GMT-0,w e s t e r n e u r o p e a n t i m e
+12,Etc/GMT+1,b s t
+13,Etc/GMT+1,b d t
+14,Etc/GMT+1,b d s t
+15,Etc/GMT+1,b r i t i s h s u m m e r t i m e
+16,Etc/GMT+1,c e n t r a l e u r o p e a n t i m e
+17,Etc/GMT+1,i r i s h s t a n d a r d t i m e
+18,Etc/GMT+1,m i d d l e e u r o p e a n t i m e
+19,Etc/GMT+1,w e s t a f r i c a t i m e
+20,Etc/GMT+2,c e n t r a l a f r i c a t i m e
+21,Etc/GMT+2,c e n t r a l e u r o p e a n s u m m e r t i m e
+22,Etc/GMT+2,e a s t e r n e u r o p e a n t i m e
+23,Etc/GMT+2,h e u r e a v a n c é e d ' e u r o p e c e n t r a l e
+24,Etc/GMT+2,i s r a e l s t a n d a r d t i m e
+25,Etc/GMT+2,m i d d l e e u r o p e a n s u m m e r t i m e
+26,Etc/GMT+2,s o u t h a f r i c a n s t a n d a r d t i m e
+27,Etc/GMT+2,w e s t a f r i c a s u m m e r t i m e
+28,Etc/GMT+2,e u r o p e / k a l i n i n g r a d
+29,Etc/GMT+2,k a l i n g r a d t i m e
+30,Etc/GMT+3,a r a b i a s t a n d a r d t i m e
+31,Etc/GMT+3,e a s t a f r i c a t i m e
+32,Etc/GMT+3,e a s t e r n e u r o p e a n s u m m e r t i m e
+33,Etc/GMT+3,f u r t h e r - e a s t e r n e u r o p e a n t i m e
+34,Etc/GMT+3,i s r a e l d a y l i g h t t i m e
+35,Etc/GMT+3,i n d i a n o c e a n t i m e
+36,Etc/GMT+3,m o s c o w t i m e
+37,Etc/GMT+3,s h o w a s t a t i o n t i m e
+38,Etc/GMT+3,t u r k e y t i m e
+39,Iran,i r a n s t a n d a r d t i m e
+40,Iran,i r a n
+41,Etc/GMT+4,e u r o p e / v o l g o g r a d
+42,Etc/GMT+4,a r m e n i a t i m e
+43,Etc/GMT+4,a z e r b a i j a n t i m e
+44,Etc/GMT+4,g e o r g i a s t a n d a r d t i m e
+45,Etc/GMT+4,g u l f s t a n d a r d t i m e
+46,Etc/GMT+4,m a u r i t i u s t i m e
+47,Etc/GMT+4,r é u n i o n t i m e
+48,Etc/GMT+4,s a m a r a t i m e
+49,Etc/GMT+4,s e y c h e l l e s t i m e
+50,Etc/GMT+4,v o l g o g r a d t i m e
+51,+04:30,a f g h a n i s t a n t i m e
+52,+04:30,i r a n d a y l i g h t t i m e
+53,Etc/GMT+5,h e a r d a n d m c d o n a l d i s l a n d s t i m e
+54,Etc/GMT+5,m a w s o n s t a t i o n t i m e
+55,Etc/GMT+5,m a l d i v e s t i m e
+56,Etc/GMT+5,o r a l t i m e
+57,Etc/GMT+5,p a k i s t a n s t a n d a r d t i m e
+58,Etc/GMT+5,i n d i a n / k e r g u e l e n
+59,Etc/GMT+5,t a j i k i s t a n t i m e
+60,Etc/GMT+5,t u r k m e n i s t a n t i m e
+61,Etc/GMT+5,u z b e k i s t a n t i m e
+62,Etc/GMT+5,y e k a t e r i n b u r g t i m e
+63,+05:30,i n d i a n s t a n d a r d t i m e
+64,+05:30,s r i l a n k a s t a n d a r d t i m e
+65,+05:45,n e p a l t i m e u t c
+66,Etc/GMT+6,b r i t i s h i n d i a n o c e a n t i m e
+67,Etc/GMT+6,b a n g l a d e s h s t a n d a r d t i m e
+68,Etc/GMT+6,b h u t a n t i m e
+69,Etc/GMT+6,k y r g y z s t a n t i m e
+70,Etc/GMT+6,o m s k t i m e
+71,Etc/GMT+6,v o s t o k s t a t i o n t i m e
+72,Indian/Cocos,c o c o s i s l a n d s t i m e
+73,Indian/Cocos,m y a n m a r s t a n d a r d t i m e
+74,Etc/GMT+7,c h r i s t m a s i s l a n d t i m e
+75,Etc/GMT+7,d a v i s t i m e
+76,Etc/GMT+7,k h o v d s t a n d a r d t i m e
+77,Etc/GMT+7,i n d o c h i n a t i m e
+78,Etc/GMT+7,k r a s n o y a r s k t i m e
+79,Etc/GMT+7,t h a i l a n d s t a n d a r d t i m e
+80,Etc/GMT+7,w e s t e r n i n d o n e s i a n t i m e
+81,Etc/GMT+8,a u s t r a l i a n w e s t e r n s t a n d a r d t i m e
+82,Etc/GMT+8,b r u n e i t i m e
+83,Etc/GMT+8,c h o i b a l s a n s t a n d a r d t i m e
+84,Etc/GMT+8,c e n t r a l i n d o n e s i a t i m e
+85,Etc/GMT+8,c h i n a s t a n d a r d t i m e
+86,Etc/GMT+8,c h i n a t i m e
+87,Etc/GMT+8,h o n g k o n g t i m e
+88,Etc/GMT+8,k h o v d s u m m e r t i m e
+89,Etc/GMT+8,i r k u t s k t i m e
+90,Etc/GMT+8,m a l a y s i a s t a n d a r d t i m e
+91,Etc/GMT+8,m a l a y s i a t i m e
+92,Etc/GMT+8,p h i l i p p i n e t i m e
+93,Etc/GMT+8,p h i l i p p i n e s t a n d a r d t i m e
+94,Etc/GMT+8,s i n g a p o r e t i m e
+95,Etc/GMT+8,s i n g a p o r e s t a n d a r d t i m e
+96,Etc/GMT+8,u l a a n b a a t a r s t a n d a r d t i m e
+97,Etc/GMT+8,w e s t e r n s t a n d a r d t i m e
+98,Etc/GMT+9,c h o i b a l s a n s u m m e r t i m e
+99,Etc/GMT+9,e a s t e r n i n d o n e s i a n t i m e
+100,Etc/GMT+9,j a p a n s t a n d a r d t i m e
+101,Etc/GMT+9,k o r e a s t a n d a r d t i m e
+102,Etc/GMT+9,k s t
+103,Etc/GMT+9,t i m o r l e s t e t i m e
+104,Etc/GMT+9,u l a a n b a a t a r s u m m e r t i m e
+105,Etc/GMT+9,y a k u t s k t i m e
+106,+09:30,a u s t r a l i a n c e n t r a l s t a n d a r d t i m e
+107,Etc/GMT+10,a u s t r a l i a n e a s t e r n s t a n d a r d t i m e
+108,Etc/GMT+10,c h a m o r r o s t a n d a r d t i m e
+109,Etc/GMT+10,c h u u k t i m e
+110,Etc/GMT+10,d u m o n t d ' u r v i l l e t i m e
+111,Etc/GMT+10,p a p u a n e w g u i n e a t i m e
+112,Etc/GMT+10,v l a d i v o s t o k t i m e
+113,+10:30,a u s t r a l i a n c e n t r a l d a y l i g h t s a v i n g s t i m e
+114,+10:30,l o r d h o w e s t a n d a r d t i m e
+115,Etc/GMT+11,a u s t r a l i a n e a s t e r n d a y l i g h t s a v i n g s t i m e
+116,Etc/GMT+11,b o u g a i n v i l l e s t a n d a r d t i m e
+117,Etc/GMT+11,k o s r a e t i m e
+118,Etc/GMT+11,l o r d h o w e s u m m e r t i m e
+119,Etc/GMT+11,m a c q u a r i e i s l a n d s t a t i o n t i m e
+120,Etc/GMT+11,n e w c a l e d o n i a t i m e
+121,Etc/GMT+11,n o r f o l k i s l a n d t i m e
+122,Etc/GMT+11,p o h n p e i s t a n d a r d t i m e
+123,Etc/GMT+11,s a k h a l i n i s l a n d t i m e
+124,Etc/GMT+11,s o l o m o n i s l a n d s t i m e
+125,Etc/GMT+11,s r e d n e k o l y m s k t i m e
+126,Etc/GMT+11,v a n u a t u t i m e
+127,Etc/GMT+12,f i j i t i m e
+128,Etc/GMT+12,g i l b e r t i s l a n d t i m e
+129,Etc/GMT+12,m a g a d a n t i m e
+130,Etc/GMT+12,m a r s h a l l i s l a n d s t i m e
+131,Etc/GMT+12,n e w z e a l a n d s t a n d a r d t i m e
+132,Etc/GMT+12,k a m c h a t k a t i m e
+133,Etc/GMT+12,t u v a l u t i m e
+134,Etc/GMT+12,w a k e i s l a n d t i m e
+135,Pacific/Chatham,c h a t h a m s t a n d a r d t i m e
+136,Pacific/Tongatapu,n e w z e a l a n d d a y l i g h t t i m e
+137,Pacific/Tongatapu,p h o e n i x i s l a n d t i m e
+138,Pacific/Tongatapu,t o k e l a u t i m e
+139,Pacific/Tongatapu,t o n g a t i m e
+140,+14:00,l i n e i s l a n d s t i m e
+141,Etc/GMT-1,a z o r e s s t a n d a r d t i m e
+142,Etc/GMT-1,c a p e v e r d e t i m e
+143,Etc/GMT-1,e a s t e r n g r e e n l a n d t i m e
+144,Etc/GMT-2,b r a s í l i a s u m m e r t i m e
+145,Etc/GMT-2,f e r n a n d o d e n o r o n h a t i m e
+146,Etc/GMT-2,s o u t h g e o r g i a a n d t h e s o u t h s a n d w i c h i s l a n d s t i m e
+147,Etc/GMT-2,s a i n t p i e r r e a n d m i q u e l o n d a y l i g h t t i m e
+148,Etc/GMT-2,u r u g u a y s u m m e r t i m e
+149,-02:30,n e w f o u n d l a n d d a y l i g h t t i m e
+150,Etc/GMT-3,a t l a n t i c d a y l i g h t t i m e
+151,Etc/GMT-3,a d t
+152,Etc/GMT-3,a t l a n t i c d a y l i g h t
+153,Etc/GMT-3,a m a z o n s u m m e r t i m e
+154,Etc/GMT-3,a r g e n t i n a t i m e
+155,Etc/GMT-3,b r a s i l i a t i m e
+156,Etc/GMT-3,c h i l e s u m m e r
+157,Etc/GMT-3,f a l k l a n d i s l a n d s s u m m e r
+158,Etc/GMT-3,f r e n c h g u i a n a
+159,Etc/GMT-3,s a i n t p i e r r e a n d m i q u e l o n s t a n d a r d
+160,Etc/GMT-3,p a r a g u a y s u m m e r t i m e
+161,Etc/GMT-3,r o t h e r a r e s e a r c h s t a t i o n
+162,Etc/GMT-3,s u r i n a m e t i m e
+163,Etc/GMT-3,u r u g u a y s t a n d a r d t i m e
+164,-03:30,n e w f o u n d l a n d s t a n d a r d t i m e
+165,-03:30,n e w f o u n d l a n d t i m e
+166,Etc/GMT-4,a m a z o n t i m e
+167,Etc/GMT-4,a t l a n t i c s t a n d a r d t i m e
+168,Etc/GMT-4,a t l a n t i c
+169,Etc/GMT-4,a s t
+170,Etc/GMT-4,a t
+171,Etc/GMT-4,a t l a n t i c s t a n d a r d
+172,Etc/GMT-4,b o l i v i a t i m e
+173,Etc/GMT-4,c u b a d a y l i g h t t i m e
+174,Etc/GMT-4,c h i l e s t a n d a r d t i m e
+175,Etc/GMT-4,c o l o m b i a s u m m e r t i m e
+176,Etc/GMT-4,e a s t e r n c a r i b b e a n t i m e
+177,Etc/GMT-4,e a s t e r n d a y l i g h t t i m e
+178,Etc/GMT-4,e a s t e r n d a y l i g h t
+179,Etc/GMT-4,e d t
+180,Etc/GMT-4,u s e a s t e r n d a y l i g h t
+181,Etc/GMT-4,f a l k l a n d i s l a n d s t i m e
+182,Etc/GMT-4,g u y a n a t i m e
+183,Etc/GMT-4,p a r a g u a y t i m e
+184,Etc/GMT-4,v e n e z u e l a n s t a n d a r d t i m e
+185,Etc/GMT-5,a c r e t i m e
+186,Etc/GMT-5,c e n t r a l d a y l i g h t t i m e
+187,Etc/GMT-5,u s c e n t r a l d a y l i g h t
+188,Etc/GMT-5,c d t
+189,Etc/GMT-5,c e n t r a l d a y l i g h t
+190,Etc/GMT-5,c o l o m b i a t i m e
+191,Etc/GMT-5,c u b a s t a n d a r d t i m e
+192,Etc/GMT-5,e a s t e r i s l a n d s u m m e r
+193,Etc/GMT-5,e c u a d o r t i m e
+194,Etc/GMT-5,e a s t e r n s t a n d a r d t i m e
+195,Etc/GMT-5,u s e a s t e r n
+196,Etc/GMT-5,e a s t e r n
+197,Etc/GMT-5,e s t
+198,Etc/GMT-5,e t
+199,Etc/GMT-5,e a s t e r n s t a n d a r d
+200,Etc/GMT-5,u s e a s t e r n s t a n d a r d
+201,Etc/GMT-5,p e r u t i m e
+202,Etc/GMT-6,c e n t r a l s t a n d a r d t i m e
+203,Etc/GMT-6,c e n t r a l
+204,Etc/GMT-6,c s t
+205,Etc/GMT-6,c t
+206,Etc/GMT-6,c e n t r a l s t a n d a r d
+207,Etc/GMT-6,u s c e n t r a l
+208,Etc/GMT-6,u s c e n t r a l s t a n d a r d
+209,Etc/GMT-6,e a s t e r i s l a n d s t a n d a r d t i m e
+210,Etc/GMT-6,g a l á p a g o s t i m e
+211,Etc/GMT-6,m o u n t a i n d a y l i g h t t i m e
+212,Etc/GMT-6,m d t
+213,Etc/GMT-6,u s m o u n t a i n d a y l i g h t
+214,Etc/GMT-6,m o u n t a i n d a y l i g h t
+215,Etc/GMT-7,m o u n t a i n s t a n d a r d t i m e
+216,Etc/GMT-7,m o u n t a i n
+217,Etc/GMT-7,m s t
+218,Etc/GMT-7,u s m o u n t a i n
+219,Etc/GMT-7,u s m o u n t a i n s t a n d a r d
+220,Etc/GMT-7,m t
+221,Etc/GMT-7,m o u n t a i n s t a n d a r d
+222,Etc/GMT-7,p a c i f i c d a y l i g h t t i m e
+223,Etc/GMT-7,p a c i f i c d a y l i g h t
+224,Etc/GMT-7,p d t
+225,Etc/GMT-7,u s p a c i f i c d a y l i g h t
+226,Etc/GMT-8,a l a s k a d a y l i g h t t i m e
+227,Etc/GMT-8,a l a s k a d a y l i g h t
+228,Etc/GMT-8,a l a s k a n d a y l i g h t
+229,Etc/GMT-8,u s a l a s k a d a y l i g h t
+230,Etc/GMT-8,u s a l a s k a n d a y l i g h t
+231,Etc/GMT-8,a k d t
+232,Etc/GMT-8,c l i p p e r t o n i s l a n d s t a n d a r d t i m e
+233,Etc/GMT-8,p a c i f i c s t a n d a r d t i m e
+234,Etc/GMT-8,u s / p a c i f i c
+235,Etc/GMT-8,p a c i f i c
+236,Etc/GMT-8,p s t
+237,Etc/GMT-8,p t
+238,Etc/GMT-8,p a c i f i c s t a n d a r d
+239,Etc/GMT-8,u s p a c i f i c
+240,Etc/GMT-8,u s p a c i f i c s t a n d a r d
+241,Etc/GMT-9,a l a s k a s t a n d a r d t i m e
+242,Etc/GMT-9,u s a l a s k a
+243,Etc/GMT-9,u s a l a s k a n
+244,Etc/GMT-9,u s a l a s k a s t a n d a r d
+245,Etc/GMT-9,u s a l a s k a n s t a n d a r d
+246,Etc/GMT-9,a l a s k a
+247,Etc/GMT-9,a l a s k a n
+248,Etc/GMT-9,a k s t
+249,Etc/GMT-9,a k t
+250,Etc/GMT-9,a l a s k a s t a n d a r d
+251,Etc/GMT-9,a l a s k a n s t a n d a r d
+252,Etc/GMT-9,g a m b i e r i s l a n d s t i m e
+253,Etc/GMT-9,g a m b i e r i s l a n d t i m e
+254,Etc/GMT-9,h a w a i i – a l e u t i a n d a y l i g h t t i m e
+255,Etc/GMT-9,h d t
+256,Etc/GMT-9,h a w a i i d a y l i g h t
+257,Etc/GMT-9,h a w a i i a n d a y l i g h t
+258,Etc/GMT-9,u s h a w a i i d a y l i g h t
+259,Etc/GMT-9,u s h a w a i i a n d a y l i g h t
+260,Pacific/Marquesas,m a r q u e s a s i s l a n d s t i m e
+261,Etc/GMT-10,c o o k i s l a n d t i m e
+262,Etc/GMT-10,h a w a i i – a l e u t i a n s t a n d a r d t i m e
+263,Etc/GMT-10,h a w a i i
+264,Etc/GMT-10,h a w a i i a n
+265,Etc/GMT-10,h s t
+266,Etc/GMT-10,h a t
+267,Etc/GMT-10,h a w a i i s t a n d a r d
+268,Etc/GMT-10,h a w a i i a n s t a n d a r d
+269,Etc/GMT-10,u s h a w a i i
+270,Etc/GMT-10,u s h a w a i i a n
+271,Etc/GMT-10,u s h a w a i i s t a n d a r d
+272,Etc/GMT-10,u s h a w a i i a n s t a n d a r d
+273,Etc/GMT-10,s a m o a d a y l i g h t t i m e
+274,Etc/GMT-10,t a h i t i t i m e
+275,Etc/GMT-11,n i u e t i m e
+276,Etc/GMT-11,s a m o a s t a n d a r d t i m e
+277,Etc/GMT-12,b a k e r i s l a n d t i m e
+278,Etc/GMT-12,i n t e r n a t i o n a l d a y l i n e w e s t t i m e z o n e

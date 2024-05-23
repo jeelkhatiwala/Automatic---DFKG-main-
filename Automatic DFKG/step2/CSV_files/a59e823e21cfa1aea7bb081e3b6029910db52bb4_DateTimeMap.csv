@@ -1,0 +1,660 @@
+type,word,wordgroup,wordvalue,flags,CultureId,numericvalue
+0,version,0,0,4,7,0
+1,:,0,0,0,7,1
+2,winter,25,107,0,7,0
+2,frühling,25,108,0,7,0
+2,sommer-,25,109,0,7,0
+2,herbst,25,110,0,7,0
+1,vorm.,4,37,0,7,0
+1,vormittags,4,37,0,7,0
+1,morgens,4,37,0,7,0
+1,früh,4,37,0,7,0
+1,nachmittags,4,38,0,7,0
+1,nachm.,4,38,0,7,0
+1,abends,4,38,0,7,0
+1,uhr,9,39,0,7,0
+1,um,9,40,0,7,0
+1,an,9,40,0,7,0
+1,am,9,40,0,7,0
+1,der,9,40,36,7,0
+1,die,9,40,36,7,0
+1,das,9,40,36,7,0
+1,den,9,40,36,7,0
+1,dem,9,40,36,7,0
+1,auf,9,40,36,7,0
+1,diese,1,3,0,7,0
+1,diesen,1,3,0,7,0
+1,dieser,1,3,0,7,0
+1,diesem,1,3,0,7,0
+1,dieses,1,3,0,7,0
+1,nächste,1,2,0,7,0
+1,nächsten,1,2,0,7,0
+1,nächster,1,2,0,7,0
+1,nächstem,1,2,0,7,0
+1,nächstes,1,2,0,7,0
+1,die nächste,1,2,516,7,0
+1,das nächste,1,2,516,7,0
+1,den nächsten,1,2,516,7,0
+1,letzte,1,1,0,7,0
+1,letzten,1,1,0,7,0
+1,letzter,1,1,0,7,0
+1,letztem,1,1,0,7,0
+1,letztes,1,1,0,7,0
+1,nach,7,68,0,7,0
+1,heute abend,6,21,0,7,0
+1,minute,2,64,0,7,0
+1,minuten,2,64,0,7,0
+1,stunde,2,65,0,7,0
+1,stunden,2,65,0,7,0
+1,sekunde,2,41,0,7,0
+1,sekunden,2,41,0,7,0
+1,abend,4,17,0,7,0
+1,früh,4,15,0,7,0
+1,am morgen,4,15,0,7,0
+1,der morgen,4,15,0,7,0
+1,nacht,4,18,0,7,0
+1,nachts,4,18,0,7,0
+1,nachmittag,4,16,0,7,0
+1,den ganzen tag,4,72,0,7,0
+1,der ganze tag,4,72,0,7,0
+1,ganztägig,4,72,0,7,0
+1,ganztägige,4,72,0,7,0
+1,ganztägiges,4,72,0,7,0
+1,ganztägiger,4,72,0,7,0
+1,frühstück,4,53,0,7,0
+1,frühstücksmahlzeit,4,53,0,7,0
+1,brunch,4,54,0,7,0
+1,mittag,4,55,0,7,0
+1,mittagessen,4,55,0,7,0
+1,mittagsmahlzeit,4,55,0,7,0
+1,mittagszeit,4,55,0,7,0
+1,abendessen,4,56,0,7,0
+1,abendbrot,4,56,0,7,0
+1,brotzeit,4,56,0,7,0
+1,vesper,4,56,0,7,0
+1,abendmahlzeit,4,56,0,7,0
+1,gestern,5,20,0,7,0
+1,morgen,5,19,0,7,0
+1,sonntag,3,8,0,7,0
+1,montag,3,9,0,7,0
+1,dienstag,3,10,0,7,0
+1,mittwoch,3,11,0,7,0
+1,donnerstag,3,12,0,7,0
+1,freitag,3,13,0,7,0
+1,samstag,3,14,0,7,0
+1,sonnabend,3,14,0,7,0
+1,satertag,3,14,0,7,0
+2,diese,1,3,0,7,0
+2,diesen,1,3,0,7,0
+2,dieser,1,3,0,7,0
+2,diesem,1,3,0,7,0
+2,dieses,1,3,0,7,0
+2,nächste,1,2,0,7,0
+2,nächsten,1,2,0,7,0
+2,nächster,1,2,0,7,0
+2,nächstem,1,2,0,7,0
+2,nächstes,1,2,0,7,0
+2,die nächste,1,2,516,7,0
+2,das nächste,1,2,516,7,0
+2,den nächsten,1,2,516,7,0
+2,letzte,1,1,0,7,0
+2,letzten,1,1,0,7,0
+2,letzter,1,1,0,7,0
+2,letztem,1,1,0,7,0
+2,letztes,1,1,0,7,0
+2,darauffolgenden,1,2,516,7,0
+2,darauffolgende,1,2,516,7,0
+2,folgenden,1,2,516,7,0
+2,folgende,1,2,516,7,0
+2,kommenden,1,2,516,7,0
+2,kommende,1,2,516,7,0
+2,vorhergehenden,1,1,516,7,0
+2,vorhergehende,1,1,516,7,0
+2,vorrangegangenen,1,1,516,7,0
+2,vorrangegangene,1,1,516,7,0
+2,vorherigen,1,1,516,7,0
+2,vorherige,1,1,516,7,0
+2,sonntag,3,8,0,7,0
+2,montag,3,9,0,7,0
+2,dienstag,3,10,0,7,0
+2,mittwoch,3,11,0,7,0
+2,donnerstag,3,12,0,7,0
+2,freitag,3,13,0,7,0
+2,samstag,3,14,0,7,0
+2,sonnabend,3,14,0,7,0
+2,satertag,3,14,0,7,0
+2,januar,8,25,0,7,0
+2,februar,8,26,0,7,0
+2,märz,8,27,0,7,0
+2,april,8,28,0,7,0
+2,mai,8,29,0,7,0
+2,juni,8,30,0,7,0
+2,juli,8,31,0,7,0
+2,august,8,32,0,7,0
+2,september,8,33,0,7,0
+2,oktober,8,34,0,7,0
+2,november,8,35,0,7,0
+2,dezember,8,36,0,7,0
+2,jan.,8,25,0,7,0
+2,feb.,8,26,0,7,0
+2,märz,8,27,0,7,0
+2,apr.,8,28,0,7,0
+2,mai,8,29,0,7,0
+2,jun.,8,30,0,7,0
+2,jul.,8,31,0,7,0
+2,aug.,8,32,0,7,0
+2,sept.,8,33,0,7,0
+2,okt.,8,34,0,7,0
+2,nov.,8,35,0,7,0
+2,dez.,8,36,0,7,0
+2,woche,2,4,0,7,0
+2,wochen,2,4,0,7,0
+2,monat,2,6,0,7,0
+2,monats,2,6,0,7,0
+2,einen monat,2,6,64,7,0
+2,monate,2,6,0,7,0
+2,monaten,2,6,0,7,0
+2,jahr,2,7,0,7,0
+2,jahre,2,7,0,7,0
+2,jahren,2,7,0,7,0
+2,jahres,2,7,0,7,0
+2,wochenende,2,5,0,7,0
+2,wochenenden,2,5,0,7,0
+2,wochenendes,2,5,0,7,0
+2,tag,2,66,8,7,0
+1,einen tag,2,66,64,7,0
+2,tage,2,66,0,7,0
+2,tagen,2,66,0,7,0
+2,früh,4,15,0,7,0
+2,am morgen,4,15,0,7,0
+2,der morgen,4,15,0,7,0
+2,nachmittag,4,16,0,7,0
+2,abend,4,17,0,7,0
+2,nacht,4,18,0,7,0
+2,den ganzen tag,4,72,0,7,0
+2,der ganze tag,4,72,0,7,0
+2,ganztägig,4,72,0,7,0
+2,ganztägige,4,72,0,7,0
+2,ganztägiges,4,72,0,7,0
+2,ganztägiger,4,72,0,7,0
+2,ganztägigen,4,72,0,7,0
+2,ganztägigem,4,72,0,7,0
+2,ganztägigen,4,72,0,7,0
+2,gestern,5,20,0,7,0
+2,morgen,5,19,0,7,0
+2,morgig,5,19,0,7,0
+2,morgigen,5,19,0,7,0
+2,morgiges,5,19,0,7,0
+2,morgiger,5,19,0,7,0
+2,morgigem,5,19,0,7,0
+2,übermorgen,5,57,0,7,0
+2,vorgestern,5,58,0,7,0
+2,heute,6,22,0,7,0
+2,heutig,6,22,0,7,0
+2,heutigen,6,22,0,7,0
+2,heutiges,6,22,0,7,0
+2,heutiger,6,22,0,7,0
+2,heutigem,6,22,0,7,0
+2,jetzt,6,23,0,7,0
+2,bald,6,46,0,7,0
+2,kürzlich,6,47,0,7,0
+2,neulich,6,47,0,7,0
+2,mittag,9,44,0,7,0
+2,mitternacht,9,45,0,7,0
+2,hauptsendezeit,10,42,0,7,0
+2,spät,10,43,0,7,0
+2,spätprogramm,10,43,0,7,0
+2,nachtprogramm,10,43,0,7,0
+2,in,7,73,0,7,0
+2,von,7,68,5,7,0
+2,ab,7,68,5,7,0
+2,später,7,68,512,7,0
+2,danach,7,68,512,7,0
+2,vor,7,74,0,7,0
+2,früher,7,69,512,7,0
+2,davor,7,69,512,7,0
+2,letzte des,16,80,0,7,0
+2,letzten des,16,80,0,7,0
+2,letzter von,16,80,0,7,0
+2,letzten von,16,80,0,7,0
+1,bakerinsel,15,70,-1200,7,0
+1,gmt minus 12,15,70,-1200,7,0
+1,gmt minus 11,15,70,-1100,7,0
+1,samoa,15,70,-1100,7,0
+1,cookinseln,15,70,-1000,7,0
+1,gmt minus 10,15,70,-1000,7,0
+1,hawaii,15,70,-1000,7,0
+1,tahiti,15,70,-1000,7,0
+1,marquesas inseln,15,70,-930,7,0
+1,alaska,15,70,-900,7,0
+1,gmt minus 9,15,70,-900,7,0
+1,pazifikregion,15,70,-800,7,0
+1,gmt minus 8,15,70,-800,7,0
+1,gmt minus 7,15,70,-700,7,0
+1,mountain standard time in den usa,15,70,-700,7,0
+1,central standard time in den usa,15,70,-600,7,0
+1,gmt minus 6,15,70,-600,7,0
+1,central time in den usa,15,70,-600,7,0
+1,osterinsel,15,70,-600,7,0
+1,galapagos inseln,15,70,-600,7,0
+1,kolumbien,15,70,-500,7,0
+1,kuba,15,70,-500,7,0
+1,gmt minus 5,15,70,-500,7,0
+1,eastern standard time in den usa,15,70,-500,7,0
+1,ecuador,15,70,-500,7,0
+1,peru,15,70,-500,7,0
+1,venezuela,15,70,-430,7,0
+1,gmt minus 4,15,70,-400,7,0
+1,amazonas,15,70,-400,7,0
+1,atlantic standard time,15,70,-400,7,0
+1,atlantic time,15,70,-400,7,0
+1,bolivien,15,70,-400,7,0
+1,chile,15,70,-400,7,0
+1,östlichen karibik,15,70,-400,7,0
+1,falkland inseln,15,70,-400,7,0
+1,guyana,15,70,-400,7,0
+1,paraguay,15,70,-400,7,0
+1,neufundland,15,70,-330,7,0
+1,gmt minus 3,15,70,-300,7,0
+1,argentinien,15,70,-300,7,0
+1,brasilien,15,70,-300,7,0
+1,französisch guayana auf la réunion,15,70,-300,7,0
+1,suriname,15,70,-300,7,0
+1,uruguay,15,70,-300,7,0
+1,fernando de noronha,15,70,-200,7,0
+1,gmt minus 2,15,70,-200,7,0
+1,gmt minus 1,15,70,-100,7,0
+1,azoren,15,70,-100,7,0
+1,kap der grünen hoffnung,15,70,-100,7,0
+1,ostgrönland,15,70,-100,7,0
+1,koordinierte weltzeit,15,70,0,7,0
+1,gmt,15,70,0,7,0
+1,london,15,70,0,7,0
+1,england,15,70,0,7,0
+1,westeuopäischer zeit,15,70,0,7,0
+1,zululand,15,70,0,7,0
+1,gmt plus 1,15,70,100,7,0
+1,mitteleuropäischer zeit,15,70,100,7,0
+1,irland,15,70,100,7,0
+1,mitteleuropäischer zeit,15,70,100,7,0
+1,westafrika,15,70,100,7,0
+1,zentralafrika,15,70,200,7,0
+1,gmt plus 2,15,70,200,7,0
+1,osteuropäischer zeit,15,70,200,7,0
+1,israel,15,70,200,7,0
+1,südafrika,15,70,200,7,0
+1,vereinigten arabischen emiraten,15,70,300,7,0
+1,gmt plus 3,15,70,300,7,0
+1,ostafrika,15,70,300,7,0
+1,indischen ozean,15,70,300,7,0
+1,iran,15,70,330,7,0
+1,armenien,15,70,400,7,0
+1,aserbaidschan,15,70,400,7,0
+1,georgien,15,70,400,7,0
+1,gmt plus 4,15,70,400,7,0
+1,golfstaaten,15,70,400,7,0
+1,mauritius,15,70,400,7,0
+1,moskau,15,70,400,7,0
+1,la réunion,15,70,400,7,0
+1,seychellen,15,70,400,7,0
+1,volgograd,15,70,400,7,0
+1,afghanistan,15,70,430,7,0
+1,gmt plus 5,15,70,500,7,0
+1,malediven,15,70,500,7,0
+1,pakistan,15,70,500,7,0
+1,tajikistan,15,70,500,7,0
+1,turkmenistan,15,70,500,7,0
+1,uzbekistan,15,70,500,7,0
+1,indien,15,70,500,7,0
+1,sri lanka,15,70,530,7,0
+1,nepal,15,70,545,7,0
+1,bangladesh,15,70,600,7,0
+1,bhutan,15,70,600,7,0
+1,gmt plus 6,15,70,600,7,0
+1,britisch indischen ozean,15,70,600,7,0
+1,kirgistan,15,70,600,7,0
+1,myanmar,15,70,630,7,0
+1,gmt plus 7,15,70,700,7,0
+1,weihnachtsinseln,15,70,700,7,0
+1,indochina,15,70,700,7,0
+1,krasnoyarsk,15,70,700,7,0
+1,thailand,15,70,700,7,0
+1,westaustralien,15,70,800,7,0
+1,western standard time in australien,15,70,800,7,0
+1,brunei,15,70,800,7,0
+1,zentralindonesien,15,70,800,7,0
+1,gmt plus 8,15,70,800,7,0
+1,china,15,70,800,7,0
+1,hong kong,15,70,800,7,0
+1,malaysien,15,70,800,7,0
+1,philippinen,15,70,800,7,0
+1,singapore,15,70,800,7,0
+1,western standard time in australien,15,70,800,7,0
+1,central western standard time in australien,15,70,845,7,0
+1,gmt plus 9,15,70,900,7,0
+1,ostindonesien,15,70,900,7,0
+1,irkutsk,15,70,900,7,0
+1,japan,15,70,900,7,0
+1,korea,15,70,900,7,0
+1,zentralaustralien,15,70,930,7,0
+1,westaustralien,15,70,1000,7,0
+1,gmt plus 10,15,70,1000,7,0
+1,papua neu guinea,15,70,1000,7,0
+1,vladivostok,15,70,1000,7,0
+1,lord howe insel,15,70,1030,7,0
+1,salomon inseln,15,70,1100,7,0
+1,gmt plus 11,15,70,1100,7,0
+1,norfolk,15,70,1130,7,0
+1,fiji,15,70,1200,7,0
+1,kamtschatka,15,70,1200,7,0
+1,gmt plus 12,15,70,1200,7,0
+1,marshall inseln,15,70,1200,7,0
+1,neuseeland,15,70,1200,7,0
+1,chatham inseln,15,70,1245,7,0
+1,tonga,15,70,1300,7,0
+1,gmt plus 13,15,70,1300,7,0
+1,linieninseln,15,70,1400,7,0
+1,gmt plus 14,15,70,1400,7,0
+2,neujahr,14,71,1,7,0
+2,neujahrsanfang,14,71,1,7,0
+2,neujahrsbeginn,14,71,1,7,0
+2,heilige 3 könige,14,71,2,7,0
+2,valentinstag,14,71,3,7,0
+2,rosenmontag,14,71,4,7,0
+2,faschingsdienstag,14,71,5,7,0
+2,fastnacht,14,71,5,7,0
+2,aschermittwoch,14,71,6,7,0
+2,zeitumstellung auf sommerzeit,14,71,7,7,0
+2,sommerzeit,14,71,7,7,0
+2,palmsonntag,14,71,8,7,0
+2,gründonnerstag,14,71,9,7,0
+2,karfreitag,14,71,10,7,0
+2,ostern,14,71,11,7,0
+2,ostersonntag,14,71,11,7,0
+2,ostermontag,14,71,12,7,0
+2,walpurgisnacht,14,71,13,7,0
+2,maifeiertag,14,71,14,7,0
+2,tag der arbeit,14,71,14,7,0
+2,1. mai,14,71,14,7,0
+2,muttertag,14,71,15,7,0
+2,vatertag,14,71,16,7,0
+2,christi himmelfahrt,14,71,17,7,0
+2,kindertag,14,71,18,7,0
+2,pfingstsonntag,14,71,19,7,0
+2,pfingsten,14,71,19,7,0
+2,pfingstmontag,14,71,20,7,0
+2,fronleichnam,14,71,21,7,0
+2,mariä himmelfahrt,14,71,22,7,0
+2,tag der deutschen einheit,14,71,23,7,0
+2,tag der einheit,14,71,23,7,0
+2,erntedankfest,14,71,24,7,0
+2,zeitumstellung auf winterzeit,14,71,25,7,0
+2,winterzeit,14,71,25,7,0
+2,halloween,14,71,26,7,0
+2,reformationstag,14,71,27,7,0
+2,allerheiligen,14,71,28,7,0
+2,allerseelen,14,71,29,7,0
+2,martinstag,14,71,30,7,0
+2,volkstrauertag,14,71,31,7,0
+2,buß und bettag,14,71,32,7,0
+2,buß- und bettag,14,71,32,7,0
+2,totensonnstag,14,71,33,7,0
+2,advent,14,71,34,7,0
+2,1. advent,14,71,35,7,0
+2,nikolaus,14,71,36,7,0
+2,2. advent,14,71,37,7,0
+2,3. advent,14,71,38,7,0
+2,4. advent,14,71,39,7,0
+2,heiligabend,14,71,40,7,0
+2,heilige abend,14,71,40,7,0
+2,heiliger abend,14,71,40,7,0
+2,1. weihnachtsfeiertag,14,71,41,7,0
+2,1. weihnachtstag,14,71,41,7,0
+2,2. weihnachtsfeiertag,14,71,42,7,0
+2,2. weihnachtstag,14,71,42,7,0
+2,weihnachten,14,71,43,7,0
+2,silvester,14,71,44,7,0
+2,black friday,14,71,201,7,0
+2,Schwarzer Freitag,14,71,201,7,0
+2,ramzan,14,71,55,7,0
+2,ramadan,14,71,55,7,0
+2,ramadhan,14,71,55,7,0
+2,ramzan al-Mubarak,14,71,55,7,0
+2,ramadhan al-Mubarak,14,71,55,7,0
+3,neujahr,13,1,0,7,0
+3,neujahrsanfang,13,1,0,7,0
+3,neujahrsbeginn,13,1,0,7,0
+3,heilige 3 könige,13,2,0,7,0
+3,valentinstag,13,3,0,7,0
+3,rosenmontag,13,4,0,7,0
+3,faschingsdienstag,13,5,0,7,0
+3,fastnacht,13,5,0,7,0
+3,aschermittwoch,13,6,0,7,0
+3,zeitumstellung auf sommerzeit,13,7,0,7,0
+3,sommerzeit,13,7,0,7,0
+3,palmsonntag,13,8,0,7,0
+3,gründonnerstag,13,9,0,7,0
+3,karfreitag,13,10,0,7,0
+3,ostern,13,11,0,7,0
+3,ostersonntag,13,11,0,7,0
+3,ostermontag,13,12,0,7,0
+3,walpurgisnacht,13,13,0,7,0
+3,maifeiertag,13,14,0,7,0
+3,tag der arbeit,13,14,0,7,0
+3,1. mai,13,14,0,7,0
+3,muttertag,13,15,0,7,0
+3,vatertag,13,16,0,7,0
+3,christi himmelfahrt,13,17,0,7,0
+3,kindertag,13,18,0,7,0
+3,pfingstsonntag,13,19,0,7,0
+3,pfingsten,13,19,0,7,0
+3,pfingstmontag,13,20,0,7,0
+3,fronleichnam,13,21,0,7,0
+3,mariä himmelfahrt,13,22,0,7,0
+3,tag der deutschen einheit,13,23,0,7,0
+3,tag der einheit,13,23,0,7,0
+3,erntedankfest,13,24,0,7,0
+3,zeitumstellung auf winterzeit,13,25,0,7,0
+3,winterzeit,13,25,0,7,0
+3,halloween,13,26,0,7,0
+3,reformationstag,13,27,0,7,0
+3,allerheiligen,13,28,0,7,0
+3,allerseelen,13,29,0,7,0
+3,martinstag,13,30,0,7,0
+3,volkstrauertag,13,31,0,7,0
+3,buß und bettag,13,32,0,7,0
+3,buß- und bettag,13,32,0,7,0
+3,totensonnstag,13,33,0,7,0
+3,advent,13,34,0,7,0
+3,1. advent,13,35,0,7,0
+3,nikolaus,13,36,0,7,0
+3,2. advent,13,37,0,7,0
+3,3. advent,13,38,0,7,0
+3,4. advent,13,39,0,7,0
+3,heiligabend,13,40,0,7,0
+3,heilige abend,13,40,0,7,0
+3,heiliger abend,13,40,0,7,0
+3,1. weihnachtsfeiertag,13,41,0,7,0
+3,1. weihnachtstag,13,41,0,7,0
+3,2. weihnachtsfeiertag,13,42,0,7,0
+3,2. weihnachtstag,13,42,0,7,0
+3,weihnachten,13,43,0,7,0
+3,silvester,13,44,0,7,0
+3,black friday,13,201,0,7,0
+3,Schwarzer Freitag,13,201,0,7,0
+3,ramzan,13,55,0,7,0
+3,ramadan,13,55,0,7,0
+3,ramadhan,13,55,0,7,0
+3,ramzan al-Mubarak,13,55,0,7,0
+3,ramadhan al-Mubarak,13,55,0,7,0
+1,dt_delete_protector,100,100,0,0,0
+3,jede,1,0,0,7,0
+3,jedes,1,0,0,7,0
+3,jeder,1,0,0,7,0
+3,jeden,1,0,0,7,0
+3,jedem,1,0,0,7,0
+3,alle,1,0,0,7,0
+3,allen,1,0,0,7,0
+3,wiederholt,1,0,0,7,0
+3,tag,2,0,0,7,0
+3,tages,2,0,0,7,0
+3,täglich,2,0,2,7,0
+3,tägliche,2,0,2,7,0
+3,tägliches,2,0,2,7,0
+3,täglicher,2,0,2,7,0
+3,täglichem,2,0,2,7,0
+3,täglichen,2,0,2,7,0
+3,tage,2,0,1,7,0
+3,tagen,2,0,1,7,0
+3,woche,3,0,0,7,0
+3,wöchentlich,3,0,2,7,0
+3,wöchentliche,3,0,2,7,0
+3,wöchentliches,3,0,2,7,0
+3,wöchentlicher,3,0,2,7,0
+3,wöchentlichem,3,0,2,7,0
+3,wöchentlichen,3,0,2,7,0
+3,wochen,3,0,1,7,0
+3,wochentag,4,0,0,7,0
+3,wochentags,4,0,2,7,0
+3,wochentage,4,0,1,7,0
+3,wochentagen,4,0,1,7,0
+3,wochenende,5,0,0,7,0
+3,wochenenden,5,0,1,7,0
+3,wochenendes,5,0,0,7,0
+3,sonntag,6,1,0,7,0
+3,sonntags,6,1,0,7,0
+3,sonntage,6,1,1,7,0
+3,sonntagen,6,1,1,7,0
+3,montag,6,2,0,7,0
+3,montags,6,2,0,7,0
+3,montage,6,2,1,7,0
+3,montagen,6,2,1,7,0
+3,dienstag,6,3,0,7,0
+3,dienstags,6,3,0,7,0
+3,dienstage,6,3,1,7,0
+3,dienstagen,6,3,1,7,0
+3,mittwoch,6,4,0,7,0
+3,mittwochs,6,4,0,7,0
+3,mittwoche,6,4,1,7,0
+3,mittwochen,6,4,1,7,0
+3,donnerstag,6,5,0,7,0
+3,donnerstags,6,5,0,7,0
+3,donnerstage,6,5,1,7,0
+3,donnerstagen,6,5,1,7,0
+3,freitag,6,6,0,7,0
+3,freitags,6,6,0,7,0
+3,freitage,6,6,1,7,0
+3,freitagen,6,6,1,7,0
+3,samstag,6,7,0,7,0
+3,samstags,6,7,0,7,0
+3,samstage,6,7,1,7,0
+3,samstagen,6,7,1,7,0
+3,sonnabend,6,7,0,7,0
+3,sonnabends,6,7,0,7,0
+3,sonnabende,6,7,1,7,0
+3,sonnabenden,6,7,1,7,0
+3,satertag,6,7,0,7,0
+3,satertags,6,7,0,7,0
+3,satertage,6,7,1,7,0
+3,satertagen,6,7,1,7,0
+3,letzte,8,0,0,7,0
+3,letztes,8,0,0,7,0
+3,letzter,8,0,0,7,0
+3,letztem,8,0,0,7,0
+3,letzten,8,0,0,7,0
+3,monat,9,0,0,7,0
+3,monats,9,2,0,7,0
+3,monatlich,9,0,2,7,0
+3,monatliche,9,0,2,7,0
+3,monatliches,9,0,2,7,0
+3,monatlicher,9,0,2,7,0
+3,monatlichen,9,0,2,7,0
+3,monatlichem,9,0,2,7,0
+3,monate,9,0,1,7,0
+3,monaten,9,0,1,7,0
+3,januar,10,1,0,7,0
+3,jan,10,1,0,7,0
+3,februar,10,2,0,7,0
+3,feb,10,2,0,7,0
+3,märz,10,3,0,7,0
+3,mär,10,3,0,7,0
+3,april,10,4,0,7,0
+3,apr,10,4,0,7,0
+3,mai,10,5,0,7,0
+3,mai,10,5,0,7,0
+3,juni,10,6,0,7,0
+3,jun,10,6,0,7,0
+3,juli,10,7,0,7,0
+3,jul,10,7,0,7,0
+3,august,10,8,0,7,0
+3,aug,10,8,0,7,0
+3,september,10,9,0,7,0
+3,sept,10,9,0,7,0
+3,oktober,10,10,0,7,0
+3,okt,10,10,0,7,0
+3,november,10,11,0,7,0
+3,nov,10,11,0,7,0
+3,dezember,10,12,0,7,0
+3,dez,10,12,0,7,0
+3,jahr,11,0,0,7,0
+3,jährlich,11,0,2,7,0
+3,jährliche,11,0,2,7,0
+3,jährliches,11,0,2,7,0
+3,jährlicher,11,0,2,7,0
+3,jährlichen,11,0,2,7,0
+3,jährlichem,11,0,2,7,0
+3,jahre,11,0,1,7,0
+3,jahren,11,0,1,7,0
+3,bis,12,0,0,7,0
+3,bis zum,12,0,0,7,0
+3,bis zur,12,0,0,7,0
+3,zu,12,0,0,7,0
+3,winter,17,0,2,7,0
+3,frühling,17,1,2,7,0
+3,sommer-,17,2,2,7,0
+3,herbst,17,3,2,7,0
+3,1.250,17,4,2,7,0
+3,2.250,17,5,2,7,0
+3,3.250,17,6,2,7,0
+3,4.250,17,7,2,7,0
+3,1. hälfte,17,8,2,7,0
+3,2. hälfte,17,9,2,7,0
+4,von,1,0,1,7,0
+4,um sagen wir mal,1,0,0,7,0
+4,um circa,1,0,0,7,0
+4,um ungefähr,1,0,0,7,0
+4,vom,1,0,0,7,0
+4,von genau,1,0,0,7,0
+4,zwischen,1,0,0,7,0
+4,bis,2,0,0,7,0
+4,bis zum,2,0,0,7,0
+4,und,2,0,1,7,0
+4,und bis,2,0,0,7,0
+4,starten und,2,0,0,7,0
+4,angehen und,2,0,0,7,0
+4,beginnen und,2,0,0,7,0
+4,anfangen und,2,0,0,7,0
+4,anfängt und,2,0,0,7,0
+4,beginnt und,2,0,0,7,0
+4,angeht und,2,0,0,7,0
+4,startet und,2,0,0,7,0
+4,losgeht und,2,0,0,7,0
+4,anfängt und bis,2,0,0,7,0
+4,beginnt und bis,2,0,0,7,0
+4,angeht und bis,2,0,0,7,0
+4,startet und bis,2,0,0,7,0
+4,losgeht und bis,2,0,0,7,0
+4,bis nicht später als,2,0,0,7,0
+4,bis genau,2,0,0,7,0
+4,geht,3,0,0,7,0
+4,dauert,3,0,0,7,0
+4,andauert,3,0,0,7,0
+4,lang ist,3,0,0,7,0
+4,endet,3,0,0,7,0
+4,aufhört,3,0,0,7,0
+4,zu ende ist,3,0,0,7,0
+4,zu ende geht,3,0,0,7,0
+4,aufhören,3,0,0,7,0
+4,enden,3,0,0,7,0
+4,zu ende sind,3,0,0,7,0
+4,zu ende gehen,3,0,0,7,0

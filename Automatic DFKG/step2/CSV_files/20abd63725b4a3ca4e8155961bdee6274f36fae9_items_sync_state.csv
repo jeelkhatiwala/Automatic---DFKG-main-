@@ -1,0 +1,2 @@
+row_id,initial_sync_completed,last_sync_time_ms,low_watermark,high_watermark,highest_synced_version,last_sync_targets,resync_in_progress,last_per_label_items_sync_settings,last_entities_as_items_sync_settings,highest_synced_version_2,initial_sync_start_time_ms
+557,1,1626978554381,0,9223372036854775807,,b'\x10\x1e\x18\xc8\x01',0,b'\n\x11^sq_ig_i_personal\n\x0f^sq_ig_i_social\n\t^wa_ready\n\x02^f\n\x04^t_z\n\x0e^sq_ig_i_promo\x12\x02^r',b'\x08\x01',42901,

@@ -1,0 +1,5 @@
+FILENAME,OFFSET,SIZE,FORVRAMDISK,BITMAP
+/data/app/~~akSW7jqsVJPumvm8Y01JSA==/com.google.android.gm-wS5MyIP5zCqm7LI9kLkhtg==/base.apk,3560,86,0,b'\x7f\x00\x00\x00?\x00\x00\x00\x00\x00\x00\x7f\x00\x1f\x00\x80\x01\x00\x80\x03\x00\x07\x00\x00\x00\x00\x00\x00\x00\x00\x1f\x00\x00\x00\x1f\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x80\x80\x00\x1f\x00\x0f?\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00?\x00\x00\x00\x00\x00\x00\x00\x00\x7f\x01\x00\x0f\x00\x07\x00\x00\x7f\x00\x00\x1f\x01'
+/data/app/~~akSW7jqsVJPumvm8Y01JSA==/com.google.android.gm-wS5MyIP5zCqm7LI9kLkhtg==/oat/arm64/base.odex,-1,0,2,
+/data/app/~~akSW7jqsVJPumvm8Y01JSA==/com.google.android.gm-wS5MyIP5zCqm7LI9kLkhtg==/oat/arm64/base.vdex,-1,0,2,
+/data/app/~~akSW7jqsVJPumvm8Y01JSA==/com.google.android.gm-wS5MyIP5zCqm7LI9kLkhtg==/oat/arm64/base.art,-1,0,2,

@@ -1,0 +1,71 @@
+id,name,current,make,seoName
+299,Accord,1,Honda,Accord
+300,Accord Crosstour,0,Honda,Accord-Crosstour
+301,CR-V,1,Honda,CR-V
+302,CR-Z,0,Honda,CR-Z
+303,Civic,1,Honda,Civic
+304,Fit,1,Honda,Fit
+305,HR-V,1,Honda,HR-V
+306,Odyssey,1,Honda,Odyssey
+307,Pilot,1,Honda,Pilot
+308,Ridgeline,1,Honda,Ridgeline
+309,CRX,0,Honda,CRX
+310,Element,0,Honda,Element
+311,Insight,1,Honda,Insight
+312,Passport,1,Honda,Passport
+313,Prelude,0,Honda,Prelude
+314,S2000,0,Honda,S2000
+413,CT,1,Lexus,CT
+414,ES,1,Lexus,ES
+415,GS,1,Lexus,GS
+416,GX,1,Lexus,GX
+417,IS,1,Lexus,IS
+418,LS,1,Lexus,LS
+419,LX,1,Lexus,LX
+420,NX,1,Lexus,NX
+421,RC,1,Lexus,RC
+422,RX,1,Lexus,RX
+423,HS,0,Lexus,HS
+424,LFA,0,Lexus,LFA
+425,SC,0,Lexus,SC
+628,4Runner,1,Toyota,4Runner
+629,Avalon,1,Toyota,Avalon
+630,Camry,1,Toyota,Camry
+631,Corolla,1,Toyota,Corolla
+632,Highlander,1,Toyota,Highlander
+633,Land Cruiser,1,Toyota,Land-Cruiser
+634,Prius,1,Toyota,Prius
+635,Prius c,1,Toyota,Prius-c
+636,Prius Plug-in,0,Toyota,Prius-Plug-in
+637,Prius v,1,Toyota,Prius-v
+638,RAV4,1,Toyota,RAV4
+639,Sequoia,1,Toyota,Sequoia
+640,Sienna,1,Toyota,Sienna
+641,Tacoma,1,Toyota,Tacoma
+642,Tundra,1,Toyota,Tundra
+643,Venza,1,Toyota,Venza
+644,Yaris,1,Toyota,Yaris
+645,Camry Solara,0,Toyota,Camry-Solara
+646,Celica,0,Toyota,Celica
+647,Echo,0,Toyota,Echo
+648,FJ Cruiser,0,Toyota,FJ-Cruiser
+649,Matrix,0,Toyota,Matrix
+650,MR2,0,Toyota,MR2
+651,MR2 Spyder,0,Toyota,MR2-Spyder
+652,Paseo,0,Toyota,Paseo
+653,Pickup,0,Toyota,Pickup
+654,Previa,0,Toyota,Previa
+655,Supra,0,Toyota,Supra
+656,T100,0,Toyota,T100
+657,Tercel,0,Toyota,Tercel
+9243,Yaris iA,1,Toyota,Yaris-iA
+9245,Corolla iM,1,Toyota,Corolla-iM
+9246,Cressida,0,Toyota,Cressida
+9247,C-HR,1,Toyota,C-HR
+9248,Prius Prime,1,Toyota,Prius-Prime
+9249,86,1,Toyota,86
+9250,Mirai,1,Toyota,Mirai
+9268,Clarity,1,Honda,Clarity
+9323,LC,1,Lexus,LC
+9541,UX,1,Lexus,UX
+9627,GR Supra,1,Toyota,GR-Supra

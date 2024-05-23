@@ -1,0 +1,26 @@
+RecordId,formal,alias
+1,TalkToBixby,talking to bixby
+2,VoiceWakeUp,voice wake up
+3,VoiceWakeUp,voice wakeup
+4,VoiceWakeUp,bixby wake up
+5,VoiceWakeUp,bixby wakeup
+6,PreferredService,favorite
+7,PreferredService,favorites
+8,PreferredService,favourite
+9,PreferredService,favourites
+10,CheckYourSchedule,checking your schedule
+11,CheckYourSchedule,check my schedule
+12,PersonalResults,personalizing results
+13,PersonalResults,personalize
+14,Suggestions,trying out suggestions
+15,WhatBixbyHeard,bixby's understanding
+16,HowToUseQuickCommand,quick command
+17,HowToUseQuickCommand,quick commands
+18,LockScreen,lock screen
+19,LockScreen,locked screen
+20,LockScreen,phone is locked
+21,LockScreen,phone locked
+22,TypingToBixby,typing to bixby
+23,TypingToBixby,type to bixby
+24,Marketplace,marketplace
+25,Marketplace,market place

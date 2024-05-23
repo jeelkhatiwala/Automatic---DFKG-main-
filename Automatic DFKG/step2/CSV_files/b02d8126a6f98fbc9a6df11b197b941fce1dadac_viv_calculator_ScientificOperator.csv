@@ -1,0 +1,74 @@
+RecordId,formal,alias
+1,sine,sine
+2,sine,sin
+3,cosine,cosine
+4,cosine,cos
+5,tangent,tangent
+6,tangent,tan
+7,log,log
+8,log,logarithm
+9,log,log ten
+10,log,log 10
+11,log,log base 10
+12,log,log base ten
+13,ln,ln
+14,ln,natural log
+15,ln,natural logarithm
+16,ln,log base e
+17,square,square
+18,square,squared
+19,cube,cube
+20,cube,cubed
+21,sqrt,sqrt
+22,sqrt,square root
+23,sqrt,root
+24,cbrt,cbrt
+25,cbrt,cube root
+26,cbrt,cubic root
+27,power,power
+28,factorial,factorial
+29,asin,arcsine
+30,asin,sine inverse
+31,asin,arcsin
+32,acos,cos inverse
+33,acos,arccos
+34,acos,arccosine
+35,acos,cosine inverse
+36,atan,tan inverse
+37,atan,arctan
+38,atan,arctangent
+39,atan,tangent inverse
+40,asinh,hyperbolic sine inverse
+41,asinh,inverse hyperbolic sine
+42,asinh,asinh
+43,asinh,inverse sinh
+44,acosh,hyperbolic cosine inverse
+45,acosh,inverse hyperbolic cosine
+46,acosh,inverse cosh
+47,acosh,acosh
+48,acosh,hyperbolic cos inverse
+49,acosh,inverse hyperbolic cos
+50,atanh,hyperbolic tan inverse
+51,atanh,inverse hyperbolic tangent
+52,atanh,hyperbolic tangent inverse
+53,atanh,inverse hyperbolic tan
+54,atanh,inverse tanh
+55,atanh,atanh
+56,sinh,hyperbolic sine
+57,sinh,hyperbolic sin
+58,sinh,sinh
+59,cosh,hyperbolic cosine
+60,cosh,hyperbolic cos
+61,cosh,cosh
+62,tanh,hyperbolic tangent
+63,tanh,hyperbolic tan
+64,tanh,tanh
+65,unaryminus,unaryminus
+66,unaryminus,minus
+67,unaryminus,negative
+68,modulus,modulus
+69,modulus,absolute value
+70,percent,percent
+71,percent,percentage
+72,halve,half
+73,halve,halve

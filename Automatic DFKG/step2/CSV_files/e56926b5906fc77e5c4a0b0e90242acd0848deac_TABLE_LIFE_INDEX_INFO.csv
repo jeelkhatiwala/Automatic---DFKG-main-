@@ -1,0 +1,16 @@
+COL_WEATHER_KEY,COL_LIFE_INDEX_TYPE,COL_LIFE_INDEX_TEXT,COL_LIFE_INDEX_VALUE,COL_LIFE_INDEX_PRIORITY,COL_LIFE_INDEX_LEVEL,COL_LIFE_INDEX_URL,COL_LIFE_INDEX_CATEGORY
+cityId:current,27,,50.0,0,0,https://weather.com/weather/today/l/47482b4760be8b67d164a7643d7dcc2f4a6a70112357d7b060166f8d57275d24?par=samsung_widget&temp=c#todayDetails,2
+cityId:current,27,,50.0,0,0,https://weather.com/weather/today/l/47482b4760be8b67d164a7643d7dcc2f4a6a70112357d7b060166f8d57275d24?par=samsung_widget&temp=c#todayDetails,8
+cityId:current,1,Very High,10.0,0,0,https://weather.com/weather/today/l/47482b4760be8b67d164a7643d7dcc2f4a6a70112357d7b060166f8d57275d24?par=samsung_widget&temp=c#todayDetails,2
+cityId:current,1,Very High,10.0,0,0,https://weather.com/weather/today/l/47482b4760be8b67d164a7643d7dcc2f4a6a70112357d7b060166f8d57275d24?par=samsung_widget&temp=c#todayDetails,8
+cityId:current,13,6:18 AM,1626949156864.0,0,0,https://weather.com/weather/today/l/47482b4760be8b67d164a7643d7dcc2f4a6a70112357d7b060166f8d57275d24?par=samsung_widget&temp=c#todayDetails,2
+cityId:current,14,8:37 PM,1627000668160.0,0,0,https://weather.com/weather/today/l/47482b4760be8b67d164a7643d7dcc2f4a6a70112357d7b060166f8d57275d24?par=samsung_widget&temp=c#todayDetails,2
+cityId:current,0,,0.0,0,0,https://weather.com/weather/today/l/47482b4760be8b67d164a7643d7dcc2f4a6a70112357d7b060166f8d57275d24?par=samsung_widget&temp=c,2
+cityId:current,47,,0.0,0,0,https://weather.com/weather/today/l/47482b4760be8b67d164a7643d7dcc2f4a6a70112357d7b060166f8d57275d24?par=samsung_widget&temp=c,2
+cityId:current,46,,6.0,0,1,https://weather.com/weather/today/l/47482b4760be8b67d164a7643d7dcc2f4a6a70112357d7b060166f8d57275d24?par=samsung_widget&temp=c,2
+cityId:current,48,,0.0,0,1,https://weather.com/weather/today/l/47482b4760be8b67d164a7643d7dcc2f4a6a70112357d7b060166f8d57275d24?par=samsung_widget&temp=c,2
+cityId:current,10,High,3.0,2,0,https://weather.com/forecast/allergy/l/47482b4760be8b67d164a7643d7dcc2f4a6a70112357d7b060166f8d57275d24?par=samsung_widget&temp=c,1
+cityId:current,42,Good,8.0,4,0,https://weather.com/weather/today/l/47482b4760be8b67d164a7643d7dcc2f4a6a70112357d7b060166f8d57275d24?par=samsung_widget&temp=c,1
+cityId:current,30,None,0.0,0,0,https://weather.com/weather/radar/interactive/l/47482b4760be8b67d164a7643d7dcc2f4a6a70112357d7b060166f8d57275d24?par=samsung_widget&temp=c&layer=drivingDifficulty,1
+cityId:current,18,W,3.0,0,0,https://weather.com/weather/today/l/47482b4760be8b67d164a7643d7dcc2f4a6a70112357d7b060166f8d57275d24?par=samsung_widget&temp=c#todayDetails,2
+cityId:current,26,Moderate,67.0,0,2,https://weather.com/forecast/air-quality/l/47482b4760be8b67d164a7643d7dcc2f4a6a70112357d7b060166f8d57275d24?par=samsung_widget&temp=c,2

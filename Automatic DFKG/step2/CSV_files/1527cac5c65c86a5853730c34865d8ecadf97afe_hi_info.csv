@@ -1,0 +1,4 @@
+section,key,utime,integer,real,text,blob
+1,first_installed_version,1623779361952,30300012,0.0,,
+2,is_used_change_icon,1623779658592,1,0.0,,
+10001,had_hide_file,1623779401422,1,0.0,,

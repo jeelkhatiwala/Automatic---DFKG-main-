@@ -1,0 +1,40 @@
+package_name,sticker_name,thumbnail_resource,thumbnail_resource_id,scene_type,description,sub_order
+com.samsung.android.app.camera.sticker.facearexpression.preload,expressionsticker_0,,2131231697,expression,Funny faces,1
+com.samsung.android.app.camera.sticker.facearexpression.preload,expressionsticker_1,,2131231698,expression,Silly mustaches,2
+com.samsung.android.app.camera.sticker.facearexpression.preload,expressionsticker_2,,2131231699,expression,Fancy eyelashes,3
+com.samsung.android.app.camera.sticker.facearexpression.preload,expressionsticker_3,,2131231700,expression,Wild-eyed faces,4
+com.samsung.android.app.camera.sticker.facearexpression.preload,expressionsticker_4,,2131231701,expression,Pink bow and silly faces,5
+com.samsung.android.app.camera.sticker.facearexpression.preload,expressionsticker_5,,2131231702,expression,Clown faces,6
+com.samsung.android.app.camera.sticker.facearexpression.preload,expressionsticker_6,,2131231703,expression,Snotty faces,7
+com.samsung.android.app.camera.sticker.facearexpression.preload,expressionsticker_7,,2131231704,expression,Droopy-eyed faces,8
+com.samsung.android.app.camera.sticker.facear.preload,dog_white,,2131231676,open_mouth,White dog ears and nose with red bow,1
+com.samsung.android.app.camera.sticker.facear.preload,desertfox,,2131231669,open_mouth,"Long-eared desert fox ears, nose, cheeks, and tongue",2
+com.samsung.android.app.camera.sticker.facear.preload,dog_beagle,,2131231675,open_mouth,"Beagle ears, nose, and cheeks with red scarf",3
+com.samsung.android.app.camera.sticker.facear.preload,rabbit,,2131231924,"open_mouth,sound",Rabbit ears and nose with sound effects,4
+com.samsung.android.app.camera.sticker.facear.preload,seal,,2131231977,"open_mouth,sound",Seal face and body with sound effects,5
+com.samsung.android.app.camera.sticker.facear.preload,deer,,2131231665,wink,"Deer antlers, ears, and nose",6
+com.samsung.android.app.camera.sticker.facear.preload,cat_yellow,,2131231625,open_mouth,Yellow cat ears and nose with flower crown,7
+com.samsung.android.app.camera.sticker.facear.preload,sheep_white,,2131232198,open_mouth,"White sheep ears, hair, and nose with round glasses",8
+com.samsung.android.app.camera.sticker.facear.preload,mouse_cupcake,,2131231810,open_mouth,White mouse ears and nose with red bow and cupcake,9
+com.samsung.android.app.camera.sticker.facear.preload,fennec_fox,,2131231681,open_mouth,Short-eared desert fox ears and nose,10
+com.samsung.android.app.camera.sticker.facear.preload,tiger_yellow,,2131232231,"open_mouth,sound","Tiger ears, nose, and cheeks with birthday hat",11
+com.samsung.android.app.camera.sticker.facear.preload,lesserpanda,,2131231796,open_mouth,"Red panda ears, eyes, and nose with red bow tie",12
+com.samsung.android.app.camera.sticker.facear.preload,bear,,2131231587,,"Bear hat with ears, nose, and eyes with red bow tie",13
+com.samsung.android.app.camera.sticker.facear.preload,mouse,,2131231809,"open_mouth,sound","Pink mouse with ears, nose, and two buck teeth with sound effects",14
+com.samsung.android.app.camera.sticker.facear.preload,lemur,,2131231795,"open_mouth,sound","Lemur eyes, ears, and nose with watermelon and sound effects",15
+com.samsung.android.app.camera.sticker.facear.preload,heart_sunglass,,2131231741,wink,Pink heart-shaped sunglasses,16
+com.samsung.android.app.camera.sticker.facear.preload,bubble,,2131231599,open_mouth,Pink bow and bubble wand,17
+com.samsung.android.app.camera.sticker.facear.preload,toothbrush,,2131232259,open_mouth,Yellow towel on head and toothbrush with cup,18
+com.samsung.android.app.camera.sticker.facear.preload,event_love,,2131231680,wink,Heart headband with balloons,19
+com.samsung.android.app.camera.sticker.facear.preload,cold,,2131231633,open_mouth,"Ice pack on head, red cheeks, and thermometer in mouth",20
+com.samsung.android.app.camera.sticker.facear.preload,singer_black,,2131232203,"open_mouth,sound",Black fedora with dark sunglasses,21
+com.samsung.android.app.camera.sticker.facear.preload,cowboy,,2131231661,"wink,sound","Cowboy hat, red bandana, and revolver",22
+com.samsung.android.app.camera.sticker.facear.preload,grandfather,,2131231722,open_mouth,"Beret, pipe, gray beard, and bow tie",23
+com.samsung.android.app.camera.sticker.facear.preload,cook,,2131231657,,"Chef hat, small mustache, and red scarf",24
+com.samsung.android.app.camera.sticker.facear.preload,hiphop,,2131231748,sound,"Bright multicolored baseball cap, dark sunglasses, thick gold chain, and red bandana",25
+com.samsung.android.app.camera.sticker.facear.preload,goggles,,2131231707,open_mouth,Ski goggles reflecting mountain scene and brown scarf,26
+com.samsung.android.app.camera.sticker.facear.preload,clown_magic,,2131231632,wink,"Clown hat, nose, and hands",27
+com.samsung.android.app.camera.sticker.facear.preload,space,,2131232210,,Line-drawn space helmet,28
+com.samsung.android.app.camera.sticker.facear.preload,studyhard,,2131232223,open_mouth,Reading book with white bandana and round glasses,29
+com.samsung.android.app.camera.sticker.facear.preload,ramen,,2131231925,open_mouth,Eating hot ramen,30
+com.samsung.android.app.camera.sticker.facear.preload,congratulations,,2131231656,sound,Congratulations banner above head and birthday cake,31

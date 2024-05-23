@@ -1,0 +1,4 @@
+adminUid,adminName,canRemove,isPseudoAdmin
+0,SYSTEM-LEVEL-ADMIN,0,0
+1000,KNOX-CUSTOM,0,0
+10105,com.samsung.android.kgclient/com.samsung.android.kgclient.receiver.KGAdminReceiver,1,0

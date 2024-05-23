@@ -1,0 +1,13 @@
+_id,package_id,mimetype_id,raw_contact_id,hash_id,is_read_only,is_primary,is_super_primary,data_version,data1,data2,data3,data4,data5,data6,data7,data8,data9,data10,data11,data12,data13,data14,data15,data_sync1,data_sync2,data_sync3,data_sync4,carrier_presence,preferred_phone_account_component_name,preferred_phone_account_id
+1,,7,1,"ETiZ+TkXWLLodyFmNKvBVksQu8c=
+",0,0,0,0,411 & More,411 & More,,,,,,,,1,0,,,,,,,,,0,,
+2,,5,1,"XeZNW2yEg8VYMgb5sV5iARWtdpE=
+",0,1,0,1,411,2,SIM,,,,,,,,,db56a9d5f7cecb8e,,,,,,,,0,,
+3,,7,2,"CmGTH4M4hxUgw8o+vI3yeOr0RCQ=
+",0,0,0,0,Customer Care,Customer Care,,,,,,,,1,0,,,,,,,,,0,,
+4,,5,2,"741BcIGxzIXFZuOzqnVKjBBl1Nc=
+",0,1,0,1,611,2,SIM,,,,,,,,,09788059f2174b03,,,,,,,,0,,
+5,,7,3,"a1IMf8piVSnqMFTEfAM/6WoztyU=
+",0,0,0,0,Voice Mail,Voice Mail,,,,,,,,1,0,,,,,,,,,0,,
+6,,5,3,"znofXirWHxiN3tuigzjVl8Z22iM=
+",0,1,0,1,+18056377243,2,SIM,+18056377243,,,,,,,,30d1ee3a01da286a,,,,,,,,0,,

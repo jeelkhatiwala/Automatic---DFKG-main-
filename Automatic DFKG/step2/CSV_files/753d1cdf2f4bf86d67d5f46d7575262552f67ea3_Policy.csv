@@ -1,0 +1,7 @@
+id,serviceId,policyId,errorCode,serviceVersion,value
+1,gnj0zk4j42,uploadFile,,5.0.05,0
+2,on6ox5scyf,maxFileSize,"TEST,TEMP",,3
+3,on6ox5scyf,performanceQuota,,,1000
+4,026-399-529756,uploadFile,"NETWORK_IO,SERVER_STORAGE_FULL,SERVER_ERROR",,0
+5,026-399-529756,performanceQuota,,,1000
+6,4K0-399-5752101,performanceQuota,,,1000

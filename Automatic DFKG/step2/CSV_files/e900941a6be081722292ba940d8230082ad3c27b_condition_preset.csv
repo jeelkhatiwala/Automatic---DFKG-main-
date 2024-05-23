@@ -1,0 +1,9 @@
+_id,preset_type,order_index,time,transition_type,latitude,longitude,address,locality,place_of_interest,during_option_start_time,during_option_end_time,radius,place_key,place_category,checked
+1,7,0,YEAR=0;MONTH=0;WEEK=0;DAY=0;HOUR=1;MINUTE=0;,0,0.0,0.0,,,,0,0,200.0,,0,0
+2,5,1,YEAR=0;MONTH=0;WEEK=0;DAY=0;HOUR=7;MINUTE=0;,0,0.0,0.0,,,,0,0,200.0,,0,0
+3,5,2,YEAR=0;MONTH=0;WEEK=0;DAY=0;HOUR=15;MINUTE=0;,0,0.0,0.0,,,,0,0,200.0,,0,0
+4,5,3,YEAR=0;MONTH=0;WEEK=0;DAY=0;HOUR=22;MINUTE=0;,0,0.0,0.0,,,,0,0,200.0,,0,0
+5,1,4,YEAR=0;MONTH=0;WEEK=0;DAY=1;HOUR=0;MINUTE=0;,0,0.0,0.0,,,,0,0,200.0,,0,0
+6,1,5,YEAR=0;MONTH=0;WEEK=0;DAY=3;HOUR=0;MINUTE=0;,0,0.0,0.0,,,,0,0,200.0,,0,0
+7,2,6,YEAR=0;MONTH=0;WEEK=1;DAY=0;HOUR=0;MINUTE=0;,0,0.0,0.0,,,,0,0,200.0,,0,0
+8,3,7,YEAR=0;MONTH=1;WEEK=0;DAY=0;HOUR=0;MINUTE=0;,0,0.0,0.0,,,,0,0,200.0,,0,0

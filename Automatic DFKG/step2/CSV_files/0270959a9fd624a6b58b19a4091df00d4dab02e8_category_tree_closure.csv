@@ -1,0 +1,10 @@
+ancestor,descendant,depth
+uncategorized:///,uncategorized:///,0
+trash:///,trash:///,0
+old:///,old:///,0
+uncategorized:///,screenOffMemo:///,1
+screenOffMemo:///,screenOffMemo:///,0
+old:///,1,1
+1,1,0
+old:///,2,1
+2,2,0

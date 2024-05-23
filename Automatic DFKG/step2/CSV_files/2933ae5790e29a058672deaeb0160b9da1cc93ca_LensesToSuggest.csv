@@ -1,0 +1,434 @@
+tag,lensId,lensIconContentUri
+babe,52968320890,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FTpnaukvIpjmEu76m6fZxu%3Fbo%3DEhgaABoAMgF9OgEEQgYI0eq--gVIAlASYAE%253D%26uc%3D18
+baby,46907320883,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FZIUDjwQu92NfK26mdrH8X%3Fbo%3DEhgaABoAMgF9OgEEQgYIgIa_9gVIAlASYAE%253D%26uc%3D18
+best,54572950939,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F9rklxZ0J7ZNoYPcNUOTPO%3Fbo%3DEhgaABoAMgF9OgEEQgYIzsK9_gVIAlASYAE%253D%26uc%3D18
+bir,52463100919,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fu1WOaAeDCIoPxtTpLd3n0%3Fbo%3DEhgaABoAMgF9OgEEQgYI8fmr-wVIAlASYAE%253D%26uc%3D18
+birthday,30973717251,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FgOL3fO5FcVACN7XTM59Pe%3Fbo%3DEhgaABoAMgF9OgEEQgYI8LO68AVIAlASYAE%253D%26uc%3D18
+bored,37328131098,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F6TDkhMrEdm1lz6Goq1MAu%3Fbo%3DEhgaABoAMgF9OgEEQgYI9v7D8AVIAlASYAE%253D%26uc%3D18
+can,47634310947,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FRkMvst7ng2gTtYwxdG8cz%3Fbo%3DEhgaABoAMgF9OgEEQgYIhqi-9gVIAlASYAE%253D%26uc%3D18
+car,49141270878,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FudAyIOmGqV5PPWQdEb6dd%3Fbo%3DEhgaABoAMgF9OgEEQgYIor-7-AVIAlASYAE%253D%26uc%3D18
+chill,53570880904,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FSRcQhWHL1R0MCEm1h3YWe%3Fbo%3DEhgaABoAMgF9OgEEQgYIgKfm_AVIAlASYAE%253D%26uc%3D18
+coffee,50137600974,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fs5nO2Ufunt0eUmnDRra6Z%3Fbo%3DEhgaABoAMgF9OgEEQgYIqeb6-AVIAlASYAE%253D%26uc%3D18
+cr,40728920973,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FY9EDNpXMGiiH6Qz18NjyZ%3Fbo%3DEhgaABoAMgF9OgEEQgYI3ujM8AVIAlASYAE%253D%26uc%3D18
+crown,40240691152,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FJbMncPrG1MeoK6XthHY03%3Fbo%3DEhgaABoAMgF9OgEEQgYI78DO8AVIAlASYAE%253D%26uc%3D18
+cry,40728920973,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FY9EDNpXMGiiH6Qz18NjyZ%3Fbo%3DEhgaABoAMgF9OgEEQgYI3ujM8AVIAlASYAE%253D%26uc%3D18
+cute,45672280910,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FfRwKz0IhCmJbgUnsSH9oc%3Fbo%3DEhgaABoAMgF9OgEEQgYInP279AVIAlASYAE%253D%26uc%3D18
+dog,28450067240,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FzxXjJpAdQK7tH7msnKLEP%3Fbo%3DEhgaABoAMgF9OgEEQgYI6O_D8AVIAlASYAE%253D%26uc%3D18
+flower,46785460901,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FkWMnyc7EBHZeK1brPGQN6%3Fbo%3DEhgaABoAMgF9OgEEQgYI2ezE9QVIAlASYAE%253D%26uc%3D18
+food,47343710912,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FlTJBNDaBQywtpL4rqtKPl%3Fbo%3DEhgaABoAMgF9OgEEQgYIgrGZ9gVIAlASYAE%253D%26uc%3D18
+goo,52045131108,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FQykwqITzScGvWPOiPe8ji%3Fbo%3DEhgaABoAMgF9OgEEQgYI0_mm-wVIAlASYAE%253D%26uc%3D18
+good morning,42151550932,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FyVFXd3xhUxTURFvPjVDDQ%3Fbo%3DEhgaABoAMgF9OgEEQgYI4bbC8AVIAlASYAE%253D%26uc%3D18
+good nig,49661000895,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FXEzy2MLQp5tvmO7D9kqyo%3Fbo%3DEhgaABoAMgF9OgEEQgYIyeuU-gVIAlASYAE%253D%26uc%3D18
+good night,29929687239,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FelDuwviDEd2BjOrdrzmYU%3Fbo%3DEhgaABoAMgF9OgEEQgYIy-3J8AVIAlASYAE%253D%26uc%3D18
+ha,5189866427682816,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F0NGmIySytY6xL07NGJTCb%3Fbo%3DEhgaABoAMgF9OgEEQgYIm_jF9QVIAlASYAE%253D%26uc%3D18
+hap,55959300917,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fe84A4guhyVhBtPALn21ZH%3Fbo%3DEhgaABoAMgF9OgEEQgYIqrL3-wVIAlASYAE%253D%26uc%3D18
+happy,38965010875,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FAUTDHkfWx7umVtT3WlN0Q%3Fbo%3DEhgaABoAMgF9OgEEQgYI8evP8AVIAlASYAE%253D%26uc%3D18
+happy bi,25445737229,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FWhPA0JSiEr184lT2qpyjK%3Fbo%3DEhgaABoAMgF9OgEEQgYIz5rM8AVIAlASYAE%253D%26uc%3D18
+happy birthday,41050540996,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FZCYipLJy0j2FzSeWI5uk2%3Fbo%3DEhgaABoAMgF9OgEEQgYInNLG8AVIAlASYAE%253D%26uc%3D18
+heart,50844650944,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FDb1Kh12p90DmAT9M8fKQS%3Fbo%3DEhgaABoAMgF9OgEEQgYIp-XK-QVIAlASYAE%253D%26uc%3D18
+hearts,44396261296,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FjnemvTYoyiEa7660VpjB8%3Fbo%3DEhgaABoAMgF9OgEEQgYIsYn08gVIAlASYAE%253D%26uc%3D18
+hot,54238890888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FdDhZQgrXDxyq19Db2ikfs%3Fbo%3DEhgaABoAMgF9OgEEQgYIxqjM_AVIAlASYAE%253D%26uc%3D18
+kiss,20919147253,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FnoQD2ixerkd0DzICddkvo%3Fbo%3DEhgaABoAMgF9OgEEQgYIq-v19QVIAlASYAE%253D%26uc%3D18
+lo,42716371407,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FYoFaP371p3EGgVszu75tE%3Fbo%3DEhgaABoAMgF9OgEEQgYIxc_O8AVIAlASYAE%253D%26uc%3D18
+lov,47076330875,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FSat4I2MTGRtEOQFPYiM9T%3Fbo%3DEhgaABoAMgF9OgEEQgYI0sLW9AVIAlASYAE%253D%26uc%3D18
+love,46481490875,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FNmMe3i1fKvGN3LEk4hW5o%3Fbo%3DEhgaABoAMgF9OgEEQgYIivup9QVIAlASYAE%253D%26uc%3D18
+love you,49142271346,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F45pqjoGsEV0AshemHQcoK%3Fbo%3DEhgaABoAMgF9OgEEQgYI8PHS9wVIAlASYAE%253D%26uc%3D18
+miss,52977111041,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FWA9V5HFntuCcaB1wqww5x%3Fbo%3DEhgaABoAMgF9OgEEQgYIhKWx-wVIAlASYAE%253D%26uc%3D18
+miss you,54181030889,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FkwWrWjRuL19D2GxklZhvk%3Fbo%3DEhgaABoAMgF9OgEEQgYIo82R_AVIAlASYAE%253D%26uc%3D18
+mood,45682010905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FIgfXav9WmCyI81QDS1810%3Fbo%3DEhgaABoAMgF9OgEEQgYIpdjB9AVIAlASYAE%253D%26uc%3D18
+night,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+rain,53546841072,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FynPeCTAsvi14BY3okVGfB%3Fbo%3DEhgaABoAMgF9OgEEQgYIhePv_AVIAlASYAE%253D%26uc%3D18
+sad,47810311215,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FCcIJE9GQRAkiSR32Ar7K7%3Fbo%3DEhgaABoAMgF9OgEEQgYI0LvZ9gVIAlASYAE%253D%26uc%3D18
+sick,43927061042,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FEpJ4lYoU6dvQqplbIgBeH%3Fbo%3DEhgaABoAMgF9OgEEQgYIsviz8gVIAlASYAE%253D%26uc%3D18
+sleep,47986330908,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FDOr7EVYCdJuVWNOpUwqY3%3Fbo%3DEhgaABoAMgF9OgEEQgYIp8ro9gVIAlASYAE%253D%26uc%3D18
+star,37889050984,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FAJ6AM3Sal7RWT1npV161M%3Fbo%3DEhgaABoAMgF9OgEEQgYIwMC88AVIAlASYAE%253D%26uc%3D18
+stre,24993727246,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FvOUHQIq83ro6wBM9BtYDR%3Fbo%3DEhgaABoAMgF9OgEEQgYI2Jyn8QVIAlASYAE%253D%26uc%3D18
+strea,43504750920,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FyqrNtCmnKFJUD9mDCC58D%3Fbo%3DEhgaABoAMgF9OgEEQgYIhtTG8QVIAlASYAE%253D%26uc%3D18
+streak,43504750920,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FyqrNtCmnKFJUD9mDCC58D%3Fbo%3DEhgaABoAMgF9OgEEQgYIhtTG8QVIAlASYAE%253D%26uc%3D18
+streaks,43504750920,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FyqrNtCmnKFJUD9mDCC58D%3Fbo%3DEhgaABoAMgF9OgEEQgYIhtTG8QVIAlASYAE%253D%26uc%3D18
+summer,50763900891,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fz1WmbF9jBSAGU1twqlJBO%3Fbo%3DEhgaABoAMgF9OgEEQgYIwaT39wVIAlASYAE%253D%26uc%3D18
+sun,31045217243,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F97FtGYR9RsCkGnebUaKz4%3Fbo%3DEhgaABoAMgF9OgEEQgYIlrLP8AVIAlASYAE%253D%26uc%3D18
+ti,50728750886,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F7OBfeMHWbZwESlTvFPb5S%3Fbo%3DEhgaABoAMgF9OgEEQgYIqYeU9gVIAlASYAE%253D%26uc%3D18
+tired,48253071308,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FqcnsMvo2mN6YAT1Wu3xl1%3Fbo%3DEhgaABoAMgF9OgEEQgYIs6iO9wVIAlASYAE%253D%26uc%3D18
+tuesday,49856000881,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FpjxCHhbR7cp2XPxeTcP37%3Fbo%3DEhgaABoAMgF9OgEEQgYI8unB-AVIAlASYAE%253D%26uc%3D18
+what,48401801379,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FKTfJV3GDTa5OWH7iH1MX1%3Fbo%3DEhgaABoAMgF9OgEEQgYI16eO9wVIAlASYAE%253D%26uc%3D18
+work,55779870905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FKihhoPvnz4HBXoq1V7Pj7%3Fbo%3DEhgaABoAMgF9OgEEQgYIgqKs_wVIAlASYAE%253D%26uc%3D18
+yum,50000620959,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fph9oSzJxaKn2let5OXN5V%3Fbo%3DEhgaABoAMgF9OgEEQgYIv-3q-AVIAlASYAE%253D%26uc%3D18
+anime,52305200893,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FRUYT6ZqorBXuwepu8wpFb%3Fbo%3DEhgaABoAMgF9OgEEQgYI5rvc-wVIAlASYAE%253D%26uc%3D18
+arrow,47949701174,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FYQ8o6ByWsbLSnsFF453U1%3Fbo%3DEhgaABoAMgF9OgEEQgYI84zF9QVIAlASYAE%253D%26uc%3D18
+bath,34749740884,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FmB1XzoKd7SHsmd1c34r3Q%3Fbo%3DEhgaABoAMgF9OgEEQgYI9dm_8AVIAlASYAE%253D%26uc%3D18
+beautiful,52046880881,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FLZb1Kpl928zhcU5vXeCY6%3Fbo%3DEhgaABoAMgF9OgEEQgYI84rN9wVIAlASYAE%253D%26uc%3D18
+bestie,47676110917,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FY0Lm87EsPabHg60VcsFra%3Fbo%3DEhgaABoAMgF9OgEEQgYIm73U9gVIAlASYAE%253D%26uc%3D18
+birth,50013020879,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Flp4sasdyihDm8JCoZLzjY%3Fbo%3DEhgaABoAMgF9OgEEQgYIx4T6-AVIAlASYAE%253D%26uc%3D18
+black,48850440893,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FCaaaWu5XOpuEPnVSpP3f3%3Fbo%3DEhgaABoAMgF9OgEEQgYItJiN9wVIAlASYAE%253D%26uc%3D18
+wow,51059340941,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fqys2BGHieyyz9U1ZQ0Z2f%3Fbo%3DEhgaABoAMgF9OgEEQgYI9Izq-QVIAlASYAE%253D%26uc%3D18
+boring,37328131098,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F6TDkhMrEdm1lz6Goq1MAu%3Fbo%3DEhgaABoAMgF9OgEEQgYI9v7D8AVIAlASYAE%253D%26uc%3D18
+break,37644950915,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FSoYObmnl4qGmfsZcLSSzp%3Fbo%3DEhgaABoAMgF9OgEEQgYIn53Q8AVIAlASYAE%253D%26uc%3D18
+cat,27156717229,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FRYmgxPJ9IkLKYQeBPdHVC%3Fbo%3DEhgaABoAMgF9OgEEQgYI2tTD8AVIAlASYAE%253D%26uc%3D18
+cens,44694090933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FsHyxdQAacsoyAIpwr7rNW%3Fbo%3DEhgaABoAMgF9OgEEQgYI_uDM8wVIAlASYAE%253D%26uc%3D18
+censored,44694090933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FsHyxdQAacsoyAIpwr7rNW%3Fbo%3DEhgaABoAMgF9OgEEQgYI_uDM8wVIAlASYAE%253D%26uc%3D18
+christm,42357410994,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FLxhJW7iPMu2hdUqpueXK1%3Fbo%3DEhgaABoAMgF9OgEEQgYI257S8AVIAlASYAE%253D%26uc%3D18
+christmas,53734330884,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FXErW4TyBWBOqGsQKN2TaQ%3Fbo%3DEhgaABoAMgF9OgEEQgYIht2Q_QVIAlASYAE%253D%26uc%3D18
+dream,51915470897,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FnJEDcs4A3epef4ENay51j%3Fbo%3DEhgaABoAMgF9OgEEQgYIodjp9gVIAlASYAE%253D%26uc%3D18
+cloud,55646870933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FNla3FWW5NSgthiMsj5gEH%3Fbo%3DEhgaABoAMgF9OgEEQgYIq7_z_gVIAlASYAE%253D%26uc%3D18
+clouds,53561710910,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FhA3dnJ77ZWFRvide9ORhH%3Fbo%3DEhgaABoAMgF9OgEEQgYI2r3F_AVIAlASYAE%253D%26uc%3D18
+coff,48163610987,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FaWR9u4hkkWUCbMLfo19RO%3Fbo%3DEhgaABoAMgF9OgEEQgYIyub-9gVIAlASYAE%253D%26uc%3D18
+coffe,50137600974,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fs5nO2Ufunt0eUmnDRra6Z%3Fbo%3DEhgaABoAMgF9OgEEQgYIqeb6-AVIAlASYAE%253D%26uc%3D18
+cold,43478690936,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FTNRSfAtLq3k2LUshv6zki%3Fbo%3DEhgaABoAMgF9OgEEQgYImOfG8QVIAlASYAE%253D%26uc%3D18
+color,51330420907,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FKEiZJc06jveMx1jYOMZSH%3Fbo%3DEhgaABoAMgF9OgEEQgYI47Tc_gVIAlASYAE%253D%26uc%3D18
+cool,30786507251,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FY7BHpsGC5vqwzNXxZOhem%3Fbo%3DEhgaABoAMgF9OgEEQgYIup7Q8AVIAlASYAE%253D%26uc%3D18
+cozy,40350250884,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F78mJqHdHC3d5vGRohL7xT%3Fbo%3DEhgaABoAMgF9OgEEQgYIvpyn8QVIAlASYAE%253D%26uc%3D18
+cut,48428601408,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FGLJkJ3G7x5h9iZGlyDPvB%3Fbo%3DEhgaABoAMgF9OgEEQgYIr4qd9wVIAlASYAE%253D%26uc%3D18
+cutie,53877020892,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FC6fmxt1oEH49uZv1bPnh4%3Fbo%3DEhgaABoAMgF9OgEEQgYIkL2W_AVIAlASYAE%253D%26uc%3D18
+dance,28080087234,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FcUWW6sXo1snBWwh2F7riL%3Fbo%3DEhgaABoAMgF9OgEEQgYInpeN_wVIAlASYAE%253D%26uc%3D18
+evening,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+eye,48508440942,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fks451uPMk5M2Wa2a6DGBm%3Fbo%3DEhgaABoAMgF9OgEEQgYI3fuA9QVIAlASYAE%253D%26uc%3D18
+family,30658537256,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fpd9KuysjYrfijipSuvnsz%3Fbo%3DEhgaABoAMgF9OgEEQgYItrHE8AVIAlASYAE%253D%26uc%3D18
+fir,53194790907,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FuaORyI7Q0ycDG7f4jNXzW%3Fbo%3DEhgaABoAMgF9OgEEQgYIqoOm_AVIAlASYAE%253D%26uc%3D18
+fire,44104481043,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FtTaWNAQ4RAEa90ob7mLyV%3Fbo%3DEhgaABoAMgF9OgEEQgYIxPDT8gVIAlASYAE%253D%26uc%3D18
+friday,49856000881,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FpjxCHhbR7cp2XPxeTcP37%3Fbo%3DEhgaABoAMgF9OgEEQgYI8unB-AVIAlASYAE%253D%26uc%3D18
+friend,51858851384,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FbYhe4gawDxKnaOmp8q7o4%3Fbo%3DEhgaABoAMgF9OgEEQgYIqOHe-gVIAlASYAE%253D%26uc%3D18
+friends,51858851384,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FbYhe4gawDxKnaOmp8q7o4%3Fbo%3DEhgaABoAMgF9OgEEQgYIqOHe-gVIAlASYAE%253D%26uc%3D18
+go,44089151016,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FVCheuVAV7hqslzyzfKfwW%3Fbo%3DEhgaABoAMgF9OgEEQgYI-Zyn8QVIAlASYAE%253D%26uc%3D18
+good,44089151016,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FVCheuVAV7hqslzyzfKfwW%3Fbo%3DEhgaABoAMgF9OgEEQgYI-Zyn8QVIAlASYAE%253D%26uc%3D18
+good m,55759480936,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FxJOyi6a1EgupFmIv0jH7H%3Fbo%3DEhgaABoAMgF9OgEEQgYI2pKC_wVIAlASYAE%253D%26uc%3D18
+good mo,53072390883,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FZptzCFK36qKphKt4JbBDT%3Fbo%3DEhgaABoAMgF9OgEEQgYIq4uC_AVIAlASYAE%253D%26uc%3D18
+good morn,53072390883,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FZptzCFK36qKphKt4JbBDT%3Fbo%3DEhgaABoAMgF9OgEEQgYIq4uC_AVIAlASYAE%253D%26uc%3D18
+good morni,53072390883,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FZptzCFK36qKphKt4JbBDT%3Fbo%3DEhgaABoAMgF9OgEEQgYIq4uC_AVIAlASYAE%253D%26uc%3D18
+good mornin,53072390883,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FZptzCFK36qKphKt4JbBDT%3Fbo%3DEhgaABoAMgF9OgEEQgYIq4uC_AVIAlASYAE%253D%26uc%3D18
+good luck,50086500918,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F8yx9ZtrBvxM6JCmIF8NST%3Fbo%3DEhgaABoAMgF9OgEEQgYIlor6-AVIAlASYAE%253D%26uc%3D18
+good n,45141630877,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fn9ijE100Ncjrvx4lnVPob%3Fbo%3DEhgaABoAMgF9OgEEQgYIg_To8wVIAlASYAE%253D%26uc%3D18
+good ni,49132030905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FU9BJzeWp5Db6fLw8D6fS7%3Fbo%3DEhgaABoAMgF9OgEEQgYI67fx9wVIAlASYAE%253D%26uc%3D18
+good nigh,54569240910,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F5trjdl73XbGeWfO6ZWP8C%3Fbo%3DEhgaABoAMgF9OgEEQgYI7c7__AVIAlASYAE%253D%26uc%3D18
+goodnight,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+grass,31098737232,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F6CqpRbbMoTPlSUwPyoiyn%3Fbo%3DEhgaABoAMgF9OgEEQgYI5sDE8AVIAlASYAE%253D%26uc%3D18
+gym,44730670891,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FPgyypskzibGG74rxPQIhk%3Fbo%3DEhgaABoAMgF9OgEEQgYI0oyp8wVIAlASYAE%253D%26uc%3D18
+hair,28038367229,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FOSsqgqfIxebfE53N2lTNA%3Fbo%3DEhgaABoAMgF9OgEEQgYIpqDQ8AVIAlASYAE%253D%26uc%3D18
+happy b,30973717251,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FgOL3fO5FcVACN7XTM59Pe%3Fbo%3DEhgaABoAMgF9OgEEQgYI8LO68AVIAlASYAE%253D%26uc%3D18
+happy bir,6155381607579648,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fj7pD0XmfzCZYX9S6qIBlk%3Fbo%3DEhgaABoAMgF9OgEEQgYIspvy8AVIAlASYAE%253D%26uc%3D18
+happy birth,30973717251,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FgOL3fO5FcVACN7XTM59Pe%3Fbo%3DEhgaABoAMgF9OgEEQgYI8LO68AVIAlASYAE%253D%26uc%3D18
+hat,49742970875,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FcY4AOJEE8R7lq1dr25enB%3Fbo%3DEhgaABoAMgF9OgEEQgYI-4vb-AVIAlASYAE%253D%26uc%3D18
+head,55672661865,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FOMuj9Ug1vZCQE9y0BQ3RX%3Fbo%3DEhgaABoAMgF9OgEEQgYI9ezy_gVIAlASYAE%253D%26uc%3D18
+hello,54344930921,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fr8XStIKVtmxzCy9MIHQon%3Fbo%3DEhgaABoAMgF9OgEEQgYIlrHJ_QVIAlASYAE%253D%26uc%3D18
+home,45672310902,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FecDBzDheeRne4SEI5VMrd%3Fbo%3DEhgaABoAMgF9OgEEQgYIhayr9QVIAlASYAE%253D%26uc%3D18
+hug,43748170976,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FYiAZfqcO5KVB5sLoItxoG%3Fbo%3DEhgaABoAMgF9OgEEQgYIrM3B8QVIAlASYAE%253D%26uc%3D18
+i love,55705741809,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fj5WJWp0t57atAXmmakNnq%3Fbo%3DEhgaABoAMgF9OgEEQgYImeO9_gVIAlASYAE%253D%26uc%3D18
+i love you,55705741809,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fj5WJWp0t57atAXmmakNnq%3Fbo%3DEhgaABoAMgF9OgEEQgYImeO9_gVIAlASYAE%253D%26uc%3D18
+ice,40928430930,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FNSyOFNmxCNVzvQCwhOHsM%3Fbo%3DEhgaABoAMgF9OgEEQgYIquvY8AVIAlASYAE%253D%26uc%3D18
+lazy,40025630932,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FPBgWtwISZS228ZtBdDt4g%3Fbo%3DEhgaABoAMgF9OgEEQgYIi5LQ8AVIAlASYAE%253D%26uc%3D18
+light,52709481390,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F4xE4o6PI6kIKxUOOdvr8B%3Fbo%3DEhgaABoAMgF9OgEEQgYIqK7I-gVIAlASYAE%253D%26uc%3D18
+lol,27607547232,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FhVMynx8MvoSdkydXIZUdi%3Fbo%3DEhgaABoAMgF9OgEEQgYI-vbC8AVIAlASYAE%253D%26uc%3D18
+mask,48448520960,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F5P26mPAn6IzKvvgElDmnY%3Fbo%3DEhgaABoAMgF9OgEEQgYI09n_9AVIAlASYAE%253D%26uc%3D18
+monday,46393301010,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F08Tn9MMwiwOae71HhtPzp%3Fbo%3DEhgaABoAMgF9OgEEQgYI0q3F9QVIAlASYAE%253D%26uc%3D18
+money,25974647236,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FqybJ0oI2w1lCQZzmfzOiK%3Fbo%3DEhgaABoAMgF9OgEEQgYIlLXO8AVIAlASYAE%253D%26uc%3D18
+moo,42170700891,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FzGP6uvSuT2NZXhdIkzCFw%3Fbo%3DEhgaABoAMgF9OgEEQgYImbfJ8AVIAlASYAE%253D%26uc%3D18
+moon,54238890896,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FIE0D9tlxa7K6rRxDBSPHM%3Fbo%3DEhgaABoAMgF9OgEEQgYI7viL-wVIAlASYAE%253D%26uc%3D18
+morning,55759480936,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FxJOyi6a1EgupFmIv0jH7H%3Fbo%3DEhgaABoAMgF9OgEEQgYI2pKC_wVIAlASYAE%253D%26uc%3D18
+movie,41032640888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F2tcjXekHOw6ApWaKDHvvT%3Fbo%3DEhgaABoAMgF9OgEEQgYItazQ8AVIAlASYAE%253D%26uc%3D18
+music,37387970884,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FOQ0NKupaiC1h4bIxbkdRY%3Fbo%3DEhgaABoAMgF9OgEEQgYIjvfO8AVIAlASYAE%253D%26uc%3D18
+my love,45783810922,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F7PPIL3qZ8nZk19SeFZ9zr%3Fbo%3DEhgaABoAMgF9OgEEQgYI_fz79AVIAlASYAE%253D%26uc%3D18
+good day,28974637228,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fp20oQ0gBQpEloMYrcMwEV%3Fbo%3DEhgaABoAMgF9OgEEQgYI2ejy8AVIAlASYAE%253D%26uc%3D18
+new,51169380926,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F7TKw3wGQIDWQh9USkKR1n%3Fbo%3DEhgaABoAMgF9OgEEQgYIls_z-QVIAlASYAE%253D%26uc%3D18
+party,56282260908,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F2CCPzZepEOQDYzI9XxWgI%3Fbo%3DEhgaABoAMgF9OgEEQgYI4NmmgAZIAlASYAE%253D%26uc%3D18
+pretty,49314240966,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FmUhDq8OEL2eMdFM7ZnJ0e%3Fbo%3DEhgaABoAMgF9OgEEQgYI8K3F-QVIAlASYAE%253D%26uc%3D18
+relax,53182900897,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FZouZWbkZV8P7Bir9DWgDG%3Fbo%3DEhgaABoAMgF9OgEEQgYI3uiW_AVIAlASYAE%253D%26uc%3D18
+saturday,52624320897,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FtwrReOOCVFncwdDeaMz9L%3Fbo%3DEhgaABoAMgF9OgEEQgYIjObG-wVIAlASYAE%253D%26uc%3D18
+school,30630917229,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FKUJItjG8B5oNpyiCgI1jw%3Fbo%3DEhgaABoAMgF9OgEEQgYIx_vx8AVIAlASYAE%253D%26uc%3D18
+sky,53561710910,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FhA3dnJ77ZWFRvide9ORhH%3Fbo%3DEhgaABoAMgF9OgEEQgYI2r3F_AVIAlASYAE%253D%26uc%3D18
+slee,48640510933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FRUgtelJ1VecpPApKSsrYB%3Fbo%3DEhgaABoAMgF9OgEEQgYI9-WQ-AVIAlASYAE%253D%26uc%3D18
+sleepy,49132030905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FU9BJzeWp5Db6fLw8D6fS7%3Fbo%3DEhgaABoAMgF9OgEEQgYI67fx9wVIAlASYAE%253D%26uc%3D18
+smile,55635580895,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FLyQtA8BaalbOqmWDavA0D%3Fbo%3DEhgaABoAMgF9OgEEQgYIsYa8_AVIAlASYAE%253D%26uc%3D18
+snow,40776070905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FVLpd3o81sv8HJIBM7qNrA%3Fbo%3DEhgaABoAMgF9OgEEQgYI1q7M8AVIAlASYAE%253D%26uc%3D18
+stars,30099667235,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FcOq8DlyeNEIo5wmwlfuKv%3Fbo%3DEhgaABoAMgF9OgEEQgYIiOfU8AVIAlASYAE%253D%26uc%3D18
+study,36391290993,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F4btdC5VxDqymWOJ70BcDM%3Fbo%3DEhgaABoAMgF9OgEEQgYImMrP8AVIAlASYAE%253D%26uc%3D18
+sunday,50504671814,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FklvN96bKODubuZsRGnwcQ%3Fbo%3DEhgaABoAMgF9OgEEQgYI8Za0-QVIAlASYAE%253D%26uc%3D18
+tea,44428160931,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F5x87l0fIjyUyMuXzKvAqx%3Fbo%3DEhgaABoAMgF9OgEEQgYI2Kf58gVIAlASYAE%253D%26uc%3D18
+temp,35488800977,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F4JvigkENM5pcYubnqjzUF%3Fbo%3DEhgaABoAMgF9OgEEQgYI4bi68AVIAlASYAE%253D%26uc%3D18
+time,35488800977,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F4JvigkENM5pcYubnqjzUF%3Fbo%3DEhgaABoAMgF9OgEEQgYI4bi68AVIAlASYAE%253D%26uc%3D18
+tire,50728750886,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F7OBfeMHWbZwESlTvFPb5S%3Fbo%3DEhgaABoAMgF9OgEEQgYIqYeU9gVIAlASYAE%253D%26uc%3D18
+vibes,54429280904,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FszWWjJDItNswCduKEx8uY%3Fbo%3DEhgaABoAMgF9OgEEQgYIkoLQ_QVIAlASYAE%253D%26uc%3D18
+water,42981521263,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FlSX7ZtPsq9dwHLHVSOJjz%3Fbo%3DEhgaABoAMgF9OgEEQgYI-oXr-AVIAlASYAE%253D%26uc%3D18
+weed,46766210945,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FOsqvXcQKXknUBQeRJUJjK%3Fbo%3DEhgaABoAMgF9OgEEQgYI1f6O-AVIAlASYAE%253D%26uc%3D18
+week,39276880920,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FLrfzRcrnwU1o2Uww3jLXP%3Fbo%3DEhgaABoAMgF9OgEEQgYI9srP8AVIAlASYAE%253D%26uc%3D18
+weekend,49856000881,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FpjxCHhbR7cp2XPxeTcP37%3Fbo%3DEhgaABoAMgF9OgEEQgYI8unB-AVIAlASYAE%253D%26uc%3D18
+white,43748141049,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FzeKnvxKIHcmJqFyxecRD9%3Fbo%3DEhgaABoAMgF9OgEEQgYIvMPS8QVIAlASYAE%253D%26uc%3D18
+win,29634057228,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FBPUtegShbACUHqfsmkGaa%3Fbo%3DEhgaABoAMgF9OgEEQgYI_Pbx8AVIAlASYAE%253D%26uc%3D18
+wint,26258287317,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F3lE38i36kptGVzDqDr2s8%3Fbo%3DEhgaABoAMgF9OgEEQgYI7aTQ8AVIAlASYAE%253D%26uc%3D18
+winter,55627351119,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F7MxeEVMRFnUqAvalmNG1B%3Fbo%3DEhgaABoAMgF9OgEEQgYIjJPx_wVIAlASYAE%253D%26uc%3D18
+quee,43143830910,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FDAXv0yqLIQeAP8uJcFGhV%3Fbo%3DEhgaABoAMgF9OgEEQgYIovfr-AVIAlASYAE%253D%26uc%3D18
+queen,49869330888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FtiEj8EhiUScjOpoDPz0Kd%3Fbo%3DEhgaABoAMgF9OgEEQgYI-aGt9wVIAlASYAE%253D%26uc%3D18
+yumm,50000620959,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fph9oSzJxaKn2let5OXN5V%3Fbo%3DEhgaABoAMgF9OgEEQgYIv-3q-AVIAlASYAE%253D%26uc%3D18
+bonne,39131210951,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FeZFaxUTh648pbSsa7vbEN%3Fbo%3DEhgaABoAMgF9OgEEQgYIs8nT8AVIAlASYAE%253D%26uc%3D18
+storm,36802620933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FfDj4IXFAMFSU7GLPq4ZVM%3Fbo%3DEhgaABoAMgF9OgEEQgYIuc7N8AVIAlASYAE%253D%26uc%3D18
+wind,52499900924,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi0Q5BK6sEvGwPyCCoKTef%3Fbo%3DEhgaABoAMgF9OgEEQgYI6MbG-wVIAlASYAE%253D%26uc%3D18
+lightning,30415507231,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FXC4bmi7Cbqw3imZ7ZvSgr%3Fbo%3DEhgaABoAMgF9OgEEQgYIvYW48AVIAlASYAE%253D%26uc%3D18
+flash,46810480911,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FFRgAaac1zNeBekcbuFCmB%3Fbo%3DEhgaABoAMgF9OgEEQgYIvo6A9QVIAlASYAE%253D%26uc%3D18
+winter storm,26898157239,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FiaVXhFsGY2WVnoRNB8Ryp%3Fbo%3DEhgaABoAMgF9OgEEQgYIqLby8AVIAlASYAE%253D%26uc%3D18
+monsoon,44363500933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FIhSiNj8OIMWgTMyXJpCen%3Fbo%3DEhgaABoAMgF9OgEEQgYIm-3z8gVIAlASYAE%253D%26uc%3D18
+heat,54238890888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FdDhZQgrXDxyq19Db2ikfs%3Fbo%3DEhgaABoAMgF9OgEEQgYIxqjM_AVIAlASYAE%253D%26uc%3D18
+coeur,53891240888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi44c59cuB8MLBbBhN4368%3Fbo%3DEhgaABoAMgF9OgEEQgYIw9jA_AVIAlASYAE%253D%26uc%3D18
+cœur,53891240888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi44c59cuB8MLBbBhN4368%3Fbo%3DEhgaABoAMgF9OgEEQgYIw9jA_AVIAlASYAE%253D%26uc%3D18
+bonne nuit,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+triste,47810311215,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FCcIJE9GQRAkiSR32Ar7K7%3Fbo%3DEhgaABoAMgF9OgEEQgYI0LvZ9gVIAlASYAE%253D%26uc%3D18
+joyeux,38965010875,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FAUTDHkfWx7umVtT3WlN0Q%3Fbo%3DEhgaABoAMgF9OgEEQgYI8evP8AVIAlASYAE%253D%26uc%3D18
+amour,47076330875,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FSat4I2MTGRtEOQFPYiM9T%3Fbo%3DEhgaABoAMgF9OgEEQgYI0sLW9AVIAlASYAE%253D%26uc%3D18
+anniversaire,30973717251,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FgOL3fO5FcVACN7XTM59Pe%3Fbo%3DEhgaABoAMgF9OgEEQgYI8LO68AVIAlASYAE%253D%26uc%3D18
+joyeux anniversaire,30973717251,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FgOL3fO5FcVACN7XTM59Pe%3Fbo%3DEhgaABoAMgF9OgEEQgYI8LO68AVIAlASYAE%253D%26uc%3D18
+fatigue,47810311215,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FCcIJE9GQRAkiSR32Ar7K7%3Fbo%3DEhgaABoAMgF9OgEEQgYI0LvZ9gVIAlASYAE%253D%26uc%3D18
+fatigué,47810311215,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FCcIJE9GQRAkiSR32Ar7K7%3Fbo%3DEhgaABoAMgF9OgEEQgYI0LvZ9gVIAlASYAE%253D%26uc%3D18
+flamme,53194790907,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FuaORyI7Q0ycDG7f4jNXzW%3Fbo%3DEhgaABoAMgF9OgEEQgYIqoOm_AVIAlASYAE%253D%26uc%3D18
+musique,37387970884,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FOQ0NKupaiC1h4bIxbkdRY%3Fbo%3DEhgaABoAMgF9OgEEQgYIjvfO8AVIAlASYAE%253D%26uc%3D18
+bonjour,43573551152,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FIXr8DeHXuKrw4gm1d82F5%3Fbo%3DEhgaABoAMgF9OgEEQgYIzrjR8QVIAlASYAE%253D%26uc%3D18
+dormir,49132030905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FU9BJzeWp5Db6fLw8D6fS7%3Fbo%3DEhgaABoAMgF9OgEEQgYI67fx9wVIAlASYAE%253D%26uc%3D18
+dodo,49132030905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FU9BJzeWp5Db6fLw8D6fS7%3Fbo%3DEhgaABoAMgF9OgEEQgYI67fx9wVIAlASYAE%253D%26uc%3D18
+bonne année,42224110920,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FfRMk81pNCSQ0zt2qVyrRn%3Fbo%3DEhgaABoAMgF9OgEEQgYI4LvJ8AVIAlASYAE%253D%26uc%3D18
+bonne annee,42224110920,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FfRMk81pNCSQ0zt2qVyrRn%3Fbo%3DEhgaABoAMgF9OgEEQgYI4LvJ8AVIAlASYAE%253D%26uc%3D18
+malade,43927061042,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FEpJ4lYoU6dvQqplbIgBeH%3Fbo%3DEhgaABoAMgF9OgEEQgYIsviz8gVIAlASYAE%253D%26uc%3D18
+bisou,20919147253,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FnoQD2ixerkd0DzICddkvo%3Fbo%3DEhgaABoAMgF9OgEEQgYIq-v19QVIAlASYAE%253D%26uc%3D18
+bonne journee,38221440950,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F13qr0PokwyQVBxtVbTXUd%3Fbo%3DEhgaABoAMgF9OgEEQgYI257C8AVIAlASYAE%253D%26uc%3D18
+bonne journée,38221440950,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F13qr0PokwyQVBxtVbTXUd%3Fbo%3DEhgaABoAMgF9OgEEQgYI257C8AVIAlASYAE%253D%26uc%3D18
+je taime,43741870990,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FRgr2VBxcmVe8q7Z8370OM%3Fbo%3DEhgaABoAMgF9OgEEQgYIlP-q8QVIAlASYAE%253D%26uc%3D18
+je t'aime,43741870990,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FRgr2VBxcmVe8q7Z8370OM%3Fbo%3DEhgaABoAMgF9OgEEQgYIlP-q8QVIAlASYAE%253D%26uc%3D18
+jetaime,43741870990,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FRgr2VBxcmVe8q7Z8370OM%3Fbo%3DEhgaABoAMgF9OgEEQgYIlP-q8QVIAlASYAE%253D%26uc%3D18
+soirée,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+soiree,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+flèche,47949701174,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FYQ8o6ByWsbLSnsFF453U1%3Fbo%3DEhgaABoAMgF9OgEEQgYI84zF9QVIAlASYAE%253D%26uc%3D18
+fleche,47949701174,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FYQ8o6ByWsbLSnsFF453U1%3Fbo%3DEhgaABoAMgF9OgEEQgYI84zF9QVIAlASYAE%253D%26uc%3D18
+flèchee,47949701174,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FYQ8o6ByWsbLSnsFF453U1%3Fbo%3DEhgaABoAMgF9OgEEQgYI84zF9QVIAlASYAE%253D%26uc%3D18
+قلب,53891240888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi44c59cuB8MLBbBhN4368%3Fbo%3DEhgaABoAMgF9OgEEQgYIw9jA_AVIAlASYAE%253D%26uc%3D18
+قلوب,44396261296,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FjnemvTYoyiEa7660VpjB8%3Fbo%3DEhgaABoAMgF9OgEEQgYIsYn08gVIAlASYAE%253D%26uc%3D18
+yummy,50000620959,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fph9oSzJxaKn2let5OXN5V%3Fbo%3DEhgaABoAMgF9OgEEQgYIv-3q-AVIAlASYAE%253D%26uc%3D18
+قلب ابيض,56358450915,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FmgLzvUHWKjMLwVG8k7l6o%3Fbo%3DEhgaABoAMgF9OgEEQgYIvbWn_wVIAlASYAE%253D%26uc%3D18
+قلبي,43753891038,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fn4H9zSGNMFWNpIJnnFFdD%3Fbo%3DEhgaABoAMgF9OgEEQgYIxM-n8QVIAlASYAE%253D%26uc%3D18
+قهوه,50137600974,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fs5nO2Ufunt0eUmnDRra6Z%3Fbo%3DEhgaABoAMgF9OgEEQgYIqeb6-AVIAlASYAE%253D%26uc%3D18
+قهوة,50137600974,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fs5nO2Ufunt0eUmnDRra6Z%3Fbo%3DEhgaABoAMgF9OgEEQgYIqeb6-AVIAlASYAE%253D%26uc%3D18
+حب,47076330875,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FSat4I2MTGRtEOQFPYiM9T%3Fbo%3DEhgaABoAMgF9OgEEQgYI0sLW9AVIAlASYAE%253D%26uc%3D18
+نوم,49132030905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FU9BJzeWp5Db6fLw8D6fS7%3Fbo%3DEhgaABoAMgF9OgEEQgYI67fx9wVIAlASYAE%253D%26uc%3D18
+سهم,47949701174,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FYQ8o6ByWsbLSnsFF453U1%3Fbo%3DEhgaABoAMgF9OgEEQgYI84zF9QVIAlASYAE%253D%26uc%3D18
+مساء,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+مساء الخير,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+صباح,45980010892,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FtQmbtuHdyHHrfyTSXKyt9%3Fbo%3DEhgaABoAMgF9OgEEQgYIrqfc9AVIAlASYAE%253D%26uc%3D18
+صباح الخير,55620831131,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F4pTyt1IqiQtp1H10OnieL%3Fbo%3DEhgaABoAMgF9OgEEQgYIttuR_wVIAlASYAE%253D%26uc%3D18
+صباح الخ,55620831131,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F4pTyt1IqiQtp1H10OnieL%3Fbo%3DEhgaABoAMgF9OgEEQgYIttuR_wVIAlASYAE%253D%26uc%3D18
+صباح ال,45980010892,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FtQmbtuHdyHHrfyTSXKyt9%3Fbo%3DEhgaABoAMgF9OgEEQgYIrqfc9AVIAlASYAE%253D%26uc%3D18
+نار,53194790907,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FuaORyI7Q0ycDG7f4jNXzW%3Fbo%3DEhgaABoAMgF9OgEEQgYIqoOm_AVIAlASYAE%253D%26uc%3D18
+احبك,43741870990,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FRgr2VBxcmVe8q7Z8370OM%3Fbo%3DEhgaABoAMgF9OgEEQgYIlP-q8QVIAlASYAE%253D%26uc%3D18
+احب,43741870990,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FRgr2VBxcmVe8q7Z8370OM%3Fbo%3DEhgaABoAMgF9OgEEQgYIlP-q8QVIAlASYAE%253D%26uc%3D18
+تعب,47810311215,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FCcIJE9GQRAkiSR32Ar7K7%3Fbo%3DEhgaABoAMgF9OgEEQgYI0LvZ9gVIAlASYAE%253D%26uc%3D18
+تعبان,47810311215,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FCcIJE9GQRAkiSR32Ar7K7%3Fbo%3DEhgaABoAMgF9OgEEQgYI0LvZ9gVIAlASYAE%253D%26uc%3D18
+حزين,47810311215,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FCcIJE9GQRAkiSR32Ar7K7%3Fbo%3DEhgaABoAMgF9OgEEQgYI0LvZ9gVIAlASYAE%253D%26uc%3D18
+حزن,47810311215,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FCcIJE9GQRAkiSR32Ar7K7%3Fbo%3DEhgaABoAMgF9OgEEQgYI0LvZ9gVIAlASYAE%253D%26uc%3D18
+شاي,44428160931,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F5x87l0fIjyUyMuXzKvAqx%3Fbo%3DEhgaABoAMgF9OgEEQgYI2Kf58gVIAlASYAE%253D%26uc%3D18
+لذيذ,51285820877,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fjl9461F587BCQleM5ufOF%3Fbo%3DEhgaABoAMgF9OgEEQgYIjMTu-QVIAlASYAE%253D%26uc%3D18
+ضحك,55635580895,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FLyQtA8BaalbOqmWDavA0D%3Fbo%3DEhgaABoAMgF9OgEEQgYIsYa8_AVIAlASYAE%253D%26uc%3D18
+جميل,47076330875,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FSat4I2MTGRtEOQFPYiM9T%3Fbo%3DEhgaABoAMgF9OgEEQgYI0sLW9AVIAlASYAE%253D%26uc%3D18
+حبي,49314240966,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FmUhDq8OEL2eMdFM7ZnJ0e%3Fbo%3DEhgaABoAMgF9OgEEQgYI8K3F-QVIAlASYAE%253D%26uc%3D18
+بوسه,20919147253,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FnoQD2ixerkd0DzICddkvo%3Fbo%3DEhgaABoAMgF9OgEEQgYIq-v19QVIAlASYAE%253D%26uc%3D18
+جوع,46273830883,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FdiTX283j3PAnwN5lC7X7u%3Fbo%3DEhgaABoAMgF9OgEEQgYI0suF9QVIAlASYAE%253D%26uc%3D18
+الو,43573551152,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FIXr8DeHXuKrw4gm1d82F5%3Fbo%3DEhgaABoAMgF9OgEEQgYIzrjR8QVIAlASYAE%253D%26uc%3D18
+عيد مولد سعيد,30973717251,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FgOL3fO5FcVACN7XTM59Pe%3Fbo%3DEhgaABoAMgF9OgEEQgYI8LO68AVIAlASYAE%253D%26uc%3D18
+يوم ميلاد سعيد,30973717251,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FgOL3fO5FcVACN7XTM59Pe%3Fbo%3DEhgaABoAMgF9OgEEQgYI8LO68AVIAlASYAE%253D%26uc%3D18
+gute,39131210951,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FeZFaxUTh648pbSsa7vbEN%3Fbo%3DEhgaABoAMgF9OgEEQgYIs8nT8AVIAlASYAE%253D%26uc%3D18
+gut,39131210951,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FeZFaxUTh648pbSsa7vbEN%3Fbo%3DEhgaABoAMgF9OgEEQgYIs8nT8AVIAlASYAE%253D%26uc%3D18
+gute nacht,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+nacht,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+schlaf,49132030905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FU9BJzeWp5Db6fLw8D6fS7%3Fbo%3DEhgaABoAMgF9OgEEQgYI67fx9wVIAlASYAE%253D%26uc%3D18
+schlafen,49132030905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FU9BJzeWp5Db6fLw8D6fS7%3Fbo%3DEhgaABoAMgF9OgEEQgYI67fx9wVIAlASYAE%253D%26uc%3D18
+schlafe,49132030905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FU9BJzeWp5Db6fLw8D6fS7%3Fbo%3DEhgaABoAMgF9OgEEQgYI67fx9wVIAlASYAE%253D%26uc%3D18
+herz,53891240888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi44c59cuB8MLBbBhN4368%3Fbo%3DEhgaABoAMgF9OgEEQgYIw9jA_AVIAlASYAE%253D%26uc%3D18
+müde,47810311215,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FCcIJE9GQRAkiSR32Ar7K7%3Fbo%3DEhgaABoAMgF9OgEEQgYI0LvZ9gVIAlASYAE%253D%26uc%3D18
+schlaflos,48640510933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FRUgtelJ1VecpPApKSsrYB%3Fbo%3DEhgaABoAMgF9OgEEQgYI9-WQ-AVIAlASYAE%253D%26uc%3D18
+guten morgen,55620831131,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F4pTyt1IqiQtp1H10OnieL%3Fbo%3DEhgaABoAMgF9OgEEQgYIttuR_wVIAlASYAE%253D%26uc%3D18
+guten morge,55620831131,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F4pTyt1IqiQtp1H10OnieL%3Fbo%3DEhgaABoAMgF9OgEEQgYIttuR_wVIAlASYAE%253D%26uc%3D18
+kaffee,50137600974,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fs5nO2Ufunt0eUmnDRra6Z%3Fbo%3DEhgaABoAMgF9OgEEQgYIqeb6-AVIAlASYAE%253D%26uc%3D18
+feierabend,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+feier,25445737229,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FWhPA0JSiEr184lT2qpyjK%3Fbo%3DEhgaABoAMgF9OgEEQgYIz5rM8AVIAlASYAE%253D%26uc%3D18
+liebe,47076330875,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FSat4I2MTGRtEOQFPYiM9T%3Fbo%3DEhgaABoAMgF9OgEEQgYI0sLW9AVIAlASYAE%253D%26uc%3D18
+traurig,47810311215,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FCcIJE9GQRAkiSR32Ar7K7%3Fbo%3DEhgaABoAMgF9OgEEQgYI0LvZ9gVIAlASYAE%253D%26uc%3D18
+langweilig,37328131098,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F6TDkhMrEdm1lz6Goq1MAu%3Fbo%3DEhgaABoAMgF9OgEEQgYI9v7D8AVIAlASYAE%253D%26uc%3D18
+langeweile,37328131098,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F6TDkhMrEdm1lz6Goq1MAu%3Fbo%3DEhgaABoAMgF9OgEEQgYI9v7D8AVIAlASYAE%253D%26uc%3D18
+arbeit,55779870905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FKihhoPvnz4HBXoq1V7Pj7%3Fbo%3DEhgaABoAMgF9OgEEQgYIgqKs_wVIAlASYAE%253D%26uc%3D18
+arbeiten,55779870905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FKihhoPvnz4HBXoq1V7Pj7%3Fbo%3DEhgaABoAMgF9OgEEQgYIgqKs_wVIAlASYAE%253D%26uc%3D18
+ich liebe dich,43741870990,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FRgr2VBxcmVe8q7Z8370OM%3Fbo%3DEhgaABoAMgF9OgEEQgYIlP-q8QVIAlASYAE%253D%26uc%3D18
+liebe dich,55581201944,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FgiTOWq47vmLzdPSA8o5O4%3Fbo%3DEhgaABoAMgF9OgEEQgYI1eWj_gVIAlASYAE%253D%26uc%3D18
+geburtstag,30973717251,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FgOL3fO5FcVACN7XTM59Pe%3Fbo%3DEhgaABoAMgF9OgEEQgYI8LO68AVIAlASYAE%253D%26uc%3D18
+iyi gece,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+iyi geceler,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+iyi gecel,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+iyi gecele,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+iyi gecelr,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+günaydın,55620831131,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F4pTyt1IqiQtp1H10OnieL%3Fbo%3DEhgaABoAMgF9OgEEQgYIttuR_wVIAlASYAE%253D%26uc%3D18
+gunaydin,55620831131,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F4pTyt1IqiQtp1H10OnieL%3Fbo%3DEhgaABoAMgF9OgEEQgYIttuR_wVIAlASYAE%253D%26uc%3D18
+gunayd,55620831131,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F4pTyt1IqiQtp1H10OnieL%3Fbo%3DEhgaABoAMgF9OgEEQgYIttuR_wVIAlASYAE%253D%26uc%3D18
+sabahlar,45980010892,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FtQmbtuHdyHHrfyTSXKyt9%3Fbo%3DEhgaABoAMgF9OgEEQgYIrqfc9AVIAlASYAE%253D%26uc%3D18
+sabah,45980010892,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FtQmbtuHdyHHrfyTSXKyt9%3Fbo%3DEhgaABoAMgF9OgEEQgYIrqfc9AVIAlASYAE%253D%26uc%3D18
+mutlu,38965010875,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FAUTDHkfWx7umVtT3WlN0Q%3Fbo%3DEhgaABoAMgF9OgEEQgYI8evP8AVIAlASYAE%253D%26uc%3D18
+gün,49856000881,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FpjxCHhbR7cp2XPxeTcP37%3Fbo%3DEhgaABoAMgF9OgEEQgYI8unB-AVIAlASYAE%253D%26uc%3D18
+kahve,50137600974,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fs5nO2Ufunt0eUmnDRra6Z%3Fbo%3DEhgaABoAMgF9OgEEQgYIqeb6-AVIAlASYAE%253D%26uc%3D18
+üzgün,47810311215,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FCcIJE9GQRAkiSR32Ar7K7%3Fbo%3DEhgaABoAMgF9OgEEQgYI0LvZ9gVIAlASYAE%253D%26uc%3D18
+müzik,37387970884,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FOQ0NKupaiC1h4bIxbkdRY%3Fbo%3DEhgaABoAMgF9OgEEQgYIjvfO8AVIAlASYAE%253D%26uc%3D18
+yorgun,47810311215,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FCcIJE9GQRAkiSR32Ar7K7%3Fbo%3DEhgaABoAMgF9OgEEQgYI0LvZ9gVIAlASYAE%253D%26uc%3D18
+üz,47810311215,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FCcIJE9GQRAkiSR32Ar7K7%3Fbo%3DEhgaABoAMgF9OgEEQgYI0LvZ9gVIAlASYAE%253D%26uc%3D18
+güne,49856000881,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FpjxCHhbR7cp2XPxeTcP37%3Fbo%3DEhgaABoAMgF9OgEEQgYI8unB-AVIAlASYAE%253D%26uc%3D18
+doğum günü,30973717251,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FgOL3fO5FcVACN7XTM59Pe%3Fbo%3DEhgaABoAMgF9OgEEQgYI8LO68AVIAlASYAE%253D%26uc%3D18
+uyku,49132030905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FU9BJzeWp5Db6fLw8D6fS7%3Fbo%3DEhgaABoAMgF9OgEEQgYI67fx9wVIAlASYAE%253D%26uc%3D18
+uyumak,49132030905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FU9BJzeWp5Db6fLw8D6fS7%3Fbo%3DEhgaABoAMgF9OgEEQgYI67fx9wVIAlASYAE%253D%26uc%3D18
+uykulu,49132030905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FU9BJzeWp5Db6fLw8D6fS7%3Fbo%3DEhgaABoAMgF9OgEEQgYI67fx9wVIAlASYAE%253D%26uc%3D18
+iyi uykular,48640510933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FRUgtelJ1VecpPApKSsrYB%3Fbo%3DEhgaABoAMgF9OgEEQgYI9-WQ-AVIAlASYAE%253D%26uc%3D18
+gün batımı,31045217243,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F97FtGYR9RsCkGnebUaKz4%3Fbo%3DEhgaABoAMgF9OgEEQgYIlrLP8AVIAlASYAE%253D%26uc%3D18
+sıkıldı,37328131098,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F6TDkhMrEdm1lz6Goq1MAu%3Fbo%3DEhgaABoAMgF9OgEEQgYI9v7D8AVIAlASYAE%253D%26uc%3D18
+uğur,44412780896,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F9O6cc8MSAzTC1GoK5AM2j%3Fbo%3DEhgaABoAMgF9OgEEQgYIoMmQ8gVIAlASYAE%253D%26uc%3D18
+amo,56429080925,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FW6pgoXbbJg10Gc2GjNQu1%3Fbo%3DEhgaABoAMgF9OgEEQgYI5rC0_QVIAlASYAE%253D%26uc%3D18
+te amo,43741870990,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FRgr2VBxcmVe8q7Z8370OM%3Fbo%3DEhgaABoAMgF9OgEEQgYIlP-q8QVIAlASYAE%253D%26uc%3D18
+corazon,53891240888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi44c59cuB8MLBbBhN4368%3Fbo%3DEhgaABoAMgF9OgEEQgYIw9jA_AVIAlASYAE%253D%26uc%3D18
+corazón,53891240888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi44c59cuB8MLBbBhN4368%3Fbo%3DEhgaABoAMgF9OgEEQgYIw9jA_AVIAlASYAE%253D%26uc%3D18
+corazones,44396261296,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FjnemvTYoyiEa7660VpjB8%3Fbo%3DEhgaABoAMgF9OgEEQgYIsYn08gVIAlASYAE%253D%26uc%3D18
+corazone,53891240888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi44c59cuB8MLBbBhN4368%3Fbo%3DEhgaABoAMgF9OgEEQgYIw9jA_AVIAlASYAE%253D%26uc%3D18
+feliz,38965010875,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FAUTDHkfWx7umVtT3WlN0Q%3Fbo%3DEhgaABoAMgF9OgEEQgYI8evP8AVIAlASYAE%253D%26uc%3D18
+hola,56511740929,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F3Hbu2umQvGXyN4pR9bruu%3Fbo%3DEhgaABoAMgF9OgEEQgYIr9u1_QVIAlASYAE%253D%26uc%3D18
+musica,37387970884,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FOQ0NKupaiC1h4bIxbkdRY%3Fbo%3DEhgaABoAMgF9OgEEQgYIjvfO8AVIAlASYAE%253D%26uc%3D18
+buenas,39131210951,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FeZFaxUTh648pbSsa7vbEN%3Fbo%3DEhgaABoAMgF9OgEEQgYIs8nT8AVIAlASYAE%253D%26uc%3D18
+buenos dias,55620831131,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F4pTyt1IqiQtp1H10OnieL%3Fbo%3DEhgaABoAMgF9OgEEQgYIttuR_wVIAlASYAE%253D%26uc%3D18
+buenas noches,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+besos,20919147253,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FnoQD2ixerkd0DzICddkvo%3Fbo%3DEhgaABoAMgF9OgEEQgYIq-v19QVIAlASYAE%253D%26uc%3D18
+risa,55635580895,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FLyQtA8BaalbOqmWDavA0D%3Fbo%3DEhgaABoAMgF9OgEEQgYIsYa8_AVIAlASYAE%253D%26uc%3D18
+cora,53891240888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi44c59cuB8MLBbBhN4368%3Fbo%3DEhgaABoAMgF9OgEEQgYIw9jA_AVIAlASYAE%253D%26uc%3D18
+coração,53891240888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi44c59cuB8MLBbBhN4368%3Fbo%3DEhgaABoAMgF9OgEEQgYIw9jA_AVIAlASYAE%253D%26uc%3D18
+coracao,53891240888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi44c59cuB8MLBbBhN4368%3Fbo%3DEhgaABoAMgF9OgEEQgYIw9jA_AVIAlASYAE%253D%26uc%3D18
+corac,53891240888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi44c59cuB8MLBbBhN4368%3Fbo%3DEhgaABoAMgF9OgEEQgYIw9jA_AVIAlASYAE%253D%26uc%3D18
+coraç,53891240888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi44c59cuB8MLBbBhN4368%3Fbo%3DEhgaABoAMgF9OgEEQgYIw9jA_AVIAlASYAE%253D%26uc%3D18
+boa,39131210951,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FeZFaxUTh648pbSsa7vbEN%3Fbo%3DEhgaABoAMgF9OgEEQgYIs8nT8AVIAlASYAE%253D%26uc%3D18
+bom,39131210951,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FeZFaxUTh648pbSsa7vbEN%3Fbo%3DEhgaABoAMgF9OgEEQgYIs8nT8AVIAlASYAE%253D%26uc%3D18
+bom dia,55620831131,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F4pTyt1IqiQtp1H10OnieL%3Fbo%3DEhgaABoAMgF9OgEEQgYIttuR_wVIAlASYAE%253D%26uc%3D18
+boa noite,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+boa noi,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+amor,47076330875,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FSat4I2MTGRtEOQFPYiM9T%3Fbo%3DEhgaABoAMgF9OgEEQgYI0sLW9AVIAlASYAE%253D%26uc%3D18
+fogo,53194790907,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FuaORyI7Q0ycDG7f4jNXzW%3Fbo%3DEhgaABoAMgF9OgEEQgYIqoOm_AVIAlASYAE%253D%26uc%3D18
+feli,38965010875,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FAUTDHkfWx7umVtT3WlN0Q%3Fbo%3DEhgaABoAMgF9OgEEQgYI8evP8AVIAlASYAE%253D%26uc%3D18
+sono,49132030905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FU9BJzeWp5Db6fLw8D6fS7%3Fbo%3DEhgaABoAMgF9OgEEQgYI67fx9wVIAlASYAE%253D%26uc%3D18
+feliz aniversário,30973717251,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FgOL3fO5FcVACN7XTM59Pe%3Fbo%3DEhgaABoAMgF9OgEEQgYI8LO68AVIAlASYAE%253D%26uc%3D18
+anos feliz,30973717251,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FgOL3fO5FcVACN7XTM59Pe%3Fbo%3DEhgaABoAMgF9OgEEQgYI8LO68AVIAlASYAE%253D%26uc%3D18
+aniversário feliz,30973717251,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FgOL3fO5FcVACN7XTM59Pe%3Fbo%3DEhgaABoAMgF9OgEEQgYI8LO68AVIAlASYAE%253D%26uc%3D18
+любовь,47076330875,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FSat4I2MTGRtEOQFPYiM9T%3Fbo%3DEhgaABoAMgF9OgEEQgYI0sLW9AVIAlASYAE%253D%26uc%3D18
+люблю,47076330875,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FSat4I2MTGRtEOQFPYiM9T%3Fbo%3DEhgaABoAMgF9OgEEQgYI0sLW9AVIAlASYAE%253D%26uc%3D18
+лав,47076330875,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FSat4I2MTGRtEOQFPYiM9T%3Fbo%3DEhgaABoAMgF9OgEEQgYI0sLW9AVIAlASYAE%253D%26uc%3D18
+лов,47076330875,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FSat4I2MTGRtEOQFPYiM9T%3Fbo%3DEhgaABoAMgF9OgEEQgYI0sLW9AVIAlASYAE%253D%26uc%3D18
+я тебя люблю,43741870990,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FRgr2VBxcmVe8q7Z8370OM%3Fbo%3DEhgaABoAMgF9OgEEQgYIlP-q8QVIAlASYAE%253D%26uc%3D18
+сердце,53891240888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi44c59cuB8MLBbBhN4368%3Fbo%3DEhgaABoAMgF9OgEEQgYIw9jA_AVIAlASYAE%253D%26uc%3D18
+сердечко,53891240888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi44c59cuB8MLBbBhN4368%3Fbo%3DEhgaABoAMgF9OgEEQgYIw9jA_AVIAlASYAE%253D%26uc%3D18
+с днем рождения,30973717251,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FgOL3fO5FcVACN7XTM59Pe%3Fbo%3DEhgaABoAMgF9OgEEQgYI8LO68AVIAlASYAE%253D%26uc%3D18
+с днюхой,30973717251,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FgOL3fO5FcVACN7XTM59Pe%3Fbo%3DEhgaABoAMgF9OgEEQgYI8LO68AVIAlASYAE%253D%26uc%3D18
+с днюшкой,30973717251,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FgOL3fO5FcVACN7XTM59Pe%3Fbo%3DEhgaABoAMgF9OgEEQgYI8LO68AVIAlASYAE%253D%26uc%3D18
+с др,30973717251,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FgOL3fO5FcVACN7XTM59Pe%3Fbo%3DEhgaABoAMgF9OgEEQgYI8LO68AVIAlASYAE%253D%26uc%3D18
+доброе утро,55620831131,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F4pTyt1IqiQtp1H10OnieL%3Fbo%3DEhgaABoAMgF9OgEEQgYIttuR_wVIAlASYAE%253D%26uc%3D18
+с добрым утром,55620831131,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F4pTyt1IqiQtp1H10OnieL%3Fbo%3DEhgaABoAMgF9OgEEQgYIttuR_wVIAlASYAE%253D%26uc%3D18
+утречка,55620831131,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F4pTyt1IqiQtp1H10OnieL%3Fbo%3DEhgaABoAMgF9OgEEQgYIttuR_wVIAlASYAE%253D%26uc%3D18
+доброго утречка,55620831131,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F4pTyt1IqiQtp1H10OnieL%3Fbo%3DEhgaABoAMgF9OgEEQgYIttuR_wVIAlASYAE%253D%26uc%3D18
+доброй ночи,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+ночки,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+доброй ночки,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+споки,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+сплю,49132030905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FU9BJzeWp5Db6fLw8D6fS7%3Fbo%3DEhgaABoAMgF9OgEEQgYI67fx9wVIAlASYAE%253D%26uc%3D18
+спать,49132030905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FU9BJzeWp5Db6fLw8D6fS7%3Fbo%3DEhgaABoAMgF9OgEEQgYI67fx9wVIAlASYAE%253D%26uc%3D18
+кофе,50137600974,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fs5nO2Ufunt0eUmnDRra6Z%3Fbo%3DEhgaABoAMgF9OgEEQgYIqeb6-AVIAlASYAE%253D%26uc%3D18
+удачи,44412780896,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F9O6cc8MSAzTC1GoK5AM2j%3Fbo%3DEhgaABoAMgF9OgEEQgYIoMmQ8gVIAlASYAE%253D%26uc%3D18
+удачки,44412780896,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F9O6cc8MSAzTC1GoK5AM2j%3Fbo%3DEhgaABoAMgF9OgEEQgYIoMmQ8gVIAlASYAE%253D%26uc%3D18
+грусть,47810311215,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FCcIJE9GQRAkiSR32Ar7K7%3Fbo%3DEhgaABoAMgF9OgEEQgYI0LvZ9gVIAlASYAE%253D%26uc%3D18
+грустный,47810311215,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FCcIJE9GQRAkiSR32Ar7K7%3Fbo%3DEhgaABoAMgF9OgEEQgYI0LvZ9gVIAlASYAE%253D%26uc%3D18
+грустняшка,47810311215,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FCcIJE9GQRAkiSR32Ar7K7%3Fbo%3DEhgaABoAMgF9OgEEQgYI0LvZ9gVIAlASYAE%253D%26uc%3D18
+cinta,47076330875,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FSat4I2MTGRtEOQFPYiM9T%3Fbo%3DEhgaABoAMgF9OgEEQgYI0sLW9AVIAlASYAE%253D%26uc%3D18
+aku cinta kamu,43741870990,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FRgr2VBxcmVe8q7Z8370OM%3Fbo%3DEhgaABoAMgF9OgEEQgYIlP-q8QVIAlASYAE%253D%26uc%3D18
+jantung,53891240888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi44c59cuB8MLBbBhN4368%3Fbo%3DEhgaABoAMgF9OgEEQgYIw9jA_AVIAlASYAE%253D%26uc%3D18
+selamat ulang tahun,30973717251,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FgOL3fO5FcVACN7XTM59Pe%3Fbo%3DEhgaABoAMgF9OgEEQgYI8LO68AVIAlASYAE%253D%26uc%3D18
+selamat pagi,55620831131,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F4pTyt1IqiQtp1H10OnieL%3Fbo%3DEhgaABoAMgF9OgEEQgYIttuR_wVIAlASYAE%253D%26uc%3D18
+selamat malam,45693770899,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FUglBUfbpfNYZ2Pn440hQD%3Fbo%3DEhgaABoAMgF9OgEEQgYI7Ou79AVIAlASYAE%253D%26uc%3D18
+tidur,49132030905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FU9BJzeWp5Db6fLw8D6fS7%3Fbo%3DEhgaABoAMgF9OgEEQgYI67fx9wVIAlASYAE%253D%26uc%3D18
+kopi,50137600974,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fs5nO2Ufunt0eUmnDRra6Z%3Fbo%3DEhgaABoAMgF9OgEEQgYIqeb6-AVIAlASYAE%253D%26uc%3D18
+semoga berhasil,44412780896,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F9O6cc8MSAzTC1GoK5AM2j%3Fbo%3DEhgaABoAMgF9OgEEQgYIoMmQ8gVIAlASYAE%253D%26uc%3D18
+sedih,47810311215,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FCcIJE9GQRAkiSR32Ar7K7%3Fbo%3DEhgaABoAMgF9OgEEQgYI0LvZ9gVIAlASYAE%253D%26uc%3D18
+selamat siang,38221440950,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F13qr0PokwyQVBxtVbTXUd%3Fbo%3DEhgaABoAMgF9OgEEQgYI257C8AVIAlASYAE%253D%26uc%3D18
+cantik,52046880881,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FLZb1Kpl928zhcU5vXeCY6%3Fbo%3DEhgaABoAMgF9OgEEQgYI84rN9wVIAlASYAE%253D%26uc%3D18
+tempête,36802620933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FfDj4IXFAMFSU7GLPq4ZVM%3Fbo%3DEhgaABoAMgF9OgEEQgYIuc7N8AVIAlASYAE%253D%26uc%3D18
+عاصفه,36802620933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FfDj4IXFAMFSU7GLPq4ZVM%3Fbo%3DEhgaABoAMgF9OgEEQgYIuc7N8AVIAlASYAE%253D%26uc%3D18
+sturm,36802620933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FfDj4IXFAMFSU7GLPq4ZVM%3Fbo%3DEhgaABoAMgF9OgEEQgYIuc7N8AVIAlASYAE%253D%26uc%3D18
+fırtına,36802620933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FfDj4IXFAMFSU7GLPq4ZVM%3Fbo%3DEhgaABoAMgF9OgEEQgYIuc7N8AVIAlASYAE%253D%26uc%3D18
+tormenta,36802620933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FfDj4IXFAMFSU7GLPq4ZVM%3Fbo%3DEhgaABoAMgF9OgEEQgYIuc7N8AVIAlASYAE%253D%26uc%3D18
+tempestade,36802620933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FfDj4IXFAMFSU7GLPq4ZVM%3Fbo%3DEhgaABoAMgF9OgEEQgYIuc7N8AVIAlASYAE%253D%26uc%3D18
+буря,36802620933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FfDj4IXFAMFSU7GLPq4ZVM%3Fbo%3DEhgaABoAMgF9OgEEQgYIuc7N8AVIAlASYAE%253D%26uc%3D18
+badai,36802620933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FfDj4IXFAMFSU7GLPq4ZVM%3Fbo%3DEhgaABoAMgF9OgEEQgYIuc7N8AVIAlASYAE%253D%26uc%3D18
+vent,52499900924,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi0Q5BK6sEvGwPyCCoKTef%3Fbo%3DEhgaABoAMgF9OgEEQgYI6MbG-wVIAlASYAE%253D%26uc%3D18
+ريح,52499900924,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi0Q5BK6sEvGwPyCCoKTef%3Fbo%3DEhgaABoAMgF9OgEEQgYI6MbG-wVIAlASYAE%253D%26uc%3D18
+rüzgar,52499900924,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi0Q5BK6sEvGwPyCCoKTef%3Fbo%3DEhgaABoAMgF9OgEEQgYI6MbG-wVIAlASYAE%253D%26uc%3D18
+viento,52499900924,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi0Q5BK6sEvGwPyCCoKTef%3Fbo%3DEhgaABoAMgF9OgEEQgYI6MbG-wVIAlASYAE%253D%26uc%3D18
+vento,52499900924,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi0Q5BK6sEvGwPyCCoKTef%3Fbo%3DEhgaABoAMgF9OgEEQgYI6MbG-wVIAlASYAE%253D%26uc%3D18
+ветер,52499900924,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi0Q5BK6sEvGwPyCCoKTef%3Fbo%3DEhgaABoAMgF9OgEEQgYI6MbG-wVIAlASYAE%253D%26uc%3D18
+angin,52499900924,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2Fi0Q5BK6sEvGwPyCCoKTef%3Fbo%3DEhgaABoAMgF9OgEEQgYI6MbG-wVIAlASYAE%253D%26uc%3D18
+éclair,30415507231,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FXC4bmi7Cbqw3imZ7ZvSgr%3Fbo%3DEhgaABoAMgF9OgEEQgYIvYW48AVIAlASYAE%253D%26uc%3D18
+برق,30415507231,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FXC4bmi7Cbqw3imZ7ZvSgr%3Fbo%3DEhgaABoAMgF9OgEEQgYIvYW48AVIAlASYAE%253D%26uc%3D18
+blitz,46810480911,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FFRgAaac1zNeBekcbuFCmB%3Fbo%3DEhgaABoAMgF9OgEEQgYIvo6A9QVIAlASYAE%253D%26uc%3D18
+şimşek,30415507231,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FXC4bmi7Cbqw3imZ7ZvSgr%3Fbo%3DEhgaABoAMgF9OgEEQgYIvYW48AVIAlASYAE%253D%26uc%3D18
+relámpago,30415507231,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FXC4bmi7Cbqw3imZ7ZvSgr%3Fbo%3DEhgaABoAMgF9OgEEQgYIvYW48AVIAlASYAE%253D%26uc%3D18
+relâmpago,30415507231,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FXC4bmi7Cbqw3imZ7ZvSgr%3Fbo%3DEhgaABoAMgF9OgEEQgYIvYW48AVIAlASYAE%253D%26uc%3D18
+молния,30415507231,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FXC4bmi7Cbqw3imZ7ZvSgr%3Fbo%3DEhgaABoAMgF9OgEEQgYIvYW48AVIAlASYAE%253D%26uc%3D18
+petir,30415507231,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FXC4bmi7Cbqw3imZ7ZvSgr%3Fbo%3DEhgaABoAMgF9OgEEQgYIvYW48AVIAlASYAE%253D%26uc%3D18
+éclat,46810480911,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FFRgAaac1zNeBekcbuFCmB%3Fbo%3DEhgaABoAMgF9OgEEQgYIvo6A9QVIAlASYAE%253D%26uc%3D18
+فلاش,46810480911,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FFRgAaac1zNeBekcbuFCmB%3Fbo%3DEhgaABoAMgF9OgEEQgYIvo6A9QVIAlASYAE%253D%26uc%3D18
+flaş,46810480911,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FFRgAaac1zNeBekcbuFCmB%3Fbo%3DEhgaABoAMgF9OgEEQgYIvo6A9QVIAlASYAE%253D%26uc%3D18
+destello,46810480911,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FFRgAaac1zNeBekcbuFCmB%3Fbo%3DEhgaABoAMgF9OgEEQgYIvo6A9QVIAlASYAE%253D%26uc%3D18
+clarão,46810480911,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FFRgAaac1zNeBekcbuFCmB%3Fbo%3DEhgaABoAMgF9OgEEQgYIvo6A9QVIAlASYAE%253D%26uc%3D18
+вспышка,46810480911,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FFRgAaac1zNeBekcbuFCmB%3Fbo%3DEhgaABoAMgF9OgEEQgYIvo6A9QVIAlASYAE%253D%26uc%3D18
+tempête hivernale,26898157239,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FiaVXhFsGY2WVnoRNB8Ryp%3Fbo%3DEhgaABoAMgF9OgEEQgYIqLby8AVIAlASYAE%253D%26uc%3D18
+عاصفة شتوية,26898157239,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FiaVXhFsGY2WVnoRNB8Ryp%3Fbo%3DEhgaABoAMgF9OgEEQgYIqLby8AVIAlASYAE%253D%26uc%3D18
+wintersturm,26898157239,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FiaVXhFsGY2WVnoRNB8Ryp%3Fbo%3DEhgaABoAMgF9OgEEQgYIqLby8AVIAlASYAE%253D%26uc%3D18
+kış fırtınası,26898157239,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FiaVXhFsGY2WVnoRNB8Ryp%3Fbo%3DEhgaABoAMgF9OgEEQgYIqLby8AVIAlASYAE%253D%26uc%3D18
+tormenta de invierno,26898157239,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FiaVXhFsGY2WVnoRNB8Ryp%3Fbo%3DEhgaABoAMgF9OgEEQgYIqLby8AVIAlASYAE%253D%26uc%3D18
+tempestade de inverno,26898157239,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FiaVXhFsGY2WVnoRNB8Ryp%3Fbo%3DEhgaABoAMgF9OgEEQgYIqLby8AVIAlASYAE%253D%26uc%3D18
+зимняя буря,26898157239,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FiaVXhFsGY2WVnoRNB8Ryp%3Fbo%3DEhgaABoAMgF9OgEEQgYIqLby8AVIAlASYAE%253D%26uc%3D18
+badai musim dingin,26898157239,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FiaVXhFsGY2WVnoRNB8Ryp%3Fbo%3DEhgaABoAMgF9OgEEQgYIqLby8AVIAlASYAE%253D%26uc%3D18
+mousson,44363500933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FIhSiNj8OIMWgTMyXJpCen%3Fbo%3DEhgaABoAMgF9OgEEQgYIm-3z8gVIAlASYAE%253D%26uc%3D18
+ريح موسمية,44363500933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FIhSiNj8OIMWgTMyXJpCen%3Fbo%3DEhgaABoAMgF9OgEEQgYIm-3z8gVIAlASYAE%253D%26uc%3D18
+monsun,44363500933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FIhSiNj8OIMWgTMyXJpCen%3Fbo%3DEhgaABoAMgF9OgEEQgYIm-3z8gVIAlASYAE%253D%26uc%3D18
+muson,44363500933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FIhSiNj8OIMWgTMyXJpCen%3Fbo%3DEhgaABoAMgF9OgEEQgYIm-3z8gVIAlASYAE%253D%26uc%3D18
+monzón,44363500933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FIhSiNj8OIMWgTMyXJpCen%3Fbo%3DEhgaABoAMgF9OgEEQgYIm-3z8gVIAlASYAE%253D%26uc%3D18
+monção,44363500933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FIhSiNj8OIMWgTMyXJpCen%3Fbo%3DEhgaABoAMgF9OgEEQgYIm-3z8gVIAlASYAE%253D%26uc%3D18
+муссон,44363500933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FIhSiNj8OIMWgTMyXJpCen%3Fbo%3DEhgaABoAMgF9OgEEQgYIm-3z8gVIAlASYAE%253D%26uc%3D18
+musim,44363500933,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FIhSiNj8OIMWgTMyXJpCen%3Fbo%3DEhgaABoAMgF9OgEEQgYIm-3z8gVIAlASYAE%253D%26uc%3D18
+chauffer,54238890888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FdDhZQgrXDxyq19Db2ikfs%3Fbo%3DEhgaABoAMgF9OgEEQgYIxqjM_AVIAlASYAE%253D%26uc%3D18
+الحرارة,54238890888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FdDhZQgrXDxyq19Db2ikfs%3Fbo%3DEhgaABoAMgF9OgEEQgYIxqjM_AVIAlASYAE%253D%26uc%3D18
+hitze,54238890888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FdDhZQgrXDxyq19Db2ikfs%3Fbo%3DEhgaABoAMgF9OgEEQgYIxqjM_AVIAlASYAE%253D%26uc%3D18
+sıcaklık,54238890888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FdDhZQgrXDxyq19Db2ikfs%3Fbo%3DEhgaABoAMgF9OgEEQgYIxqjM_AVIAlASYAE%253D%26uc%3D18
+calor,54238890888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FdDhZQgrXDxyq19Db2ikfs%3Fbo%3DEhgaABoAMgF9OgEEQgYIxqjM_AVIAlASYAE%253D%26uc%3D18
+высокая температура,54238890888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FdDhZQgrXDxyq19Db2ikfs%3Fbo%3DEhgaABoAMgF9OgEEQgYIxqjM_AVIAlASYAE%253D%26uc%3D18
+panas,54238890888,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FdDhZQgrXDxyq19Db2ikfs%3Fbo%3DEhgaABoAMgF9OgEEQgYIxqjM_AVIAlASYAE%253D%26uc%3D18
+neiger,40776070905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FVLpd3o81sv8HJIBM7qNrA%3Fbo%3DEhgaABoAMgF9OgEEQgYI1q7M8AVIAlASYAE%253D%26uc%3D18
+ثلج,40776070905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FVLpd3o81sv8HJIBM7qNrA%3Fbo%3DEhgaABoAMgF9OgEEQgYI1q7M8AVIAlASYAE%253D%26uc%3D18
+schnee,40776070905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FVLpd3o81sv8HJIBM7qNrA%3Fbo%3DEhgaABoAMgF9OgEEQgYI1q7M8AVIAlASYAE%253D%26uc%3D18
+kar,40776070905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FVLpd3o81sv8HJIBM7qNrA%3Fbo%3DEhgaABoAMgF9OgEEQgYI1q7M8AVIAlASYAE%253D%26uc%3D18
+nieve,40776070905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FVLpd3o81sv8HJIBM7qNrA%3Fbo%3DEhgaABoAMgF9OgEEQgYI1q7M8AVIAlASYAE%253D%26uc%3D18
+neve,40776070905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FVLpd3o81sv8HJIBM7qNrA%3Fbo%3DEhgaABoAMgF9OgEEQgYI1q7M8AVIAlASYAE%253D%26uc%3D18
+снег,40776070905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FVLpd3o81sv8HJIBM7qNrA%3Fbo%3DEhgaABoAMgF9OgEEQgYI1q7M8AVIAlASYAE%253D%26uc%3D18
+salju,40776070905,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FVLpd3o81sv8HJIBM7qNrA%3Fbo%3DEhgaABoAMgF9OgEEQgYI1q7M8AVIAlASYAE%253D%26uc%3D18
+hiver,26258287317,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F3lE38i36kptGVzDqDr2s8%3Fbo%3DEhgaABoAMgF9OgEEQgYI7aTQ8AVIAlASYAE%253D%26uc%3D18
+الشتاء,26258287317,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F3lE38i36kptGVzDqDr2s8%3Fbo%3DEhgaABoAMgF9OgEEQgYI7aTQ8AVIAlASYAE%253D%26uc%3D18
+kış,26258287317,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F3lE38i36kptGVzDqDr2s8%3Fbo%3DEhgaABoAMgF9OgEEQgYI7aTQ8AVIAlASYAE%253D%26uc%3D18
+invierno,26258287317,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F3lE38i36kptGVzDqDr2s8%3Fbo%3DEhgaABoAMgF9OgEEQgYI7aTQ8AVIAlASYAE%253D%26uc%3D18
+inverno,26258287317,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F3lE38i36kptGVzDqDr2s8%3Fbo%3DEhgaABoAMgF9OgEEQgYI7aTQ8AVIAlASYAE%253D%26uc%3D18
+зима,26258287317,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F3lE38i36kptGVzDqDr2s8%3Fbo%3DEhgaABoAMgF9OgEEQgYI7aTQ8AVIAlASYAE%253D%26uc%3D18
+musim dingin,26258287317,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2F3lE38i36kptGVzDqDr2s8%3Fbo%3DEhgaABoAMgF9OgEEQgYI7aTQ8AVIAlASYAE%253D%26uc%3D18
+brouillard,40148550927,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FiNYNzP46lomXNjM41YoiE%3Fbo%3DEhgaABoAMgF9OgEEQgYIu9Dy8AVIAlASYAE%253D%26uc%3D18
+ضباب,40148550927,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FiNYNzP46lomXNjM41YoiE%3Fbo%3DEhgaABoAMgF9OgEEQgYIu9Dy8AVIAlASYAE%253D%26uc%3D18
+nebel,40148550927,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FiNYNzP46lomXNjM41YoiE%3Fbo%3DEhgaABoAMgF9OgEEQgYIu9Dy8AVIAlASYAE%253D%26uc%3D18
+sis,40148550927,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FiNYNzP46lomXNjM41YoiE%3Fbo%3DEhgaABoAMgF9OgEEQgYIu9Dy8AVIAlASYAE%253D%26uc%3D18
+niebla,40148550927,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FiNYNzP46lomXNjM41YoiE%3Fbo%3DEhgaABoAMgF9OgEEQgYIu9Dy8AVIAlASYAE%253D%26uc%3D18
+névoa,40148550927,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FiNYNzP46lomXNjM41YoiE%3Fbo%3DEhgaABoAMgF9OgEEQgYIu9Dy8AVIAlASYAE%253D%26uc%3D18
+туман,40148550927,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FiNYNzP46lomXNjM41YoiE%3Fbo%3DEhgaABoAMgF9OgEEQgYIu9Dy8AVIAlASYAE%253D%26uc%3D18
+kabut,40148550927,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FiNYNzP46lomXNjM41YoiE%3Fbo%3DEhgaABoAMgF9OgEEQgYIu9Dy8AVIAlASYAE%253D%26uc%3D18
+fog,40148550927,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FiNYNzP46lomXNjM41YoiE%3Fbo%3DEhgaABoAMgF9OgEEQgYIu9Dy8AVIAlASYAE%253D%26uc%3D18
+pluie,53546841072,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FynPeCTAsvi14BY3okVGfB%3Fbo%3DEhgaABoAMgF9OgEEQgYIhePv_AVIAlASYAE%253D%26uc%3D18
+تمطر,53546841072,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FynPeCTAsvi14BY3okVGfB%3Fbo%3DEhgaABoAMgF9OgEEQgYIhePv_AVIAlASYAE%253D%26uc%3D18
+regen,53546841072,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FynPeCTAsvi14BY3okVGfB%3Fbo%3DEhgaABoAMgF9OgEEQgYIhePv_AVIAlASYAE%253D%26uc%3D18
+yağmur,53546841072,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FynPeCTAsvi14BY3okVGfB%3Fbo%3DEhgaABoAMgF9OgEEQgYIhePv_AVIAlASYAE%253D%26uc%3D18
+lluvia,53546841072,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FynPeCTAsvi14BY3okVGfB%3Fbo%3DEhgaABoAMgF9OgEEQgYIhePv_AVIAlASYAE%253D%26uc%3D18
+chuva,53546841072,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FynPeCTAsvi14BY3okVGfB%3Fbo%3DEhgaABoAMgF9OgEEQgYIhePv_AVIAlASYAE%253D%26uc%3D18
+дождь,53546841072,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FynPeCTAsvi14BY3okVGfB%3Fbo%3DEhgaABoAMgF9OgEEQgYIhePv_AVIAlASYAE%253D%26uc%3D18
+hujan,53546841072,content://com.snapchat.android.provider/lens_icon/https%3A%2F%2Fbolt-gcdn.sc-cdn.net%2F3%2FynPeCTAsvi14BY3okVGfB%3Fbo%3DEhgaABoAMgF9OgEEQgYIhePv_AVIAlASYAE%253D%26uc%3D18

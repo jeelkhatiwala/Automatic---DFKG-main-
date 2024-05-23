@@ -1,0 +1,9 @@
+tag,work_spec_id
+com.twitter.android.workmanager.workers.DatabaseCleanupWorker,5dc3d02c-7727-4ecd-87c2-cbfe3e67d108
+com.twitter.analytics.tracking.tpm.TpmIdSyncWorker,3df9b159-4b2d-4d75-808b-c36bfb086796
+com.twitter.notification.registration.CheckSystemPushEnabledWorker,0f52f721-3264-49fe-ba0d-28b3a1a511fa
+com.twitter.analytics.service.core.workmanager.AnalyticsCleanupWorker,1c2ee97a-2265-40fc-9292-ae3a1491f7c5
+com.twitter.notification.PushTokenUpdateWorker,c228f39f-b7e1-477c-99bc-d5b86f08ca09
+com.twitter.android.widget.twemoji.TwemojiFontDownloadWorker,a2ee9dd6-49cb-4137-a01b-127d4c69a59c
+com.twitter.permissions.PermissionReportingWorker,1cf895ac-0afd-4403-b780-3d9ddcc15c87
+com.twitter.analytics.service.core.workmanager.AnalyticsFlushWorker,da8da13a-15e6-4965-bb5a-2416ee88c514

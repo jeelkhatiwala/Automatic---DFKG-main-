@@ -1,0 +1,14 @@
+_id,name,value
+4,data_store_version,3
+66,network_location_opt_in,1
+2122,client_id,android-samsung-ss
+2123,search_client_id,ms-android-samsung-gn-rev1
+2124,chrome_client_id,ms-android-samsung-gn-rev1
+2125,maps_client_id,gmm-android-samsung-ss
+2126,youtube_client_id,mvapp-android-samsung-ss
+2127,market_client_id,am-android-samsung-ss
+2128,voicesearch_client_id,ms-android-samsung-gn-rev1
+2129,playtx_client_id,play-ms-android-samsung-ss
+2130,playax_client_id,play-ad-ms-android-samsung-ss
+2131,program_client_id,pg-android-samsung-ss
+2135,use_location_for_services,1

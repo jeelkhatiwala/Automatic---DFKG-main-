@@ -1,0 +1,563 @@
+subredditId,recentSubredditKindWithId,displayName,displayNamePrefixed,iconImg,keyColor,description,publicDescription,descriptionHtml,url,subscribers,accountsActive,bannerImg,over18,subredditType,lastVisited,createdUtc,advertiserCategory,audienceTarget,contentCategory,quarantined,quarantineMessage,quarantineMessageHtml,allowChatPostCreation,isChatPostFeatureEnabled,isModerator
+2qj17,t5_2qj17,Virginia,r/Virginia,https://b.thumbs.redditmedia.com/N5EUmb8_-IgK5-IixFuOWzA411AP-QH4Zyth_F956oE.png,#46d160,"**All things about [Virginia](http://virginia.gov)**
+
+[Rules & FAQ](http://www.reddit.com/r/Virginia/wiki/index) 
+
+---
+
+**Civic Links**
+
+- [Check or Update Registration, Register to Vote, and More](http://www.elections.virginia.gov/voter-outreach/)
+
+- [Find and Contact Your State and National Legislators](http://whosmy.virginiageneralassembly.gov/)
+
+- [Contact Your Congressional Legislators](https://www.govtrack.us/congress/members/VA#representatives)
+
+- [Contact the Governor](https://www.virginia.gov/agencies/office-of-the-governor/#contact)
+
+---
+
+**Local News Sources**
+
+- [The Virginia Public Access Project](https://www.vpap.org/vanews/)
+
+- [The Richmond Times-Dispatch](https://www.richmond.com/)
+
+- [The Virginian-Pilot (Hampton Roads)](https://pilotonline.com/)
+
+- [The Washington Post](https://www.washingtonpost.com/local/virginia/?utm_term=.ae33db8f0d1c)
+
+- [WTOP News (Northern Virginia)](https://wtop.com/)
+
+- [The Roanoke Times](https://www.roanoke.com/)
+
+- [The Daily Press (Hampton Roads)](https://www.dailypress.com/)
+
+- [The News and Advance (Lynchburg)](https://www.newsadvance.com/)
+
+- [Virginia's Main NPR Affiliate](https://www.wvtf.org/#stream/0)
+
+- [Virginia Public Radio](https://virginiapublicradio.org/)
+
+- [Virginia's Main NPR/PBS Affiliate](https://ideastations.org/)
+
+- [Virginia Mercury](https://www.virginiamercury.com/)
+
+---
+**Statewide:**
+
+- /r/VirginiaMusicians
+
+- /r/Virginia_Hiking
+
+- /r/VAcampers
+
+- /r/VAbeer
+
+- /r/VAcraftbeer
+
+- /r/VirginiaWine
+
+- /r/VAgardening
+
+- /r/VirginiaNature
+
+- /r/VAguns
+
+- /r/VAhunting
+
+- /r/VApaintball
+
+**Virginia Political Subreddits:**
+
+- /r/VirginiaPolitics
+
+- /r/VirginiaLibertarians
+
+- /r/VirginiaForSanders
+
+- /r/VirginiaDems
+
+- /r/VirginiaGOP
+
+- /r/ConservativeVA
+
+- /r/RVAPolitics
+
+**Other Virginia Subreddit Communities:**
+
+- /r/NoVAboardgames
+
+- /r/NoVAcars 
+
+- /r/NoVAguns
+
+- /r/NoVArent
+
+- /r/NoVAjobs
+
+- /r/PokemonGoNoVa
+
+- /r/RVAGameNight
+
+- /r/RVAjobs
+
+- /r/RVADandD
+
+- /r/RVA_Events
+
+- /r/RVA_Housing
+
+- /r/LadiesofRVA
+
+- /r/FishingRVA
+
+- /r/VARailwayExpress
+
+- /r/Virginients
+
+- /r/VirginiaMMJ
+
+- /r/BuschGardens
+
+- /r/ColonialWilliamsburg 
+
+**Major Location-Specific Subreddits:**
+
+* Blacksburg - /r/Blacksburg
+
+* Charlottesville - /r/Charlottesville
+
+* Chesterfield - /r/ChesterfieldVA
+
+* Hampton Roads - /r/HamptonRoads
+
+* Historic Triangle - /r/HistoricTriangle
+
+* Fredericksburg - /r/Fredericksburg
+
+* Fairfax County - /r/FairfaxCounty
+
+* Lynchburg - /r/Lynchburg
+
+* Loudoun - /r/LoudounSubButBetter
+
+* Norfolk - /r/Norfolk
+
+* Northern Virginia - /r/NoVA
+
+* Roanoke - /r/Roanoke
+
+* Richmond - /r/RVA
+
+* Virginia Beach - /r/VirginiaBeach
+
+**Minor Location-Specific Subreddits:**
+
+* Abingdon - /r/ABN
+
+* Arlington - /r/ArlingtonVA & /r/ArlingtonVirginia
+
+* Ashland - /r/AshlandVA
+
+* Augusta County - /r/AugustaCounty
+
+* Bonair - /r/Bonair
+
+* Chesapeake - /r/Chesapeake
+
+* Colonial Heights - /r/ColonialHts
+
+* Culpeper - /r/Culpeper
+
+* Danville - /r/Danville_VA
+
+* Fairfax - /r/Fairfax
+
+* Falls Church - /r/FallsChurch
+
+* Hampton - /r/HamptonVA
+
+* Harrisonburg - /r/Harrisonburg
+
+* Henrico County - /r/HenricoCounty
+
+* Huntington - /r/HuntingtonVA
+
+* Gloucester - /r/GloucesterVA
+
+* Lexington - /r/LexVegasVA
+
+* Leesburg - /r/Leesburg
+
+* Manassas - /r/Manassas
+
+* Midlothian - /r/Midlothian
+
+* Newport News - /r/NewportNews
+
+* New River Valley - /r/NRV
+
+* Petersburg - /r/Petersburg
+
+* Prince William County - /r/PrinceWilliamCounty
+
+* Powhatan - /r/Powhatan
+
+* Reston - /r/Reston
+
+* Spotsylvania - /r/SpotsylvaniaVA
+
+* Stafford - /r/StaffordVA
+
+* Staunton - /r/Staunton
+
+* Southwest - /r/SwVA
+
+* Tysons Corner - /r/Tysons
+
+* Tri-Cities - /r/VATriCities
+
+* Waynesboro - /r/Waynesboro
+
+* Williamsburg - /r/WilliamsburgVA
+
+* Winchester - /r/Winchester
+
+* Yorktown - /r/Yorktown
+
+**University Subreddits:**
+
+* Christopher Newport University - /r/CNU
+
+* George Mason University - /r/GMU
+
+* Hampden-Sydney - /r/HampdenSydneyCollege
+
+* James Madison University - /r/JMU
+
+* Liberty University - /r/LibertyUniversity
+
+* NVCC - /r/NVCC
+
+* Old Dominion University - /r/ODU
+
+* Radford University - /r/RadfordUniversity
+
+* University of Mary Washington - /r/UMW
+
+* University of Virginia - /r/UVA
+
+* UVA-Wise - /r/UVAwise
+
+* Virginia Tech - /r/VirginiaTech
+
+* VCU - /r/VCU
+
+* VMI - /r/VMI
+
+* William and Mary - /r/WilliamAndMary
+
+* Washington and Lee - /r/WluLex
+
+
+Banner photo credit: /u/_indeed_",Virginia: The Old Dominion,"<!-- SC_OFF --><div class=""md""><p><strong>All things about <a href=""http://virginia.gov"">Virginia</a></strong></p>
+
+<p><a href=""http://www.reddit.com/r/Virginia/wiki/index"">Rules &amp; FAQ</a> </p>
+
+<hr/>
+
+<p><strong>Civic Links</strong></p>
+
+<ul>
+<li><p><a href=""http://www.elections.virginia.gov/voter-outreach/"">Check or Update Registration, Register to Vote, and More</a></p></li>
+<li><p><a href=""http://whosmy.virginiageneralassembly.gov/"">Find and Contact Your State and National Legislators</a></p></li>
+<li><p><a href=""https://www.govtrack.us/congress/members/VA#representatives"">Contact Your Congressional Legislators</a></p></li>
+<li><p><a href=""https://www.virginia.gov/agencies/office-of-the-governor/#contact"">Contact the Governor</a></p></li>
+</ul>
+
+<hr/>
+
+<p><strong>Local News Sources</strong></p>
+
+<ul>
+<li><p><a href=""https://www.vpap.org/vanews/"">The Virginia Public Access Project</a></p></li>
+<li><p><a href=""https://www.richmond.com/"">The Richmond Times-Dispatch</a></p></li>
+<li><p><a href=""https://pilotonline.com/"">The Virginian-Pilot (Hampton Roads)</a></p></li>
+<li><p><a href=""https://www.washingtonpost.com/local/virginia/?utm_term=.ae33db8f0d1c"">The Washington Post</a></p></li>
+<li><p><a href=""https://wtop.com/"">WTOP News (Northern Virginia)</a></p></li>
+<li><p><a href=""https://www.roanoke.com/"">The Roanoke Times</a></p></li>
+<li><p><a href=""https://www.dailypress.com/"">The Daily Press (Hampton Roads)</a></p></li>
+<li><p><a href=""https://www.newsadvance.com/"">The News and Advance (Lynchburg)</a></p></li>
+<li><p><a href=""https://www.wvtf.org/#stream/0"">Virginia&#39;s Main NPR Affiliate</a></p></li>
+<li><p><a href=""https://virginiapublicradio.org/"">Virginia Public Radio</a></p></li>
+<li><p><a href=""https://ideastations.org/"">Virginia&#39;s Main NPR/PBS Affiliate</a></p></li>
+<li><p><a href=""https://www.virginiamercury.com/"">Virginia Mercury</a></p></li>
+</ul>
+
+<hr/>
+
+<p><strong>Statewide:</strong></p>
+
+<ul>
+<li><p><a href=""/r/VirginiaMusicians"">/r/VirginiaMusicians</a></p></li>
+<li><p><a href=""/r/Virginia_Hiking"">/r/Virginia_Hiking</a></p></li>
+<li><p><a href=""/r/VAcampers"">/r/VAcampers</a></p></li>
+<li><p><a href=""/r/VAbeer"">/r/VAbeer</a></p></li>
+<li><p><a href=""/r/VAcraftbeer"">/r/VAcraftbeer</a></p></li>
+<li><p><a href=""/r/VirginiaWine"">/r/VirginiaWine</a></p></li>
+<li><p><a href=""/r/VAgardening"">/r/VAgardening</a></p></li>
+<li><p><a href=""/r/VirginiaNature"">/r/VirginiaNature</a></p></li>
+<li><p><a href=""/r/VAguns"">/r/VAguns</a></p></li>
+<li><p><a href=""/r/VAhunting"">/r/VAhunting</a></p></li>
+<li><p><a href=""/r/VApaintball"">/r/VApaintball</a></p></li>
+</ul>
+
+<p><strong>Virginia Political Subreddits:</strong></p>
+
+<ul>
+<li><p><a href=""/r/VirginiaPolitics"">/r/VirginiaPolitics</a></p></li>
+<li><p><a href=""/r/VirginiaLibertarians"">/r/VirginiaLibertarians</a></p></li>
+<li><p><a href=""/r/VirginiaForSanders"">/r/VirginiaForSanders</a></p></li>
+<li><p><a href=""/r/VirginiaDems"">/r/VirginiaDems</a></p></li>
+<li><p><a href=""/r/VirginiaGOP"">/r/VirginiaGOP</a></p></li>
+<li><p><a href=""/r/ConservativeVA"">/r/ConservativeVA</a></p></li>
+<li><p><a href=""/r/RVAPolitics"">/r/RVAPolitics</a></p></li>
+</ul>
+
+<p><strong>Other Virginia Subreddit Communities:</strong></p>
+
+<ul>
+<li><p><a href=""/r/NoVAboardgames"">/r/NoVAboardgames</a></p></li>
+<li><p><a href=""/r/NoVAcars"">/r/NoVAcars</a> </p></li>
+<li><p><a href=""/r/NoVAguns"">/r/NoVAguns</a></p></li>
+<li><p><a href=""/r/NoVArent"">/r/NoVArent</a></p></li>
+<li><p><a href=""/r/NoVAjobs"">/r/NoVAjobs</a></p></li>
+<li><p><a href=""/r/PokemonGoNoVa"">/r/PokemonGoNoVa</a></p></li>
+<li><p><a href=""/r/RVAGameNight"">/r/RVAGameNight</a></p></li>
+<li><p><a href=""/r/RVAjobs"">/r/RVAjobs</a></p></li>
+<li><p><a href=""/r/RVADandD"">/r/RVADandD</a></p></li>
+<li><p><a href=""/r/RVA_Events"">/r/RVA_Events</a></p></li>
+<li><p><a href=""/r/RVA_Housing"">/r/RVA_Housing</a></p></li>
+<li><p><a href=""/r/LadiesofRVA"">/r/LadiesofRVA</a></p></li>
+<li><p><a href=""/r/FishingRVA"">/r/FishingRVA</a></p></li>
+<li><p><a href=""/r/VARailwayExpress"">/r/VARailwayExpress</a></p></li>
+<li><p><a href=""/r/Virginients"">/r/Virginients</a></p></li>
+<li><p><a href=""/r/VirginiaMMJ"">/r/VirginiaMMJ</a></p></li>
+<li><p><a href=""/r/BuschGardens"">/r/BuschGardens</a></p></li>
+<li><p><a href=""/r/ColonialWilliamsburg"">/r/ColonialWilliamsburg</a> </p></li>
+</ul>
+
+<p><strong>Major Location-Specific Subreddits:</strong></p>
+
+<ul>
+<li><p>Blacksburg - <a href=""/r/Blacksburg"">/r/Blacksburg</a></p></li>
+<li><p>Charlottesville - <a href=""/r/Charlottesville"">/r/Charlottesville</a></p></li>
+<li><p>Chesterfield - <a href=""/r/ChesterfieldVA"">/r/ChesterfieldVA</a></p></li>
+<li><p>Hampton Roads - <a href=""/r/HamptonRoads"">/r/HamptonRoads</a></p></li>
+<li><p>Historic Triangle - <a href=""/r/HistoricTriangle"">/r/HistoricTriangle</a></p></li>
+<li><p>Fredericksburg - <a href=""/r/Fredericksburg"">/r/Fredericksburg</a></p></li>
+<li><p>Fairfax County - <a href=""/r/FairfaxCounty"">/r/FairfaxCounty</a></p></li>
+<li><p>Lynchburg - <a href=""/r/Lynchburg"">/r/Lynchburg</a></p></li>
+<li><p>Loudoun - <a href=""/r/LoudounSubButBetter"">/r/LoudounSubButBetter</a></p></li>
+<li><p>Norfolk - <a href=""/r/Norfolk"">/r/Norfolk</a></p></li>
+<li><p>Northern Virginia - <a href=""/r/NoVA"">/r/NoVA</a></p></li>
+<li><p>Roanoke - <a href=""/r/Roanoke"">/r/Roanoke</a></p></li>
+<li><p>Richmond - <a href=""/r/RVA"">/r/RVA</a></p></li>
+<li><p>Virginia Beach - <a href=""/r/VirginiaBeach"">/r/VirginiaBeach</a></p></li>
+</ul>
+
+<p><strong>Minor Location-Specific Subreddits:</strong></p>
+
+<ul>
+<li><p>Abingdon - <a href=""/r/ABN"">/r/ABN</a></p></li>
+<li><p>Arlington - <a href=""/r/ArlingtonVA"">/r/ArlingtonVA</a> &amp; <a href=""/r/ArlingtonVirginia"">/r/ArlingtonVirginia</a></p></li>
+<li><p>Ashland - <a href=""/r/AshlandVA"">/r/AshlandVA</a></p></li>
+<li><p>Augusta County - <a href=""/r/AugustaCounty"">/r/AugustaCounty</a></p></li>
+<li><p>Bonair - <a href=""/r/Bonair"">/r/Bonair</a></p></li>
+<li><p>Chesapeake - <a href=""/r/Chesapeake"">/r/Chesapeake</a></p></li>
+<li><p>Colonial Heights - <a href=""/r/ColonialHts"">/r/ColonialHts</a></p></li>
+<li><p>Culpeper - <a href=""/r/Culpeper"">/r/Culpeper</a></p></li>
+<li><p>Danville - <a href=""/r/Danville_VA"">/r/Danville_VA</a></p></li>
+<li><p>Fairfax - <a href=""/r/Fairfax"">/r/Fairfax</a></p></li>
+<li><p>Falls Church - <a href=""/r/FallsChurch"">/r/FallsChurch</a></p></li>
+<li><p>Hampton - <a href=""/r/HamptonVA"">/r/HamptonVA</a></p></li>
+<li><p>Harrisonburg - <a href=""/r/Harrisonburg"">/r/Harrisonburg</a></p></li>
+<li><p>Henrico County - <a href=""/r/HenricoCounty"">/r/HenricoCounty</a></p></li>
+<li><p>Huntington - <a href=""/r/HuntingtonVA"">/r/HuntingtonVA</a></p></li>
+<li><p>Gloucester - <a href=""/r/GloucesterVA"">/r/GloucesterVA</a></p></li>
+<li><p>Lexington - <a href=""/r/LexVegasVA"">/r/LexVegasVA</a></p></li>
+<li><p>Leesburg - <a href=""/r/Leesburg"">/r/Leesburg</a></p></li>
+<li><p>Manassas - <a href=""/r/Manassas"">/r/Manassas</a></p></li>
+<li><p>Midlothian - <a href=""/r/Midlothian"">/r/Midlothian</a></p></li>
+<li><p>Newport News - <a href=""/r/NewportNews"">/r/NewportNews</a></p></li>
+<li><p>New River Valley - <a href=""/r/NRV"">/r/NRV</a></p></li>
+<li><p>Petersburg - <a href=""/r/Petersburg"">/r/Petersburg</a></p></li>
+<li><p>Prince William County - <a href=""/r/PrinceWilliamCounty"">/r/PrinceWilliamCounty</a></p></li>
+<li><p>Powhatan - <a href=""/r/Powhatan"">/r/Powhatan</a></p></li>
+<li><p>Reston - <a href=""/r/Reston"">/r/Reston</a></p></li>
+<li><p>Spotsylvania - <a href=""/r/SpotsylvaniaVA"">/r/SpotsylvaniaVA</a></p></li>
+<li><p>Stafford - <a href=""/r/StaffordVA"">/r/StaffordVA</a></p></li>
+<li><p>Staunton - <a href=""/r/Staunton"">/r/Staunton</a></p></li>
+<li><p>Southwest - <a href=""/r/SwVA"">/r/SwVA</a></p></li>
+<li><p>Tysons Corner - <a href=""/r/Tysons"">/r/Tysons</a></p></li>
+<li><p>Tri-Cities - <a href=""/r/VATriCities"">/r/VATriCities</a></p></li>
+<li><p>Waynesboro - <a href=""/r/Waynesboro"">/r/Waynesboro</a></p></li>
+<li><p>Williamsburg - <a href=""/r/WilliamsburgVA"">/r/WilliamsburgVA</a></p></li>
+<li><p>Winchester - <a href=""/r/Winchester"">/r/Winchester</a></p></li>
+<li><p>Yorktown - <a href=""/r/Yorktown"">/r/Yorktown</a></p></li>
+</ul>
+
+<p><strong>University Subreddits:</strong></p>
+
+<ul>
+<li><p>Christopher Newport University - <a href=""/r/CNU"">/r/CNU</a></p></li>
+<li><p>George Mason University - <a href=""/r/GMU"">/r/GMU</a></p></li>
+<li><p>Hampden-Sydney - <a href=""/r/HampdenSydneyCollege"">/r/HampdenSydneyCollege</a></p></li>
+<li><p>James Madison University - <a href=""/r/JMU"">/r/JMU</a></p></li>
+<li><p>Liberty University - <a href=""/r/LibertyUniversity"">/r/LibertyUniversity</a></p></li>
+<li><p>NVCC - <a href=""/r/NVCC"">/r/NVCC</a></p></li>
+<li><p>Old Dominion University - <a href=""/r/ODU"">/r/ODU</a></p></li>
+<li><p>Radford University - <a href=""/r/RadfordUniversity"">/r/RadfordUniversity</a></p></li>
+<li><p>University of Mary Washington - <a href=""/r/UMW"">/r/UMW</a></p></li>
+<li><p>University of Virginia - <a href=""/r/UVA"">/r/UVA</a></p></li>
+<li><p>UVA-Wise - <a href=""/r/UVAwise"">/r/UVAwise</a></p></li>
+<li><p>Virginia Tech - <a href=""/r/VirginiaTech"">/r/VirginiaTech</a></p></li>
+<li><p>VCU - <a href=""/r/VCU"">/r/VCU</a></p></li>
+<li><p>VMI - <a href=""/r/VMI"">/r/VMI</a></p></li>
+<li><p>William and Mary - <a href=""/r/WilliamAndMary"">/r/WilliamAndMary</a></p></li>
+<li><p>Washington and Lee - <a href=""/r/WluLex"">/r/WluLex</a></p></li>
+</ul>
+
+<p>Banner photo credit: <a href=""/u/_indeed_"">/u/_indeed_</a></p>
+</div><!-- SC_ON -->",/r/Virginia/,118350,204,,0,public,1623470729849,1213848505,,,,0,,,0,1,0
+qir9n,t5_qir9n,HolUp,r/HolUp,https://b.thumbs.redditmedia.com/uBNKISbRN33RruP-bZOsakhvT2EcWjB3HVaKH-ThHDs.png,#222222,"Hol' up
+
+
+Rules: 
+
+1. **Don't be a jerk**
+
+2. **No reposts** especially recent ones[.](https://imgur.com/cXA7XxW)
+
+3. **Please do not post things that will get your account suspended.** This includes most loli and depictions of minors in a sexual way, excessive violence, gore, and gratuitous use of slurs or hate speech. Posts like this not only get your account suspended but it also puts the sub at risk of being quarantined. Sorry, your shitpost isn't important enough to ruin this pristine sanctuary of immaculate content.
+
+1. **Posts must be on-topic.** Content must contain some element that is confusing or causes a double-take. 
+
+1. **No bigotry.** Please refrain from posting content or making comments that are derogatory or perpetuate negative stereotypes.
+
+1.  In the event that all of the mods are drunk, asleep, or just generally apathetic and your rule-breaking post reaches the front page before we notice, we will waive rules 2 and 4 unless it still really sucks for some reason.
+
+---",holup is a special moment in every adolescent's life,"<!-- SC_OFF --><div class=""md""><p>Hol&#39; up</p>
+
+<p>Rules: </p>
+
+<ol>
+<li><p><strong>Don&#39;t be a jerk</strong></p></li>
+<li><p><strong>No reposts</strong> especially recent ones<a href=""https://imgur.com/cXA7XxW"">.</a></p></li>
+<li><p><strong>Please do not post things that will get your account suspended.</strong> This includes most loli and depictions of minors in a sexual way, excessive violence, gore, and gratuitous use of slurs or hate speech. Posts like this not only get your account suspended but it also puts the sub at risk of being quarantined. Sorry, your shitpost isn&#39;t important enough to ruin this pristine sanctuary of immaculate content.</p></li>
+<li><p><strong>Posts must be on-topic.</strong> Content must contain some element that is confusing or causes a double-take. </p></li>
+<li><p><strong>No bigotry.</strong> Please refrain from posting content or making comments that are derogatory or perpetuate negative stereotypes.</p></li>
+<li><p>In the event that all of the mods are drunk, asleep, or just generally apathetic and your rule-breaking post reaches the front page before we notice, we will waive rules 2 and 4 unless it still really sucks for some reason.</p></li>
+</ol>
+
+<hr/>
+</div><!-- SC_ON -->",/r/HolUp/,1944847,20404,,0,public,1624128658673,1540794217,,,,0,,,0,0,0
+2q7cco,t5_2q7cco,byebyejob,r/byebyejob,,,"Images of people losing job/school/other opportunities in life, because of their actions online, or in the real world.
+
+r/byebyejob Rules
+
+1.
+Posts Must Be on Topic
+
+Posts must be about someone who lost either a job/job opportunity or an admission/scholarship to a school or university. Titles should briefly describe the event (crosspost titles/news titles in photos are okay). Try to keep comments relevant.
+
+2.
+Be Civil
+
+Keep it clean. Poking fun and disagreement is okay, but anything aggravating, especially intentionally, is not allowed. Sitewide rules concerning discrimination and inciting violence fall under this rule. Feeding trolls constitutes incivility; see rule 6.
+
+Due to a large increase in toxicity over recent weeks, measures to maintain civility will be actively enforced.
+
+3.
+Action Needs to Have Been Taken
+
+One or more involved parties have to have been fired, lost some offer or benefit, suspended, etc. for the post to qualify. Don't upload posts where the person involved might face consequences, and especially don't upload posts petitioning for somebody to be fired when no action has been taken already. Please make sure to indicate the action taken in the title of your post, and provide sources through a comment if needed; OP's responsibility to provide proof, not the viewers'.
+
+4.
+No Doxxing
+
+Absolutely no revealing personal information or soliciting such information in order to harass, intimidate, or contact anyone depicted in a post. Users who violate this rule egregiously or who do so in an attempt to cause harm may be banned.
+
+5.
+Censor Identifying Information
+
+This goes hand in hand with doxxing. Make sure to blur or censor out identifying information about a person. Public figures whose actions or statements are public information do not have to be censored.
+
+6.
+Don't Feed The Trolls
+
+If you see a troll, report them and move on. Replying rarely does any good, escalating the situation is worse. Generally, violating this rule will only earn you a polite reminder.
+
+That being said, deliberately escalating a situation violates civility rules, and will be met with sanctions varying based on history, frequency, and severity. Responding to a troll doesn't exempt you from following the rules.
+
+7.
+Post fake news at your own peril
+
+You're responsible for ensuring that what you post is the truth. This includes sensationalism; misconstruing a linked article for clicks is misleading. Whether it's deliberate or simply carelessness, posting something that is clearly and verifiably false WILL result in sanctions. Do your due diligence to avoid accidentally leading several thousands of people into believing falsehoods. Don't say we didn't warn you.
+
+8.
+No High-Volume Reposting
+
+To keep the subreddit focused and to prevent clutter, reposting a popular instance is not allowed. If your post contains new information that falls within the scope of the subreddit, please indicate this in your title. This especially applies to high-profile instances.
+
+To a lesser extent, please don't dig up something random from decades ago either. Posts here should be current and relevant.","Images or stories of people losing their job, a scholarship/admission, or another kind of opportunity due to their actions online or in person.","<!-- SC_OFF --><div class=""md""><p>Images of people losing job/school/other opportunities in life, because of their actions online, or in the real world.</p>
+
+<p><a href=""/r/byebyejob"">r/byebyejob</a> Rules</p>
+
+<p>1.
+Posts Must Be on Topic</p>
+
+<p>Posts must be about someone who lost either a job/job opportunity or an admission/scholarship to a school or university. Titles should briefly describe the event (crosspost titles/news titles in photos are okay). Try to keep comments relevant.</p>
+
+<p>2.
+Be Civil</p>
+
+<p>Keep it clean. Poking fun and disagreement is okay, but anything aggravating, especially intentionally, is not allowed. Sitewide rules concerning discrimination and inciting violence fall under this rule. Feeding trolls constitutes incivility; see rule 6.</p>
+
+<p>Due to a large increase in toxicity over recent weeks, measures to maintain civility will be actively enforced.</p>
+
+<p>3.
+Action Needs to Have Been Taken</p>
+
+<p>One or more involved parties have to have been fired, lost some offer or benefit, suspended, etc. for the post to qualify. Don&#39;t upload posts where the person involved might face consequences, and especially don&#39;t upload posts petitioning for somebody to be fired when no action has been taken already. Please make sure to indicate the action taken in the title of your post, and provide sources through a comment if needed; OP&#39;s responsibility to provide proof, not the viewers&#39;.</p>
+
+<p>4.
+No Doxxing</p>
+
+<p>Absolutely no revealing personal information or soliciting such information in order to harass, intimidate, or contact anyone depicted in a post. Users who violate this rule egregiously or who do so in an attempt to cause harm may be banned.</p>
+
+<p>5.
+Censor Identifying Information</p>
+
+<p>This goes hand in hand with doxxing. Make sure to blur or censor out identifying information about a person. Public figures whose actions or statements are public information do not have to be censored.</p>
+
+<p>6.
+Don&#39;t Feed The Trolls</p>
+
+<p>If you see a troll, report them and move on. Replying rarely does any good, escalating the situation is worse. Generally, violating this rule will only earn you a polite reminder.</p>
+
+<p>That being said, deliberately escalating a situation violates civility rules, and will be met with sanctions varying based on history, frequency, and severity. Responding to a troll doesn&#39;t exempt you from following the rules.</p>
+
+<p>7.
+Post fake news at your own peril</p>
+
+<p>You&#39;re responsible for ensuring that what you post is the truth. This includes sensationalism; misconstruing a linked article for clicks is misleading. Whether it&#39;s deliberate or simply carelessness, posting something that is clearly and verifiably false WILL result in sanctions. Do your due diligence to avoid accidentally leading several thousands of people into believing falsehoods. Don&#39;t say we didn&#39;t warn you.</p>
+
+<p>8.
+No High-Volume Reposting</p>
+
+<p>To keep the subreddit focused and to prevent clutter, reposting a popular instance is not allowed. If your post contains new information that falls within the scope of the subreddit, please indicate this in your title. This especially applies to high-profile instances.</p>
+
+<p>To a lesser extent, please don&#39;t dig up something random from decades ago either. Posts here should be current and relevant.</p>
+</div><!-- SC_ON -->",/r/byebyejob/,309558,1978,,0,public,1624128977669,1591489238,,,,0,,,1,1,0

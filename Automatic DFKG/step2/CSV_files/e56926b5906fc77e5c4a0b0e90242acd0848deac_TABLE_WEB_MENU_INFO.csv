@@ -1,0 +1,2 @@
+COL_WEATHER_KEY,COL_WEB_MENU_TYPE,COL_WEB_MENU_TITLE,COL_WEB_MENU_IMAGE,COL_WEB_MENU_URL,COL_WEB_MENU_UPDATE_TIME
+cityId:current,5,,"https://api.weather.com/v2/maps/dynamic?geocode=37.0,-80.5&language=en-us&h=320&w=568&lod=7&a=0&product=twcRadarHcMosaic&apiKey=793db2b6128c4bc2bdb2b6128c0bc230",https://weather.com/weather/radar/interactive/l/47482b4760be8b67d164a7643d7dcc2f4a6a70112357d7b060166f8d57275d24?par=samsung_widget&temp=c,0

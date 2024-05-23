@@ -1,0 +1,4 @@
+key,proto
+https://www.google.com,b'\n\x1chttps://adservice.google.com'
+https://www.edmunds.com,b'\n\x1chttps://adservice.google.com'
+https://www.yellowpages.com,b'\n\x1chttps://adservice.google.com'

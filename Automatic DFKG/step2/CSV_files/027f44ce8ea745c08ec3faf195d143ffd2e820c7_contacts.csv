@@ -1,0 +1,4 @@
+_id,name_raw_contact_id,photo_id,photo_file_id,custom_ringtone,send_to_voicemail,x_times_contacted,x_last_time_contacted,times_contacted,last_time_contacted,starred,pinned,has_phone_number,lookup,status_update_id,contact_last_updated_timestamp,single_is_restricted,dirty_contact,has_email,link_count,sec_custom_vibration,sec_custom_dormant_contact,sec_custom_alert,link_accounts,is_private,sec_led,sec_preferred_sim,sec_call_background,sec_preferred_phone_account_name,sec_preferred_phone_account_id
+1,1,,,,0,0,0,0,,0,0,1,298i1,,1617476960077,0,0,0,1,,0,,2,0,,,,,
+2,2,,,,0,0,0,0,,0,0,1,298i2,,1617476960077,0,0,0,1,,0,,2,0,,,,,
+3,3,,,,0,0,0,0,,0,0,1,298i3,,1617476960077,0,0,0,1,,0,,2,0,,,,,

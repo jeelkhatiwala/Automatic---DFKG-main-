@@ -1,0 +1,26 @@
+RecordId,formal,alias
+1,storage,storage
+2,storage,space
+3,storage,file
+4,storage,files
+5,storage,cache
+6,memory,memory
+7,memory,ram
+8,memory,random access memory
+9,security,security
+10,security,virus
+11,security,viruses
+12,security,secure
+13,security,malware
+14,security,bug
+15,battery,battery
+16,battery,power
+17,battery,charging
+18,battery,charge
+19,wirelesspowershare,wireless power share
+20,wirelesspowershare,wireless power sharing
+21,wirelesspowershare,power share
+22,wirelesspowershare,power sharing
+23,wirelesspowershare,wireless power-sharing
+24,wirelesspowershare,power-sharing
+25,wirelesspowershare,share power

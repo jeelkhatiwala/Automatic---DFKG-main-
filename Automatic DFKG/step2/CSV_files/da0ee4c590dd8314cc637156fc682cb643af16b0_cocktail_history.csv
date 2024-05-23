@@ -1,0 +1,51 @@
+_id,name,timestamp
+53,CocktailBarReceiver start service ACTION_EDGE_APP_START,1623441161863
+54,CocktailBarService onCreate : setServiceForeGround true,1623441161948
+55,"CocktailBarService onStartCommand: intent=Intent { cmp=com.samsung.android.app.cocktailbarservice/.CocktailBarService },flags=0,starId=1",1623441162265
+56,CocktailBarService onStartCommand : setServiceForeGround true,1623441162344
+57,CocktailBarUiController startListening loadEdgePanel : true,1623441162372
+58,CocktailBarUiController startListening category : 1,1623441162376
+59,CocktailBarReceiver start service ACTION_EDGE_APP_START,1624340108026
+60,CocktailBarService onCreate : setServiceForeGround true,1624340108181
+61,"CocktailBarService onStartCommand: intent=Intent { cmp=com.samsung.android.app.cocktailbarservice/.CocktailBarService },flags=0,starId=1",1624340108455
+62,CocktailBarService onStartCommand : setServiceForeGround true,1624340108497
+63,CocktailBarUiController startListening loadEdgePanel : true,1624340108515
+64,CocktailBarUiController startListening category : 1,1624340108518
+65,CocktailBarReceiver start service ACTION_EDGE_APP_START,1624385797896
+66,CocktailBarService onCreate : setServiceForeGround true,1624385798258
+67,"CocktailBarService onStartCommand: intent=Intent { cmp=com.samsung.android.app.cocktailbarservice/.CocktailBarService },flags=0,starId=1",1624385799303
+68,CocktailBarService onStartCommand : setServiceForeGround true,1624385799405
+69,CocktailBarUiController startListening loadEdgePanel : true,1624385799613
+70,CocktailBarUiController startListening category : 1,1624385799630
+71,CocktailBarReceiver startService : startCocktailBarServiceIfNeed,1624385810675
+72,"CocktailBarService onStartCommand: intent=Intent { cmp=com.samsung.android.app.cocktailbarservice/.CocktailBarService },flags=0,starId=2",1624385810681
+73,CocktailBarUiController startListening loadEdgePanel : true,1624385810682
+74,CocktailBarUiController startListening category : 1,1624385810683
+75,CocktailBarReceiver start service ACTION_EDGE_APP_START,1624936976502
+76,CocktailBarService onCreate : setServiceForeGround true,1624936976893
+77,"CocktailBarService onStartCommand: intent=Intent { cmp=com.samsung.android.app.cocktailbarservice/.CocktailBarService },flags=0,starId=1",1624936972575
+78,CocktailBarService onStartCommand : setServiceForeGround true,1624936972621
+79,CocktailBarUiController startListening loadEdgePanel : true,1624936972688
+80,CocktailBarUiController startListening category : 1,1624936972701
+81,CocktailBarReceiver startService : startCocktailBarServiceIfNeed,1624936985958
+82,"CocktailBarService onStartCommand: intent=Intent { cmp=com.samsung.android.app.cocktailbarservice/.CocktailBarService },flags=0,starId=2",1624936985966
+83,CocktailBarUiController startListening loadEdgePanel : true,1624936985967
+84,CocktailBarUiController startListening category : 1,1624936985969
+85,CocktailBarReceiver start service ACTION_EDGE_APP_START,1625113817942
+86,CocktailBarService onCreate : setServiceForeGround true,1625113817994
+87,"CocktailBarService onStartCommand: intent=Intent { cmp=com.samsung.android.app.cocktailbarservice/.CocktailBarService },flags=0,starId=1",1625113818233
+88,CocktailBarService onStartCommand : setServiceForeGround true,1625113818255
+89,CocktailBarUiController startListening loadEdgePanel : true,1625113818277
+90,CocktailBarUiController startListening category : 1,1625113818284
+91,CocktailBarReceiver start service ACTION_EDGE_APP_START,1625508508672
+92,CocktailBarService onCreate : setServiceForeGround true,1625508508821
+93,"CocktailBarService onStartCommand: intent=Intent { cmp=com.samsung.android.app.cocktailbarservice/.CocktailBarService },flags=0,starId=1",1625508509370
+94,CocktailBarService onStartCommand : setServiceForeGround true,1625508509479
+95,CocktailBarUiController startListening loadEdgePanel : true,1625508509574
+96,CocktailBarUiController startListening category : 1,1625508509608
+97,CocktailBarReceiver start service ACTION_EDGE_APP_START,1625809520472
+98,CocktailBarService onCreate : setServiceForeGround true,1625809520731
+99,"CocktailBarService onStartCommand: intent=Intent { cmp=com.samsung.android.app.cocktailbarservice/.CocktailBarService },flags=0,starId=1",1625809521174
+100,CocktailBarService onStartCommand : setServiceForeGround true,1625809521210
+101,CocktailBarUiController startListening loadEdgePanel : true,1625809521246
+102,CocktailBarUiController startListening category : 1,1625809521257

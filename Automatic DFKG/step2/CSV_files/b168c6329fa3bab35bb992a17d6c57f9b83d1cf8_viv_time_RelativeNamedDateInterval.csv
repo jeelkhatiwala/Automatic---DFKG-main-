@@ -1,0 +1,8 @@
+RecordId,formal,alias
+1,Century,century
+2,Decade,decade
+3,Month,month
+4,Quarter,quarter
+5,Week,week
+6,Week,weekly
+7,Year,year

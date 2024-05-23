@@ -1,0 +1,2 @@
+_id,category,tag,label,value,ext_value,ext_json,user_id,timestamp,session_id,event_index
+43242,event_v3,ug_sdk_action_check,,0,0,"{""launch_sequence"":4,""sdk_name"":""push"",""sdk_version"":""3.2.3-alpha.12-tiktok"",""action_id"":""1004"",""message"":""frontierPush register timeout"",""result"":108,""timestamp"":""1626978592992"",""extra"":{""status"":108,""pushType"":15},""_event_v3"":1,""ab_sdk_version"":""0,185214911,50017293,50019349"",""nt"":1}",6947154732546245638,1626978592992,2063,1

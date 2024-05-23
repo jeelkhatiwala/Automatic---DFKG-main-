@@ -1,0 +1,257 @@
+RecordId,formal,alias
+1,af,afrikaans
+2,af-ZA,south african
+3,af-ZA,south afrikaans
+4,af-ZA,south african
+5,ar,arabic
+6,ar-AE,emirati arabic
+7,ar-AE,uae arabic
+8,ar-BH,bahraini arabic
+9,ar-BH,arabic of bahrain
+10,ar-DZ,algerian arabic
+11,ar-DZ,algerian
+12,ar-EG,egyptian arabic
+13,ar-EG,egyptian
+14,ar-IQ,mesopotamian arabic
+15,ar-IQ,iraqi arabic
+16,ar-JO,jordanian arabic
+17,ar-KW,kuwaiti arabic
+18,ar-LB,lebanese arabic
+19,ar-LB,lebanese
+20,ar-LY,libyan arabic
+21,ar-LY,libyan
+22,ar-MA,moroccan arabic
+23,ar-MA,moroccan darija
+24,ar-OM,omani arabic
+25,ar-OM,omani
+26,ar-QA,qatar arabic
+27,ar-SA,saudi arabian arabic
+28,ar-SA,saudi arabian
+29,ar-SY,syrian arabic
+30,ar-SY,syrian
+31,ar-TN,tunisian arabic
+32,ar-TN,tunisian
+33,ar-YE,yemen arabic
+34,ar-YE,yemeni
+35,az-AZ,azeri
+36,az-AZ,azerbaijani
+37,az-AZ,azeri turkic
+38,az-AZ,azeri turkish
+39,be-BY,belarusian
+40,be-BY,belarus
+41,bg-BG,bulgarian
+42,br-FR,breton
+43,bs-BA,bosnian
+44,bs-BA,bosniak
+45,ca-ES,catalan
+46,co-FR,corsican
+47,cs-CZ,czech
+48,cs-CZ,bohemian
+49,cy-GB,welsh
+50,da-DK,danish
+51,de,german
+52,de-AT,austrian german
+53,de-CH,swiss german
+54,de-DE,standard german
+55,de-DE,native german
+56,de-LI,liechtensteinian german
+57,de-LU,luxembourg german
+58,dv-MV,maldivian
+59,dv-MV,divehi
+60,dv-MV,dhivehi
+61,el-GR,greek
+62,en,english
+63,en-AU,australian english
+64,en-AU,australian
+65,en-BZ,belizean english
+66,en-CA,canadian english
+67,en-CB,caribbean english
+68,en-CB,caribbean
+69,en-GB,british english
+70,en-GB,uk english
+71,en-GB,united kingdom english
+72,en-GB,britain english
+73,en-IE,irish english
+74,en-IE,hiberno english
+75,en-IE,ireland english
+76,en-JM,jamaican english
+77,en-JM,jamaica english
+78,en-NZ,new zealanders english
+79,en-NZ,new zealand english
+80,en-PH,philippine english
+81,en-PH,filipino english
+82,en-TT,trinidad and tobago english
+83,en-US,american english
+84,en-US,american
+85,en-US,us english
+86,en-US,usa english
+87,en-US,united states english
+88,en-ZA,south african english
+89,en-ZA,south africa english
+90,en-ZW,zimbabwean english
+91,en-ZW,zimbabwe english
+92,eo,esperanto
+93,es,spanish
+94,es,espanol
+95,es-AR,argentina spanish
+96,es-AR,argentinian spanish
+97,es-AR,argentine spanish
+98,es-BO,bolivia spanish
+99,es-BO,bolivian spanish
+100,es-CL,chile spanish
+101,es-CL,chilean spanish
+102,es-CO,colombia spanish
+103,es-CO,colombian spanish
+104,es-CR,costa rica spanish
+105,es-CR,costa rican spanish
+106,es-DO,dominican spanish
+107,es-DO,dominican republic spanish
+108,es-EC,ecuadorian spanish
+109,es-EC,ecuador spanish
+110,es-ES,native spanish
+111,es-ES,standard spanish
+112,es-GT,guatemalan spanish
+113,es-GT,guatemala spanish
+114,es-HN,honduras spanish
+115,es-HN,honduran spanish
+116,es-MX,mexico spanish
+117,es-MX,mexican
+118,es-MX,mexican spanish
+119,es-NI,nicaragua spanish
+120,es-NI,nicaraguan spanish
+121,es-NI,nica spanish
+122,es-PA,panama spanish
+123,es-PA,panamanian spanish
+124,es-PE,peru spanish
+125,es-PE,peruvian spanish
+126,es-PR,puerto rico spanish
+127,es-PR,puerto rican spanish
+128,es-PY,paraguay spanish
+129,es-PY,paraguayan spanish
+130,es-SV,el salvador spanish
+131,es-SV,salvadoran spanish
+132,es-UY,uruguay spanish
+133,es-UY,uruguayan spanish
+134,es-VE,venezuela spanish
+135,es-VE,venezuelan spanish
+136,et-EE,estonian
+137,eu-ES,basque
+138,fa-IR,persian
+139,fa-IR,farsi
+140,fi-FI,finnish
+141,fo-FO,faroese
+142,fr,french
+143,fr-BE,belgium french
+144,fr-CA,canadian french
+145,fr-CA,canada french
+146,fr-CH,swiss french
+147,fr-CH,switzerland french
+148,fr-FR,native french
+149,fr-LU,luxembourg french
+150,fr-MC,monaco french
+151,gl-ES,galician
+152,gu-IN,gujarati
+153,he-IL,hebrew
+154,hi-IN,hindi
+155,hr,croatian
+156,hr-BA,bosnia and herzegovina croatian
+157,hr-BA,bosnia croatian
+158,hr-HR,native croatian
+159,hu-HU,hungarian
+160,hy-AM,armenian
+161,id-ID,indonesian
+162,is-IS,icelandic
+163,it,italian
+164,it-CH,swiss italian
+165,it-IT,native italian
+166,ja-JP,japanese
+167,ka-GE,georgian
+168,kk-KZ,kazakh
+169,kn-IN,kannada
+170,ko-KR,korean
+171,ko-KR,south korean
+172,kok-IN,konkani
+173,ky-KG,kyrgyz
+174,lb-LU,luxembourgish
+175,lt-LT,lithuanian
+176,lv-LV,latvian
+177,mi-NZ,maori
+178,mk-MK,macedonian
+179,mn-MN,mongolian
+180,mr-IN,marathi
+181,mr-IN,maharashtrian
+182,ms-BN,brunei malay
+183,ms-MY,malay
+184,ms-MY,malaysian
+185,mt-MT,maltese
+186,nb-NO,bokmal
+187,nl,dutch
+188,nl-BE,belgian dutch
+189,nl-BE,belgium dutch
+190,nl-NL,native dutch
+191,nl-NL,netherland dutch
+192,nn-NO,nynorsk
+193,nn-NO,norwegian
+194,ns-ZA,northern sotho
+195,oc-FR,occitan
+196,pa-IN,punjabi
+197,pl-PL,polish
+198,ps-AR,pashto
+199,pt,portuguese
+200,pt-BR,brazilian portuguese
+201,pt-BR,brazil portuguese
+202,pt-PT,native portuguese
+203,qu,quechua
+204,qu-BO,bolivian quechua
+205,qu-EC,kichwa
+206,qu-PE,peru quechua
+207,qu-PE,peruvian quechua
+208,qu-PE,lowland peruvian quechua
+209,qu-PE,chachapoyas–lamas quechua
+210,ro-RO,romanian
+211,ru-RU,russian
+212,sa-IN,sanskrit
+213,se,sami
+214,sk-SK,slovak
+215,sk-SK,slovakian
+216,sl-SI,slovenian
+217,sq,albanian
+218,sq-AL,native albanian
+219,sr-BA,bosnia serbian
+220,sr-BA,bosnia and herzegovina serbian
+221,sv,swedish
+222,sv-FI,finland swedish
+223,sv-SE,native swedish
+224,sw-KE,kiswahili
+225,sw-KE,swahili
+226,syr-SY,syriac
+227,ta-IN,tamil
+228,te-IN,telugu
+229,th-TH,thai
+230,tl-PH,tagalog
+231,tn-ZA,tswana
+232,tr-TR,turkish
+233,tt-RU,tatar
+234,ts,tsonga
+235,ty-FR,tahitian
+236,uk-UA,ukrainian
+237,ur-PK,urdu
+238,uz-UZ,uzbek
+239,vi-VN,vietnamese
+240,wo,wolof
+241,xh-ZA,xhosa
+242,zh,chinese
+243,zh,mandarin
+244,zh-CN,mainland chinese
+245,zh-CN,mainland mandarin
+246,zh-HK,cantonese
+247,zh-HK,hong kong chinese
+248,zh-HK,hong kong cantonese
+249,zh-MO,macau cantonese
+250,zh-MO,macau chinese
+251,zh-SG,singapore mandarin
+252,zh-SG,singapore chinese
+253,zh-TW,taiwan mandarin
+254,zh-TW,taiwan chinese
+255,zh-TW,taiwanese mandarin
+256,zu-ZA,zulu

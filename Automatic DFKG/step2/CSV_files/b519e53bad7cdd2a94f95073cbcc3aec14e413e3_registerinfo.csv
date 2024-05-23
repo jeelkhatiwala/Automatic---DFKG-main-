@@ -1,0 +1,18 @@
+_id,vibration_name,vibration_pattern,vibration_type,custom_data,is_custom
+1,Basic call,50035,0,,0
+2,Heartbeat,50033,0,,0
+3,Ticktock,50034,0,,0
+4,Waltz,50037,0,,0
+5,Zig-zig-zig,50036,0,,0
+6,Off-beat,50041,0,,0
+7,Spinning,50042,0,,0
+8,Siren,50043,0,,0
+9,Telephone,50044,0,,0
+10,Ripple,50045,0,,0
+11,Bounce,50125,0,,0
+12,Tap,50126,0,,0
+13,Dubstep,50127,0,,0
+14,Fireworks,50128,0,,0
+15,Gallop,50129,0,,0
+16,Shuffle,50130,0,,0
+17,Spring,50131,0,,0

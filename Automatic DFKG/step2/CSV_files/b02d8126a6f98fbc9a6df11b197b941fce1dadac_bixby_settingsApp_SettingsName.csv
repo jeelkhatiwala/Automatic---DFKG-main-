@@ -1,0 +1,106 @@
+RecordId,formal,alias
+1,Wifi,wi-fi
+2,Wifi,wifi
+3,Wifi,wifi
+4,Wifi,wi fi
+5,Wifi,wireless
+6,Wifi,wireless lan
+7,Wifi,wireless connection
+8,Wifi,wireless router
+9,Wifi,wireless network
+10,Bluetooth,bluetooth
+11,Bluetooth,blue tooth
+12,Bluetooth,bt
+13,Hotspot,hotspot
+14,Hotspot,mobile hotspot
+15,NFC,nfc
+16,NFC,nfc
+17,NFC,near field communication
+18,NFC,near field communications
+19,NFC,near-field communication
+20,NFC,near-field communications
+21,Edge,edge
+22,Edge,edge
+23,Edge,edge screen
+24,Edge,edge panel
+25,EdgeLighting,edgelighting
+26,EdgeLighting,edge lighting
+27,AOD,aod
+28,AOD,always on display
+29,AOD,always on
+30,NoDisturb,do not disturb
+31,NoDisturb,dnd
+32,NoDisturb,disturbed
+33,NoDisturb,don't disturb
+34,BlueLight,blue light
+35,BlueLight,blue
+36,BlueLight,bluelight
+37,AutoBrightness,auto brightness
+38,AutoBrightness,autobrightness
+39,AutoBrightness,automatic brightness
+40,AutoBrightness,adaptive brightness
+41,AutoBrightness,automatically adjust the brightness
+42,AutoBrightness,auto adjust brightness
+43,AutoBrightness,auto screen brightness
+44,NightTheme,night mode
+45,NightTheme,nighttheme
+46,NightTheme,night theme
+47,NightTheme,nightmode
+48,NightTheme,dark mode
+49,NightTheme,dark theme
+50,Routine,bixby routine
+51,Routine,routine
+52,Routine,bixby routines
+53,Routine,routines
+54,Location,location
+55,Location,gps
+56,Location,my location
+57,Location,google location
+58,PinWindows,pin windows
+59,ScreenSaver,screen saver
+60,ScreenSaver,screensaver
+61,Sound,sound mode
+62,Sound,bell sound mode
+63,Sound,ringtone mode
+64,Vibrate,vibration
+65,Vibrate,manner
+66,Vibrate,shiver
+67,Vibrate,vibrate mode
+68,Vibrate,manner mode
+69,Silent,mute mode
+70,Airplane,airplane mode
+71,Airplane,flight mode
+72,MobileData,mobile data
+73,MobileData,cellular data
+74,MobileData,phone data
+75,MobileData,data network
+76,MobileData,data
+77,FocusMode,focusmode
+78,FocusMode,focus mode
+79,Not_Supported_Name,easy mode
+80,Not_Supported_Name,imei
+81,Not_Supported_Name,imei number
+82,Not_Supported_Name,ip
+83,Not_Supported_Name,ip address
+84,Not_Supported_Name,led indicator
+85,Not_Supported_Name,led indicator light
+86,Not_Supported_Name,auto rotate
+87,Not_Supported_Name,auto rotation
+88,Not_Supported_Name,bluetooth tethering
+89,Not_Supported_Name,screen lock
+90,Not_Supported_Name,s pen remote
+91,Not_Supported_Name,wifi direct
+92,Not_Supported_Name,wi-fi direct
+93,Not_Supported_Name,wake up sound
+94,Not_Supported_Name,accidental touch protection
+95,Not_Supported_Name,accidental touches
+96,Not_Supported_Name,usb debugging
+97,Not_Supported_Name,phone visibility
+98,Not_Supported_Name,bixby
+99,Not_Supported_Name,yourself
+100,Not_Supported_Name,your self
+101,Not_Supported_Name,fast charging
+102,Not_Supported_Name,fast wireless charging
+103,BlueLight,blue light filter
+104,Hotspot,hotspot tethering
+105,NoDisturb,"don""t disturb"

@@ -1,0 +1,4 @@
+_id,fullname,fullname_normalized,firstname,lastname,user_id,external_id,username,picture_url,last_accessed_timestamp,registration_status,phones_list,emails_list,is_returned_from_search,friend_status,is_top_friend,address_book_id,blocked,idenity_type
+1,Voice Mail,Voice Mail,,,,,,,0,not_on_venmo,8056377243,,0,not_friend,0,3,0,
+2,Customer Care,Customer Care,,,,,,,0,not_on_venmo,611,,0,not_friend,0,2,0,
+3,411 & More,411  More,,,,,,,0,not_on_venmo,411,,0,not_friend,0,1,0,

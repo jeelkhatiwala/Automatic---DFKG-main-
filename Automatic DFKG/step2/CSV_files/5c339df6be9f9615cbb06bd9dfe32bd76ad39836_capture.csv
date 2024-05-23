@@ -1,0 +1,402 @@
+_id,capture_time,capture_file_name,capture_server_ip,capture_server_port,capture_app_name_main,capture_app_name_all,capture_proxy_type,capture_protocol_no,capture_pkg_name_all,capture_set_id
+1,1618077687245,/data/user/0/app.greyshirts.sslcapture/files/capture5924736418987782039.dat,69.171.250.34,443,Facebook Services,Facebook Services,1,6,com.facebook.services,1618077687062
+2,1618077687260,/data/user/0/app.greyshirts.sslcapture/files/capture2338597808508618173.dat,199.103.24.2,443,System,System,1,6,root.uid=0,1618077687062
+3,1618077687279,/data/user/0/app.greyshirts.sslcapture/files/capture8190198680235017688.dat,199.103.24.2,443,System,System,1,6,root.uid=0,1618077687062
+4,1618077687280,/data/user/0/app.greyshirts.sslcapture/files/capture1640923295324676976.dat,130.44.212.185,443,System,System,1,6,root.uid=0,1618077687062
+5,1618077687291,/data/user/0/app.greyshirts.sslcapture/files/capture5764658072200985247.dat,34.98.93.234,443,System,System,1,6,root.uid=0,1618077687062
+6,1618077687318,/data/user/0/app.greyshirts.sslcapture/files/capture2005047872003242175.dat,199.103.24.2,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+7,1618077687331,/data/user/0/app.greyshirts.sslcapture/files/capture1721173936137164446.dat,199.103.24.2,443,System,System,1,6,root.uid=0,1618077687062
+8,1618077687339,/data/user/0/app.greyshirts.sslcapture/files/capture3662640660726997945.dat,130.44.212.185,443,System,System,1,6,root.uid=0,1618077687062
+9,1618077687354,/data/user/0/app.greyshirts.sslcapture/files/capture4840272074005392326.dat,34.98.93.234,443,System,System,1,6,root.uid=0,1618077687062
+10,1618077687365,/data/user/0/app.greyshirts.sslcapture/files/capture5704364857949499618.dat,130.44.212.180,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+11,1618077687381,/data/user/0/app.greyshirts.sslcapture/files/capture7358716297848954913.dat,34.107.140.103,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+12,1618077687549,/data/user/0/app.greyshirts.sslcapture/files/capture1917178512796086511.dat,69.171.250.34,443,Facebook Services,Facebook Services,1,6,com.facebook.services,1618077687062
+13,1618077687681,/data/user/0/app.greyshirts.sslcapture/files/capture7414243809164055006.dat,34.107.140.103,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+14,1618077688065,/data/user/0/app.greyshirts.sslcapture/files/capture1678346330359633428.dat,130.44.212.180,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+15,1618077688086,/data/user/0/app.greyshirts.sslcapture/files/capture5968079022637651795.dat,69.171.250.34,443,Facebook Services,Facebook Services,1,6,com.facebook.services,1618077687062
+16,1618077688336,/data/user/0/app.greyshirts.sslcapture/files/capture5843553840507868247.dat,52.114.76.37,443,OneDrive,OneDrive,1,6,com.microsoft.skydrive,1618077687062
+17,1618077688994,/data/user/0/app.greyshirts.sslcapture/files/capture5787276059128375373.dat,130.44.212.180,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+18,1618077689199,/data/user/0/app.greyshirts.sslcapture/files/capture437001191663242990.dat,34.120.163.4,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+19,1618077689220,/data/user/0/app.greyshirts.sslcapture/files/capture6144254285011884130.dat,199.232.130.133,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+20,1618077689364,/data/user/0/app.greyshirts.sslcapture/files/capture3308435064608227114.dat,130.44.212.180,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+21,1618077689562,/data/user/0/app.greyshirts.sslcapture/files/capture8086429713236666997.dat,34.107.140.103,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+22,1618077689569,/data/user/0/app.greyshirts.sslcapture/files/capture7958702953818658757.dat,151.101.118.133,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+23,1618077689789,/data/user/0/app.greyshirts.sslcapture/files/capture4815912730571022412.dat,172.217.9.226,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+24,1618077690193,/data/user/0/app.greyshirts.sslcapture/files/capture3026406407872424684.dat,184.28.190.64,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+25,1618077691198,/data/user/0/app.greyshirts.sslcapture/files/capture7041463807382682024.dat,172.217.11.10,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+26,1618077691532,/data/user/0/app.greyshirts.sslcapture/files/capture3585066463303313765.dat,172.253.115.188,5228,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+27,1618077691932,/data/user/0/app.greyshirts.sslcapture/files/capture1892789046065074711.dat,172.217.11.10,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+28,1618077692035,/data/user/0/app.greyshirts.sslcapture/files/capture6116260174474282679.dat,52.114.76.37,443,OneDrive,OneDrive,1,6,com.microsoft.skydrive,1618077687062
+29,1618077692450,/data/user/0/app.greyshirts.sslcapture/files/capture6577725049176476867.dat,69.171.250.34,443,Facebook Services,Facebook Services,1,6,com.facebook.services,1618077687062
+30,1618077693256,/data/user/0/app.greyshirts.sslcapture/files/capture7849405984326191771.dat,172.217.11.10,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+31,1618077694769,/data/user/0/app.greyshirts.sslcapture/files/capture6056221640514369438.dat,52.170.57.27,443,OneDrive,OneDrive,1,6,com.microsoft.skydrive,1618077687062
+32,1618077697770,/data/user/0/app.greyshirts.sslcapture/files/capture5589115975609893850.dat,69.171.250.34,443,Facebook Services,Facebook Services,1,6,com.facebook.services,1618077687062
+33,1618077697937,/data/user/0/app.greyshirts.sslcapture/files/capture4834267071242859116.dat,52.114.88.20,443,OneDrive,OneDrive,1,6,com.microsoft.skydrive,1618077687062
+34,1618077701899,/data/user/0/app.greyshirts.sslcapture/files/capture55962419495558300.dat,172.253.115.188,5228,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+35,1618077702544,/data/user/0/app.greyshirts.sslcapture/files/capture687288088305070781.dat,52.114.88.20,443,OneDrive,OneDrive,1,6,com.microsoft.skydrive,1618077687062
+36,1618077706512,/data/user/0/app.greyshirts.sslcapture/files/capture5953538898586595478.dat,13.73.26.107,443,OneDrive,OneDrive,1,6,com.microsoft.skydrive,1618077687062
+37,1618077707103,/data/user/0/app.greyshirts.sslcapture/files/capture6586097014285516771.dat,69.171.250.34,443,Facebook Services,Facebook Services,1,6,com.facebook.services,1618077687062
+38,1618077715533,/data/user/0/app.greyshirts.sslcapture/files/capture4949133452178165081.dat,52.170.57.27,443,OneDrive,OneDrive,1,6,com.microsoft.skydrive,1618077687062
+39,1618077718341,/data/user/0/app.greyshirts.sslcapture/files/capture4845023630965359002.dat,172.217.9.226,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+40,1618077718909,/data/user/0/app.greyshirts.sslcapture/files/capture2963510275091769600.dat,52.170.57.27,443,OneDrive,OneDrive,1,6,com.microsoft.skydrive,1618077687062
+41,1618077720531,/data/user/0/app.greyshirts.sslcapture/files/capture2434500403745703154.dat,69.171.250.34,443,Facebook Services,Facebook Services,1,6,com.facebook.services,1618077687062
+42,1618077722271,/data/user/0/app.greyshirts.sslcapture/files/capture1467156252796151174.dat,172.253.115.188,5228,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+43,1618077735446,/data/user/0/app.greyshirts.sslcapture/files/capture4153411553706123324.dat,40.78.128.150,443,OneDrive,OneDrive,1,6,com.microsoft.skydrive,1618077687062
+44,1618077736033,/data/user/0/app.greyshirts.sslcapture/files/capture2882663867200159833.dat,130.44.212.180,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+45,1618077736144,/data/user/0/app.greyshirts.sslcapture/files/capture7495669550179977352.dat,151.101.118.133,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+46,1618077736319,/data/user/0/app.greyshirts.sslcapture/files/capture3791129094806023206.dat,172.217.10.130,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+47,1618077738965,/data/user/0/app.greyshirts.sslcapture/files/capture7538852473819722772.dat,69.171.250.34,443,Facebook Services,Facebook Services,1,6,com.facebook.services,1618077687062
+48,1618077739310,/data/user/0/app.greyshirts.sslcapture/files/capture3600424247118579111.dat,40.78.128.150,443,OneDrive,OneDrive,1,6,com.microsoft.skydrive,1618077687062
+49,1618077740413,/data/user/0/app.greyshirts.sslcapture/files/capture7151493767854222764.dat,172.217.10.130,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+50,1618077749631,/data/user/0/app.greyshirts.sslcapture/files/capture212322115245174279.dat,172.217.165.138,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+51,1618077749645,/data/user/0/app.greyshirts.sslcapture/files/capture6882061480386241055.dat,104.244.42.2,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+52,1618077750145,/data/user/0/app.greyshirts.sslcapture/files/capture2980556595845255207.dat,104.244.42.2,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+53,1618077750609,/data/user/0/app.greyshirts.sslcapture/files/capture6819857728230203790.dat,104.244.42.130,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+54,1618077751100,/data/user/0/app.greyshirts.sslcapture/files/capture5390417130191021251.dat,104.244.42.130,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+55,1618077751611,/data/user/0/app.greyshirts.sslcapture/files/capture9164065390157642425.dat,104.244.42.194,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+56,1618077752072,/data/user/0/app.greyshirts.sslcapture/files/capture7380505168506908122.dat,104.244.42.194,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+57,1618077752562,/data/user/0/app.greyshirts.sslcapture/files/capture8497114259224580894.dat,104.244.42.66,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+58,1618077753049,/data/user/0/app.greyshirts.sslcapture/files/capture8169555874837310854.dat,104.244.42.66,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+59,1618077753455,/data/user/0/app.greyshirts.sslcapture/files/capture7422957210919216511.dat,35.201.69.248,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+60,1618077753680,/data/user/0/app.greyshirts.sslcapture/files/capture4142910174833030015.dat,35.201.69.248,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+61,1618077764070,/data/user/0/app.greyshirts.sslcapture/files/capture7939262273660286739.dat,172.253.115.188,5228,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+62,1618077774458,/data/user/0/app.greyshirts.sslcapture/files/capture467151631999056377.dat,151.101.118.133,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+63,1618077774478,/data/user/0/app.greyshirts.sslcapture/files/capture7350473344187431307.dat,69.171.250.34,443,Facebook Services,Facebook Services,1,6,com.facebook.services,1618077687062
+64,1618077774596,/data/user/0/app.greyshirts.sslcapture/files/capture6469947866156200346.dat,184.28.190.216,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+65,1618077774804,/data/user/0/app.greyshirts.sslcapture/files/capture4723600651027415690.dat,69.171.250.34,443,Facebook Services,Facebook Services,1,6,com.facebook.services,1618077687062
+66,1618077775042,/data/user/0/app.greyshirts.sslcapture/files/capture74475936853772924.dat,69.171.250.34,443,Facebook Services,Facebook Services,1,6,com.facebook.services,1618077687062
+67,1618077776243,/data/user/0/app.greyshirts.sslcapture/files/capture6803747196955547559.dat,8.8.8.8,53,Accessibility,"Accessibility,Android System,ANT+ HAL service,Application Installer,AppLinker,Auto Hotspot,BBCAgent,Blue light filter,BluetoothTest,BrightnessBNR,Call & text on other devices,CDFS MODE Launcher,ClipboardSaveService,CMFA Framework,com.android.localtransport,com.android.wallpaperbackup,com.samsung.android.biometrics.app.setting,com.samsung.android.knox.attestation,com.samsung.android.smartswitchassistant,com.samsung.InputEventApp,com.samsung.ucs.agent.ese,com.sec.bcservice,com.sec.epdg,Configuration update,Configuration update,Device care,DeviceKeystring,DeviceTest,DeX for PC,DiagMonAgent,Digital Wellbeing,DQA,DRParser Mode,Dual Messenger,Dynamic System Updates,EmergencyManagerService,Enterprise Sim Pin Service,Face,FACM,FactoryCamera,Filter Provider,Fused Location,Galaxy Themes Service,GPUWatch,HdmApp,HwModuleTest,IMS Service,ImsLogger,Input Devices,Key Chain,Knox Key Chain,KnoxPushManager,Launcher,MobileWips,MTP application,Perso,Phone,RilNotifier,Samsung ApexService,Samsung Device Health Manager Service,Samsung DeX home,Samsung Multi Connectivity,Samsung setup wizard,Samsung text-to-speech engine,SCameraService,SCameraXService,Secure UI Service,SecurityLogAgent,SecVideoEngineService,SEMFactoryApp,Service mode,Settings,Settings Storage,SettingsBixby,Setup Wizard,ShortcutBNR,SilentLogging,SKMSAgentService,SmartFaceService,SmartFittingService,SmartFPSAdjuster,Software update,Software update,StickerCenter,SVC Agent,SystemUpdate,TADownloader,Tethering,TetheringAutomation,Tools,USBSettings,Voice wake-up,Wallpapers,WlanTest",0,17,"com.samsung.accessibility,android,com.dsi.ant.server,com.sec.android.preloadinstaller,com.sec.android.app.applinker,com.sec.mhs.smarttethering,com.samsung.android.bbc.bbcagent,com.samsung.android.bluelightfilter,com.sec.android.app.bluetoothtest,com.samsung.android.brightnessbackupservice,com.samsung.android.mdecservice,com.sec.android.Cdfs,com.samsung.clipboardsaveservice,com.samsung.android.cmfa.framework,com.android.localtransport,com.android.wallpaperbackup,com.samsung.android.biometrics.app.setting,com.samsung.android.knox.attestation,com.samsung.android.smartswitchassistant,com.samsung.InputEventApp,com.samsung.ucs.agent.ese,com.sec.bcservice,com.sec.epdg,com.samsung.android.app.omcagent,com.samsung.android.providers.carrier,com.samsung.android.lool,com.sec.android.app.factorykeystring,com.sec.factory,com.sec.android.app.dexonpc,com.sec.android.diagmonagent,com.samsung.android.forest,com.samsung.android.dqagent,com.sec.android.app.parser,com.samsung.android.da.daagent,com.android.dynsystem,com.sec.android.emergencymode.service,com.sec.enterprise.mdm.services.simpin,com.samsung.android.bio.face.service,com.samsung.android.aircommandmanager,com.sec.factory.camera,com.samsung.android.provider.filterprovider,com.android.location.fused,com.samsung.android.themecenter,com.samsung.gpuwatchapp,com.samsung.android.hdmapp,com.sec.android.app.hwmoduletest,com.sec.imsservice,com.sec.imslogger,com.android.inputdevices,com.android.keychain,com.samsung.knox.keychain,com.samsung.android.knox.pushmanager,com.sec.android.emergencylauncher,com.samsung.android.server.wifi.mobilewips,com.samsung.android.MtpApplication,com.sec.android.app.personalization,com.android.server.telecom,com.sec.app.RilErrorNotifier,com.sec.android.app.apex,com.sec.android.sdhms,com.sec.android.app.desktoplauncher,com.samsung.android.mcfserver,com.sec.android.app.SecSetupWizard,com.samsung.SMT,com.samsung.android.camerasdkservice,com.samsung.android.cameraxservice,com.qualcomm.qti.services.secureui,com.samsung.android.securitylogagent,com.sec.sve,com.sem.factoryapp,com.sec.android.app.servicemodeapp,com.android.settings,com.android.providers.settings,com.samsung.android.app.settings.bixby,com.sec.android.app.setupwizard,com.samsung.android.shortcutbackupservice,com.sec.modem.settings,com.skms.android.agent,com.samsung.android.smartface,com.samsung.android.smartfitting,com.sec.android.smartfpsadjuster,com.sec.android.soagent,com.wssyncmldm,com.samsung.android.stickercenter,com.samsung.android.svcagent,com.sec.android.systemupdate,com.samsung.android.tadownloader,com.android.networkstack.tethering.inprocess,com.sec.automation,com.sec.android.app.quicktool,com.sec.usbsettings,com.samsung.android.bixby.wakeup,com.samsung.android.app.dressroom,com.sec.android.app.wlantest",1618077687062
+68,1618077780322,/data/user/0/app.greyshirts.sslcapture/files/capture3727652733708185631.dat,69.171.250.34,443,Facebook Services,Facebook Services,1,6,com.facebook.services,1618077687062
+69,1618077784321,/data/user/0/app.greyshirts.sslcapture/files/capture4607052605674534516.dat,172.217.10.130,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+70,1618077788601,/data/user/0/app.greyshirts.sslcapture/files/capture5036371156634496863.dat,69.171.250.34,443,Facebook Services,Facebook Services,1,6,com.facebook.services,1618077687062
+71,1618077789056,/data/user/0/app.greyshirts.sslcapture/files/capture8551670116382792916.dat,172.217.10.130,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+72,1618077792028,/data/user/0/app.greyshirts.sslcapture/files/capture1074520155471109714.dat,172.217.10.130,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+73,1618077795105,/data/user/0/app.greyshirts.sslcapture/files/capture8032174860373628465.dat,172.217.10.130,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+74,1618077797705,/data/user/0/app.greyshirts.sslcapture/files/capture6005831347966461664.dat,172.217.10.130,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+75,1618077801178,/data/user/0/app.greyshirts.sslcapture/files/capture5463066793407894741.dat,172.217.10.130,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+76,1618077803227,/data/user/0/app.greyshirts.sslcapture/files/capture3033082913519798129.dat,172.217.10.130,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+77,1618077807094,/data/user/0/app.greyshirts.sslcapture/files/capture8576924043782313503.dat,172.217.10.130,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+78,1618077808002,/data/user/0/app.greyshirts.sslcapture/files/capture5429011080422143197.dat,69.171.250.34,443,Facebook Services,Facebook Services,1,6,com.facebook.services,1618077687062
+79,1618077816107,/data/user/0/app.greyshirts.sslcapture/files/capture4735811782234166244.dat,172.217.10.130,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+80,1618077827075,/data/user/0/app.greyshirts.sslcapture/files/capture208608941387952515.dat,172.217.10.130,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+81,1618077840145,/data/user/0/app.greyshirts.sslcapture/files/capture1245283033429239578.dat,104.244.42.2,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+82,1618077840558,/data/user/0/app.greyshirts.sslcapture/files/capture8433740506628222913.dat,104.244.42.2,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+83,1618077840998,/data/user/0/app.greyshirts.sslcapture/files/capture2369710961843463494.dat,104.244.42.130,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+84,1618077841464,/data/user/0/app.greyshirts.sslcapture/files/capture6587179039515182734.dat,104.244.42.130,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+85,1618077841900,/data/user/0/app.greyshirts.sslcapture/files/capture8356527426580408861.dat,104.244.42.194,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+86,1618077842310,/data/user/0/app.greyshirts.sslcapture/files/capture1823553905678870399.dat,104.244.42.194,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+87,1618077842738,/data/user/0/app.greyshirts.sslcapture/files/capture4545947541644713741.dat,104.244.42.66,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+88,1618077843207,/data/user/0/app.greyshirts.sslcapture/files/capture4308036399367100448.dat,104.244.42.66,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+89,1618077843598,/data/user/0/app.greyshirts.sslcapture/files/capture5836184858030669450.dat,35.201.69.248,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+90,1618077843853,/data/user/0/app.greyshirts.sslcapture/files/capture4867988976329306782.dat,35.201.69.248,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+91,1618077848582,/data/user/0/app.greyshirts.sslcapture/files/capture3688307583607047805.dat,142.250.64.66,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+92,1618077852648,/data/user/0/app.greyshirts.sslcapture/files/capture7550858477236387107.dat,172.253.115.188,5228,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+93,1618077860413,/data/user/0/app.greyshirts.sslcapture/files/capture5327035683719700412.dat,69.171.250.34,443,Facebook Services,Facebook Services,1,6,com.facebook.services,1618077687062
+94,1618077884454,/data/user/0/app.greyshirts.sslcapture/files/capture4332874923300508368.dat,142.250.64.66,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+95,1618077889240,/data/user/0/app.greyshirts.sslcapture/files/capture3376113111119573614.dat,34.225.230.22,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+96,1618077889499,/data/user/0/app.greyshirts.sslcapture/files/capture585282375714861656.dat,54.221.240.175,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+97,1618077889509,/data/user/0/app.greyshirts.sslcapture/files/capture5720856928609497738.dat,54.221.240.175,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+98,1618077889521,/data/user/0/app.greyshirts.sslcapture/files/capture6237998701544735366.dat,3.221.184.25,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+99,1618077889550,/data/user/0/app.greyshirts.sslcapture/files/capture6407982609664757250.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+100,1618077889575,/data/user/0/app.greyshirts.sslcapture/files/capture8005695878777646586.dat,35.168.35.115,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+101,1618077889706,/data/user/0/app.greyshirts.sslcapture/files/capture3449930079257691917.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+102,1618077889708,/data/user/0/app.greyshirts.sslcapture/files/capture8574455629438913169.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+103,1618077889716,/data/user/0/app.greyshirts.sslcapture/files/capture1362993557099647601.dat,172.217.12.202,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+104,1618077889869,/data/user/0/app.greyshirts.sslcapture/files/capture8820231099353888548.dat,34.233.212.6,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+105,1618077889900,/data/user/0/app.greyshirts.sslcapture/files/capture7986063081511337676.dat,52.202.53.52,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+106,1618077889950,/data/user/0/app.greyshirts.sslcapture/files/capture2291656357992305721.dat,34.233.212.6,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+107,1618077890000,/data/user/0/app.greyshirts.sslcapture/files/capture1993311983123720654.dat,34.202.212.102,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+108,1618077890205,/data/user/0/app.greyshirts.sslcapture/files/capture7138922310704243110.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+109,1618077890310,/data/user/0/app.greyshirts.sslcapture/files/capture1993779721887428076.dat,3.225.141.172,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+110,1618077890389,/data/user/0/app.greyshirts.sslcapture/files/capture8547151629536274294.dat,34.225.21.98,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+111,1618077890480,/data/user/0/app.greyshirts.sslcapture/files/capture2520427749359365018.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+112,1618077890706,/data/user/0/app.greyshirts.sslcapture/files/capture1230419031478202497.dat,54.211.255.71,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+113,1618077890767,/data/user/0/app.greyshirts.sslcapture/files/capture5800657714137686918.dat,172.217.12.202,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+114,1618077890781,/data/user/0/app.greyshirts.sslcapture/files/capture7715460008977742830.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+115,1618077890789,/data/user/0/app.greyshirts.sslcapture/files/capture7035315480030467735.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+116,1618077890825,/data/user/0/app.greyshirts.sslcapture/files/capture2685484691698960492.dat,34.204.144.81,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+117,1618077891187,/data/user/0/app.greyshirts.sslcapture/files/capture2839802732506469163.dat,54.236.200.208,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+118,1618077891277,/data/user/0/app.greyshirts.sslcapture/files/capture1971544960305705902.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+119,1618077891374,/data/user/0/app.greyshirts.sslcapture/files/capture24132356845063978.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+120,1618077891465,/data/user/0/app.greyshirts.sslcapture/files/capture109957738664866386.dat,3.225.77.34,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+121,1618077891578,/data/user/0/app.greyshirts.sslcapture/files/capture8659918492798537559.dat,172.217.12.202,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+122,1618077891636,/data/user/0/app.greyshirts.sslcapture/files/capture8597389481175292476.dat,54.236.82.3,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+123,1618077891645,/data/user/0/app.greyshirts.sslcapture/files/capture4436579854498885609.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+124,1618077891865,/data/user/0/app.greyshirts.sslcapture/files/capture6783686243363696082.dat,52.0.169.231,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+125,1618077891909,/data/user/0/app.greyshirts.sslcapture/files/capture923929415148248486.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+126,1618077891917,/data/user/0/app.greyshirts.sslcapture/files/capture5207231303572849852.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+127,1618077891993,/data/user/0/app.greyshirts.sslcapture/files/capture202253166218414978.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+128,1618077892001,/data/user/0/app.greyshirts.sslcapture/files/capture851489530175607742.dat,54.221.204.148,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+129,1618077892008,/data/user/0/app.greyshirts.sslcapture/files/capture3867130048034272470.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+130,1618077892276,/data/user/0/app.greyshirts.sslcapture/files/capture711444468002792660.dat,3.219.121.86,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+131,1618077892288,/data/user/0/app.greyshirts.sslcapture/files/capture5062494286972418011.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+132,1618077892312,/data/user/0/app.greyshirts.sslcapture/files/capture6469768894276683932.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+133,1618077892366,/data/user/0/app.greyshirts.sslcapture/files/capture5132554759894776764.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+134,1618077892397,/data/user/0/app.greyshirts.sslcapture/files/capture8131071996740960291.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+135,1618077892428,/data/user/0/app.greyshirts.sslcapture/files/capture3112989343965389874.dat,34.233.212.6,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+136,1618077892461,/data/user/0/app.greyshirts.sslcapture/files/capture4030552505029328680.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+137,1618077892569,/data/user/0/app.greyshirts.sslcapture/files/capture7766977225723926161.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+138,1618077892663,/data/user/0/app.greyshirts.sslcapture/files/capture435474712940794517.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+139,1618077892789,/data/user/0/app.greyshirts.sslcapture/files/capture3715936525728039287.dat,52.202.53.52,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+140,1618077892882,/data/user/0/app.greyshirts.sslcapture/files/capture7713937640653436208.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+141,1618077892999,/data/user/0/app.greyshirts.sslcapture/files/capture5779574415035248374.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+142,1618077893027,/data/user/0/app.greyshirts.sslcapture/files/capture9104544826740173580.dat,104.16.50.85,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+143,1618077893163,/data/user/0/app.greyshirts.sslcapture/files/capture8155110792998008796.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+144,1618077893327,/data/user/0/app.greyshirts.sslcapture/files/capture6281908088925863370.dat,104.16.51.85,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+145,1618077893432,/data/user/0/app.greyshirts.sslcapture/files/capture5489129792518944718.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+146,1618077893626,/data/user/0/app.greyshirts.sslcapture/files/capture7773476186372922514.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+147,1618077895451,/data/user/0/app.greyshirts.sslcapture/files/capture5051152421352244335.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+148,1618077895706,/data/user/0/app.greyshirts.sslcapture/files/capture3147778565464493646.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+149,1618077895982,/data/user/0/app.greyshirts.sslcapture/files/capture7918556883778472513.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+150,1618077896533,/data/user/0/app.greyshirts.sslcapture/files/capture125373326148013348.dat,54.221.240.175,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+151,1618077896932,/data/user/0/app.greyshirts.sslcapture/files/capture3088568996500372337.dat,34.233.212.6,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+152,1618077897351,/data/user/0/app.greyshirts.sslcapture/files/capture9090667303388274126.dat,34.225.21.98,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+153,1618077897706,/data/user/0/app.greyshirts.sslcapture/files/capture5241947079597289442.dat,52.202.53.52,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+154,1618077898050,/data/user/0/app.greyshirts.sslcapture/files/capture8048212784584628202.dat,34.204.144.81,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+155,1618077898175,/data/user/0/app.greyshirts.sslcapture/files/capture1846137764334190341.dat,172.217.10.136,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+156,1618077898211,/data/user/0/app.greyshirts.sslcapture/files/capture2372961078684723768.dat,54.221.240.175,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+157,1618077898457,/data/user/0/app.greyshirts.sslcapture/files/capture6411386174259484969.dat,3.225.77.34,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+158,1618077898644,/data/user/0/app.greyshirts.sslcapture/files/capture7455434479415956258.dat,34.233.212.6,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+159,1618077898675,/data/user/0/app.greyshirts.sslcapture/files/capture3826336303055329910.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+160,1618077898799,/data/user/0/app.greyshirts.sslcapture/files/capture149010924092647917.dat,52.0.169.231,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+161,1618077898912,/data/user/0/app.greyshirts.sslcapture/files/capture4973494624492713687.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+162,1618077899002,/data/user/0/app.greyshirts.sslcapture/files/capture5457541429636894336.dat,34.225.21.98,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+163,1618077899147,/data/user/0/app.greyshirts.sslcapture/files/capture5883482085182896578.dat,3.219.121.86,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+164,1618077899206,/data/user/0/app.greyshirts.sslcapture/files/capture3868609126747552470.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+165,1618077899370,/data/user/0/app.greyshirts.sslcapture/files/capture6747074979557255420.dat,52.202.53.52,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+166,1618077899574,/data/user/0/app.greyshirts.sslcapture/files/capture3747585143032060171.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+167,1618077899762,/data/user/0/app.greyshirts.sslcapture/files/capture368549978828002000.dat,34.204.144.81,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+168,1618077900026,/data/user/0/app.greyshirts.sslcapture/files/capture9133331431920173675.dat,34.198.44.255,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+169,1618077900109,/data/user/0/app.greyshirts.sslcapture/files/capture2414437614660917018.dat,3.225.77.34,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+170,1618077900224,/data/user/0/app.greyshirts.sslcapture/files/capture4868475542952888091.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+171,1618077900369,/data/user/0/app.greyshirts.sslcapture/files/capture7875502278799936037.dat,54.84.13.242,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+172,1618077900450,/data/user/0/app.greyshirts.sslcapture/files/capture6776260625394360289.dat,52.0.169.231,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+173,1618077900501,/data/user/0/app.greyshirts.sslcapture/files/capture8002692596834928037.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+174,1618077900702,/data/user/0/app.greyshirts.sslcapture/files/capture7358348739434051752.dat,52.55.162.96,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+175,1618077900795,/data/user/0/app.greyshirts.sslcapture/files/capture8200071621188816036.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+176,1618077900801,/data/user/0/app.greyshirts.sslcapture/files/capture3751798184517444229.dat,3.219.121.86,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+177,1618077901039,/data/user/0/app.greyshirts.sslcapture/files/capture3242856748204765096.dat,34.225.230.22,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+178,1618077901146,/data/user/0/app.greyshirts.sslcapture/files/capture1811957259763151348.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+179,1618077901375,/data/user/0/app.greyshirts.sslcapture/files/capture4509414116422377377.dat,35.168.35.115,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+180,1618077901752,/data/user/0/app.greyshirts.sslcapture/files/capture7081803106280747217.dat,34.202.212.102,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+181,1618077901798,/data/user/0/app.greyshirts.sslcapture/files/capture5795044670051527547.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+182,1618077902049,/data/user/0/app.greyshirts.sslcapture/files/capture7660560285540773423.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+183,1618077902113,/data/user/0/app.greyshirts.sslcapture/files/capture8463951660966755382.dat,34.198.44.255,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+184,1618077902374,/data/user/0/app.greyshirts.sslcapture/files/capture261861514814794456.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+185,1618077902451,/data/user/0/app.greyshirts.sslcapture/files/capture852853522143111038.dat,54.84.13.242,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+186,1618077902785,/data/user/0/app.greyshirts.sslcapture/files/capture5322410953283798996.dat,52.55.162.96,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+187,1618077903139,/data/user/0/app.greyshirts.sslcapture/files/capture217503970363916047.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+188,1618077903148,/data/user/0/app.greyshirts.sslcapture/files/capture4299540558331424325.dat,34.225.230.22,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+189,1618077903472,/data/user/0/app.greyshirts.sslcapture/files/capture2048792048155590642.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+190,1618077903532,/data/user/0/app.greyshirts.sslcapture/files/capture1509862186056944453.dat,35.168.35.115,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+191,1618077903687,/data/user/0/app.greyshirts.sslcapture/files/capture1514350327655198396.dat,45.60.11.176,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+192,1618077903695,/data/user/0/app.greyshirts.sslcapture/files/capture784123445289461097.dat,104.244.42.2,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+193,1618077903897,/data/user/0/app.greyshirts.sslcapture/files/capture42328288857962170.dat,34.202.212.102,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+194,1618077904011,/data/user/0/app.greyshirts.sslcapture/files/capture1502967901041178041.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+195,1618077904090,/data/user/0/app.greyshirts.sslcapture/files/capture7037027741590446571.dat,104.244.42.2,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+196,1618077904254,/data/user/0/app.greyshirts.sslcapture/files/capture6770509870578627097.dat,34.198.44.255,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+197,1618077904486,/data/user/0/app.greyshirts.sslcapture/files/capture1497230694102267251.dat,104.244.42.130,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+198,1618077904582,/data/user/0/app.greyshirts.sslcapture/files/capture5614425701370404120.dat,54.84.13.242,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+199,1618077904919,/data/user/0/app.greyshirts.sslcapture/files/capture189599257132016245.dat,104.244.42.130,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+200,1618077904989,/data/user/0/app.greyshirts.sslcapture/files/capture1212685350377255469.dat,52.55.162.96,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+201,1618077905332,/data/user/0/app.greyshirts.sslcapture/files/capture1651560195304260233.dat,34.225.230.22,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+202,1618077905335,/data/user/0/app.greyshirts.sslcapture/files/capture4141504493078836120.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+203,1618077905370,/data/user/0/app.greyshirts.sslcapture/files/capture121177282191761479.dat,104.244.42.194,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+204,1618077905379,/data/user/0/app.greyshirts.sslcapture/files/capture478764828320712166.dat,54.221.240.175,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+205,1618077905678,/data/user/0/app.greyshirts.sslcapture/files/capture9028164600265485144.dat,35.168.35.115,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+206,1618077905730,/data/user/0/app.greyshirts.sslcapture/files/capture490240517023355232.dat,34.233.212.6,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+207,1618077905785,/data/user/0/app.greyshirts.sslcapture/files/capture4186257462211888000.dat,104.244.42.194,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+208,1618077906021,/data/user/0/app.greyshirts.sslcapture/files/capture6567349423772073073.dat,34.202.212.102,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+209,1618077906064,/data/user/0/app.greyshirts.sslcapture/files/capture2222980746722553955.dat,34.225.21.98,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+210,1618077906151,/data/user/0/app.greyshirts.sslcapture/files/capture5662157101097949486.dat,54.221.240.175,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+211,1618077906158,/data/user/0/app.greyshirts.sslcapture/files/capture6222602228822459898.dat,104.244.42.66,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+212,1618077906386,/data/user/0/app.greyshirts.sslcapture/files/capture1578341158487231012.dat,34.198.44.255,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+213,1618077906433,/data/user/0/app.greyshirts.sslcapture/files/capture3249468455505797215.dat,52.202.53.52,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+214,1618077906509,/data/user/0/app.greyshirts.sslcapture/files/capture8028438970082338418.dat,34.233.212.6,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+215,1618077906551,/data/user/0/app.greyshirts.sslcapture/files/capture4433554859275579576.dat,104.244.42.66,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+216,1618077906737,/data/user/0/app.greyshirts.sslcapture/files/capture6716171082407192994.dat,54.84.13.242,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+217,1618077906777,/data/user/0/app.greyshirts.sslcapture/files/capture434181496857540244.dat,34.204.144.81,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+218,1618077906856,/data/user/0/app.greyshirts.sslcapture/files/capture2997352171191590848.dat,34.225.21.98,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+219,1618077906968,/data/user/0/app.greyshirts.sslcapture/files/capture4004887041631549198.dat,35.201.69.248,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+220,1618077907071,/data/user/0/app.greyshirts.sslcapture/files/capture3428633925611900791.dat,52.55.162.96,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+221,1618077907105,/data/user/0/app.greyshirts.sslcapture/files/capture5223619873766511092.dat,3.225.77.34,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+222,1618077907199,/data/user/0/app.greyshirts.sslcapture/files/capture6203787692117047906.dat,52.202.53.52,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+223,1618077907233,/data/user/0/app.greyshirts.sslcapture/files/capture5508851315194912912.dat,35.201.69.248,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+224,1618077907415,/data/user/0/app.greyshirts.sslcapture/files/capture6327952141332282741.dat,34.225.230.22,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+225,1618077907417,/data/user/0/app.greyshirts.sslcapture/files/capture3653785366345672771.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+226,1618077907458,/data/user/0/app.greyshirts.sslcapture/files/capture2640012776906040044.dat,52.0.169.231,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+227,1618077907549,/data/user/0/app.greyshirts.sslcapture/files/capture1748934692926901340.dat,34.204.144.81,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+228,1618077907741,/data/user/0/app.greyshirts.sslcapture/files/capture2523185355921787663.dat,35.168.35.115,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+229,1618077907809,/data/user/0/app.greyshirts.sslcapture/files/capture2670276602713773537.dat,3.219.121.86,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+230,1618077907874,/data/user/0/app.greyshirts.sslcapture/files/capture7994297121660846202.dat,3.225.77.34,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+231,1618077908070,/data/user/0/app.greyshirts.sslcapture/files/capture1737173669834605476.dat,34.202.212.102,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+232,1618077908161,/data/user/0/app.greyshirts.sslcapture/files/capture6134263924652408913.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+233,1618077908203,/data/user/0/app.greyshirts.sslcapture/files/capture6699626468941328443.dat,52.0.169.231,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+234,1618077908406,/data/user/0/app.greyshirts.sslcapture/files/capture5920376277881531810.dat,34.198.44.255,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+235,1618077908543,/data/user/0/app.greyshirts.sslcapture/files/capture1391299113272829998.dat,3.219.121.86,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+236,1618077908733,/data/user/0/app.greyshirts.sslcapture/files/capture6672162893503073606.dat,54.84.13.242,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+237,1618077908885,/data/user/0/app.greyshirts.sslcapture/files/capture6109471241212501295.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+238,1618077909061,/data/user/0/app.greyshirts.sslcapture/files/capture6819062805146568141.dat,52.55.162.96,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+239,1618077909405,/data/user/0/app.greyshirts.sslcapture/files/capture4195536628195029714.dat,34.225.230.22,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+240,1618077909427,/data/user/0/app.greyshirts.sslcapture/files/capture8598604606061131187.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+241,1618077909733,/data/user/0/app.greyshirts.sslcapture/files/capture7294844638815151312.dat,35.168.35.115,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+242,1618077910114,/data/user/0/app.greyshirts.sslcapture/files/capture741859270660233747.dat,34.202.212.102,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+243,1618077910452,/data/user/0/app.greyshirts.sslcapture/files/capture5902486421315452416.dat,34.198.44.255,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+244,1618077910670,/data/user/0/app.greyshirts.sslcapture/files/capture3700314347672898512.dat,34.107.140.103,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+245,1618077910899,/data/user/0/app.greyshirts.sslcapture/files/capture7297309593845382512.dat,34.107.140.103,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+246,1618077911259,/data/user/0/app.greyshirts.sslcapture/files/capture2682860083355193858.dat,104.126.116.9,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+247,1618077911351,/data/user/0/app.greyshirts.sslcapture/files/capture2018835060006434871.dat,184.28.190.193,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+248,1618077911613,/data/user/0/app.greyshirts.sslcapture/files/capture9048913646550559868.dat,34.102.156.43,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+249,1618077911980,/data/user/0/app.greyshirts.sslcapture/files/capture712365621225122026.dat,184.28.190.9,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+250,1618077912330,/data/user/0/app.greyshirts.sslcapture/files/capture6150579060723561832.dat,184.28.190.32,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+251,1618077912602,/data/user/0/app.greyshirts.sslcapture/files/capture7820951000803956081.dat,104.126.116.9,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+252,1618077912864,/data/user/0/app.greyshirts.sslcapture/files/capture30374526073542101.dat,104.126.116.50,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+253,1618077913123,/data/user/0/app.greyshirts.sslcapture/files/capture2138236454991558033.dat,104.126.116.73,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+254,1618077913373,/data/user/0/app.greyshirts.sslcapture/files/capture1775831719783640507.dat,104.126.116.49,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+255,1618077915639,/data/user/0/app.greyshirts.sslcapture/files/capture4140645012709761232.dat,172.217.165.138,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+256,1618077915722,/data/user/0/app.greyshirts.sslcapture/files/capture8094816940345306926.dat,172.217.12.182,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+257,1618077915789,/data/user/0/app.greyshirts.sslcapture/files/capture4660280152138072798.dat,172.217.165.138,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+258,1618077916019,/data/user/0/app.greyshirts.sslcapture/files/capture4892303698517646547.dat,172.217.165.138,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+259,1618077916155,/data/user/0/app.greyshirts.sslcapture/files/capture8145400805071920089.dat,142.250.64.110,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+260,1618077916244,/data/user/0/app.greyshirts.sslcapture/files/capture3168838087073282958.dat,172.217.3.98,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+261,1618077916273,/data/user/0/app.greyshirts.sslcapture/files/capture5301996593574919941.dat,172.217.12.161,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+262,1618077916449,/data/user/0/app.greyshirts.sslcapture/files/capture2630452365405639808.dat,172.217.165.138,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+263,1618077917121,/data/user/0/app.greyshirts.sslcapture/files/capture5104724834979265446.dat,172.217.3.110,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+264,1618077917444,/data/user/0/app.greyshirts.sslcapture/files/capture1624172707014319152.dat,172.217.3.110,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+265,1618077917743,/data/user/0/app.greyshirts.sslcapture/files/capture846964655102017860.dat,172.217.11.14,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+266,1618077917763,/data/user/0/app.greyshirts.sslcapture/files/capture566382466338336761.dat,172.217.11.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+267,1618077917772,/data/user/0/app.greyshirts.sslcapture/files/capture352961849948337894.dat,172.217.11.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+268,1618077917774,/data/user/0/app.greyshirts.sslcapture/files/capture5444157929948781823.dat,172.217.11.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+269,1618077918080,/data/user/0/app.greyshirts.sslcapture/files/capture4273319323467574047.dat,172.217.11.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+270,1618077918084,/data/user/0/app.greyshirts.sslcapture/files/capture582026018962470751.dat,172.56.128.14,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+271,1618077918091,/data/user/0/app.greyshirts.sslcapture/files/capture7551803741560035951.dat,172.56.128.16,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+272,1618077918099,/data/user/0/app.greyshirts.sslcapture/files/capture4423996981502036698.dat,172.56.128.17,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+273,1618077918153,/data/user/0/app.greyshirts.sslcapture/files/capture8008952576542954493.dat,172.217.11.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+274,1618077918166,/data/user/0/app.greyshirts.sslcapture/files/capture2536078212984822277.dat,172.56.128.14,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+275,1618077918181,/data/user/0/app.greyshirts.sslcapture/files/capture589280378141306575.dat,172.56.128.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+276,1618077918204,/data/user/0/app.greyshirts.sslcapture/files/capture8709172185333562739.dat,172.56.128.17,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+277,1618077918218,/data/user/0/app.greyshirts.sslcapture/files/capture4621918121587828149.dat,172.56.128.16,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+278,1618077918219,/data/user/0/app.greyshirts.sslcapture/files/capture191049977399193640.dat,172.56.128.17,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+279,1618077918233,/data/user/0/app.greyshirts.sslcapture/files/capture4778346872503733772.dat,172.56.128.16,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+280,1618077918265,/data/user/0/app.greyshirts.sslcapture/files/capture7528733911411453684.dat,172.217.11.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+281,1618077918609,/data/user/0/app.greyshirts.sslcapture/files/capture917988403309959482.dat,172.56.128.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+282,1618077918639,/data/user/0/app.greyshirts.sslcapture/files/capture4091341418111918877.dat,172.56.128.14,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+283,1618077918651,/data/user/0/app.greyshirts.sslcapture/files/capture773934800431291723.dat,172.56.128.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+284,1618077918676,/data/user/0/app.greyshirts.sslcapture/files/capture8045743613520697192.dat,172.56.128.17,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+285,1618077918681,/data/user/0/app.greyshirts.sslcapture/files/capture5590429250355766436.dat,172.217.3.110,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+286,1618077918687,/data/user/0/app.greyshirts.sslcapture/files/capture3386691065190010225.dat,172.56.128.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+287,1618077918694,/data/user/0/app.greyshirts.sslcapture/files/capture1316810848073865694.dat,172.56.128.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+288,1618077918731,/data/user/0/app.greyshirts.sslcapture/files/capture8397733008525213247.dat,172.56.128.16,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+289,1618077919043,/data/user/0/app.greyshirts.sslcapture/files/capture5071313319330875944.dat,172.56.128.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+290,1618077919278,/data/user/0/app.greyshirts.sslcapture/files/capture2990070606266133044.dat,172.56.128.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+291,1618077919302,/data/user/0/app.greyshirts.sslcapture/files/capture4348769778099166262.dat,172.217.10.78,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+292,1618077919408,/data/user/0/app.greyshirts.sslcapture/files/capture7617958187320600741.dat,172.56.128.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+293,1618077919500,/data/user/0/app.greyshirts.sslcapture/files/capture5470124553978275232.dat,172.217.3.110,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+294,1618077919673,/data/user/0/app.greyshirts.sslcapture/files/capture1476096738249802171.dat,172.56.128.14,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+295,1618077919705,/data/user/0/app.greyshirts.sslcapture/files/capture7186072200252170515.dat,172.56.128.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+296,1618077919706,/data/user/0/app.greyshirts.sslcapture/files/capture8987500612412602608.dat,172.56.128.16,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+297,1618077919713,/data/user/0/app.greyshirts.sslcapture/files/capture2324302649826493749.dat,172.56.128.16,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+298,1618077919716,/data/user/0/app.greyshirts.sslcapture/files/capture6750294271455136420.dat,172.56.128.17,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+299,1618077919722,/data/user/0/app.greyshirts.sslcapture/files/capture6812914860358555061.dat,172.56.128.17,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+300,1618077919744,/data/user/0/app.greyshirts.sslcapture/files/capture378851903937108944.dat,104.17.208.240,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+301,1618077919762,/data/user/0/app.greyshirts.sslcapture/files/capture4804279985826926488.dat,172.217.165.138,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+302,1618077919770,/data/user/0/app.greyshirts.sslcapture/files/capture8940381024369817813.dat,172.217.6.195,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+303,1618077919781,/data/user/0/app.greyshirts.sslcapture/files/capture5126888822805322754.dat,34.201.227.244,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+304,1618077919907,/data/user/0/app.greyshirts.sslcapture/files/capture6648831141077974233.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+305,1618077919946,/data/user/0/app.greyshirts.sslcapture/files/capture5623497196791062028.dat,172.56.128.14,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+306,1618077919954,/data/user/0/app.greyshirts.sslcapture/files/capture5977455165932180007.dat,209.85.232.101,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+307,1618077919972,/data/user/0/app.greyshirts.sslcapture/files/capture3623613159636535373.dat,172.56.128.17,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+308,1618077920025,/data/user/0/app.greyshirts.sslcapture/files/capture6903253162211559501.dat,172.56.128.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+309,1618077920036,/data/user/0/app.greyshirts.sslcapture/files/capture7626808033211769609.dat,172.56.128.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+310,1618077920049,/data/user/0/app.greyshirts.sslcapture/files/capture1205552730129347881.dat,172.56.128.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+311,1618077920124,/data/user/0/app.greyshirts.sslcapture/files/capture334840820237976275.dat,172.56.128.16,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+312,1618077920214,/data/user/0/app.greyshirts.sslcapture/files/capture3944689264939810228.dat,104.17.209.240,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+313,1618077920384,/data/user/0/app.greyshirts.sslcapture/files/capture749463383716425115.dat,54.209.52.156,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+314,1618077920523,/data/user/0/app.greyshirts.sslcapture/files/capture2726191897092684786.dat,172.56.128.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+315,1618077920632,/data/user/0/app.greyshirts.sslcapture/files/capture661795491002508993.dat,172.56.128.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+316,1618077920725,/data/user/0/app.greyshirts.sslcapture/files/capture9023754623328267906.dat,104.17.208.240,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+317,1618077920765,/data/user/0/app.greyshirts.sslcapture/files/capture1106869133935223854.dat,172.217.10.78,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+318,1618077920778,/data/user/0/app.greyshirts.sslcapture/files/capture6373540070288512542.dat,54.211.30.53,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+319,1618077920886,/data/user/0/app.greyshirts.sslcapture/files/capture776827952295772121.dat,172.56.128.14,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+320,1618077920902,/data/user/0/app.greyshirts.sslcapture/files/capture7038551266106614910.dat,173.194.185.168,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+321,1618077920967,/data/user/0/app.greyshirts.sslcapture/files/capture1866741941078663696.dat,172.56.128.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+322,1618077920978,/data/user/0/app.greyshirts.sslcapture/files/capture7809672614737640058.dat,172.56.128.17,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+323,1618077920984,/data/user/0/app.greyshirts.sslcapture/files/capture342063817678437234.dat,104.17.209.240,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+324,1618077921000,/data/user/0/app.greyshirts.sslcapture/files/capture5529408182903577491.dat,172.56.128.16,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+325,1618077921021,/data/user/0/app.greyshirts.sslcapture/files/capture3470664921364545934.dat,173.194.185.168,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+326,1618077921024,/data/user/0/app.greyshirts.sslcapture/files/capture1883946816673180395.dat,173.194.185.168,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+327,1618077921065,/data/user/0/app.greyshirts.sslcapture/files/capture964921830513857181.dat,172.56.128.17,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+328,1618077921097,/data/user/0/app.greyshirts.sslcapture/files/capture591791399569324241.dat,172.56.128.16,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+329,1618077921124,/data/user/0/app.greyshirts.sslcapture/files/capture7325515234704552234.dat,34.205.57.170,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+330,1618077921211,/data/user/0/app.greyshirts.sslcapture/files/capture4571390645734983540.dat,172.56.128.14,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+331,1618077921253,/data/user/0/app.greyshirts.sslcapture/files/capture9112409673083728641.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+332,1618077921280,/data/user/0/app.greyshirts.sslcapture/files/capture6110659484289077126.dat,173.194.185.168,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+333,1618077921321,/data/user/0/app.greyshirts.sslcapture/files/capture7768605402294171574.dat,173.194.185.168,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+334,1618077921371,/data/user/0/app.greyshirts.sslcapture/files/capture5155102055440817392.dat,172.56.128.17,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+335,1618077921414,/data/user/0/app.greyshirts.sslcapture/files/capture8319244066277981527.dat,172.56.128.16,443,YouTube,YouTube,1,6,com.google.android.youtube,1618077687062
+336,1618077921438,/data/user/0/app.greyshirts.sslcapture/files/capture8630945206595805433.dat,172.217.10.3,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+337,1618077921508,/data/user/0/app.greyshirts.sslcapture/files/capture9178411494041975964.dat,54.221.207.125,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+338,1618077921863,/data/user/0/app.greyshirts.sslcapture/files/capture5324151790230565845.dat,54.211.37.214,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+339,1618077922205,/data/user/0/app.greyshirts.sslcapture/files/capture125512488123182099.dat,52.0.169.231,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+340,1618077922262,/data/user/0/app.greyshirts.sslcapture/files/capture168727964290127263.dat,104.124.2.170,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+341,1618077922278,/data/user/0/app.greyshirts.sslcapture/files/capture8182667044247978324.dat,130.44.212.180,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+342,1618077922537,/data/user/0/app.greyshirts.sslcapture/files/capture3275728406004734629.dat,104.124.2.168,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+343,1618077922659,/data/user/0/app.greyshirts.sslcapture/files/capture3612643007182371108.dat,54.221.196.38,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+344,1618077922769,/data/user/0/app.greyshirts.sslcapture/files/capture7073355657425078333.dat,104.124.2.171,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+345,1618077923062,/data/user/0/app.greyshirts.sslcapture/files/capture2472894926766917298.dat,104.124.2.177,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+346,1618077923070,/data/user/0/app.greyshirts.sslcapture/files/capture7413959196823205843.dat,142.250.64.66,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+347,1618077923089,/data/user/0/app.greyshirts.sslcapture/files/capture7154454028554386930.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+348,1618077923320,/data/user/0/app.greyshirts.sslcapture/files/capture171480704201485213.dat,104.124.2.179,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+349,1618077923579,/data/user/0/app.greyshirts.sslcapture/files/capture1790556136753916729.dat,130.44.212.180,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+350,1618077924068,/data/user/0/app.greyshirts.sslcapture/files/capture823361922506057129.dat,172.217.10.78,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+351,1618077924403,/data/user/0/app.greyshirts.sslcapture/files/capture4644716665164152735.dat,142.250.64.66,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+352,1618077924853,/data/user/0/app.greyshirts.sslcapture/files/capture8564871390329068979.dat,130.44.212.180,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+353,1618077925650,/data/user/0/app.greyshirts.sslcapture/files/capture7304555021079898137.dat,34.107.140.103,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+354,1618077926284,/data/user/0/app.greyshirts.sslcapture/files/capture7480419589623495966.dat,34.201.227.244,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+355,1618077926508,/data/user/0/app.greyshirts.sslcapture/files/capture5556733803323098610.dat,172.217.10.142,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+356,1618077926671,/data/user/0/app.greyshirts.sslcapture/files/capture3210204297688932968.dat,54.209.52.156,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+357,1618077927031,/data/user/0/app.greyshirts.sslcapture/files/capture2371963698390254021.dat,54.211.30.53,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+358,1618077927416,/data/user/0/app.greyshirts.sslcapture/files/capture8938203471883268816.dat,34.205.57.170,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+359,1618077927771,/data/user/0/app.greyshirts.sslcapture/files/capture6980796819941826219.dat,54.221.207.125,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+360,1618077928122,/data/user/0/app.greyshirts.sslcapture/files/capture7335366241561180206.dat,54.211.37.214,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+361,1618077928469,/data/user/0/app.greyshirts.sslcapture/files/capture5989541878034312855.dat,52.0.169.231,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+362,1618077928869,/data/user/0/app.greyshirts.sslcapture/files/capture6729803343204486071.dat,54.221.196.38,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+363,1618077929268,/data/user/0/app.greyshirts.sslcapture/files/capture2724503862063412611.dat,104.126.116.33,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+364,1618077929313,/data/user/0/app.greyshirts.sslcapture/files/capture8384631429105238461.dat,172.217.3.106,443,Tuesdays,Tuesdays,1,6,com.tmobile.tuesdays,1618077687062
+365,1618077929335,/data/user/0/app.greyshirts.sslcapture/files/capture6173468895751188986.dat,172.217.10.78,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+366,1618077929526,/data/user/0/app.greyshirts.sslcapture/files/capture3664978085783554448.dat,104.126.116.72,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+367,1618077929803,/data/user/0/app.greyshirts.sslcapture/files/capture7222394317066764066.dat,104.126.116.16,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+368,1618077930115,/data/user/0/app.greyshirts.sslcapture/files/capture4747762305214591015.dat,104.126.116.40,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+369,1618077930402,/data/user/0/app.greyshirts.sslcapture/files/capture3257742272860304109.dat,104.126.116.89,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+370,1618077930660,/data/user/0/app.greyshirts.sslcapture/files/capture5382807972408418233.dat,34.102.156.43,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+371,1618077931062,/data/user/0/app.greyshirts.sslcapture/files/capture6010220526447852220.dat,184.28.190.83,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+372,1618077931365,/data/user/0/app.greyshirts.sslcapture/files/capture412346824970915496.dat,184.28.190.41,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+373,1618077931670,/data/user/0/app.greyshirts.sslcapture/files/capture7157491200220498360.dat,184.28.190.32,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+374,1618077931941,/data/user/0/app.greyshirts.sslcapture/files/capture8945867788404944290.dat,184.28.190.75,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+375,1618077932212,/data/user/0/app.greyshirts.sslcapture/files/capture2614953147236629224.dat,184.28.190.96,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+376,1618077932493,/data/user/0/app.greyshirts.sslcapture/files/capture2954776229013725337.dat,184.28.190.91,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+377,1618077932763,/data/user/0/app.greyshirts.sslcapture/files/capture1195451072936415121.dat,184.28.190.48,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+378,1618077933027,/data/user/0/app.greyshirts.sslcapture/files/capture5922787086943417800.dat,184.28.190.51,443,TikTok,TikTok,1,6,com.zhiliaoapp.musically,1618077687062
+379,1618077936621,/data/user/0/app.greyshirts.sslcapture/files/capture2326823592534593655.dat,172.217.10.78,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+380,1618077962349,/data/user/0/app.greyshirts.sslcapture/files/capture3814392763215790668.dat,172.217.10.142,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+381,1618077975964,/data/user/0/app.greyshirts.sslcapture/files/capture2218934137694539289.dat,104.244.42.2,443,Twitter,Twitter,1,6,com.twitter.android,1618077687062
+382,1618077976294,/data/user/0/app.greyshirts.sslcapture/files/capture2864275964566662766.dat,172.217.9.234,443,YouTube,YouTube,0,17,com.google.android.youtube,1618077687062
+383,1618077999242,/data/user/0/app.greyshirts.sslcapture/files/capture7158103904535147849.dat,172.217.10.2,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+384,1618077999650,/data/user/0/app.greyshirts.sslcapture/files/capture1039376346662562195.dat,172.217.10.142,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+385,1618078000469,/data/user/0/app.greyshirts.sslcapture/files/capture3782618397847355267.dat,172.217.10.2,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+386,1618078003365,/data/user/0/app.greyshirts.sslcapture/files/capture3874667899948517202.dat,172.217.10.2,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+387,1618078009940,/data/user/0/app.greyshirts.sslcapture/files/capture4124517023088888096.dat,172.217.10.142,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+388,1618078013072,/data/user/0/app.greyshirts.sslcapture/files/capture7747936142463633419.dat,172.253.115.188,5228,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+389,1618078014424,/data/user/0/app.greyshirts.sslcapture/files/capture3826500435384244666.dat,172.217.10.2,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+390,1618078015845,/data/user/0/app.greyshirts.sslcapture/files/capture9063458030049246250.dat,69.171.250.34,443,Facebook Services,Facebook Services,1,6,com.facebook.services,1618077687062
+391,1618078018576,/data/user/0/app.greyshirts.sslcapture/files/capture6068546687715704235.dat,172.217.10.136,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+392,1618078020192,/data/user/0/app.greyshirts.sslcapture/files/capture8849210496523025708.dat,172.217.10.142,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+393,1618078033744,/data/user/0/app.greyshirts.sslcapture/files/capture5571515796324398.dat,172.217.10.2,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+394,1618078043792,/data/user/0/app.greyshirts.sslcapture/files/capture3693204730172007250.dat,172.217.10.142,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+395,1618078046189,/data/user/0/app.greyshirts.sslcapture/files/capture7855587917632997799.dat,172.217.10.2,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+396,1618078054100,/data/user/0/app.greyshirts.sslcapture/files/capture6883459183287573723.dat,172.217.10.142,443,Google Play services,"Google Play services,Google Services Framework",1,6,"com.google.android.gms,com.google.android.gsf",1618077687062
+397,1618078122766,/data/user/0/app.greyshirts.sslcapture/files/capture4107183428695631851.dat,69.171.250.20,443,Facebook,Facebook,1,6,com.facebook.katana,1618078122542
+398,1618078123047,/data/user/0/app.greyshirts.sslcapture/files/capture5714624507509063122.dat,69.171.250.20,443,Facebook,Facebook,1,6,com.facebook.katana,1618078122542
+399,1618078123321,/data/user/0/app.greyshirts.sslcapture/files/capture4223939679412654345.dat,69.171.250.20,443,Facebook,Facebook,1,6,com.facebook.katana,1618078122542
+400,1618078132616,/data/user/0/app.greyshirts.sslcapture/files/capture1153729326682684352.dat,69.171.250.20,443,Facebook,Facebook,1,6,com.facebook.katana,1618078122542
+401,1618078156985,/data/user/0/app.greyshirts.sslcapture/files/capture6508395780242690883.dat,69.171.250.20,443,Facebook,Facebook,1,6,com.facebook.katana,1618078122542

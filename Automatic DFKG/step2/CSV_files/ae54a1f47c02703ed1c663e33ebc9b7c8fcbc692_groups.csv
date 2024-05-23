@@ -1,0 +1,5 @@
+_id,package_id,account_id,sourceid,version,dirty,title,title_res,notes,system_id,deleted,group_visible,should_sync,auto_add,favorites,group_is_read_only,sync1,sync2,sync3,sync4,custom_ringtone,group_order,creation_time,sec_custom_vibration,sec_custom_alert,sec_custom_dormant_group,sec_call_background
+9223372034707292161,,1,62345758-ead4-4421-89fe-428c36d0b152,1,0,Family,,,Family,0,1,1,0,0,1,,,,,,,1611196545184,,,0,
+9223372034707292162,,1,c9cf82ac-3581-4b76-8c75-396344dbbbf2,1,0,Friends,,,Friends,0,1,1,0,0,1,,,,,,,1611196545184,,,0,
+9223372034707292163,,1,f8942dbd-44ea-4d0f-bb06-e77f13981fd9,1,0,Coworkers,,,Coworkers,0,1,1,0,0,1,,,,,,,1611196545184,,,0,
+9223372034707292164,,1,37319b0f-5253-4120-9b64-83a08ca2e055,1,0,ICE,,,,0,1,1,0,0,1,,,,,,1.0,1611196545184,,,0,

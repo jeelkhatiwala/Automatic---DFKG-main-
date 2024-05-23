@@ -1,0 +1,3 @@
+packageName,adminUid,applicationInstallationCount,applicationUninstallationCount,managedApp,install_sourceMDM,controlState,signature,controlStateOnDex
+com.samsung.android.kgclient,10105,0,0,0,0,40960,,0
+com.samsung.android.spayfw,1000,0,0,0,0,1,,0

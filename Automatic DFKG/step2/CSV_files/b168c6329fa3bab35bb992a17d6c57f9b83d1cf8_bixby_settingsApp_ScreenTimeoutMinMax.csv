@@ -1,0 +1,14 @@
+RecordId,formal,alias
+1,TimeoutMax,max
+2,TimeoutMax,maximum
+3,TimeoutMax,maximize
+4,TimeoutMax,highest
+5,TimeoutMax,longest
+6,TimeoutMax,biggest
+7,TimeoutMax,largest
+8,TimeoutMin,min
+9,TimeoutMin,minimum
+10,TimeoutMin,minimize
+11,TimeoutMin,lowest
+12,TimeoutMin,smallest
+13,TimeoutMin,shortest

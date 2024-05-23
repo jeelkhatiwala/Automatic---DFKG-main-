@@ -1,0 +1,2 @@
+_id,active,createtime,alerttime,alarmtime,repeattype,notitype,snzactive,snzduration,snzrepeat,snzcount,dailybrief,sbdactive,sbdduration,sbdtone,alarmsound,alarmtone,volume,sbduri,alarmuri,name,locationactive,latitude,longitude,locationtext,map,vibrationpattern
+1,0,1617476955651,1617444000000,600,17895685,0,1,1,2,0,0,0,1,0,2,-1,11,0,alarm_preset_default_uri,,0,0.0,0.0,,,50035

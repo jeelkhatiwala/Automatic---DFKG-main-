@@ -1,0 +1,5 @@
+SYNC_KEY,SYNC_VALUE,DOWNSYNC_COUNT
+sync_internet_data,1,0
+sync_bookmarks,1,0
+sync_open_pages,1,0
+sync_saved_pages,1,0

@@ -1,0 +1,3 @@
+componentName,itemType,isHomeAdd,isHomePreloadedFolder,homeFolderName,isHomeNewPage,isHomeReplace,homeIndex,homeCellX,homeCellY,homeWidgetSpanX,homeWidgetSpanY,homeShortcutTitle,homeShortcutIcon,isAppsAdd,isAppsPreloadedFolder,appsFolderName,appsIndex,appsCellOrder,appsForceAtoZ,removeAfterPosition,result,screenType
+com.samsung.android.galaxy/.MainActivity,0,0,0,,0,0,-1,-1,-1,-1,-1,,,1,1,Samsung,-1,-1,0,0,0,0
+com.samsung.vvm/.vvmapp.VVMApplication,0,0,0,,0,0,-1,-1,-1,-1,-1,,,1,1,,-1,-1,0,0,0,0

@@ -1,0 +1,5 @@
+_id,policyNum,isPolicyEnabled,targetCategory,restriction,killType,firstTriggerTime,repeatTriggerTime,bigdataRestriction
+1,1,1,13,354255120,12,10,10,337379600
+2,2,0,21,270272648,10,10,5,270272640
+3,4,0,25,270272648,26,5,1,270272640
+4,8,1,26,0,2,5,0,0

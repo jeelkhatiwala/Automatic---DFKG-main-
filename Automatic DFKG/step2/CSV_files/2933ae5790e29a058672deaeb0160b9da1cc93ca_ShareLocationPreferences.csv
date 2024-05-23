@@ -1,0 +1,2 @@
+_id,syncStatus,version,ghostModeEnabled,ghostModeExpiration,backgroundSharingEnabled,shareUsageData,audience,whitelistFriendIds,blacklistFriendIds,ghostModeExpirationInClientTime,ghostModeDuration,isOnboarded,liveSessions
+1,SYNCED,0,1,0,0,0,NONE,,,0,0,0,

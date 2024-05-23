@@ -1,0 +1,17 @@
+partition_name,version
+__master_partition__,1
+photos_action_queue,3
+album_state_data,1
+device_mgmt,13
+PhotoEditorPartition,11
+com.google.android.apps.photos.mediasync.MediaSyncPartition,1
+JobQueuePartition,1
+OnDeviceMIDatabasePartition,4
+PrintingDatabasePartition,27
+settings_storage,1
+SuggestedActionsDatabasePartition,6
+SuggestedSharingDatabasePartition,44
+album_upload,5
+OnDeviceSearchDatabasePartition,67
+BackupPartition,33
+Photos2DatabasePartition,401

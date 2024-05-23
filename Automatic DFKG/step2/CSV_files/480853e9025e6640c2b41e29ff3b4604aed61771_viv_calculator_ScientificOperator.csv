@@ -1,0 +1,147 @@
+RecordId,formal,alias
+1,sine,s i n e
+2,sine,s i n
+3,sine,사 인
+4,sine,싸 인
+5,cosine,c o s i n e
+6,cosine,c o s
+7,cosine,코 사 인
+8,cosine,코 싸 인
+9,tangent,t a n g e n t
+10,tangent,t a n
+11,tangent,탄 젠 트
+12,log,l o g
+13,log,로 그
+14,ln,l n
+15,ln,n a t u r a l l o g
+16,ln,n a t u r a l l o g a r i t h m
+17,ln,l o g b a s e e
+18,ln,자 연 로 그
+19,ln,자 연 로 그
+20,square,s q u a r e
+21,square,제 곱
+22,cube,c u b e
+23,cube,세 제 곱
+24,sqrt,s q r t
+25,sqrt,루 트
+26,sqrt,제 곱 근
+27,sqrt,제 곱 근 루 트
+28,cbrt,c b r t
+29,cbrt,세 제 곱 루 트
+30,cbrt,세 제 곱 루 트
+31,cbrt,세 제 곱 근
+32,cbrt,세 제 곱 근 루 트
+33,cbrt,3 제 곱 근
+34,cbrt,3 제 곱 근
+35,cbrt,3 제 곱 근 루 트
+36,power,p o w e r
+37,power,승
+38,factorial,f a c t o r i a l
+39,factorial,패 토 리 얼
+40,factorial,팩 토 리 얼
+41,factorial,계 승
+42,asin,a s i n
+43,asin,a s i n e
+44,asin,a r c s i n e
+45,asin,아 크 사 인
+46,asin,아 크 싸 인
+47,asin,아 크 사 인
+48,asin,아 크 싸 인
+49,asin,역 사 인
+50,asin,역 싸 인
+51,asin,역 사 인
+52,asin,역 싸 인
+53,acos,a c o s
+54,acos,a r c c o s
+55,acos,아 크 코 사 인
+56,acos,아 크 코 사 인
+57,acos,아 크 코 싸 인
+58,acos,아 크 코 싸 인
+59,acos,역 코 사 인
+60,acos,역 코 싸 인
+61,atan,a t a n
+62,atan,a r c t a n
+63,atan,아 크 탄 젠 트
+64,atan,아 크 탄 젠 트
+65,atan,역 탄 젠 트
+66,atan,역 탄 젠 트
+67,asinh,a s i n h
+68,asinh,아 크 사 인 하 이 퍼 볼 릭
+69,asinh,아 크 싸 인 하 이 퍼 볼 릭
+70,asinh,하 이 퍼 볼 릭 아 크 사 인
+71,asinh,하 이 퍼 볼 릭 아 크 싸 인
+72,asinh,역 쌍 곡 사 인
+73,asinh,역 쌍 곡 싸 인
+74,asinh,역 쌍 곡 사 인
+75,asinh,역 쌍 곡 싸 인
+76,asinh,역 쌍 곡 사 인
+77,asinh,역 쌍 곡 싸 인
+78,asinh,역 쌍 곡 사 인
+79,asinh,역 쌍 곡 싸 인
+80,acosh,a c o s h
+81,acosh,아 크 코 사 인 하 이 퍼 볼 릭
+82,acosh,아 크 코 싸 인 하 이 퍼 볼 릭
+83,acosh,하 이 퍼 볼 릭 아 크 코 사 인
+84,acosh,하 이 퍼 볼 릭 아 크 코 싸 인
+85,acosh,역 쌍 곡 코 사 인
+86,acosh,역 쌍 곡 코 싸 인
+87,acosh,역 쌍 곡 코 사 인
+88,acosh,역 쌍 곡 코 싸 인
+89,acosh,역 쌍 곡 코 사 인
+90,acosh,역 쌍 곡 코 싸 인
+91,atanh,a t a n h
+92,atanh,아 크 탄 젠 트 하 이 퍼 볼 릭
+93,atanh,하 이 퍼 볼 릭 아 크 탄 젠 트
+94,atanh,역 쌍 곡 탄 젠 트
+95,atanh,역 쌍 곡 탄 젠 트
+96,atanh,역 쌍 곡 탄 젠 트
+97,atanh,역 쌍 곡 탄 젠 트
+98,sinh,s i n h
+99,sinh,h y p e r b o l i c s i n e
+100,sinh,h y p e r b o l i c s i n
+101,sinh,하 이 퍼 볼 릭 사 인
+102,sinh,하 이 퍼 볼 릭 싸 인
+103,sinh,하 이 퍼 볼 릭 사 인
+104,sinh,하 이 퍼 볼 릭 싸 인
+105,sinh,하 이 퍼 볼 릭 사 인
+106,sinh,쌍 곡 사 인
+107,sinh,쌍 곡 싸 인
+108,sinh,쌍 곡 사 인
+109,sinh,쌍 곡 싸 인
+110,cosh,c o s h
+111,cosh,h y p e r b o l i c c o s i n e
+112,cosh,h y p e r b o l i c c o s
+113,cosh,하 이 퍼 볼 릭 코 사 인
+114,cosh,하 이 퍼 볼 릭 코 사 인
+115,cosh,하 이 퍼 볼 릭 코 싸 인
+116,cosh,하 이 퍼 볼 릭 코 싸 인
+117,cosh,쌍 곡 코 사 인
+118,cosh,쌍 곡 코 싸 인
+119,cosh,쌍 곡 코 사 인
+120,cosh,상 곡 코 싸 인
+121,tanh,t a n h
+122,tanh,h y p e r b o l i c t a n g e n t
+123,tanh,h y p e r b o l i c t a n
+124,tanh,하 이 퍼 볼 릭 탄 젠 트
+125,tanh,하 이 퍼 볼 릭 탄 젠 트
+126,tanh,쌍 곡 탄 젠 트
+127,tanh,쌍 곡 탄 젠 트
+128,unaryminus,u n a r y m i n u s
+129,modulus,m o d u l u s
+130,modulus,a b s o l u t e v a l u e
+131,modulus,절 댓 값
+132,modulus,절 대 값
+133,modulus,절 대 값
+134,modulus,절 댓 값
+135,modulus,절 댓 값
+136,modulus,모 듈 루 스
+137,modulus,모 쥴 루 스
+138,percent,p e r c e n t
+139,percent,p e r c e n t a g e
+140,percent,퍼 센 테 이 지
+141,percent,퍼 센 테 이 지
+142,percent,퍼 센 테 지
+143,percent,퍼 센 티 지
+144,percent,퍼 센 트
+145,percent,프 로
+146,percent,%

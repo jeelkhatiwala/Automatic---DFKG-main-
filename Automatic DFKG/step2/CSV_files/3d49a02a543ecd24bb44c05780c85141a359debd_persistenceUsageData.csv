@@ -1,0 +1,6 @@
+id,name,value
+1,system_boot_time,1625805380044
+2,usage_data_timezone_id,America/New_York
+3,usage_data_timezone_changed_time,1617476977633
+4,usage_data_q_os_boot_time,1617476940342
+5,usage_data_is_dummy_data_created,false

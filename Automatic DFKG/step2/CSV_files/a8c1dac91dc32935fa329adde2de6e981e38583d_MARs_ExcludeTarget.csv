@@ -1,0 +1,8 @@
+_id,policyNum,condition,matchType,packageName
+1,0,24,contains,.cts.
+2,0,24,endsWith,.cts
+3,0,24,equals,com.samsung.accessory
+4,2,1,equals,com.sec.android.app.shealth
+5,0,10,equals,com.sec.aecmonitor
+6,0,10,equals,com.salab.act
+7,4,0,equals,com.samsung.android.app.cocktailbarservice

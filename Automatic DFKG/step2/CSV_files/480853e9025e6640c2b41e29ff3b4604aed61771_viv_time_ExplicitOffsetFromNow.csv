@@ -1,0 +1,35 @@
+RecordId,formal,alias
+1,AfterNext,다 다 음
+2,AfterNext,다 다 음 번
+3,AfterNext,다 담 번
+4,AfterNext,다 담
+5,AfterNext,다 음 다 음
+6,AfterNext,차 차
+7,BeforeLast,지 지 난
+8,BeforeLast,지 지 난 번
+9,BeforeLast,전 전
+10,BeforeLast,저 저 번
+11,BeforeLast,전 전 번
+12,Last,지 난
+13,Last,지 난 번
+14,Last,전
+15,Last,전 번
+16,Last,저 번
+17,Next,다 음
+18,Next,다 음 번
+19,Next,담 번
+20,Next,다 가 오 는
+21,Next,이 내
+22,Next,앞 으 로
+23,Next,안
+24,Next,내
+25,Next,이 내
+26,Next,안 쪽
+27,Next,돌 아 오 는
+28,Next,돌 아 오 는
+29,Next,향 후
+30,Next,이 듬
+31,This,이 번
+32,This,돌 아 오 는
+33,This,오 는
+34,This,요 번

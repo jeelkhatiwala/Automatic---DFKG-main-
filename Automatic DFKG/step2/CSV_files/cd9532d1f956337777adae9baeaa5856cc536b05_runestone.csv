@@ -1,0 +1,8 @@
+_id,category,time,expire_time,is_expired,confidence
+1,WAKEUP,0,0,1,0.0
+2,WORK,0,0,1,0.0
+3,HOME,0,0,1,0.0
+4,BEFORE_BEDTIME,0,0,1,0.0
+5,PROBABLY_ASLEEP,0,0,1,0.0
+6,CAR,0,0,1,0.0
+7,FOREIGN_COUNTRY,0,0,1,0.0

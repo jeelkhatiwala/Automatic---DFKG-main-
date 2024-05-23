@@ -1,0 +1,203 @@
+text,data,path,storage_type,text_type,update_time
+speed trap reported ahead,,database//Jane//1625260854-883084-0.tts,2,0,1625260855
+heavy traffic reported ahead,,database//Jane//1625260854-883239-1.tts,2,0,1625260855
+"watch out, accident reported ahead",,database//Jane//1625260854-883240-2.tts,2,0,1625260855
+"watch out, hazard reported ahead",,database//Jane//1625260854-883241-3.tts,2,0,1625260855
+You are entering an enforcement zone,,database//Jane//1625260854-884956-20.tts,2,0,1625260855
+You are leaving an enforcement zone,,database//Jane//1625260854-884958-21.tts,2,0,1625260855
+Entering a crime risk area,,database//Jane//1625260854-884959-22.tts,2,0,1625260855
+Crime risk area,,database//Jane//1625260854-884959-23.tts,2,0,1625260855
+"watch out, object on road ahead",,database//Jane//1625260854-883637-4.tts,2,0,1625260855
+"watch out, pothole on road ahead",,database//Jane//1625260854-883638-5.tts,2,0,1625260855
+"watch out, road kill on road ahead",,database//Jane//1625260854-883639-6.tts,2,0,1625260855
+"watch out, vehicle stopped on shoulder ahead",,database//Jane//1625260854-883639-7.tts,2,0,1625260855
+red light camera reported ahead,,database//Jane//1625260854-884597-16.tts,2,0,1625260855
+Approaching a railroad crossing,,database//Jane//1625260854-884599-17.tts,2,0,1625260855
+Beep from a friend,,database//Jane//1625260854-884599-18.tts,2,0,1625260855
+Message from a friend,,database//Jane//1625260854-884600-19.tts,2,0,1625260855
+"watch out, animal on shoulder ahead",,database//Jane//1625260854-883871-8.tts,2,0,1625260855
+"watch out, fog reported ahead",,database//Jane//1625260854-883872-9.tts,2,0,1625260855
+"watch out, hail reported ahead",,database//Jane//1625260854-883873-10.tts,2,0,1625260855
+"watch out, rain reported ahead",,database//Jane//1625260854-883873-11.tts,2,0,1625260855
+Average speed enforcement zone ahead,,database//Jane//1625260854-885193-24.tts,2,0,1625260855
+Entering speed enforcement zone,,database//Jane//1625260854-885195-25.tts,2,0,1625260855
+Exiting average speed enforcement zone,,database//Jane//1625260854-885195-26.tts,2,0,1625260855
+Entering high risk or illegal area,,database//Jane//1625260854-885196-27.tts,2,0,1625260855
+"watch out, snow reported ahead",,database//Jane//1625260854-884242-12.tts,2,0,1625260855
+"watch out, Construction on road ahead",,database//Jane//1625260854-884243-13.tts,2,0,1625260855
+"watch out, vehicle stopped on road ahead",,database//Jane//1625260854-884244-14.tts,2,0,1625260855
+police reported ahead,,database//Jane//1625260854-884244-15.tts,2,0,1625260855
+in,,database//Jane//1625260855-367390-44.tts,2,0,1625260855
+to,,database//Jane//1625260855-367395-45.tts,2,0,1625260855
+on,,database//Jane//1625260855-367396-46.tts,2,0,1625260855
+meters,,database//Jane//1625260855-367397-47.tts,2,0,1625260855
+Approaching stop point,,database//Jane//1625260855-365752-40.tts,2,0,1625260855
+Did you drop off your rider?,,database//Jane//1625260855-365757-41.tts,2,0,1625260855
+you've arrived at,,database//Jane//1625260855-365758-42.tts,2,0,1625260855
+within,,database//Jane//1625260855-365759-43.tts,2,0,1625260855
+"Reminder, turn on your headlights.",,database//Jane//1625260855-85391-32.tts,2,0,1625260855
+Wazer needs help,,database//Jane//1625260855-85394-33.tts,2,0,1625260855
+Let's go,,database//Jane//1625260855-85395-34.tts,2,0,1625260855
+"All set, let's go!",,database//Jane//1625260855-85396-35.tts,2,0,1625260855
+"We're all set, let's go!",,database//Jane//1625260855-224122-36.tts,2,0,1625260855
+"We're all set, drive safely",,database//Jane//1625260855-224126-37.tts,2,0,1625260855
+"Let's get started, drive safely",,database//Jane//1625260855-224127-38.tts,2,0,1625260855
+Let’s Carpool today,,database//Jane//1625260855-224128-39.tts,2,0,1625260855
+Entering a high crime area2,,database//Jane//1625260854-885421-28.tts,2,0,1625260855
+Your drive passes through a high risk or illegal area,,database//Jane//1625260854-885422-29.tts,2,0,1625260855
+High crime area2,,database//Jane//1625260854-885423-30.tts,2,0,1625260855
+Entering a road that requires headlights. Don't forget to turn them on.,,database//Jane//1625260854-885423-31.tts,2,0,1625260855
+at,,database//Jane//1625260855-377950-52.tts,2,0,1625260855
+in two hundred meters,,database//Jane//1625260855-377954-53.tts,2,0,1625260855
+in four hundred meters,,database//Jane//1625260855-377955-54.tts,2,0,1625260855
+in five hundred meters,,database//Jane//1625260855-377956-55.tts,2,0,1625260855
+in eight hundred meters,,database//Jane//1625260855-382509-56.tts,2,0,1625260855
+in one kilometer,,database//Jane//1625260855-382513-57.tts,2,0,1625260855
+in one point five kilometers,,database//Jane//1625260855-382514-58.tts,2,0,1625260855
+in 500 feet,,database//Jane//1625260855-382515-59.tts,2,0,1625260855
+miles,,database//Jane//1625260855-376903-48.tts,2,0,1625260855
+take the,,database//Jane//1625260855-376907-49.tts,2,0,1625260855
+exit,,database//Jane//1625260855-376908-50.tts,2,0,1625260855
+then,,database//Jane//1625260855-376909-51.tts,2,0,1625260855
+in a quarter of a mile,,database//Jane//1625260855-486050-60.tts,2,0,1625260855
+in O point three miles,,database//Jane//1625260855-486053-61.tts,2,0,1625260855
+in half a mile,,database//Jane//1625260855-486054-62.tts,2,0,1625260855
+in O point six miles,,database//Jane//1625260855-486055-63.tts,2,0,1625260855
+in one mile,,database//Jane//1625260855-498488-64.tts,2,0,1625260855
+the coupon was saved in your inbox,,database//Jane//1625260855-498492-65.tts,2,0,1625260855
+don't forget to check out your coupon before purchase,,database//Jane//1625260855-498493-66.tts,2,0,1625260855
+you're approaching your destination,,database//Jane//1625260855-498494-67.tts,2,0,1625260855
+you'll arrive,,database//Jane//1625260855-504544-68.tts,2,0,1625260856
+take the first exit,,database//Jane//1625260855-504548-69.tts,2,0,1625260856
+take the second exit,,database//Jane//1625260855-504549-70.tts,2,0,1625260856
+take the third exit,,database//Jane//1625260855-504549-71.tts,2,0,1625260856
+continue straight,,database//Jane//1625260855-668304-80.tts,2,0,1625260856
+at the roundabout,,database//Jane//1625260855-668308-81.tts,2,0,1625260856
+"at the roundabout, turn left",,database//Jane//1625260855-668310-82.tts,2,0,1625260856
+"at the roundabout, continue straight",,database//Jane//1625260855-668310-83.tts,2,0,1625260856
+"at the roundabout, turn right",,database//Jane//1625260855-703882-84.tts,2,0,1625260856
+"at the roundabout, make a u-turn",,database//Jane//1625260855-703887-85.tts,2,0,1625260856
+you've arrived at your destination,,database//Jane//1625260855-703888-86.tts,2,0,1625260856
+exit left,,database//Jane//1625260855-703889-87.tts,2,0,1625260856
+turn left,,database//Jane//1625260855-534362-76.tts,2,0,1625260856
+turn right,,database//Jane//1625260855-534366-77.tts,2,0,1625260856
+stay to the left,,database//Jane//1625260855-534367-78.tts,2,0,1625260856
+stay to the right,,database//Jane//1625260855-534368-79.tts,2,0,1625260856
+take the fourth exit,,database//Jane//1625260855-521626-72.tts,2,0,1625260856
+take the fifth exit,,database//Jane//1625260855-521630-73.tts,2,0,1625260856
+take the sixth exit,,database//Jane//1625260855-521631-74.tts,2,0,1625260856
+take the seventh exit,,database//Jane//1625260855-521632-75.tts,2,0,1625260856
+continue straight for 8 minutes,,database//Jane//1625260856-5754-100.tts,2,0,1625260856
+continue straight for 9 minutes,,database//Jane//1625260856-5758-101.tts,2,0,1625260856
+continue straight for 10 minutes,,database//Jane//1625260856-5759-102.tts,2,0,1625260856
+continue straight for 11 minutes,,database//Jane//1625260856-5759-103.tts,2,0,1625260856
+continue straight for 12 minutes,,database//Jane//1625260856-50042-104.tts,2,0,1625260856
+continue straight for 13 minutes,,database//Jane//1625260856-50045-105.tts,2,0,1625260856
+continue straight for 14 minutes,,database//Jane//1625260856-50046-106.tts,2,0,1625260856
+continue straight for 15 minutes,,database//Jane//1625260856-50047-107.tts,2,0,1625260856
+in 3 minutes,,database//Jane//1625260855-729571-96.tts,2,0,1625260856
+in 4 minutes,,database//Jane//1625260855-729574-97.tts,2,0,1625260856
+continue straight for 6 minutes,,database//Jane//1625260855-729575-98.tts,2,0,1625260856
+continue straight for 7 minutes,,database//Jane//1625260855-729576-99.tts,2,0,1625260856
+exit right,,database//Jane//1625260855-716697-88.tts,2,0,1625260856
+make a u-turn,,database//Jane//1625260855-716701-89.tts,2,0,1625260856
+you've arrived at your first stop,,database//Jane//1625260855-716702-90.tts,2,0,1625260856
+continue straight for 5 minutes,,database//Jane//1625260855-716703-91.tts,2,0,1625260856
+continue straight for 20 minutes,,database//Jane//1625260856-93690-108.tts,2,0,1625260856
+continue straight for 25 minutes,,database//Jane//1625260856-93694-109.tts,2,0,1625260856
+continue straight for 30 minutes,,database//Jane//1625260856-93695-110.tts,2,0,1625260856
+continue straight for 35 minutes,,database//Jane//1625260856-93696-111.tts,2,0,1625260856
+continue straight for 40 minutes,,database//Jane//1625260856-104113-112.tts,2,0,1625260856
+continue straight for 45 minutes,,database//Jane//1625260856-104117-113.tts,2,0,1625260856
+continue straight for 50 minutes,,database//Jane//1625260856-104118-114.tts,2,0,1625260856
+continue straight for 1 hour,,database//Jane//1625260856-104119-115.tts,2,0,1625260856
+continue straight for 1 hour and 15 minutes,,database//Jane//1625260856-111678-116.tts,2,0,1625260856
+continue straight for 1 hour and 30 minutes,,database//Jane//1625260856-111682-117.tts,2,0,1625260856
+continue straight for 1 hour and 45 minutes,,database//Jane//1625260856-111683-118.tts,2,0,1625260856
+continue straight for 2 hours,,database//Jane//1625260856-111683-119.tts,2,0,1625260856
+continue straight for 2 hours and 15 minutes,,database//Jane//1625260856-310865-120.tts,2,0,1625260856
+continue straight for 2 hours and 30 minutes,,database//Jane//1625260856-310870-121.tts,2,0,1625260856
+continue straight for 2 hours and 45 minutes,,database//Jane//1625260856-310871-122.tts,2,0,1625260856
+continue straight for 3 hours,,database//Jane//1625260856-310872-123.tts,2,0,1625260856
+continue straight for 3 hours and 15 minutes,,database//Jane//1625260856-311895-124.tts,2,0,1625260856
+continue straight for 3 hours and 30 minutes,,database//Jane//1625260856-311899-125.tts,2,0,1625260856
+continue straight for 3 hours and 45 minutes,,database//Jane//1625260856-311900-126.tts,2,0,1625260856
+continue straight for 4 hours,,database//Jane//1625260856-311901-127.tts,2,0,1625260856
+continue straight for 4 hours and 15 minutes,,database//Jane//1625260856-478575-128.tts,2,0,1625260856
+continue straight for 4 hours and 30 minutes,,database//Jane//1625260856-478579-129.tts,2,0,1625260856
+continue straight for 4 hours and 45 minutes,,database//Jane//1625260856-478579-130.tts,2,0,1625260856
+continue straight for 5 hours,,database//Jane//1625260856-478580-131.tts,2,0,1625260856
+continue straight for 6 hours and 15 minutes,,database//Jane//1625260856-482566-136.tts,2,0,1625260856
+continue straight for 6 hours and 30 minutes,,database//Jane//1625260856-482570-137.tts,2,0,1625260856
+continue straight for 6 hours and 45 minutes,,database//Jane//1625260856-482571-138.tts,2,0,1625260856
+continue straight for 7 hours,,database//Jane//1625260856-482571-139.tts,2,0,1625260856
+continue straight for 7 hours and 15 minutes,,database//Jane//1625260856-495330-140.tts,2,0,1625260856
+continue straight for 7 hours and 30 minutes,,database//Jane//1625260856-495334-141.tts,2,0,1625260856
+continue straight for 7 hours and 45 minutes,,database//Jane//1625260856-495335-142.tts,2,0,1625260856
+continue straight for 8 hours,,database//Jane//1625260856-495336-143.tts,2,0,1625260856
+continue straight for 8 hours and 15 minutes,,database//Jane//1625260856-644084-144.tts,2,0,1625260856
+continue straight for 8 hours and 30 minutes,,database//Jane//1625260856-644088-145.tts,2,0,1625260856
+continue straight for 8 hours and 45 minutes,,database//Jane//1625260856-644089-146.tts,2,0,1625260856
+continue straight for 9 hours,,database//Jane//1625260856-644090-147.tts,2,0,1625260856
+continue straight for 5 hours and 15 minutes,,database//Jane//1625260856-479539-132.tts,2,0,1625260856
+continue straight for 5 hours and 30 minutes,,database//Jane//1625260856-479542-133.tts,2,0,1625260856
+continue straight for 5 hours and 45 minutes,,database//Jane//1625260856-479543-134.tts,2,0,1625260856
+continue straight for 6 hours,,database//Jane//1625260856-479544-135.tts,2,0,1625260856
+continue straight for 9 hours and 15 minutes,,database//Jane//1625260856-646588-148.tts,2,0,1625260857
+continue straight for 9 hours and 30 minutes,,database//Jane//1625260856-646592-149.tts,2,0,1625260857
+continue straight for 9 hours and 45 minutes,,database//Jane//1625260856-646593-150.tts,2,0,1625260857
+continue straight for 10 hours,,database//Jane//1625260856-646593-151.tts,2,0,1625260857
+in three quarters of a mile,,database//Jane//1625260856-902820-160.tts,2,0,1625260857
+in 0.2 miles,,database//Jane//1625260856-902824-161.tts,2,0,1625260857
+in 1000 feet,,database//Jane//1625260856-902825-162.tts,2,0,1625260857
+in 300 yards,,database//Jane//1625260856-902825-163.tts,2,0,1625260857
+in 5 minutes,,database//Jane//1625260855-717871-92.tts,2,0,1625260857
+in less than a minute,,database//Jane//1625260855-717874-93.tts,2,0,1625260857
+in about a minute,,database//Jane//1625260855-717875-94.tts,2,0,1625260857
+in 2 minutes,,database//Jane//1625260855-717876-95.tts,2,0,1625260857
+in 100 feet,,database//Jane//1625260856-659198-152.tts,2,0,1625260857
+in 200 feet,,database//Jane//1625260856-659202-153.tts,2,0,1625260857
+in 300 feet,,database//Jane//1625260856-659203-154.tts,2,0,1625260857
+in 400 feet,,database//Jane//1625260856-659203-155.tts,2,0,1625260857
+in 600 feet,,database//Jane//1625260856-683091-156.tts,2,0,1625260857
+in 700 feet,,database//Jane//1625260856-683108-157.tts,2,0,1625260857
+in 800 feet,,database//Jane//1625260856-683109-158.tts,2,0,1625260857
+in 900 feet,,database//Jane//1625260856-683110-159.tts,2,0,1625260857
+in 1 mile,,database//Jane//1625260874-900259-164.tts,2,0,1625260875
+in 1.1 miles,,database//Jane//1625260874-900264-165.tts,2,0,1625260875
+in 1.2 miles,,database//Jane//1625260874-900266-166.tts,2,0,1625260875
+in 1.3 miles,,database//Jane//1625260874-900267-167.tts,2,0,1625260875
+in 1.4 miles,,database//Jane//1625260874-901333-168.tts,2,0,1625260875
+in 1.5 miles,,database//Jane//1625260874-901338-169.tts,2,0,1625260875
+in 1.6 miles,,database//Jane//1625260874-901339-170.tts,2,0,1625260875
+in 1.7 miles,,database//Jane//1625260874-901340-171.tts,2,0,1625260875
+in 1.8 miles,,database//Jane//1625260875-327768-172.tts,2,0,1625260875
+in 1.9 miles,,database//Jane//1625260875-327779-173.tts,2,0,1625260875
+in 2.4 miles,,database//Jane//1625260894-900692-178.tts,2,0,1625260895
+in 2.5 miles,,database//Jane//1625260894-900695-179.tts,2,0,1625260895
+in 2.6 miles,,database//Jane//1625260894-900696-180.tts,2,0,1625260895
+in 2.7 miles,,database//Jane//1625260894-900697-181.tts,2,0,1625260895
+in 2 miles,,database//Jane//1625260894-899387-174.tts,2,0,1625260895
+in 2.1 miles,,database//Jane//1625260894-899390-175.tts,2,0,1625260895
+in 2.2 miles,,database//Jane//1625260894-899391-176.tts,2,0,1625260895
+in 2.3 miles,,database//Jane//1625260894-899392-177.tts,2,0,1625260895
+in 2.8 miles,,database//Jane//1625260895-302848-182.tts,2,0,1625260895
+in 2.9 miles,,database//Jane//1625260895-302854-183.tts,2,0,1625260895
+in 3 miles,,database//Jane//1625260914-904231-184.tts,2,0,1625260915
+in 3.1 miles,,database//Jane//1625260914-904246-185.tts,2,0,1625260915
+in 3.2 miles,,database//Jane//1625260914-904251-186.tts,2,0,1625260915
+in 3.3 miles,,database//Jane//1625260914-904256-187.tts,2,0,1625260915
+in 3.4 miles,,database//Jane//1625260914-906363-188.tts,2,0,1625260915
+in 3.5 miles,,database//Jane//1625260914-906372-189.tts,2,0,1625260915
+in 3.6 miles,,database//Jane//1625260914-906378-190.tts,2,0,1625260915
+in 3.7 miles,,database//Jane//1625260914-906383-191.tts,2,0,1625260915
+in 3.8 miles,,database//Jane//1625260915-45635-192.tts,2,0,1625260915
+in 3.9 miles,,database//Jane//1625260915-45642-193.tts,2,0,1625260915
+keep left,,database//Jane//1625510205-134151-6.tts,2,0,1625510205
+keep right,,database//Jane//1625510205-134154-7.tts,2,0,1625510205
+Average speed check zone ahead,,database//Jane//1625510205-132329-4.tts,2,0,1625510205
+Entering average speed check zone,,database//Jane//1625510205-132332-5.tts,2,0,1625510205
+speed camera ahead,,database//Jane//1625510205-130215-0.tts,2,0,1625510205
+"watch out, crash reported ahead",,database//Jane//1625510205-130957-1.tts,2,0,1625510205
+"watch out, vehicle on shoulder ahead",,database//Jane//1625510205-130963-2.tts,2,0,1625510205
+red light camera ahead,,database//Jane//1625510205-130964-3.tts,2,0,1625510205

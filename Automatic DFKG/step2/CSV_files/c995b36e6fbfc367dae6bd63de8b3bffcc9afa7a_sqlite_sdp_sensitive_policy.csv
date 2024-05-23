@@ -1,0 +1,3 @@
+tblname,colname
+credit_cards,card_number_encrypted
+upi_names,upi_name_encrypted

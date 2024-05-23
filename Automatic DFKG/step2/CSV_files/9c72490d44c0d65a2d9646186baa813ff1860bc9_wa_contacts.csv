@@ -1,0 +1,3 @@
+_id,jid,is_whatsapp_user,status,status_timestamp,number,raw_contact_id,display_name,phone_type,phone_label,unseen_msg_count,photo_ts,thumb_ts,photo_id_timestamp,given_name,family_name,wa_name,sort_name,nickname,company,title,status_autodownload_disabled,keep_timestamp,is_spam_reported,is_sidelist_synced,is_business_synced
+1,status@broadcast,1,,0,,,,,,,,,,,,,,,,,,,,0,0
+2,18056377243@s.whatsapp.net,0,,0,+18056377243,3.0,Voice Mail,2.0,SIM,,,,,Voice Mail,,,Voice Mail,,,,,,0.0,0,1

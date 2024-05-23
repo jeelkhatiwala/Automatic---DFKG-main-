@@ -1,0 +1,4 @@
+app_name,type
+com.google.android.gms,MobileApplication
+com.google.android.gms,Person
+com.google.android.apps.maps,Place

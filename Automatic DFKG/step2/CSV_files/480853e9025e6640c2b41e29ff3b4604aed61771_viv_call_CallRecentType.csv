@@ -1,0 +1,71 @@
+RecordId,formal,alias
+1,AllLog,모 두
+2,AllLog,모 든
+3,AllLog,전 부
+4,MissedLog,부 재 중
+5,MissedLog,부 재 중
+6,MissedLog,못 받 은
+7,MissedLog,못 받 은
+8,MissedLog,못 받 았 던
+9,MissedLog,못 받 았 던
+10,MissedLog,부 재 중 전 화
+11,RejectedLog,거 절
+12,RejectedLog,거 절 한
+13,RejectedLog,거 절 한
+14,RejectedLog,거 절 했 던
+15,RejectedLog,거 절 했 던
+16,RejectedLog,거 부
+17,RejectedLog,거 부 한
+18,RejectedLog,거 부 한
+19,RejectedLog,거 부 했 던
+20,RejectedLog,거 부 했 던
+21,RejectedLog,수 신 거 절
+22,RejectedLog,수 신 거 절 한
+23,RejectedLog,수 신 거 절 한
+24,RejectedLog,수 신 거 절 했 던
+25,RejectedLog,수 신 거 절 했 던
+26,RejectedLog,수 신 거 절
+27,RejectedLog,수 신 거 절 한
+28,RejectedLog,수 신 거 절 한
+29,RejectedLog,수 신 거 절 했 던
+30,RejectedLog,수 신 거 절 했 던
+31,RejectedLog,수 신 거 부
+32,RejectedLog,수 신 거 부 한
+33,RejectedLog,수 신 거 부 한
+34,RejectedLog,수 신 거 부
+35,RejectedLog,수 신 거 부 한
+36,RejectedLog,수 신 거 부 한
+37,RejectedLog,안 받 은
+38,RejectedLog,안 받 은
+39,RejectedLog,안 받 았 던
+40,RejectedLog,안 받 았 던
+41,VoiceLog,음 성 통 화
+42,VoiceLog,음 성 통 화
+43,VoiceLog,음 성 전 화
+44,VoiceLog,음 성 전 화
+45,VideoLog,영 상 통 화
+46,VideoLog,영 상 통 화
+47,VideoLog,영 상 전 화
+48,VideoLog,영 상 전 화
+49,DialledLog,발 신
+50,DialledLog,발 신 한
+51,DialledLog,발 신 한
+52,DialledLog,걸 었 던
+53,DialledLog,건
+54,DialledLog,걸 었 었 던
+55,ReceivedLog,수 신
+56,ReceivedLog,수 신 한
+57,ReceivedLog,수 신 받 은
+58,ReceivedLog,수 신 받 은
+59,ReceivedLog,수 신 받 았 던
+60,ReceivedLog,수 신 받 았 던
+61,ReceivedLog,온
+62,ReceivedLog,걸 려 온
+63,ReceivedLog,걸 려 온
+64,ReceivedLog,왔 던
+65,ReceivedLog,받 은
+66,ReceivedLog,받 았 던
+67,ReceivedLog,수 신 전 화
+68,ReceivedLog,수 신 전 화
+69,VoiceMailLog,음 성 메 시 지
+70,VoiceMailLog,음 성 메 시 지

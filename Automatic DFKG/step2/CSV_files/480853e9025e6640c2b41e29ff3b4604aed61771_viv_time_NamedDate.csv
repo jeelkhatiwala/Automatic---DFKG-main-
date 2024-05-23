@@ -1,0 +1,39 @@
+RecordId,formal,alias
+1,DayBeforeDayBeforeYesterday,어 제 그 저 께
+2,DayBeforeDayBeforeYesterday,엊 그 저 께
+3,DayBeforeDayBeforeYesterday,엊 그 제
+4,DayBeforeYesterday,그 저 께
+5,DayBeforeYesterday,그 제
+6,DayBeforeYesterday,거 거 일
+7,DayBeforeYesterday,재 작
+8,DayBeforeYesterday,재 작 일
+9,Yesterday,어 제
+10,Yesterday,작 일
+11,Yesterday,전 날
+12,Yesterday,어 저 께
+13,Today,오 늘
+14,Today,금 일
+15,Today,투 데 이
+16,Today,일 간
+17,Tomorrow,내 일
+18,Tomorrow,낼
+19,Tomorrow,명 일
+20,Tomorrow,투 마 로 우
+21,Tomorrow,익 일
+22,DayAfterTomorrow,낼 모 레
+23,DayAfterTomorrow,낼 모 레
+24,DayAfterTomorrow,내 일 모 레
+25,DayAfterTomorrow,내 일 모 레
+26,DayAfterTomorrow,모 레
+27,DayAfterTomorrow,익 익 일
+28,DayAfterTomorrow,명 후 일
+29,DayAfterTomorrow,재 명 일
+30,DayAfterDayAfterTomorrow,글 피
+31,MidWeek,주 중 반
+32,MidMonth,중 순
+33,MidMonth,월 중 반
+34,MidYear,연 중 반
+35,ThisDay,이 날 짜
+36,ThisDay,이 날
+37,ThisDay,이 날
+38,ThisDay,당 일

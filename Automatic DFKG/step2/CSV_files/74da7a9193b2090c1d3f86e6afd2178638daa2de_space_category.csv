@@ -1,0 +1,2 @@
+_id,space_id,group_id,type,name,color,visible,contents_update_time,is_owned_by_me,membersCount,status,extra_info
+1,LOCAL_SPACE,LOCAL_GROUP,0,LOCAL_SPACE,-9212680,1,0,1,0,1,

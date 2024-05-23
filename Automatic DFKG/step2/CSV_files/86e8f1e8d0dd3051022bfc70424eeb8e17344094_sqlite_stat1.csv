@@ -1,0 +1,27 @@
+tbl,idx,stat
+people,sqlite_autoindex_people_1,500 250 1
+owners,,3
+owner_sync_requests,sqlite_autoindex_owner_sync_requests_1,3 1 1
+sync_tokens,sqlite_autoindex_sync_tokens_1,15
+circle_members,sqlite_autoindex_circle_members_1,1000 300 2 1
+circles,sqlite_autoindex_circles_1,20 10 1
+search_index,search_value,1500 3
+search_index,search_person_id_index,1500 3
+emails,email_person,500 150 1
+phones,phone_person,500 150 1
+postal_address,postal_address_person,500 150 1
+owner_emails,,6
+owner_phones,,6
+owner_postal_address,,6
+properties,,10
+gaia_id_map,sqlite_autoindex_gaia_id_map_1,500 200 2 1
+ac_people,sqlite_autoindex_ac_people_1,500 250 1
+ac_people,ac_people_v2_id,500 250 1
+ac_container,ac_item_container_person_id,1000 2
+ac_item,ac_item_container,2000 2
+ac_index,ac_index_1,8000 2000 2 2
+ac_index,ac_index_item_id,8000 4
+applications,sqlite_autoindex_applications_1,1 1 1
+application_packages,,1
+facl_people,sqlite_autoindex_facl_people_1,50 50 50 1
+temp_gaia_ordinal,,3

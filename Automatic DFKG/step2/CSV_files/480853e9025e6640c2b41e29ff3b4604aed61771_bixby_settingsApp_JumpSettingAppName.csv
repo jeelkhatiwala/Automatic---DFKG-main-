@@ -1,0 +1,248 @@
+RecordId,formal,alias
+1,WifiSetting,w i f i
+2,WifiSetting,w i - f i
+3,WifiSetting,w i f i
+4,WifiSetting,w i f i a p
+5,WifiSetting,와 이 파 이
+6,WifiSetting,와 이 파 이
+7,WifiSetting,와 이 파 이 a p
+8,WifiSetting,무 선 랜
+9,WifiSetting,a p
+10,WifiSetting,a c c e s s p o i n t
+11,WifiSetting,와 이 파 이 설 정
+12,WifiSetting,무 선 공 유 기
+13,WifiSetting,무 선 공 유 기
+14,WifiSetting,와 파 설 정
+15,WifiSetting,와 파
+16,WifiSetting,와 파 세 팅
+17,BluetoothSetting,블 루 투 스
+18,BluetoothSetting,블 루 투 스 설 정
+19,BluetoothSetting,블 루 투 스 세 팅
+20,BluetoothSetting,블 투
+21,BluetoothSetting,블 투 설 정
+22,BluetoothSetting,블 투 세 팅
+23,BluetoothSetting,비 티
+24,BluetoothSetting,비 티 설 정
+25,BluetoothSetting,비 티 세 팅
+26,BluetoothSetting,b t
+27,BluetoothSetting,b t 설 정
+28,BluetoothSetting,b t 세 팅
+29,HotspotSetting,핫 스 팟
+30,HotspotSetting,핫 스 팟 설 정
+31,HotspotSetting,핫 스 폿
+32,HotspotSetting,핫 스 폿 설 정
+33,HotspotSetting,테 더 링
+34,HotspotSetting,테 더 링 설 정
+35,NFCSetting,n f c
+36,NFCSetting,n f c 설 정
+37,NFCSetting,모 바 일 지 갑
+38,AODSetting,a o d 설 정
+39,AODSetting,a o d
+40,AODSetting,a o d 셋 팅
+41,AODSetting,a l w a y s o n d i s p l a y
+42,AODSetting,올 웨 이 즈 온 디 스 플 레 이
+43,AODSetting,얼 웨 이 즈 온 디 스 플 레 이
+44,AODSetting,올 웨 이 즈 온 디 스 플 레 이
+45,AODSetting,얼 웨 이 즈 온 디 스 플 레 이
+46,AODSetting,올 웨 이 즈 온 디 스 플 레 이
+47,AODSetting,얼 웨 이 즈 온 디 스 플 레 이
+48,AODSetting,올 웨 이 즈 온 디 스 플 레 이
+49,AODSetting,얼 웨 이 즈 온 디 스 플 레 이
+50,EdgeSetting,e d g e
+51,EdgeSetting,e d g e s c r e e n
+52,EdgeSetting,e d g e s c r e e n
+53,EdgeSetting,엣 지
+54,EdgeSetting,엣 지 스 크 린
+55,EdgeSetting,e d g e 설 정
+56,EdgeSetting,엣 지 설 정
+57,EdgeSetting,엣 지 스 크 린
+58,EdgeSetting,엣 지 스 크 린 용 설 정
+59,EdgeSetting,엣 지 패 널
+60,EdgeSetting,엣 지 패 널
+61,EdgeSetting,e d g e p a n e l
+62,EdgeSetting,e d g e p a n e l
+63,LockScreenSetting,잠 금
+64,LockScreenSetting,잠 금 방 식
+65,LockScreenSetting,잠 금 방 식
+66,LockScreenSetting,화 면 잠 금
+67,LockScreenSetting,화 면 잠 금
+68,LockScreenSetting,잠 금 화 면
+69,LockScreenSetting,잠 금 화 면
+70,LockScreenSetting,락 스 크 린
+71,LockScreenSetting,락 스 크 린
+72,LockScreenSetting,l o c k s c r e e n
+73,LockScreenSetting,패 턴
+74,LockScreenSetting,p i n
+75,LockScreenSetting,핀
+76,LockScreenSetting,비 밀 번 호
+77,LockScreenSetting,암 호
+78,LockScreenSetting,암 호 변 경
+79,RingtoneScreenSetting,벨 소 리
+80,RingtoneScreenSetting,전 화 소 리
+81,RingtoneScreenSetting,r i n g t o n e
+82,RingtoneScreenSetting,링 톤
+83,RingtoneScreenSetting,전 화 벨 소 리
+84,MainSetting,셋 팅
+85,MainSetting,세 팅
+86,MainSetting,설 정 메 인
+87,MainSetting,설 정 화 면
+88,MainSetting,설 정
+89,MainSetting,s e t t i n g s
+90,DataUsageSetting,데 이 터 사 용 량
+91,DataUsageSetting,데 이 터 사 용
+92,DataUsageSetting,데 이 터
+93,LocationSetting,위 치
+94,LocationSetting,g p s
+95,LocationSetting,지 피 에 스
+96,SoundVibrateSetting,소 리 및 진 동
+97,SoundVibrateSetting,소 리
+98,SoundVibrateSetting,진 동
+99,VibratePatternSetting,진 동 패 턴
+100,NoDisturbSetting,방 해 금 지
+101,NoDisturbSetting,방 해 금 지
+102,DisplaySetting,디 스 플 레 이 설 정
+103,DisplaySetting,디 스 플 레 이
+104,BlueLightSetting,블 루 라 이 트
+105,BlueLightSetting,블 루 라 이 트
+106,BlueLightSetting,블 루 라 이 트 필 터
+107,ScreenModeSetting,화 면 모 드
+108,ScreenModeSetting,화 면 모 드
+109,ScreenModeSetting,스 크 린 모 드
+110,ScreenModeSetting,스 크 린 모 드
+111,FullScreenAppsSetting,전 체 화 면 비 율
+112,FullScreenAppsSetting,전 체 화 면 비 율
+113,FullScreenAppsSetting,앱 전 체 화 면 비 율
+114,StatusBarSetting,상 태 바
+115,StatusBarSetting,상 태 바
+116,StatusBarSetting,상 태 표 시 줄
+117,NavigationBarSetting,네 비 게 이 션 바
+118,NavigationBarSetting,내 비 게 이 션 바
+119,NavigationBarSetting,네 비 게 이 션 바
+120,NavigationBarSetting,내 비 게 이 션 바
+121,ScreenTimeOutSetting,화 면 자 동 꺼 짐
+122,ScreenTimeOutSetting,화 면 잠 금 시 간
+123,ScreenTimeOutSetting,화 면 잠 금 시 간
+124,ScreenTimeOutSetting,화 면 자 동 꺼 짐 시 간
+125,ScreenSaverSetting,화 면 보 호 기
+126,ScreenSaverSetting,보 호 기
+127,AdvancedFeaturesSetting,유 용 한 기 능
+128,OneHandModeSetting,한 손 조 작 모 드
+129,OneHandModeSetting,한 손 조 작 모 드
+130,OneHandModeSetting,한 손 모 드
+131,FingerSensorGesturesSetting,지 문 센 서 제 스 처
+132,FingerSensorGesturesSetting,지 문 센 서 제 스 쳐
+133,SmartCaptureSetting,스 마 트 캡 처
+134,SmartCaptureSetting,스 마 트 캡 쳐
+135,SmartCaptureSetting,화 면 캡 처
+136,SmartCaptureSetting,화 면 캡 처 툴 바
+137,SmartCaptureSetting,화 면 캡 쳐 툴 바
+138,SmartCaptureSetting,화 면 녹 화
+139,SwipeToCaptureSetting,손 으 로 밀 어 서 캡 처
+140,SwipeToCaptureSetting,밀 어 서 캡 처
+141,SwipeToCaptureSetting,밀 어 서 캡 쳐
+142,DirectCallSetting,다 이 렉 트 콜
+143,SmartAlertSetting,스 마 트 알 림
+144,EasyMuteSetting,간 편 무 음
+145,EasyMuteSetting,간 편 무 음 전 환
+146,DualMessengerSetting,듀 얼 메 신 저
+147,DualMessengerSetting,듀 얼 메 신 저
+148,DualMessengerSetting,듀 얼 메 신 져
+149,DualMessengerSetting,듀 얼 메 신 져
+150,SwipeToCallOrSendMessagesSetting,밀 어 서 전 화 걸 기 또 는 메 시 지 보 내 기
+151,SendSOSMessagesSetting,긴 급 문 자 전 송
+152,SendSOSMessagesSetting,s o s 메 시 지
+153,DirectShareSetting,다 이 렉 트 공 유
+154,VideoEnhancerSetting,동 영 상 향 상 기 능
+155,VideoEnhancerSetting,동 영 상 향 상 기 능
+156,ApplicationMenuSetting,어 플 리 케 이 션
+157,ApplicationMenuSetting,애 플 리 케 이 션
+158,ApplicationMenuSetting,어 플
+159,ApplicationMenuSetting,a p p l i c a t i o n
+160,CloudAndAccountsSetting,클 라 우 드 및 계 정
+161,CloudAndAccountsSetting,계 정 및 백 업
+162,AccountSetting,계 정 설 정
+163,AccountSetting,계 정
+164,GeneralManagementSetting,일 반
+165,ScreenKeyboardSetting,스 크 린 키 보 드
+166,ScreenKeyboardSetting,키 보 드
+167,ResetSetting,초 기 화
+168,AboutDeviceSetting,디 바 이 스 정 보
+169,AboutDeviceSetting,휴 대 전 화 이 름
+170,AboutDeviceSetting,휴 대 전 화 이 름
+171,AboutDeviceSetting,휴 대 전 화 정 보
+172,AboutDeviceSetting,휴 대 폰 이 름
+173,AboutDeviceSetting,폰 의 이 름
+174,AboutDeviceSetting,내 전 화 번 호
+175,AboutDeviceSetting,휴 대 폰 정 보
+176,AboutDeviceSetting,핸 드 폰 정 보
+177,BiometricsAndSecuritySetting,생 체 인 식 및 보 안
+178,BiometricsAndSecuritySetting,생 체 인 식
+179,BiometricsAndSecuritySetting,생 체 인 식
+180,BiometricsAndSecuritySetting,생 체 인 증
+181,BiometricsAndSecuritySetting,생 체 인 증
+182,BiometricsAndSecuritySetting,보 안 설 정
+183,StatusSetting,상 태
+184,FingerprintsSetting,지 문
+185,SimStatusSetting,심 카 드 상 태
+186,SimStatusSetting,s i m 카 드 상 태
+187,FaceRecognitionSetting,얼 굴 인 식
+188,IrisSetting,홍 채
+189,IrisSetting,홍 채 인 식
+190,IrisSetting,홍 채 인 식
+191,IrisSetting,홍 채 인 증
+192,IrisSetting,홍 채 인 증
+193,FactoryDataResetSetting,디 바 이 스 전 체 초 기 화
+194,FactoryDataResetSetting,공 장 초 기 화
+195,FactoryDataResetSetting,팩 토 리 리 셋
+196,FactoryDataResetSetting,팩 토 리 초 기 화
+197,FactoryDataResetSetting,디 바 이 스 리 셋
+198,FactoryDataResetSetting,폰 리 셋
+199,FactoryDataResetSetting,핸 드 폰 리 셋
+200,FactoryDataResetSetting,휴 대 폰 리 셋
+201,FactoryDataResetSetting,디 바 이 스 초 기 화
+202,FactoryDataResetSetting,폰 초 기 화
+203,FactoryDataResetSetting,핸 드 폰 초 기 화
+204,FactoryDataResetSetting,휴 대 폰 초 기 화
+205,ResetAllSettingsToDefaultSetting,설 정 초 기 화
+206,HardPressSetting,홈 버 튼 세 게 누 르 기
+207,NotificationSoundsSetting,알 림 소 리
+208,NotificationSoundsSetting,알 림 소 리
+209,FontStyleSetting,글 자
+210,FontStyleSetting,글 꼴
+211,FontStyleSetting,폰 트 스 타 일
+212,FontStyleSetting,글 자 스 타 일
+213,FontStyleSetting,글 씨 체
+214,SideKeySetting,측 면 버 튼
+215,SideKeySetting,측 면 버 튼
+216,SideKeySetting,측 면 키
+217,SideKeySetting,측 면 키
+218,SideKeySetting,사 이 드 버 튼
+219,SideKeySetting,사 이 드 버 튼
+220,SideKeySetting,사 이 드 키
+221,SideKeySetting,사 이 드 키
+222,SideKeySetting,빅 스 비 버 튼
+223,SideKeySetting,빅 스 비 버 튼
+224,SideKeySetting,빅 스 비 키
+225,SideKeySetting,빅 스 비 키
+226,VolumeSetting,볼 륨
+227,VolumeSetting,음 량
+228,VolumeSetting,소 리 크 기
+229,SoftwareUpdateSetting,소 프 트 웨 어 업 데 이 트
+230,SoftwareUpdateSetting,휴 대 폰 업 데 이 트
+231,SoftwareUpdateSetting,소 프 트 웨 어 업 데 이 트
+232,SoftwareUpdateSetting,휴 대 폰 업 데 이 트
+233,SoftwareUpdateSetting,업 데 이 트
+234,SoftwareUpdateSetting,핸 드 폰 업 그 레 이 드
+235,SoftwareUpdateSetting,시 스 템 업 데 이 트
+236,SoftwareUpdateSetting,디 바 이 스 업 데 이 트
+237,SamsungKeyboardSetting,삼 성 키 보 드
+238,Not_Supported_Name,소 프 트 웨 어
+239,Not_Supported_Name,i m e i
+240,Not_Supported_Name,진 동 세 기
+241,Not_Supported_Name,진 동 세 기
+242,Not_Supported_Name,터 치 민 감 도
+243,Not_Supported_Name,터 치 민 감 도
+244,Not_Supported_Name,개 발 자 옵 션
+245,Not_Supported_Name,엣 지 라 이 팅
+246,Not_Supported_Name,비 행 기 모 드
+247,Not_Supported_Name,비 행 기 탑 승 모 드

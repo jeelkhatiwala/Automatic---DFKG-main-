@@ -1,0 +1,5 @@
+FILENAME,OFFSET,SIZE,FORVRAMDISK,BITMAP
+/system/priv-app/SamsungDialer/SamsungDialer.apk,1854,2,0,b'\xff\xff'
+/data/user_de/0/com.samsung.android.dialer/code_cache/com.android.skia.shaders_cache,0,1,0,b'\x03'
+/data/dalvik-cache/arm64/system@priv-app@SamsungDialer@SamsungDialer.apk@classes.dex,-1,0,2,
+/data/dalvik-cache/arm64/system@priv-app@SamsungDialer@SamsungDialer.apk@classes.vdex,-1,0,2,

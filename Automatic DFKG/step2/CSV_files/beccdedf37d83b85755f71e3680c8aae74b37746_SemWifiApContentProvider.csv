@@ -1,0 +1,9 @@
+_id,name,value
+1,wifi_ap_maxclient_framework,10
+2,shared_ssid,Galaxy Note10e06c
+3,shared_password,yipz5901
+4,security_type,wpa2_index
+5,smart_tethering_sim_value,6862760888211239699
+6,smart_tethering_latest_sa_error_code,ACTION_BOOT_COMPLETED
+7,auto_hotspot_connected_user,
+8,hotspot_enabled_history,1

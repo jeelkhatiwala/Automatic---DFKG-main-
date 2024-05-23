@@ -1,0 +1,4 @@
+_id,sectionId,sectionSource,astVersion,meanStoryScore,storyScoreVariance,disableLocalReorder,querySource
+4,239,4,df_client_ranking_ast.v34,0.0,0.0,1,7
+74,3,1,df_client_ranking_ast.v34,0.0,0.0,0,1
+75,240,5,df_client_ranking_ast.v34,0.0,0.0,1,1

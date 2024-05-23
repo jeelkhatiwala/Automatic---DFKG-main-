@@ -1,0 +1,47 @@
+RecordId,formal,alias
+1,First,첫 번 째
+2,First,1 번
+3,First,첫 번 째
+4,Second,두 번 째
+5,Second,2 번
+6,Second,두 번 째
+7,Third,세 번 째
+8,Third,3 번
+9,Third,세 번 째
+10,Fourth,네 번 째
+11,Fourth,4 번
+12,Fourth,네 번 째
+13,Fifth,다 섯 번 째
+14,Fifth,5 번
+15,Fifth,다 섯 번 째
+16,Sixth,여 섯 번 째
+17,Sixth,6 번
+18,Sixth,여 섯 번 째
+19,Seventh,일 곱 번 째
+20,Seventh,7 번
+21,Seventh,일 곱 번 째
+22,Eighth,여 덟 번 째
+23,Eighth,8 번
+24,Eighth,여 덟 번 째
+25,Ninth,아 홉 번 째
+26,Ninth,9 번
+27,Ninth,아 홉 번 째
+28,Tenth,열 번 째
+29,Tenth,10 번
+30,Tenth,열 번 째
+31,Last,마 지 막
+32,Last,마 지 막 거
+33,Last,마 지 막 꺼
+34,Last,제 일 끝
+35,Last,제 일 마 지 막
+36,Last,제 일 마 지 막 거
+37,Last,제 일 마 지 막 꺼
+38,Last,가 장 끝
+39,Last,가 장 마 지 막
+40,Last,가 장 마 지 막 거
+41,Last,가 장 마 지 막 꺼
+42,All,모 두
+43,All,전 부
+44,All,모 두 다
+45,All,모 두 선 택
+46,All,모 두 선 택 해 줘

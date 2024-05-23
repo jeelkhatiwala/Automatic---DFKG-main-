@@ -1,0 +1,4 @@
+account_id,storage_id,region_id,resource_type,backend_region_state,backend_region_current_resource_set_id,backend_region_processing_resource_set_id,backend_region_target_resource_set_id,backend_region_participating_in_update,backend_region_ever_active_in_update,serialized_backend_region
+115829802936701284672,,b'n7Evxp_OaJXd5SOYYLXT',1,0,b'',b'',b'',0,0,b'\x08\x00\x1a\x14n7Evxp_OaJXd5SOYYLXT \x01(\x00'
+115829802936701284672,,b'n7Evxp_OaJXd5SOYYLXT',2,0,b'',b'',b'',0,0,b'\x08\x00\x1a\x14n7Evxp_OaJXd5SOYYLXT \x02(\x00'
+115829802936701284672,,b'n7Evxp_OaJXd5SOYYLXT',4,0,b'',b'',b'',0,0,b'\x08\x00\x1a\x14n7Evxp_OaJXd5SOYYLXT \x04(\x00'

@@ -1,0 +1,21 @@
+moment_id,title,start_time,end_time,creation_time,country_name,location,poi_info,user_tag_info,auto_tag_info,street_name_info,cover,media_count,expansionFlag,type,story_id,isStoryAssigned,private_data
+1,Moment flag:1,1617477223532,1617477227693,,,,,,,,,2,0,2,0,0,2
+2,Moment flag:1,1617591805389,1617594732388,,,,,,,,,8,0,3,0,1,8
+3,Moment flag:1,1617778317373,1617778317373,,,,,,,,,1,0,2,0,0,1
+4,Moment flag:1,1618199764000,1618199764000,,,,Sturbridge Square,,,,,1,0,2,0,0,1
+5,Moment flag:1,1618482457000,1618482472000,,United States,Southside,The Thornburg Farm,,,Kanawha Valley Road,,2,0,2,0,0,2
+6,Moment flag:1,1621123431000,1621124012000,,United States,Newport,,,,,,5,0,3,0,1,5
+7,Moment flag:1,1621136701436,1621136701436,,,,,,,,,1,0,2,0,0,5
+8,Moment flag:1,1621471925000,1621471990561,,United States,Blacksburg,,,,Washington Street Southwest,,7,0,3,0,1,7
+9,Moment flag:1,1623016329000,1623019173498,,,,,,,,,7,0,3,0,1,6
+10,Moment flag:1,1623027000000,1623028869000,,United States,North Myrtle Beach,,,,,,11,0,3,0,1,6
+11,Moment flag:1,1623688578528,1623688578528,,,,,,,,,1,0,2,0,0,1
+12,Moment flag:1,1623778998834,1623778998834,,,,,,,,,1,0,2,0,0,1
+13,Moment flag:1,1623991378000,1623991410000,,United States,Blacksburg,,,,Claytor Square,,2,0,2,0,0,2
+14,Moment flag:1,1625354857000,1625354948000,,United States,Blacksburg,,,,Clay Street Southeast,,10,0,3,0,1,10
+15,Moment flag:1,1625357075000,1625357085000,,United States,Blacksburg,,,,Clay Street Southeast,,4,0,3,0,1,4
+16,Moment flag:1,1625699522000,1625699651000,,United States,Blacksburg,,,,,,6,0,3,0,1,6
+17,Moment flag:1,1625509672543,1625510133736,,,,,,,,,8,0,3,0,1,8
+18,Moment flag:1,1625205230818,1625205230818,,,,,,,,,1,0,2,0,0,1
+19,Moment flag:1,1625716089827,1625716089827,,,,,,,,,1,0,2,0,0,1
+20,Moment flag:1,1626807814000,1626807814000,,,,,,,,,1,0,2,0,0,1

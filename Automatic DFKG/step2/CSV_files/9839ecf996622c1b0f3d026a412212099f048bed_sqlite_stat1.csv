@@ -1,0 +1,6 @@
+tbl,idx,stat
+guide_settings,sqlite_autoindex_guide_settings_1,1 1
+video_formats,sqlite_autoindex_video_formats_1,256 1
+user_configuration,sqlite_autoindex_user_configuration_1,1 1
+user_data,sqlite_autoindex_user_data_1,1 1
+android_metadata,,1

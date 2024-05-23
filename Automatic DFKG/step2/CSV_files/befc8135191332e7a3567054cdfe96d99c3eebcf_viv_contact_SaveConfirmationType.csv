@@ -1,0 +1,54 @@
+RecordId,formal,alias
+1,true,응
+2,true,예
+3,true,네
+4,true,엉
+5,true,응 저 장
+6,true,저 장
+7,true,저 장 해
+8,true,저 장 해 줘
+9,true,응 저 장 해 줘
+10,true,예
+11,true,옙
+12,true,네
+13,true,넵
+14,true,어
+15,true,그 래
+16,true,동 의
+17,true,맞 아
+18,true,좋 아
+19,true,오 케 이
+20,true,확 인
+21,true,계 속
+22,true,다 음
+23,true,진 행 해
+24,true,실 행 해
+25,false,아 니 야
+26,false,아 니 하 지 마
+27,false,하 지 마
+28,false,안 해
+29,false,안 할 래
+30,false,취 소 할 거 야
+31,false,취 소 할 래
+32,false,취 소 해
+33,false,취 소 해 줘
+34,false,캔 슬
+35,false,됐 어
+36,false,중 단
+37,false,종 료
+38,false,중 지
+39,false,그 만 해
+40,false,끝 내
+41,false,안 해
+42,false,노
+43,false,노 노
+44,false,싫 어
+45,false,싫 어 요
+46,false,거 절
+47,false,아 니
+48,false,아 니 오
+49,false,아 니 요
+50,false,아 냐
+51,false,취 소
+52,false,저 장 취 소
+53,false,저 장 하 지 마

@@ -1,0 +1,13 @@
+_id,pref_key,pref_value,pref_service,created,updated
+1,pref_allowed_number_assigning_info,"1625809507554,0",,583806100,-1983097622
+2,pref_dls_state,2,,583806112,583806344
+3,pref_dynamic_enabled_by_user_fp,1,,583806289,0
+4,pref_dump_data,"01.21 02:35:42.464 GMT|WALLPAPER|turnOnWallpaperServices
+01.21 02:35:42.516 GMT|WALLPAPER|DLS State Changed : 2 flag : true state : 2 settings value : 10011
+",,583806483,583806525
+5,pref_latest_lock_type,2,,583806519,-1983096652
+6,pref_first_enabled_time,1611196542506,,583806520,0
+7,pref_dls_switcher_time,0,,583806559,-1983096276
+8,pref_dls_switcher,0,,583806579,-1983096248
+9,pref_dls_sub_switcher_time,0,,583806614,-1983096148
+10,pref_dls_sub_switcher,0,,583806626,-1983096072

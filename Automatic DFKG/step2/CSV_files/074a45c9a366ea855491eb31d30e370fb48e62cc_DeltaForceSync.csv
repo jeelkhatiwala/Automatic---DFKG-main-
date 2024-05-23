@@ -1,0 +1,4 @@
+_id,client_key,group_key,sync_token
+17,atlas_core_data,CoreData	9002a6f8-54f8-4540-bc16-53a6b37f0688	,b'\xd7\x0enr'
+18,atlas_core_data,UserScore	9002a6f8-54f8-4540-bc16-53a6b37f0688	,b'\xa2\x98\x96\x01'
+19,sup,SUP	9002a6f8-54f8-4540-bc16-53a6b37f0688	,b'\x082\x18\xa9\x88\xc5\x94\x98/'

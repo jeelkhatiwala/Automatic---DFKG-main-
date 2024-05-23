@@ -1,0 +1,22 @@
+RecordId,formal,alias
+1,Afternoon,낮
+2,Afternoon,점 심
+3,Evening,저 녁
+4,Evening,저 녁 때
+5,Evening,저 녁 때
+6,Morning,아 침
+7,Night,밤
+8,Night,밤 중
+9,Night,밤 사 이
+10,Night,밤 사 이
+11,Night,밤 새
+12,Weekend,주 말
+13,Weekend,토 요 일 일 요 일
+14,Weekend,토 요 일 일 요 일
+15,Dawn,새 벽
+16,x-LastNight,지 난 밤
+17,x-LastNight,간 밤
+18,x-LastNight,어 젯 밤
+19,x-LastNight,어 젯 밤
+20,x-FireFriday,불 금
+21,x-FireFriday,불 타 는 금 요 일

@@ -1,0 +1,173 @@
+RecordId,formal,alias
+1,1,one
+2,1,a
+3,2,two
+4,3,three
+5,4,four
+6,5,five
+7,6,six
+8,7,seven
+9,8,eight
+10,9,nine
+11,10,ten
+12,11,eleven
+13,12,twelve
+14,13,thirteen
+15,14,fourteen
+16,15,fifteen
+17,16,sixteen
+18,17,seventeen
+19,18,eighteen
+20,19,nineteen
+21,19,twenty
+22,21,twenty one
+23,21,twenty-one
+24,22,twenty two
+25,22,twenty-two
+26,23,twenty three
+27,23,twenty-three
+28,24,twenty four
+29,24,twenty-four
+30,25,twenty five
+31,25,twenty-five
+32,26,twenty six
+33,26,twenty-six
+34,27,twenty seven
+35,27,twenty-seven
+36,28,twenty eight
+37,28,twenty-eight
+38,29,twenty nine
+39,29,twenty-nine
+40,30,thirty
+41,31,thirty one
+42,31,thirty-one
+43,32,thirty two
+44,32,thirty-two
+45,33,thirty three
+46,33,thirty-three
+47,34,thirty four
+48,34,thirty-four
+49,35,thirty five
+50,35,thirty-five
+51,36,thirty six
+52,36,thirty-six
+53,37,thirty seven
+54,37,thirty-seven
+55,38,thirty eight
+56,38,thirty-eight
+57,39,thirty nine
+58,39,thirty-nine
+59,40,forty
+60,41,forty one
+61,41,forty-one
+62,42,forty two
+63,42,forty-two
+64,43,forty three
+65,43,forty-three
+66,44,forty four
+67,44,forty-four
+68,45,forty five
+69,45,forty-five
+70,46,forty six
+71,46,forty-six
+72,47,forty seven
+73,47,forty-seven
+74,48,forty eight
+75,48,forty-eight
+76,49,forty nine
+77,49,forty-nine
+78,50,fifty
+79,51,fifty one
+80,51,fifty-one
+81,52,fifty two
+82,52,fifty-two
+83,53,fifty three
+84,53,fifty-three
+85,54,fifty four
+86,54,fifty-four
+87,55,fifty five
+88,55,fifty-five
+89,56,fifty six
+90,56,fifty-six
+91,57,fifty seven
+92,57,fifty-seven
+93,58,fifty eight
+94,58,fifty-eight
+95,59,fifty nine
+96,59,fifty-nine
+97,60,sixty
+98,61,sixty one
+99,61,sixty-one
+100,62,sixty two
+101,62,sixty-two
+102,63,sixty three
+103,63,sixty-three
+104,64,sixty four
+105,64,sixty-four
+106,65,sixty five
+107,65,sixty-five
+108,66,sixty six
+109,66,sixty-six
+110,67,sixty seven
+111,67,sixty-seven
+112,68,sixty eight
+113,68,sixty-eight
+114,69,sixty nine
+115,69,sixty-nine
+116,70,seventy
+117,71,seventy one
+118,71,seventy-one
+119,72,seventy two
+120,72,seventy-two
+121,73,seventy three
+122,73,seventy-three
+123,74,seventy four
+124,74,seventy-four
+125,75,seventy five
+126,75,seventy-five
+127,76,seventy six
+128,76,seventy-six
+129,77,seventy seven
+130,77,seventy-seven
+131,78,seventy eight
+132,78,seventy-eight
+133,79,seventy nine
+134,79,seventy-nine
+135,80,eighty
+136,81,eighty one
+137,81,eighty-one
+138,82,eighty two
+139,82,eighty-two
+140,83,eighty three
+141,83,eighty-three
+142,84,eighty four
+143,84,eighty-four
+144,85,eighty five
+145,85,eighty-five
+146,86,eighty six
+147,86,eighty-six
+148,87,eighty seven
+149,87,eighty-seven
+150,88,eighty eight
+151,88,eighty-eight
+152,89,eighty nine
+153,89,eighty-nine
+154,90,ninety
+155,91,ninety one
+156,91,ninety-one
+157,92,ninety two
+158,92,ninety-two
+159,93,ninety three
+160,93,ninety-three
+161,94,ninety four
+162,94,ninety-four
+163,95,ninety five
+164,95,ninety-five
+165,96,ninety six
+166,96,ninety-six
+167,97,ninety seven
+168,97,ninety-seven
+169,98,ninety eight
+170,98,ninety-eight
+171,99,ninety nine
+172,15,15

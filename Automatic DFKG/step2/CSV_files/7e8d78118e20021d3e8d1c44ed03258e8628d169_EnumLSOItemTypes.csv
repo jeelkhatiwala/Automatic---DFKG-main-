@@ -1,0 +1,6 @@
+Item_Type,Item_Description
+1,SpaceView
+2,TextView
+3,ImageView
+4,ContainerView
+5,CustomWidget

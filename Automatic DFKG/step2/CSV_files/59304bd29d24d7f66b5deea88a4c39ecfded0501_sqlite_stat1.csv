@@ -1,0 +1,37 @@
+tbl,idx,stat
+media_sync_table,media_sync_main_index,135 3 1 1
+suggested_actions,pending_high_priority_suggestions_idx,13 1 1 1 1
+suggested_actions,sqlite_autoindex_suggested_actions_1,13 1 1 1
+promo,dismissed_time_ms_idx,8 3
+promo,sqlite_autoindex_promo_1,8 1
+partition_versions,sqlite_autoindex_partition_versions_1,16 1
+search_proto_store,sqlite_autoindex_search_proto_store_1,1 1
+selective_backup,sqlite_autoindex_selective_backup_1,14 1
+local_media,content_uri_local_media_idx,76 1
+local_media,media_store_id_dedup_key_local_media_idx,76 1 1
+local_media,first_backup_timestamp_idx,76 76
+local_media,camera_state_dedup_key_local_media_idx,76 76 76 1
+local_media,local_media_bucket_id_idx,76 38 1 1
+local_media,main_local_media_idx,76 1 1
+local_media,sqlite_autoindex_local_media_1,76 1
+partition_views,sqlite_autoindex_partition_views_1,8 4 1
+partition_tables,sqlite_autoindex_partition_tables_1,112 7 1
+metadata_sync,,4
+android_metadata,,1
+day_segmented_date_headers,day_segmented_date_headers_idx,15 1 1
+day_segmented_date_headers,sqlite_autoindex_day_segmented_date_headers_1,15 1
+actors,sqlite_autoindex_actors_1,1 1
+media,media_location_idx,76 38 38 38 38 1 1
+media,min_upload_utc_timestamp_idx,76 76 76 76 1
+media,is_archived_idx,76 76 76 76 1
+media,is_favorite_idx,76 76 76 76 1
+media,media_oem_special_type_idx,76 76 76 1 1 1
+media,media_vr_type_idx,76 38 38 38 1 1
+media,media_composition_type_idx,76 76 76 1 1 1
+media,media_camera_folder_paging_idx,76 76 76 76 1 1 1
+media,media_deleted_timestamp_idx,76 76 1 1 1
+media,sqlite_autoindex_media_1,76 1
+obsolete_processor_ids,sqlite_autoindex_obsolete_processor_ids_1,55 1
+all_media_count,,1
+on_device_mi,ondevicemi_dedup_model_idx,4 1 1
+on_device_mi,sqlite_autoindex_on_device_mi_1,4 1 1 1

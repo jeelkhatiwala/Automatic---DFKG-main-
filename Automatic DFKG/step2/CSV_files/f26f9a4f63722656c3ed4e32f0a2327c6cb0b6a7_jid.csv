@@ -1,0 +1,7 @@
+_id,user,server,agent,device,type,raw_string
+1,status,broadcast,0,0,5,status@broadcast
+2,0,s.whatsapp.net,0,0,7,0@s.whatsapp.net
+3,,status_me,0,0,11,status_me
+4,18056377243,s.whatsapp.net,0,0,0,18056377243@s.whatsapp.net
+5,19735203731,s.whatsapp.net,0,0,0,19735203731@s.whatsapp.net
+6,972529502149,s.whatsapp.net,0,0,0,972529502149@s.whatsapp.net

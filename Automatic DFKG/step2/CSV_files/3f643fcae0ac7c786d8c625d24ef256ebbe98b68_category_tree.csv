@@ -1,0 +1,7 @@
+UUID,parentUUID,isDeleted,isDirty,createdAt,lastModifiedAt,serverTimestamp,recycle_bin_time_moved,displayName,path,orderBy,displayNameColor,isSyncWithMS
+uncategorized:///,,0,0,0,0,,0,Uncategorized,uncategorized:///,0,-1,0
+trash:///,,0,0,0,0,,0,Trash,trash:///,0,-1,0
+old:///,,0,0,0,0,,0,Old notebooks,old:///,0,-1,0
+screenOffMemo:///,uncategorized:///,0,1,1617476956768,1618366482386,1618366481102.0,0,Screen off memo,Screen off memo,0,-8816263,0
+1,old:///,0,1,1617476956772,1617476956772,1617476956772.0,0,Uncategorized,,1000000,-1,0
+2,old:///,0,1,1617476956773,1617476956773,1617476956773.0,0,Screen off memo,,999999,-1,0
